@@ -1,110 +1,15 @@
 {
-  "generated_at_iso": "2026-04-08T16:13:46.662234+08:00",
-  "generated_at_human": "2026-04-08 16:13 GMT+8",
+  "generated_at_iso": "2026-04-08T16:21:53.204431+08:00",
+  "generated_at_human": "2026-04-08 16:21 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-08_16-13.md",
+  "file": "summary_2026-04-08_16-21.md",
   "changes": [
     {
-      "title": "Updates for ChatGPT",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "My GPT's personality tuned to mine.",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "before you write your next prompt read this first",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "[D] thoughts on current community moving away from heavy math?",
-      "link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/",
-      "subreddit": "MachineLearning"
-    },
-    {
-      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
-      "link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
-      "subreddit": "MachineLearning"
-    },
-    {
-      "title": "[D] Is ACL more about the benchmarks now?",
-      "link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
-      "subreddit": "MachineLearning"
-    },
-    {
-      "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
-      "link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
-      "subreddit": "MachineLearning"
-    },
-    {
-      "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
-      "link": "https://old.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/",
-      "subreddit": "MachineLearning"
-    },
-    {
-      "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
-      "link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
+      "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
+      "link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/",
       "subreddit": "artificial"
-    },
-    {
-      "title": "ai is having trouble discussing Trump because he's too insane.",
-      "link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
-      "subreddit": "artificial"
-    },
-    {
-      "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
-      "link": "https://old.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Is OpenAI about to release a Mythos level AI to the public?",
-      "link": "https://old.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "What's the best ai agent assistant app on mobile so far?",
-      "link": "https://old.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/",
-      "subreddit": "AIagents"
-    },
-    {
-      "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
-      "subreddit": "claudecode"
-    },
-    {
-      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
-      "link": "https://old.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/",
-      "subreddit": "agi"
-    },
-    {
-      "title": "Non-transformer LLM using symbolic reasoning + NumPy neural net",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Help me set up qwen 2.5 locally with claude code",
-      "link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
-      "subreddit": "Ollama"
     }
   ],
   "sections": [
@@ -139,6 +44,16 @@
           "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/"
         },
         {
+          "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
+          "author": "/u/EchoOfOppenheimer",
+          "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+          "comments_summary": "Community reaction: The comment section is split between humor and skepticism. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
+        },
+        {
           "title": "My GPT's personality tuned to mine.",
           "link": "https://www.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
           "author": "/u/parallaxcreates",
@@ -147,16 +62,6 @@
           "score": null,
           "subreddit": "ChatGPT",
           "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
-        },
-        {
-          "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
-          "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
-          "author": "/u/EchoOfOppenheimer",
-          "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
-          "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
-          "score": null,
-          "subreddit": "ChatGPT",
-          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
         },
         {
           "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
@@ -195,16 +100,6 @@
           "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/"
         },
         {
-          "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
-          "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
-          "author": "/u/Dismal_Piccolo4973",
-          "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "MachineLearning",
-          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
-        },
-        {
           "title": "[D] Is ACL more about the benchmarks now?",
           "link": "https://www.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
           "author": "/u/Fantastic-Nerve-4056",
@@ -213,6 +108,16 @@
           "score": null,
           "subreddit": "MachineLearning",
           "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
+        },
+        {
+          "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+          "author": "/u/Dismal_Piccolo4973",
+          "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
         },
         {
           "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
@@ -271,6 +176,16 @@
           "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
         },
         {
+          "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/",
+          "author": "/u/imusingreddityay",
+          "summary": "Summary: OpenClaw is basically banned from Claude \u00af_(\u30c4)_/\u00af - Claude Code has Telegram support.. - so what if we just, made it always stay on?",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/"
+        },
+        {
           "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
           "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
           "author": "/u/thedeadenddolls",
@@ -279,16 +194,6 @@
           "score": null,
           "subreddit": "artificial",
           "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
-        },
-        {
-          "title": "ai is having trouble discussing Trump because he's too insane.",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
-          "author": "/u/you_are_soul",
-          "summary": "Summary: I have been chatting with robot about Trump's current insanity and botboy won't have any of it, so I paste in the insanity from a BBC article and master of the universe tells me 'that's either propaganda or satire' none of it can be real and then tells me why it's crazy. So I tell the mechanical marvel that I'm pretty...",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "artificial",
-          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/"
         }
       ]
     },
@@ -419,7 +324,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
           "author": "/u/assemsabryy",
           "summary": "Project/tool: https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328 (https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328) Today, with great pride, I am excited to officially announce the first open-source...",
-          "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
+          "comments_summary": "Community reaction: The comment section is split between praise and humor. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/"
@@ -439,7 +344,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/",
           "author": "/u/Porespellar",
           "summary": "Project/tool: Found it on a USB drive in the parking lot.",
-          "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/"
@@ -807,7 +712,7 @@
           "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
           "author": "/u/Sumanth_077",
           "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
-          "comments_summary": "Community reaction: The thread has active discussion, but no clear consensus stood out.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need.",
           "score": null,
           "subreddit": "Ollama",
           "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
@@ -821,16 +726,6 @@
           "score": null,
           "subreddit": "Ollama",
           "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/"
-        },
-        {
-          "title": "Help me set up qwen 2.5 locally with claude code",
-          "link": "https://www.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
-          "author": "/u/Witty-Lawyer3989",
-          "summary": "Discussion: https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38 (https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38) guys so I 've been trying to make qwen2.5 run locally on my machine using claude...",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "Ollama",
-          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/"
         }
       ]
     },
@@ -908,6 +803,16 @@
       "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/"
     },
     {
+      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
+      "author": "/u/EchoOfOppenheimer",
+      "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+      "comments_summary": "Community reaction: The comment section is split between humor and skepticism. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
+    },
+    {
       "title": "My GPT's personality tuned to mine.",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
       "author": "/u/parallaxcreates",
@@ -916,16 +821,6 @@
       "score": null,
       "subreddit": "ChatGPT",
       "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
-    },
-    {
-      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
-      "author": "/u/EchoOfOppenheimer",
-      "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
-      "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
-      "score": null,
-      "subreddit": "ChatGPT",
-      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
     },
     {
       "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
@@ -958,16 +853,6 @@
       "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/"
     },
     {
-      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
-      "author": "/u/Dismal_Piccolo4973",
-      "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "MachineLearning",
-      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
-    },
-    {
       "title": "[D] Is ACL more about the benchmarks now?",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
       "author": "/u/Fantastic-Nerve-4056",
@@ -976,6 +861,16 @@
       "score": null,
       "subreddit": "MachineLearning",
       "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
+    },
+    {
+      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+      "author": "/u/Dismal_Piccolo4973",
+      "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
     },
     {
       "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
@@ -1028,6 +923,16 @@
       "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
     },
     {
+      "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
+      "link": "https://www.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/",
+      "author": "/u/imusingreddityay",
+      "summary": "Summary: OpenClaw is basically banned from Claude \u00af_(\u30c4)_/\u00af - Claude Code has Telegram support.. - so what if we just, made it always stay on?",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/"
+    },
+    {
       "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
       "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
       "author": "/u/thedeadenddolls",
@@ -1036,16 +941,6 @@
       "score": null,
       "subreddit": "artificial",
       "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
-    },
-    {
-      "title": "ai is having trouble discussing Trump because he's too insane.",
-      "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
-      "author": "/u/you_are_soul",
-      "summary": "Summary: I have been chatting with robot about Trump's current insanity and botboy won't have any of it, so I paste in the insanity from a BBC article and master of the universe tells me 'that's either propaganda or satire' none of it can be real and then tells me why it's crazy. So I tell the mechanical marvel that I'm pretty...",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "artificial",
-      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/"
     },
     {
       "title": "V8 alpha is here!",
@@ -1152,7 +1047,7 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
       "author": "/u/assemsabryy",
       "summary": "Project/tool: https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328 (https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328) Today, with great pride, I am excited to officially announce the first open-source...",
-      "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
+      "comments_summary": "Community reaction: The comment section is split between praise and humor. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/"
@@ -1172,7 +1067,7 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/",
       "author": "/u/Porespellar",
       "summary": "Project/tool: Found it on a USB drive in the parking lot.",
-      "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/"
@@ -1492,7 +1387,7 @@
       "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
       "author": "/u/Sumanth_077",
       "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
-      "comments_summary": "Community reaction: The thread has active discussion, but no clear consensus stood out.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need.",
       "score": null,
       "subreddit": "Ollama",
       "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
@@ -1506,16 +1401,6 @@
       "score": null,
       "subreddit": "Ollama",
       "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/"
-    },
-    {
-      "title": "Help me set up qwen 2.5 locally with claude code",
-      "link": "https://www.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
-      "author": "/u/Witty-Lawyer3989",
-      "summary": "Discussion: https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38 (https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38) guys so I 've been trying to make qwen2.5 run locally on my machine using claude...",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "Ollama",
-      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/"
     },
     {
       "title": "Keep",
