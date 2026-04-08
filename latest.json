@@ -1,55 +1,55 @@
 {
-  "generated_at_iso": "2026-04-08T23:03:39.969090+08:00",
-  "generated_at": "2026-04-08T23:03:39.969090+08:00",
-  "generated_at_human": "2026-04-08 23:03 GMT+8",
+  "generated_at_iso": "2026-04-09T00:41:38.046227+08:00",
+  "generated_at": "2026-04-09T00:41:38.046227+08:00",
+  "generated_at_human": "2026-04-09 00:41 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-08_23-03.md",
+  "file": "summary_2026-04-09_00-41.md",
   "changes": [
     {
-      "title": "Monetization truly doesn\u2019t care how big your user base is. People will always pay for what is working best for them in the moment. Entrepreneurial lesson of this era",
-      "link": "https://old.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/",
-      "subreddit": "openai"
-    },
-    {
-      "title": "We are already in the early stages of recursive self improvement, which will eventually result in superintelligent AI that humans can't control - Roman Yampolskiy",
-      "link": "https://old.reddit.com/r/OpenAI/comments/1sfqz25/we_are_already_in_the_early_stages_of_recursive/",
-      "subreddit": "openai"
-    },
-    {
-      "title": "Codex resets its usage limit today! 3M users it seems",
-      "link": "https://old.reddit.com/r/OpenAI/comments/1sfcb3e/codex_resets_its_usage_limit_today_3m_users_it/",
-      "subreddit": "openai"
-    },
-    {
-      "title": "Gemma4-31B worked in an iterative-correction loop (with a long-term memory bank) for 2 hours to solve a problem that baseline GPT-5.4-Pro couldn't",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf8nqw/gemma431b_worked_in_an_iterativecorrection_loop/",
+      "title": "HF moves safetensors to the PyTorch Foundation",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/",
       "subreddit": "LocalLLaMA"
     },
     {
-      "title": "Anthropic just dropped benchmark scores for their unreleased model. The gap is embarrassing for everyone else.",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sf4yvm/anthropic_just_dropped_benchmark_scores_for_their/",
+      "title": "Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
+      "subreddit": "LocalLLaMA"
+    },
+    {
+      "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
+      "subreddit": "llmdevs"
+    },
+    {
+      "title": "Evaluating agentic RAG for financial analysis: a FinanceBench study",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/",
+      "subreddit": "llmdevs"
+    },
+    {
+      "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
+      "subreddit": "llmdevs"
+    },
+    {
+      "title": "Something happened to Opus 4.6's reasoning effort",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Dario Ol Marketing Technique",
+      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
       "subreddit": "ClaudeCode"
     },
     {
-      "title": "Claude is dead Codex will heal my heart",
-      "link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
-      "subreddit": "Codex"
+      "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
+      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/",
+      "subreddit": "ClaudeCode"
     },
     {
-      "title": "Can we please stop with early quota resets?",
-      "link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/",
-      "subreddit": "Codex"
-    },
-    {
-      "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
-      "link": "https://old.reddit.com/r/codex/comments/1sfqhvp/8th_april_2026_snapshot_on_codex_plus_vs_claude/",
-      "subreddit": "Codex"
-    },
-    {
-      "title": "I burned 100% of the 5 hour limit in 10 minutes (Pro plan): codex desktop",
-      "link": "https://old.reddit.com/r/codex/comments/1sflbn7/i_burned_100_of_the_5_hour_limit_in_10_minutes/",
+      "title": "Gpt-5.4 is running out too quickly, almost like Claude",
+      "link": "https://old.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/",
       "subreddit": "Codex"
     }
   ],
@@ -63,7 +63,7 @@
           "link": "https://www.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/",
           "author": "/u/py-net",
           "summary": "Summary: [Image: Monetization truly doesn\u2019t care how big your user base is. People will always pay for what is working best for them in the moment.",
-          "comments_summary": "Community reaction: The comment section is split between critical and joking. Top reactions focus on They don't overtake OpenAI. They just calculate their ravenue in a different ways | How is that not COGS and excluded from total revenue? Sounds like they need a new CFO. Probably ChatCFO.",
+          "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on They don't overtake OpenAI. They just calculate their ravenue in a different ways | How is that not COGS and excluded from total revenue? Sounds like they need a new CFO. Probably ChatCFO.",
           "score": null,
           "subreddit": "openai",
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/"
@@ -79,6 +79,16 @@
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfqz25/we_are_already_in_the_early_stages_of_recursive/"
         },
         {
+          "title": "Any news on the $100/mo plan?",
+          "link": "https://www.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/",
+          "author": "/u/getpodapp",
+          "summary": "Summary: Claude has just banned third party harnesses so I'm using ollama cloud & my $20/mo ChatGPT plan more with OpenCode. I've heard rumours of the $100/mo plan which I'd upgrade to instantly...?",
+          "comments_summary": "Community reaction: The comment section is mostly skeptical. Top reactions focus on Im waiting on this also. Im on the $200 plan for this month but I got my weekly allowance down to 95% or so. Ive been waiting on the $100... | The $100 membership is already ready, but the fact that they are still waiting to release it makes me think they are going to launch it....",
+          "score": null,
+          "subreddit": "openai",
+          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/"
+        },
+        {
           "title": "Codex resets its usage limit today! 3M users it seems",
           "link": "https://www.reddit.com/r/OpenAI/comments/1sfcb3e/codex_resets_its_usage_limit_today_3m_users_it/",
           "author": "/u/velicue",
@@ -87,26 +97,6 @@
           "score": null,
           "subreddit": "openai",
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfcb3e/codex_resets_its_usage_limit_today_3m_users_it/"
-        },
-        {
-          "title": "Any news on the $100/mo plan?",
-          "link": "https://www.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/",
-          "author": "/u/getpodapp",
-          "summary": "Summary: Claude has just banned third party harnesses so I'm using ollama cloud & my $20/mo ChatGPT plan more with OpenCode. I've heard rumours of the $100/mo plan which I'd upgrade to instantly...?",
-          "comments_summary": "Community reaction: Top reactions focus on instead of juggling multiple AI subs my exoclaw agent just uses whichever model fits the task, one bill and it actually does stuff not just... | This guy is spamming r/OpenAI (/r/OpenAI) with this. He\u2019s the developer of exoclaw advertising his own product..",
-          "score": null,
-          "subreddit": "openai",
-          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/"
-        },
-        {
-          "title": "53 Unauthorized Charges and still counting",
-          "link": "https://www.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/",
-          "author": "/u/whxtxnxxsx",
-          "summary": "Summary: [Image: 53 Unauthorized Charges and still counting] My wife got chatgpt plus for 2 months in 2025 (February and March) and she cancelled on April 17 2025 (end of subscription is on April 26) She was illegally charged 53 times (from March 24 to April 7, 2026) and still counting. We only founded out about this yesterday...",
-          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on I have the exact same issue. They ignore any support emails and keep charging even though I already cancelled a year ago. You can\u2019t do... | It is crazy. We have never created an api key. Our usage and billing on platform.openai.com are all 0.",
-          "score": null,
-          "subreddit": "openai",
-          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/"
         }
       ]
     },
@@ -115,24 +105,24 @@
       "display_name": "LocalLLaMA",
       "posts": [
         {
-          "title": "Announcing LocalLlama discord server & bot!",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
-          "author": "/u/HOLUPREDICTIONS",
-          "summary": "Launch/update: [Image: Announcing LocalLlama discord server & bot!] INVITE: https://discord.gg/rC922KfEwj (https://discord.gg/rC922KfEwj) There used to be one old discord server for the subreddit but it was deleted by the previous mod. The subreddit has grown to 500k users - inevitably, some users like a niche community with more...",
-          "comments_summary": "Community reaction: The comment section is mostly critical. Top reactions focus on Discord, where valuable information goes to die and never be seen again. | Please No. Discord is a dystopian, gated version of what forums used to be. No I don't want to give Discord all my data. This is peak....",
-          "score": null,
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/"
-        },
-        {
           "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
           "author": "/u/jacek2023",
           "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Do the bartowski versions need updating too or just unsloth? | Yes everyone needs to reconvert if they used imatrix since the activation patterns are now different.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
+        },
+        {
+          "title": "HF moves safetensors to the PyTorch Foundation",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/",
+          "author": "/u/jikkii",
+          "summary": "Summary: Hey local llamas, Lysandre from Hugging Face here. Today we're officially moving Safetensors under the PyTorch Foundation, alongside PyTorch (of course), vLLM, DeepSpeed, Ray, and the recently-announced Helion.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Good, STs are a good format for model sharing (even outside of llm), and I'd love it to see more adoption (and to load less random pickles... | Very cool, What are the bonuses of having Safe tensors load from within pytorch? Any performance gains or is it more along the lines of....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/"
         },
         {
           "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
@@ -155,14 +145,14 @@
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/"
         },
         {
-          "title": "Gemma4-31B worked in an iterative-correction loop (with a long-term memory bank) for 2 hours to solve a problem that baseline GPT-5.4-Pro couldn't",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf8nqw/gemma431b_worked_in_an_iterativecorrection_loop/",
-          "author": "/u/Ryoiki-Tokuiten",
-          "summary": "Summary: [Image: Gemma4-31B worked in an iterative-correction loop (with a long-term memory bank) for 2 hours to solve a problem that baseline GPT-5.4-Pro couldn't] submitted by -Tokuiten...",
-          "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on On release day I downloaded Gemma 4-31B, loaded it up, and immediately ran into gibberish outputs using lemonades llama-server. It happens... | Would you mind sharing details on your setup / how you ran it? I\u2019m still trying to figure out the best way to run it (lmstudio, ollama,....",
+          "title": "Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
+          "author": "/u/EvilEnginer",
+          "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
+          "comments_summary": "Community reaction: Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | I will be messaging you in 14 hours on 2026-04-09 05:46:41 UTC to remind you of this link 1 OTHERS CLICKED THIS LINK to send a PM to also....",
           "score": null,
           "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf8nqw/gemma431b_worked_in_an_iterativecorrection_loop/"
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
         }
       ]
     },
@@ -171,24 +161,14 @@
       "display_name": "LLM Devs",
       "posts": [
         {
-          "title": "Gemma 4 E4B vs Qwen3.5-4B on document AI: the sub-benchmark breakdown",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfrn2v/gemma_4_e4b_vs_qwen354b_on_document_ai_the/",
-          "author": "/u/shhdwi",
-          "summary": "Benchmark/result: [Image: Gemma 4 E4B vs Qwen3.5-4B on document AI: the sub-benchmark breakdown] Everyone's posting the headline numbers. Here's the task-level decomposition that's actually useful if you're building document pipelines.",
-          "comments_summary": "",
+          "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
+          "author": "/u/Nir777",
+          "summary": "Project/tool: Hi everyone, I\u2019ve spent the last 18 months maintaining the RAG Techniques repository on GitHub. After looking at hundreds of implementations and seeing where most teams fall over when they try to move past a simple \"Vector DB + Prompt\" setup, I decided to codify everything into a formal guide.",
+          "comments_summary": "Community reaction: Top reactions focus on link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
           "score": null,
           "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfrn2v/gemma_4_e4b_vs_qwen354b_on_document_ai_the/"
-        },
-        {
-          "title": "I forked Bash and added a built-in agentic LLM -- you can type natural language directly in the shell",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
-          "author": "/u/jstormes",
-          "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
-          "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
-          "score": null,
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
         },
         {
           "title": "[Tool] Quick hack to recover Qwen3.5 MTP after fine-tuning for faster inference speed (Transformers)",
@@ -201,14 +181,14 @@
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfu4z8/tool_quick_hack_to_recover_qwen35_mtp_after/"
         },
         {
-          "title": "Anyone tried Fine-tuning using Coding Agents?",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfoud1/anyone_tried_finetuning_using_coding_agents/",
-          "author": "/u/codes_astro",
-          "summary": "Summary: [Image: Anyone tried Fine-tuning using Coding Agents?] I tried it recently using Agent Skills and it was so smooth. I let agents do all things like: - Data preparation - Batch Inference - Teacher distillation - Fine tuning job - LoRA serverless deployment My project cookbook for Insurance Claims usecase here...",
-          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Nice! I\u2019ve mostly used Hugging Face and LoRA for text stuff\u2014makes fine-tuning way faster. Curious how you handle data privacy for insurance....",
-          "score": null,
+          "title": "Evaluating agentic RAG for financial analysis: a FinanceBench study",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/",
+          "author": "/u/climbingontherocks",
+          "summary": "Summary: We ran Dewey's agentic retrieval endpoint on all 150 FinanceBench questions, a benchmark of financial Q&A over real SEC filings. To control for model improvements, we also ran Claude Opus 4.6 directly with each PDF loaded into context (no retrieval).",
+          "comments_summary": "",
+          "score": 8,
           "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfoud1/anyone_tried_finetuning_using_coding_agents/"
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/"
         },
         {
           "title": "I open-sourced my offline AI meeting assistant (HearoPilot) recently, and I just wanted to say a huge thanks for the stars and support",
@@ -219,6 +199,16 @@
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sftafv/i_opensourced_my_offline_ai_meeting_assistant/"
+        },
+        {
+          "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
+          "author": "/u/Comfortable-Junket50",
+          "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
         }
       ]
     },
@@ -235,6 +225,16 @@
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
+        },
+        {
+          "title": "Something happened to Opus 4.6's reasoning effort",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
+          "author": "/u/RealSuperdau",
+          "summary": "Project/tool: [Image: Something happened to Opus 4.6's reasoning effort] It now fails the car wash test consistently (5/5 tries) and doesn't display a thinking block. Sonnet 4.6 and Opus 4.5 still manage to get it right.",
+          "comments_summary": "Community reaction: The comment section is split between skeptical and concerned. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. So, is Opus 4.6 getting dumber? This thread is a real mixed bag, folks.... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
+          "score": null,
+          "subreddit": "ClaudeAI",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/"
         },
         {
           "title": "How to save 80% on your claude bill with better context",
@@ -261,20 +261,10 @@
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/",
           "author": "/u/Eastern_Exercise2637",
           "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. \u201cThis week, Andrej Karpathy shared his \u2018LLM Knowledge Bases\u2019 setup and closed by saying, \u2018I think there is room here for an incredible new product instead of a hacky collection of scripts.\u2019\u201d I built it: npx codesight --wiki The token problem is real.",
-          "comments_summary": "Community reaction: The comment section is split between skeptical and positive. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. Here's the deal, folks. The community is overwhelmingly positive about... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
+          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. Here's the deal, folks. The community is overwhelmingly positive about... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/"
-        },
-        {
-          "title": "Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/",
-          "author": "/u/nytopinion",
-          "summary": "Summary: [Image: Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)] Claude Mythos, the newest generation of Anthropic\u2019s large language model, is arriving sooner than expected and will have profound geopolitical implications, Times Opinion columnist Thomas Friedman writes. \u201cThe good news is that...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Anthropic will likely have their Initial Public Offering later this year. That will be their introduction to the stock market, where people... | Now their product needs investment for guarding / safe keeping as a matter of world security.",
-          "score": null,
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/"
         }
       ]
     },
@@ -303,6 +293,26 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
         },
         {
+          "title": "Dario Ol Marketing Technique",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
+          "author": "/u/pakalumachito",
+          "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
+          "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
+          "score": null,
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
+        },
+        {
+          "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/",
+          "author": "/u/OpinionsRdumb",
+          "summary": "Summary: This is like the oldest marketing trick in the book. Tech companies have done this for years.",
+          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on I heard a rumor that Mythos stole the girlfriend of one of the developers. It's just that good. | You're absolutely right! And a delight to be around. Let me massage those shoulders - wow you're really tensed up. How about some Barry....",
+          "score": null,
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/"
+        },
+        {
           "title": "Anthropic just dropped benchmark scores for their unreleased model. The gap is embarrassing for everyone else.",
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sf4yvm/anthropic_just_dropped_benchmark_scores_for_their/",
           "author": "/u/Direct-Attention8597",
@@ -311,26 +321,6 @@
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf4yvm/anthropic_just_dropped_benchmark_scores_for_their/"
-        },
-        {
-          "title": "PSA: if your Opus is lobotomized, disable adaptive thinking and increase max_thinking_tokens",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfihyr/psa_if_your_opus_is_lobotomized_disable_adaptive/",
-          "author": "/u/etf_question",
-          "summary": "Summary: \"env\": { \"CLAUDE_CODE_DISABLE_ADAPTIVE_THINKING\": 1, \"MAX_THINKING_TOKENS\": \"128000\" } Things will go back to how they were a few weeks ago, with longer thinking times + very high quality output. This explains people's conflicting reports.",
-          "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on I want to use that prompt so badly but I have no idea if it violates the TOS. | Its fine. I already patch with tweakcc for half year. That one allows you to edit all 150-200 prompts I have claude code normal, for....",
-          "score": null,
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfihyr/psa_if_your_opus_is_lobotomized_disable_adaptive/"
-        },
-        {
-          "title": "The prompt that made Claude Code perform as good as in the good days",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfm8im/the_prompt_that_made_claude_code_perform_as_good/",
-          "author": "/u/taigmc",
-          "summary": "Summary: Thanks to this post Anthropic stayed quiet until someone showed Claude\u2019s thinking depth dropped 67% (https://www.reddit.com/r/ClaudeCode/comments/1seo9gg/anthropic_stayed_quiet_until_someone_showed/) by u/takeurhand () I found this amazing GitHub issue [MODEL] Claude Code is unusable for complex engineering tasks with...",
-          "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on Instructions unclear. Increasing lobomotization to 5000 | I saw your instructions but ignored them, I apologise, there is no excuse. I will make sure I don't miss them next time..",
-          "score": null,
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfm8im/the_prompt_that_made_claude_code_perform_as_good/"
         }
       ]
     },
@@ -343,20 +333,10 @@
           "link": "https://www.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
           "author": "/u/Beautiful-King-8875",
           "summary": "Summary: I've recently switched to Codex from Claude. Claude became unusable after Anthropics recent update - I'm not even an Open Claw user but noticed a significant reduction in performance and token cuts from their changes.",
-          "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
           "score": null,
           "subreddit": "Codex",
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
-        },
-        {
-          "title": "Can we please stop with early quota resets?",
-          "link": "https://www.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/",
-          "author": "/u/TheNobodyThere",
-          "summary": "Summary: I had a decent chunk - 30% of quota left over that I was planning to intensively use today. But I can't because we got another random quota reset.",
-          "comments_summary": "Community reaction: Top reactions focus on I had 80% and a day off I was just gonna rip though as much as I could until I realized they reset it | I think there are many of us with quota surplus due to Easter holidays..",
-          "score": null,
-          "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
         },
         {
           "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
@@ -369,6 +349,16 @@
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfqhvp/8th_april_2026_snapshot_on_codex_plus_vs_claude/"
         },
         {
+          "title": "Can we please stop with early quota resets?",
+          "link": "https://www.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/",
+          "author": "/u/TheNobodyThere",
+          "summary": "Summary: I had a decent chunk - 30% of quota left over that I was planning to intensively use today. But I can't because we got another random quota reset.",
+          "comments_summary": "Community reaction: Top reactions focus on I had 80% and a day off I was just gonna rip though as much as I could until I realized they reset it | I think there are many of us with quota surplus due to Easter holidays..",
+          "score": null,
+          "subreddit": "Codex",
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
+        },
+        {
           "title": "I burned 100% of the 5 hour limit in 10 minutes (Pro plan): codex desktop",
           "link": "https://www.reddit.com/r/codex/comments/1sflbn7/i_burned_100_of_the_5_hour_limit_in_10_minutes/",
           "author": "/u/IlyaZelen",
@@ -377,6 +367,16 @@
           "score": null,
           "subreddit": "Codex",
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sflbn7/i_burned_100_of_the_5_hour_limit_in_10_minutes/"
+        },
+        {
+          "title": "Gpt-5.4 is running out too quickly, almost like Claude",
+          "link": "https://www.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/",
+          "author": "/u/Patient_Ad_8202",
+          "summary": "Summary: [Image: Gpt-5.4 is running out too quickly, almost like Claude] Gpt-5.4 is running out too quickly, almost like Claude.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on you use 1 million context. probably resume long ass conversations that break prompt cpaching. u guys bring it on yourselves | Just 20dollar Plus. When codex is done. Used plain chatGPT app. Manually copy paste some codes, make him get some context, then....",
+          "score": null,
+          "subreddit": "Codex",
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/"
         }
       ]
     }
@@ -387,7 +387,7 @@
       "link": "https://www.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/",
       "author": "/u/py-net",
       "summary": "Summary: [Image: Monetization truly doesn\u2019t care how big your user base is. People will always pay for what is working best for them in the moment.",
-      "comments_summary": "Community reaction: The comment section is split between critical and joking. Top reactions focus on They don't overtake OpenAI. They just calculate their ravenue in a different ways | How is that not COGS and excluded from total revenue? Sounds like they need a new CFO. Probably ChatCFO.",
+      "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on They don't overtake OpenAI. They just calculate their ravenue in a different ways | How is that not COGS and excluded from total revenue? Sounds like they need a new CFO. Probably ChatCFO.",
       "score": null,
       "subreddit": "openai",
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/"
@@ -403,6 +403,16 @@
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfqz25/we_are_already_in_the_early_stages_of_recursive/"
     },
     {
+      "title": "Any news on the $100/mo plan?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/",
+      "author": "/u/getpodapp",
+      "summary": "Summary: Claude has just banned third party harnesses so I'm using ollama cloud & my $20/mo ChatGPT plan more with OpenCode. I've heard rumours of the $100/mo plan which I'd upgrade to instantly...?",
+      "comments_summary": "Community reaction: The comment section is mostly skeptical. Top reactions focus on Im waiting on this also. Im on the $200 plan for this month but I got my weekly allowance down to 95% or so. Ive been waiting on the $100... | The $100 membership is already ready, but the fact that they are still waiting to release it makes me think they are going to launch it....",
+      "score": null,
+      "subreddit": "openai",
+      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/"
+    },
+    {
       "title": "Codex resets its usage limit today! 3M users it seems",
       "link": "https://www.reddit.com/r/OpenAI/comments/1sfcb3e/codex_resets_its_usage_limit_today_3m_users_it/",
       "author": "/u/velicue",
@@ -413,44 +423,24 @@
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfcb3e/codex_resets_its_usage_limit_today_3m_users_it/"
     },
     {
-      "title": "Any news on the $100/mo plan?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/",
-      "author": "/u/getpodapp",
-      "summary": "Summary: Claude has just banned third party harnesses so I'm using ollama cloud & my $20/mo ChatGPT plan more with OpenCode. I've heard rumours of the $100/mo plan which I'd upgrade to instantly...?",
-      "comments_summary": "Community reaction: Top reactions focus on instead of juggling multiple AI subs my exoclaw agent just uses whichever model fits the task, one bill and it actually does stuff not just... | This guy is spamming r/OpenAI (/r/OpenAI) with this. He\u2019s the developer of exoclaw advertising his own product..",
-      "score": null,
-      "subreddit": "openai",
-      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/"
-    },
-    {
-      "title": "53 Unauthorized Charges and still counting",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/",
-      "author": "/u/whxtxnxxsx",
-      "summary": "Summary: [Image: 53 Unauthorized Charges and still counting] My wife got chatgpt plus for 2 months in 2025 (February and March) and she cancelled on April 17 2025 (end of subscription is on April 26) She was illegally charged 53 times (from March 24 to April 7, 2026) and still counting. We only founded out about this yesterday...",
-      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on I have the exact same issue. They ignore any support emails and keep charging even though I already cancelled a year ago. You can\u2019t do... | It is crazy. We have never created an api key. Our usage and billing on platform.openai.com are all 0.",
-      "score": null,
-      "subreddit": "openai",
-      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/"
-    },
-    {
-      "title": "Announcing LocalLlama discord server & bot!",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
-      "author": "/u/HOLUPREDICTIONS",
-      "summary": "Launch/update: [Image: Announcing LocalLlama discord server & bot!] INVITE: https://discord.gg/rC922KfEwj (https://discord.gg/rC922KfEwj) There used to be one old discord server for the subreddit but it was deleted by the previous mod. The subreddit has grown to 500k users - inevitably, some users like a niche community with more...",
-      "comments_summary": "Community reaction: The comment section is mostly critical. Top reactions focus on Discord, where valuable information goes to die and never be seen again. | Please No. Discord is a dystopian, gated version of what forums used to be. No I don't want to give Discord all my data. This is peak....",
-      "score": null,
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/"
-    },
-    {
       "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
       "author": "/u/jacek2023",
       "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Do the bartowski versions need updating too or just unsloth? | Yes everyone needs to reconvert if they used imatrix since the activation patterns are now different.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
+    },
+    {
+      "title": "HF moves safetensors to the PyTorch Foundation",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/",
+      "author": "/u/jikkii",
+      "summary": "Summary: Hey local llamas, Lysandre from Hugging Face here. Today we're officially moving Safetensors under the PyTorch Foundation, alongside PyTorch (of course), vLLM, DeepSpeed, Ray, and the recently-announced Helion.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Good, STs are a good format for model sharing (even outside of llm), and I'd love it to see more adoption (and to load less random pickles... | Very cool, What are the bonuses of having Safe tensors load from within pytorch? Any performance gains or is it more along the lines of....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/"
     },
     {
       "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
@@ -473,34 +463,24 @@
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/"
     },
     {
-      "title": "Gemma4-31B worked in an iterative-correction loop (with a long-term memory bank) for 2 hours to solve a problem that baseline GPT-5.4-Pro couldn't",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf8nqw/gemma431b_worked_in_an_iterativecorrection_loop/",
-      "author": "/u/Ryoiki-Tokuiten",
-      "summary": "Summary: [Image: Gemma4-31B worked in an iterative-correction loop (with a long-term memory bank) for 2 hours to solve a problem that baseline GPT-5.4-Pro couldn't] submitted by -Tokuiten...",
-      "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on On release day I downloaded Gemma 4-31B, loaded it up, and immediately ran into gibberish outputs using lemonades llama-server. It happens... | Would you mind sharing details on your setup / how you ran it? I\u2019m still trying to figure out the best way to run it (lmstudio, ollama,....",
+      "title": "Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
+      "author": "/u/EvilEnginer",
+      "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
+      "comments_summary": "Community reaction: Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | I will be messaging you in 14 hours on 2026-04-09 05:46:41 UTC to remind you of this link 1 OTHERS CLICKED THIS LINK to send a PM to also....",
       "score": null,
       "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf8nqw/gemma431b_worked_in_an_iterativecorrection_loop/"
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
     },
     {
-      "title": "Gemma 4 E4B vs Qwen3.5-4B on document AI: the sub-benchmark breakdown",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfrn2v/gemma_4_e4b_vs_qwen354b_on_document_ai_the/",
-      "author": "/u/shhdwi",
-      "summary": "Benchmark/result: [Image: Gemma 4 E4B vs Qwen3.5-4B on document AI: the sub-benchmark breakdown] Everyone's posting the headline numbers. Here's the task-level decomposition that's actually useful if you're building document pipelines.",
-      "comments_summary": "",
+      "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
+      "author": "/u/Nir777",
+      "summary": "Project/tool: Hi everyone, I\u2019ve spent the last 18 months maintaining the RAG Techniques repository on GitHub. After looking at hundreds of implementations and seeing where most teams fall over when they try to move past a simple \"Vector DB + Prompt\" setup, I decided to codify everything into a formal guide.",
+      "comments_summary": "Community reaction: Top reactions focus on link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
       "score": null,
       "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfrn2v/gemma_4_e4b_vs_qwen354b_on_document_ai_the/"
-    },
-    {
-      "title": "I forked Bash and added a built-in agentic LLM -- you can type natural language directly in the shell",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
-      "author": "/u/jstormes",
-      "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
-      "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
-      "score": null,
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
     },
     {
       "title": "[Tool] Quick hack to recover Qwen3.5 MTP after fine-tuning for faster inference speed (Transformers)",
@@ -513,14 +493,14 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfu4z8/tool_quick_hack_to_recover_qwen35_mtp_after/"
     },
     {
-      "title": "Anyone tried Fine-tuning using Coding Agents?",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfoud1/anyone_tried_finetuning_using_coding_agents/",
-      "author": "/u/codes_astro",
-      "summary": "Summary: [Image: Anyone tried Fine-tuning using Coding Agents?] I tried it recently using Agent Skills and it was so smooth. I let agents do all things like: - Data preparation - Batch Inference - Teacher distillation - Fine tuning job - LoRA serverless deployment My project cookbook for Insurance Claims usecase here...",
-      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Nice! I\u2019ve mostly used Hugging Face and LoRA for text stuff\u2014makes fine-tuning way faster. Curious how you handle data privacy for insurance....",
-      "score": null,
+      "title": "Evaluating agentic RAG for financial analysis: a FinanceBench study",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/",
+      "author": "/u/climbingontherocks",
+      "summary": "Summary: We ran Dewey's agentic retrieval endpoint on all 150 FinanceBench questions, a benchmark of financial Q&A over real SEC filings. To control for model improvements, we also ran Claude Opus 4.6 directly with each PDF loaded into context (no retrieval).",
+      "comments_summary": "",
+      "score": 8,
       "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfoud1/anyone_tried_finetuning_using_coding_agents/"
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/"
     },
     {
       "title": "I open-sourced my offline AI meeting assistant (HearoPilot) recently, and I just wanted to say a huge thanks for the stars and support",
@@ -533,6 +513,16 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sftafv/i_opensourced_my_offline_ai_meeting_assistant/"
     },
     {
+      "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
+      "author": "/u/Comfortable-Junket50",
+      "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
+    },
+    {
       "title": "Using third-party harnesses with your Claude subscriptions",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/",
       "author": "/u/ClaudeOfficial",
@@ -541,6 +531,16 @@
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
+    },
+    {
+      "title": "Something happened to Opus 4.6's reasoning effort",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
+      "author": "/u/RealSuperdau",
+      "summary": "Project/tool: [Image: Something happened to Opus 4.6's reasoning effort] It now fails the car wash test consistently (5/5 tries) and doesn't display a thinking block. Sonnet 4.6 and Opus 4.5 still manage to get it right.",
+      "comments_summary": "Community reaction: The comment section is split between skeptical and concerned. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. So, is Opus 4.6 getting dumber? This thread is a real mixed bag, folks.... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
+      "score": null,
+      "subreddit": "ClaudeAI",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/"
     },
     {
       "title": "How to save 80% on your claude bill with better context",
@@ -567,20 +567,10 @@
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/",
       "author": "/u/Eastern_Exercise2637",
       "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. \u201cThis week, Andrej Karpathy shared his \u2018LLM Knowledge Bases\u2019 setup and closed by saying, \u2018I think there is room here for an incredible new product instead of a hacky collection of scripts.\u2019\u201d I built it: npx codesight --wiki The token problem is real.",
-      "comments_summary": "Community reaction: The comment section is split between skeptical and positive. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. Here's the deal, folks. The community is overwhelmingly positive about... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
+      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. Here's the deal, folks. The community is overwhelmingly positive about... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/"
-    },
-    {
-      "title": "Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/",
-      "author": "/u/nytopinion",
-      "summary": "Summary: [Image: Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)] Claude Mythos, the newest generation of Anthropic\u2019s large language model, is arriving sooner than expected and will have profound geopolitical implications, Times Opinion columnist Thomas Friedman writes. \u201cThe good news is that...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Anthropic will likely have their Initial Public Offering later this year. That will be their introduction to the stock market, where people... | Now their product needs investment for guarding / safe keeping as a matter of world security.",
-      "score": null,
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/"
     },
     {
       "title": "Copy and pasting was the original vibe coding",
@@ -603,6 +593,26 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
     },
     {
+      "title": "Dario Ol Marketing Technique",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
+      "author": "/u/pakalumachito",
+      "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
+      "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
+      "score": null,
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
+    },
+    {
+      "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/",
+      "author": "/u/OpinionsRdumb",
+      "summary": "Summary: This is like the oldest marketing trick in the book. Tech companies have done this for years.",
+      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on I heard a rumor that Mythos stole the girlfriend of one of the developers. It's just that good. | You're absolutely right! And a delight to be around. Let me massage those shoulders - wow you're really tensed up. How about some Barry....",
+      "score": null,
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/"
+    },
+    {
       "title": "Anthropic just dropped benchmark scores for their unreleased model. The gap is embarrassing for everyone else.",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sf4yvm/anthropic_just_dropped_benchmark_scores_for_their/",
       "author": "/u/Direct-Attention8597",
@@ -613,44 +623,14 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf4yvm/anthropic_just_dropped_benchmark_scores_for_their/"
     },
     {
-      "title": "PSA: if your Opus is lobotomized, disable adaptive thinking and increase max_thinking_tokens",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfihyr/psa_if_your_opus_is_lobotomized_disable_adaptive/",
-      "author": "/u/etf_question",
-      "summary": "Summary: \"env\": { \"CLAUDE_CODE_DISABLE_ADAPTIVE_THINKING\": 1, \"MAX_THINKING_TOKENS\": \"128000\" } Things will go back to how they were a few weeks ago, with longer thinking times + very high quality output. This explains people's conflicting reports.",
-      "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on I want to use that prompt so badly but I have no idea if it violates the TOS. | Its fine. I already patch with tweakcc for half year. That one allows you to edit all 150-200 prompts I have claude code normal, for....",
-      "score": null,
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfihyr/psa_if_your_opus_is_lobotomized_disable_adaptive/"
-    },
-    {
-      "title": "The prompt that made Claude Code perform as good as in the good days",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfm8im/the_prompt_that_made_claude_code_perform_as_good/",
-      "author": "/u/taigmc",
-      "summary": "Summary: Thanks to this post Anthropic stayed quiet until someone showed Claude\u2019s thinking depth dropped 67% (https://www.reddit.com/r/ClaudeCode/comments/1seo9gg/anthropic_stayed_quiet_until_someone_showed/) by u/takeurhand () I found this amazing GitHub issue [MODEL] Claude Code is unusable for complex engineering tasks with...",
-      "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on Instructions unclear. Increasing lobomotization to 5000 | I saw your instructions but ignored them, I apologise, there is no excuse. I will make sure I don't miss them next time..",
-      "score": null,
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfm8im/the_prompt_that_made_claude_code_perform_as_good/"
-    },
-    {
       "title": "Claude is dead Codex will heal my heart",
       "link": "https://www.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
       "author": "/u/Beautiful-King-8875",
       "summary": "Summary: I've recently switched to Codex from Claude. Claude became unusable after Anthropics recent update - I'm not even an Open Claw user but noticed a significant reduction in performance and token cuts from their changes.",
-      "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
       "score": null,
       "subreddit": "Codex",
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
-    },
-    {
-      "title": "Can we please stop with early quota resets?",
-      "link": "https://www.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/",
-      "author": "/u/TheNobodyThere",
-      "summary": "Summary: I had a decent chunk - 30% of quota left over that I was planning to intensively use today. But I can't because we got another random quota reset.",
-      "comments_summary": "Community reaction: Top reactions focus on I had 80% and a day off I was just gonna rip though as much as I could until I realized they reset it | I think there are many of us with quota surplus due to Easter holidays..",
-      "score": null,
-      "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
     },
     {
       "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
@@ -663,6 +643,16 @@
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfqhvp/8th_april_2026_snapshot_on_codex_plus_vs_claude/"
     },
     {
+      "title": "Can we please stop with early quota resets?",
+      "link": "https://www.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/",
+      "author": "/u/TheNobodyThere",
+      "summary": "Summary: I had a decent chunk - 30% of quota left over that I was planning to intensively use today. But I can't because we got another random quota reset.",
+      "comments_summary": "Community reaction: Top reactions focus on I had 80% and a day off I was just gonna rip though as much as I could until I realized they reset it | I think there are many of us with quota surplus due to Easter holidays..",
+      "score": null,
+      "subreddit": "Codex",
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
+    },
+    {
       "title": "I burned 100% of the 5 hour limit in 10 minutes (Pro plan): codex desktop",
       "link": "https://www.reddit.com/r/codex/comments/1sflbn7/i_burned_100_of_the_5_hour_limit_in_10_minutes/",
       "author": "/u/IlyaZelen",
@@ -671,6 +661,16 @@
       "score": null,
       "subreddit": "Codex",
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sflbn7/i_burned_100_of_the_5_hour_limit_in_10_minutes/"
+    },
+    {
+      "title": "Gpt-5.4 is running out too quickly, almost like Claude",
+      "link": "https://www.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/",
+      "author": "/u/Patient_Ad_8202",
+      "summary": "Summary: [Image: Gpt-5.4 is running out too quickly, almost like Claude] Gpt-5.4 is running out too quickly, almost like Claude.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on you use 1 million context. probably resume long ass conversations that break prompt cpaching. u guys bring it on yourselves | Just 20dollar Plus. When codex is done. Used plain chatGPT app. Manually copy paste some codes, make him get some context, then....",
+      "score": null,
+      "subreddit": "Codex",
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/"
     }
   ]
 }
