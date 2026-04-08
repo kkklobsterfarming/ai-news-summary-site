@@ -1,5 +1,73 @@
 [
   {
+    "generated_at": "2026-04-08T20:53:52.909531+08:00",
+    "generated_at_human": "2026-04-08 20:53 GMT+8",
+    "file": "summary_2026-04-08_20-53.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "This \"It's not just A. It's B.\" sentence construct is driving me mad - does this have a name?",
+        "link": "https://old.reddit.com/r/ChatGPT/comments/1sfrj68/this_its_not_just_a_its_b_sentence_construct_is/",
+        "subreddit": "ChatGPT"
+      },
+      {
+        "title": "[P] A control plane for post-training workflows",
+        "link": "https://old.reddit.com/r/MachineLearning/comments/1sf1hdt/p_a_control_plane_for_posttraining_workflows/",
+        "subreddit": "MachineLearning"
+      },
+      {
+        "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+        "link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "Anime2Half-Real (LTX-2.3)",
+        "link": "https://old.reddit.com/r/StableDiffusion/comments/1sfpyh7/anime2halfreal_ltx23/",
+        "subreddit": "StableDiffusion"
+      },
+      {
+        "title": "GLM 5.1 test",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfp4tb/glm_51_test/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "M5 Max 128GB, 17 models, 23 prompts: Qwen 3.5 122B is still a local king",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "I vibe-coded my cat",
+        "link": "https://old.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/",
+        "subreddit": "claudeai"
+      },
+      {
+        "title": "The prompt that made Claude Code perform as good as in the good days",
+        "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfm8im/the_prompt_that_made_claude_code_perform_as_good/",
+        "subreddit": "claudecode"
+      },
+      {
+        "title": "Sam Altman says AI superintelligence is so big that we need a \u2018New Deal.\u2019 Critics say OpenAI\u2019s policy ideas are a cover for \u2018regulatory nihilism\u2019",
+        "link": "https://old.reddit.com/r/agi/comments/1sfq378/sam_altman_says_ai_superintelligence_is_so_big/",
+        "subreddit": "agi"
+      },
+      {
+        "title": "Gemma 4 E4B vs Qwen3.5-4B on document AI: the sub-benchmark breakdown",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1sfrn2v/gemma_4_e4b_vs_qwen354b_on_document_ai_the/",
+        "subreddit": "llmdevs"
+      },
+      {
+        "title": "I built a Free OpenSource CLI coding agent specifically for 8k context windows.",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1sfr5ob/i_built_a_free_opensource_cli_coding_agent/",
+        "subreddit": "llmdevs"
+      },
+      {
+        "title": "Claude Code + Ollama Web Search",
+        "link": "https://old.reddit.com/r/ollama/comments/1sfqt2b/claude_code_ollama_web_search/",
+        "subreddit": "Ollama"
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-08T18:54:03.985115+08:00",
     "generated_at_human": "2026-04-08 18:54 GMT+8",
     "file": "summary_2026-04-08_18-54.md",
