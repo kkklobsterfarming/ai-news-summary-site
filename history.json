@@ -1,5 +1,73 @@
 [
   {
+    "generated_at": "2026-04-08T18:54:03.985115+08:00",
+    "generated_at_human": "2026-04-08 18:54 GMT+8",
+    "file": "summary_2026-04-08_18-54.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "The New Yorker investigates Sam Altman's alleged deceptions at OpenAI",
+        "link": "https://old.reddit.com/r/OpenAI/comments/1sffuj2/the_new_yorker_investigates_sam_altmans_alleged/",
+        "subreddit": "openai"
+      },
+      {
+        "title": "ai is having trouble discussing Trump because he's too insane.",
+        "link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
+        "link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "Horse",
+        "link": "https://old.reddit.com/r/midjourney/comments/1sfo1c7/horse/",
+        "subreddit": "midjourney"
+      },
+      {
+        "title": "Floyd Kelly - Somewhere Out There (Downtempo) [Music Video]",
+        "link": "https://old.reddit.com/r/midjourney/comments/1sfo293/floyd_kelly_somewhere_out_there_downtempo_music/",
+        "subreddit": "midjourney"
+      },
+      {
+        "title": "Trying out V8 Motion",
+        "link": "https://old.reddit.com/r/midjourney/comments/1sfowsi/trying_out_v8_motion/",
+        "subreddit": "midjourney"
+      },
+      {
+        "title": "Black Forest Labs just released FLUX.2 Small Decoder: a faster, drop-in replacement for their standard decoder. ~1.4x faster, Lower peak VRAM - Compatible with all open FLUX.2 models",
+        "link": "https://old.reddit.com/r/StableDiffusion/comments/1sfolzd/black_forest_labs_just_released_flux2_small/",
+        "subreddit": "StableDiffusion"
+      },
+      {
+        "title": "Could HappyHorse be Z-video in disguise, from Alibaba?",
+        "link": "https://old.reddit.com/r/StableDiffusion/comments/1sfnod2/could_happyhorse_be_zvideo_in_disguise_from/",
+        "subreddit": "StableDiffusion"
+      },
+      {
+        "title": "The permanent underclass began today: Claude Mythos won't be available to the public, but only billion dollar companies, governments, researchers",
+        "link": "https://old.reddit.com/r/singularity/comments/1sfoo5r/the_permanent_underclass_began_today_claude/",
+        "subreddit": "singularity"
+      },
+      {
+        "title": "PSA: if your Opus is lobotomized, disable adaptive thinking and increase max_thinking_tokens",
+        "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfihyr/psa_if_your_opus_is_lobotomized_disable_adaptive/",
+        "subreddit": "claudecode"
+      },
+      {
+        "title": "\u2018Cognitive Surrender\u2019 is a new and useful term for how AI melts brains",
+        "link": "https://old.reddit.com/r/agi/comments/1sfp5fs/cognitive_surrender_is_a_new_and_useful_term_for/",
+        "subreddit": "agi"
+      },
+      {
+        "title": "Why Iran is threatening OpenAI's Stargate project",
+        "link": "https://old.reddit.com/r/agi/comments/1sfo6ld/why_iran_is_threatening_openais_stargate_project/",
+        "subreddit": "agi"
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-08T16:54:02.695654+08:00",
     "generated_at_human": "2026-04-08 16:54 GMT+8",
     "file": "summary_2026-04-08_16-54.md",
