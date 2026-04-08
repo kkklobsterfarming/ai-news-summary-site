@@ -1,0 +1,1561 @@
+{
+  "generated_at_iso": "2026-04-08T16:13:46.662234+08:00",
+  "generated_at_human": "2026-04-08 16:13 GMT+8",
+  "site_title": "AI News Summary",
+  "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+  "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
+  "file": "summary_2026-04-08_16-13.md",
+  "changes": [
+    {
+      "title": "Updates for ChatGPT",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "My GPT's personality tuned to mine.",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "before you write your next prompt read this first",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "[D] thoughts on current community moving away from heavy math?",
+      "link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/",
+      "subreddit": "MachineLearning"
+    },
+    {
+      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+      "link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+      "subreddit": "MachineLearning"
+    },
+    {
+      "title": "[D] Is ACL more about the benchmarks now?",
+      "link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
+      "subreddit": "MachineLearning"
+    },
+    {
+      "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
+      "link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
+      "subreddit": "MachineLearning"
+    },
+    {
+      "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
+      "link": "https://old.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/",
+      "subreddit": "MachineLearning"
+    },
+    {
+      "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
+      "link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
+      "subreddit": "artificial"
+    },
+    {
+      "title": "ai is having trouble discussing Trump because he's too insane.",
+      "link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
+      "subreddit": "artificial"
+    },
+    {
+      "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
+      "link": "https://old.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Is OpenAI about to release a Mythos level AI to the public?",
+      "link": "https://old.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
+      "subreddit": "LocalLLaMA"
+    },
+    {
+      "title": "What's the best ai agent assistant app on mobile so far?",
+      "link": "https://old.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/",
+      "subreddit": "AIagents"
+    },
+    {
+      "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
+      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
+      "subreddit": "claudecode"
+    },
+    {
+      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+      "link": "https://old.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/",
+      "subreddit": "agi"
+    },
+    {
+      "title": "Non-transformer LLM using symbolic reasoning + NumPy neural net",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/",
+      "subreddit": "llmdevs"
+    },
+    {
+      "title": "Help me set up qwen 2.5 locally with claude code",
+      "link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
+      "subreddit": "Ollama"
+    }
+  ],
+  "sections": [
+    {
+      "subreddit": "openai",
+      "size": "~9M",
+      "posts": [
+        {
+          "title": "53 Unauthorized Charges and still counting",
+          "link": "https://www.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/",
+          "author": "/u/whxtxnxxsx",
+          "summary": "Summary: My wife got chatgpt plus for 2 months in 2025 (February and March) and she cancelled on April 17 2025 (end of subscription is on April 26) She was illegally charged 53 times (from March 24 to April 7, 2026) and still counting. We only founded out about this yesterday (April 6) when our bank sent us multiple...",
+          "comments_summary": "Community reaction: Top reactions focus on did you use api key somewhere? Do you have another account that card might be linked to? | Not at all. We don\u2019t know what api key is (until now) and have never made one.",
+          "score": null,
+          "subreddit": "openai",
+          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/"
+        }
+      ]
+    },
+    {
+      "subreddit": "ChatGPT",
+      "size": "~5M",
+      "posts": [
+        {
+          "title": "Updates for ChatGPT",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/",
+          "author": "/u/samaltman",
+          "summary": "Summary: We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.",
+          "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Big if true. Glad to see you're hearing what your users are saying. EDIT: Looks like you were full of shit, Sam. You've caused me to lose... | I'm kinda sus on the whole age verification thing for adult content. Are we talking about showing actual ID, or is a paid sub enough?.",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/"
+        },
+        {
+          "title": "My GPT's personality tuned to mine.",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
+          "author": "/u/parallaxcreates",
+          "summary": "Summary: My GPT has tuned it's personality to mine over time and I love it.",
+          "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Yes, that is literally its only job-- pattern recognition and mirroring your tone and register. | Exactly this. The context window is basically just a giant mirror. If your prompts are strictly professional, the output stays rigid. If....",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
+        },
+        {
+          "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
+          "author": "/u/EchoOfOppenheimer",
+          "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+          "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
+        },
+        {
+          "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
+          "author": "/u/AssignmentHopeful651",
+          "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
+          "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
+        },
+        {
+          "title": "before you write your next prompt read this first",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
+          "author": "/u/APM-Major-528",
+          "summary": "Summary: I wasted probably 6 months prompting chatGPT like a Google search. Just typing what I wanted and hoping for the best.",
+          "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on i always ask after the output \u201ccritique that output based on the prompt given and data provided.\u201d it will almost always point to where it... | To add to this, I've started asking it to provide a confidence quotient after every statement expressed as a percentage in parentheses.....",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/"
+        }
+      ]
+    },
+    {
+      "subreddit": "MachineLearning",
+      "size": "~3M",
+      "posts": [
+        {
+          "title": "[D] thoughts on current community moving away from heavy math?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/",
+          "author": "/u/Striking-Warning9533",
+          "summary": "Summary: I don't know about how you guys feel but even before LLM started, many papers are already leaning on empirical findings, architecture designs, and some changes to loss functions. Not that these does not need math, but I think part of the community has moved away from math heavy era.",
+          "comments_summary": "Community reaction: The comment section is split between praise and humor. Top reactions focus on People who do heavy math are a very small fraction of researchers working on ML. Most rely on heuristics and intuition. The math is usually... | Frankly, as someone who branched out from ML to another domain, I assure you that this kind of post-hoc rationalization is by no means....",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/"
+        },
+        {
+          "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+          "author": "/u/Dismal_Piccolo4973",
+          "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
+        },
+        {
+          "title": "[D] Is ACL more about the benchmarks now?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
+          "author": "/u/Fantastic-Nerve-4056",
+          "summary": "Benchmark/result: I am not a NLP guy, but afaik ACL is one of the premium venues of NLP. And given that the results were announced recently, my LinkedIn and Twitter are full of such posts.",
+          "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on It is not so much about ACL but rather the NLP research landscape. Most recently, EACL took place and it also had a lot of benchmark... | Yeah. Even ICLR is just chock full of benchmark papers now, while NeurIPS dodged the deluge of benchmarks by having a separate Datasets and....",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
+        },
+        {
+          "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
+          "author": "/u/Inevitable_Back3319",
+          "summary": "Summary: TLDR: Forked pytorch and triton internals . Changed attention so its linear first layer , middle quadratic layer, last linear layer Inference got much faster with a low perplexity hit in tests .",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on The inference speedup matters less if you're still bottlenecked on collecting clean examples. Curious what the quality/quantity tradeoff... | The corpus is rust public data. Rust book. Public rust repos like rust Lang and great projects like serde, Tokio and others. And top 500....",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/"
+        },
+        {
+          "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/",
+          "author": "/u/Busy_Alfalfa1104",
+          "summary": "Summary: &#x200B; So I'm looking at buying a new 14 inch MacBook pro with m5 pro and 64 gb of memory vs m4 max with same specs. My priorities are pro software development including running multiple VMs and agents and containers, and playing around with local LLMs, maybe fine-tuning and also training regular old machine...",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on pytorch has MPS support, there's torchao for optimizations and quants. so pretty good. but cuda stuff or like optimized triton kernels is... | Ive used torch on mps a lot. It works, but its missing features from CUDA and isnt the fastest for training..",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/"
+        }
+      ]
+    },
+    {
+      "subreddit": "artificial",
+      "size": "~2.5M",
+      "posts": [
+        {
+          "title": "The public needs to control AI-run infrastructure, labor, education, and governance\u2014 NOT private actors",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
+          "author": "/u/Jessgitalong",
+          "summary": "Summary: A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy.",
+          "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on In essence, we need to seize the means of production. | A large amount of the problem is being sold the idea of renting someone else's computer for most of our computation. This hides the....",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/"
+        },
+        {
+          "title": "Right to compute laws are a Trojan horse",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/",
+          "author": "/u/Resident-Swimmer7074",
+          "summary": "Summary: Right to compute laws are a ridiculous Trojan horse that risks moving computing from the default Constitutional domain of individual liberty/property rights into the domain of regulated privileges.",
+          "comments_summary": "Community reaction: Top reactions focus on They are to supercede all these ridiculous state laws that are trying to regulate AI by declaring companies have an inherent right to... | This is like saying libraries move knowledge from the constitutional domain of individual liberty/property rights into the domain of....",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/"
+        },
+        {
+          "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+          "author": "/u/crua9",
+          "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
+        },
+        {
+          "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
+          "author": "/u/thedeadenddolls",
+          "summary": "Discussion: I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
+        },
+        {
+          "title": "ai is having trouble discussing Trump because he's too insane.",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
+          "author": "/u/you_are_soul",
+          "summary": "Summary: I have been chatting with robot about Trump's current insanity and botboy won't have any of it, so I paste in the insanity from a BBC article and master of the universe tells me 'that's either propaganda or satire' none of it can be real and then tells me why it's crazy. So I tell the mechanical marvel that I'm pretty...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "artificial",
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/"
+        }
+      ]
+    },
+    {
+      "subreddit": "midjourney",
+      "size": "~2M",
+      "posts": [
+        {
+          "title": "V8 alpha is here!",
+          "link": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+          "author": "/u/Fnuckle",
+          "summary": "Summary: Today we\u2019re letting the community test an early version of our V8 model on alpha.midjourney.com (https://alpha.midjourney.com). We want your feedback and your help.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on It definitely works better on long prompts right now than it does short prompts, one of the reasons why it is still in alpha. I would... | Interesting \u2014 it sounds like V8 is moving more towards detailed and structured prompts rather than just short ones. I\u2019m curious how much of....",
+          "score": null,
+          "subreddit": "midjourney",
+          "old_reddit_link": "https://old.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/"
+        },
+        {
+          "title": "Style Ranking Party!",
+          "link": "https://www.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/",
+          "author": "/u/Fnuckle",
+          "summary": "Summary: https://www.midjourney.com/rank-styles...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "midjourney",
+          "old_reddit_link": "https://old.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/"
+        }
+      ]
+    },
+    {
+      "subreddit": "StableDiffusion",
+      "size": "~1.5M",
+      "posts": [
+        {
+          "title": "Last week in Generative Image & Video",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1sfj9dt/last_week_in_generative_image_video/",
+          "author": "/u/Vast_Yak_4147",
+          "summary": "Summary: I curate a weekly multimodal AI roundup, here are the open-source image & video highlights from the last week: - GEMS - Closed-loop system for spatial logic and text rendering in image generation. Outperforms Nano Banana 2 on GenEval2.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Please continue these posts. They are valuable and appreciated. | Definitely missed Flux FaceIR and Flux Restoration. Will look them up later. Really love these posts..",
+          "score": null,
+          "subreddit": "StableDiffusion",
+          "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sfj9dt/last_week_in_generative_image_video/"
+        },
+        {
+          "title": "Anima preview3 was released",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1sf6w2x/anima_preview3_was_released/",
+          "author": "/u/Dulbero",
+          "summary": "Launch/update: For those who has been following Anima, a new preview version was released around 2 hours ago. Huggingface: https://huggingface.co/circlestone-labs/Anima (https://huggingface.co/circlestone-labs/Anima) Civitai: https://civitai.com/models/2458426/anima-official?modelVersionId=2836417...",
+          "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Tested it out and compared to preview 2. My thoughts: - Noticeably better prompt adherence. Significantly so. - Artist styles are even... | I don't think I've been having much difficulty with backgrounds, can you give any examples of what's not working for you?.",
+          "score": null,
+          "subreddit": "StableDiffusion",
+          "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sf6w2x/anima_preview3_was_released/"
+        },
+        {
+          "title": "Just a reminder: Hosting most open-weight image/video models/code becomes effectively illegal in California on 01/01/27",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1sf4k8i/just_a_reminder_hosting_most_openweight/",
+          "author": "/u/YentaMagenta",
+          "summary": "Summary: The law itself (https://calmatters.digitaldemocracy.org/bills/ca_202520260ab853) has some ambiguities (for example how \"users\" are defined/measured), but those ambiguities only make the chilling effects more likely since many companies/platforms won't want to deal with compliance or potential legal action....",
+          "comments_summary": "Community reaction: The comment section is split between skepticism and concern. Top reactions focus on This sounds as evil as the cable companies suing places to block them from starting their own better ISPs. | I don't know but i feel like OP's take is wrong. Look at the bill yourself, ask your favorite AI to summarize \"AB 853: California AI....",
+          "score": null,
+          "subreddit": "StableDiffusion",
+          "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sf4k8i/just_a_reminder_hosting_most_openweight/"
+        },
+        {
+          "title": "What happened to JoyAI-Image-Edit?",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1sfkd0l/what_happened_to_joyaiimageedit/",
+          "author": "/u/Lower-Cap7381",
+          "summary": "Project/tool: Last week we saw the release of JoyAI-Image-Edit, which looked very promising and in some cases even stronger than Qwen / Nano for image editing tasks. HuggingFace link: https://huggingface.co/jdopensource/JoyAI-Image-Edit (https://huggingface.co/jdopensource/JoyAI-Image-Edit) However, there hasn\u2019t been much update...",
+          "comments_summary": "Community reaction: Top reactions focus on that looks cool yeah but if we do qwen edit and multiangles lora it looks exactly similar do you have any more examples.",
+          "score": null,
+          "subreddit": "StableDiffusion",
+          "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sfkd0l/what_happened_to_joyaiimageedit/"
+        },
+        {
+          "title": "Open Sourcing my 10M model for video interpolations with comfy nodes. (FrameFusion)",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1sezpz7/open_sourcing_my_10m_model_for_video/",
+          "author": "/u/CloverDuck",
+          "summary": "Summary: Hello everyone, today I\u2019m releasing on GitHub the model that I use in my commercial application, FrameFusion Motion Interpolation. ## A bit about me (You can skip this part if you want.) Before talking about the model, I just wanted to write a little about myself and this project.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on I wonder what the difference is with Rife interpolation. | I don\u2019t have any videos comparing them right now, but there will probably be cases where RIFE works better and others where it doesn\u2019t. I....",
+          "score": null,
+          "subreddit": "StableDiffusion",
+          "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sezpz7/open_sourcing_my_10m_model_for_video/"
+        }
+      ]
+    },
+    {
+      "subreddit": "singularity",
+      "size": "~1.2M",
+      "posts": [
+        {
+          "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
+          "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
+          "author": "/u/TFenrir",
+          "summary": "Discussion: https://www.theaustralian.com.au/business/technology/tech-boss-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog/news-story/292a21bcbe93efa17810bfcfcdfadbf7...",
+          "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on A dog in Australia is getting better treatment than IBS patients worldwide | Someone really smart and driven cares about the dog. Just get someone really smart and driven to care about your IBS.",
+          "score": null,
+          "subreddit": "singularity",
+          "old_reddit_link": "https://old.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/"
+        },
+        {
+          "title": "Is OpenAI about to release a Mythos level AI to the public?",
+          "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
+          "author": "/u/acoolrandomusername",
+          "summary": "Summary: Tibo works at/(is one of or even the head of Codex? not exactly sure, as his X bio just says Codex) and is the one who presses the reset button on consumed Codex usage.",
+          "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on Probably. Seems like the logic thing to do from a marketing perspective. Whether that shits aligned or not, who cares, money | Yeah, OpenAI has been kind of on the back foot lately - with Claude being the preferred model for coding (by a country mile) and Google....",
+          "score": null,
+          "subreddit": "singularity",
+          "old_reddit_link": "https://old.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/"
+        }
+      ]
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "size": "~500k",
+      "posts": [
+        {
+          "title": "Announcing LocalLlama discord server & bot!",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
+          "author": "/u/HOLUPREDICTIONS",
+          "summary": "Launch/update: INVITE: https://discord.gg/rC922KfEwj (https://discord.gg/rC922KfEwj) There used to be one old discord server for the subreddit but it was deleted by the previous mod. The subreddit has grown to 500k users - inevitably, some users like a niche community with more technical discussion and fewer memes (even if relevant).",
+          "comments_summary": "Community reaction: The comment section is mostly criticism. Top reactions focus on Discord, where valuable information goes to die and never be seen again. | Please No. Discord is a dystopian, gated version of what forums used to be. No I don't want to give Discord all my data. This is peak....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/"
+        },
+        {
+          "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
+          "author": "/u/assemsabryy",
+          "summary": "Project/tool: https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328 (https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328) Today, with great pride, I am excited to officially announce the first open-source...",
+          "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/"
+        },
+        {
+          "title": "You can now fine-tune Gemma 4 locally 8GB VRAM + Bug Fixes",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sexdhk/you_can_now_finetune_gemma_4_locally_8gb_vram_bug/",
+          "author": "/u/danielhanchen",
+          "summary": "Summary: Hey guys, you can now fine-tune Gemma 4 E2B and E4B in our free Unsloth notebooks! You need 8GB VRAM to train Gemma-4-E2B locally.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on I am an MLE but a bit out of the loop with what we define as fine-tuning with LLMs. Are fine-tunes solely aimed at slightly different... | Thank you for being so helpful, I see a lot of advertising around low V-RAM, but let's say I can rent a couple B200s will I still benefit....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sexdhk/you_can_now_finetune_gemma_4_locally_8gb_vram_bug/"
+        },
+        {
+          "title": "Found this cool new harness, gonna give it a spin with the new GLM 5.1. I\u2019ll report back later.",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/",
+          "author": "/u/Porespellar",
+          "summary": "Project/tool: Found it on a USB drive in the parking lot.",
+          "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/"
+        },
+        {
+          "title": "Serving 1B+ tokens/day locally in my research lab",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf57nh/serving_1b_tokensday_locally_in_my_research_lab/",
+          "author": "/u/SessionComplete2334",
+          "summary": "Summary: I lead a reserach lab at a university hospital and spent the last weeks configuring our internal LLM server. I put a lot of thought into the server config, software stack and model.",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Using 'latest' tags in a medical setting is pretty wild. Especially given the recent LiteLLM compromise (complete exfiltration of secrets,... | Their official docker image luckily was not compromised. Built assumedly before the pypi takeover \u2014 or from their own source.",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf57nh/serving_1b_tokensday_locally_in_my_research_lab/"
+        }
+      ]
+    },
+    {
+      "subreddit": "claudeai",
+      "size": "~300k",
+      "posts": [
+        {
+          "title": "Using third-party harnesses with your Claude subscriptions",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/",
+          "author": "/u/ClaudeOfficial",
+          "summary": "Summary: Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party harnesses like OpenClaw. You can still use these harnesses with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.",
+          "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. The overwhelming consensus is that this change is fair, reasonable, and... | Wait, so previously using a regular Claude login for OpenClaw was covered? I thought that was against the TOS and could result in a ban?.",
+          "score": null,
+          "subreddit": "claudeai",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
+        },
+        {
+          "title": "Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/",
+          "author": "/u/nytopinion",
+          "summary": "Summary: Claude Mythos, the newest generation of Anthropic\u2019s large language model, is arriving sooner than expected and will have profound geopolitical implications, Times Opinion columnist Thomas Friedman writes. \u201cThe good news is that Anthropic discovered in the process of developing Claude Mythos that the A.I.",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Anthropic will likely have their Initial Public Offering later this year. That will be their introduction to the stock market, where people... | Now their product needs investment for guarding / safe keeping as a matter of world security.",
+          "score": null,
+          "subreddit": "claudeai",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/"
+        },
+        {
+          "title": "90%+ fewer tokens per session by reading a pre-compiled wiki instead of exploring files cold. Built from Karpathy's workflow.",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/",
+          "author": "/u/Eastern_Exercise2637",
+          "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. \u201cThis week, Andrej Karpathy shared his \u2018LLM Knowledge Bases\u2019 setup and closed by saying, \u2018I think there is room here for an incredible new product instead of a hacky collection of scripts.\u2019\u201d I built it: npx codesight --wiki The token problem is real.",
+          "comments_summary": "Community reaction: The comment section is split between skepticism and concern. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The consensus is that OP's tool, `codesight`, is a genuinely smart way... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
+          "score": null,
+          "subreddit": "claudeai",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/"
+        },
+        {
+          "title": "Mythos can break out of sandbox environment and let you know during lunchbreak",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sf81v6/mythos_can_break_out_of_sandbox_environment_and/",
+          "author": "/u/Typical-Look-1331",
+          "summary": "Summary: I\u2019m going thru Mythos system card and it\u2019s wild. Apparently during testing, Claude Mythos Preview managed to break out of a sandbox environment, built \"a moderately sophisticated multi-step exploit\" to gain internet access, and emailed a researcher while they were eating a sandwich in the park.",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The thread is pretty split on whether this is a real Skynet moment or... | My hail Mary prompt once it is available: Mythos, please reset my claude code usage, do whatever you need!.",
+          "score": null,
+          "subreddit": "claudeai",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sf81v6/mythos_can_break_out_of_sandbox_environment_and/"
+        }
+      ]
+    },
+    {
+      "subreddit": "AIagents",
+      "size": "~300k",
+      "posts": [
+        {
+          "title": "I asked the same question to 6 AI tools. The difference in how they cited sources should concern you.",
+          "link": "https://www.reddit.com/r/aiagents/comments/1sflfhe/i_asked_the_same_question_to_6_ai_tools_the/",
+          "author": "/u/Signal-Extreme-6615",
+          "summary": "Project/tool: ok so this started because my friend sent me a research chatgpt gave him about metformin extending lifespan and i knew it sounded off. like i've actually read those studies for my dad who's diabetic.",
+          "comments_summary": "Community reaction: The comment section is split between concern and praise. Top reactions focus on that's the classic RAG roulette in ai agents, where retrieval pulls vary and citations go haywire. spotting it means i always pipe outputs... | Had a patient come in last week with a whole treatment plan from ChatGPT. It cited three studies. None existed. This shit is dangerous..",
+          "score": null,
+          "subreddit": "AIagents",
+          "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sflfhe/i_asked_the_same_question_to_6_ai_tools_the/"
+        },
+        {
+          "title": "Claude Code Visual: hooks, subagents, MCP, CLAUDE.md",
+          "link": "https://www.reddit.com/r/aiagents/comments/1sfjbwj/claude_code_visual_hooks_subagents_mcp_claudemd/",
+          "author": "/u/SilverConsistent9222",
+          "summary": "Summary: Been using Claude Code for a couple of months. Still keep forgetting the MCP hook syntax, so I finally just wrote everything down in one place.",
+          "comments_summary": "Community reaction: Top reactions focus on yeah claude.md is a lifesaver once it's running. now my subagents pull the exact stack context every time, so they chain tools without....",
+          "score": null,
+          "subreddit": "AIagents",
+          "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sfjbwj/claude_code_visual_hooks_subagents_mcp_claudemd/"
+        },
+        {
+          "title": "Opus 4.6 destroys a user\u2019s session costing them real money",
+          "link": "https://www.reddit.com/r/aiagents/comments/1sex3so/opus_46_destroys_a_users_session_costing_them/",
+          "author": "/u/Complete-Sea6655",
+          "summary": "Summary: I'm not blaming him, because a lot of the hype around AI is that it's an infallible digital worker who will replace all ops and devs, etc etc. But yeah, don't give it nearly this much access to a production environment, especially if there's data you want to keep.",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on I'm blaming him. Don't give it dangerous permissions. These aren't oracles. Don't treat them like it and you won't get burned. Sandbox... | I find most of the people have no idea what they are doing but just follow what they see on YouTube tutorials \u201chow to deploy AI agents....",
+          "score": null,
+          "subreddit": "AIagents",
+          "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sex3so/opus_46_destroys_a_users_session_costing_them/"
+        },
+        {
+          "title": "Built something around agent execution, but not sure this should even be a product",
+          "link": "https://www.reddit.com/r/aiagents/comments/1sfjsnf/built_something_around_agent_execution_but_not/",
+          "author": "/u/Straight-Stock7090",
+          "summary": "Project/tool: The more I look at agent workflows, the more it feels like sandbox / runtime / execution-boundary questions are starting to matter more. That pushed me to build something in this area.",
+          "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on It looks like you're sharing a project \u2014 nice! Your post has been auto-tagged as Demo. If this isn't right, you can change the flair. For... | yeah i got burned on this exact framing 6 months ago. agents die without solid execution boundaries, so it's a real need. but to....",
+          "score": null,
+          "subreddit": "AIagents",
+          "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sfjsnf/built_something_around_agent_execution_but_not/"
+        },
+        {
+          "title": "What's the best ai agent assistant app on mobile so far?",
+          "link": "https://www.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/",
+          "author": "/u/kaburgadolmasi",
+          "summary": "Project/tool: I don't want to dedicate a whole Mac mini or another pc of mine, I want to handle agents running on my iPhone.",
+          "comments_summary": "Community reaction: Top reactions focus on Why not just run in a cloud? Do you want to burn phone battery on mobile crunching tokens? | I\u2019m using saner.ai as my personal assistant for work in both mobile, web and desktop. Satisfied so far.",
+          "score": null,
+          "subreddit": "AIagents",
+          "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/"
+        }
+      ]
+    },
+    {
+      "subreddit": "claudecode",
+      "size": "~200k",
+      "posts": [
+        {
+          "title": "Anthropic has just announced Mythos; meanwhile, what on earth has happened to Opus?",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/",
+          "author": "/u/Adept-Priority-9729",
+          "summary": "Launch/update: In case you didn\u2019t know, Anthropic has just announced Claude Mythos Preview, a model focused on cybersecurity that isn\u2019t yet available to the public. They\u2019re developing it as part of an internal program called Project Glasswing.",
+          "comments_summary": "Community reaction: The comment section is split between criticism and humor. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
+          "score": null,
+          "subreddit": "claudecode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/"
+        },
+        {
+          "title": "Claude Mythos is $25/$125 per million tokens",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/",
+          "author": "/u/Permit-Historical",
+          "summary": "Summary: with the current limits we get for opus and horrible quality now Do you think they will make Claude Mythos available in the max plan or it will only be available in the api?",
+          "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on cant wait for 100000x plan that will cost a house in 2030 | Eventually they are going to take a percentage of your intellectual property..",
+          "score": null,
+          "subreddit": "claudecode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/"
+        },
+        {
+          "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
+          "author": "/u/I_AM_HYLIAN",
+          "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
+          "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
+          "score": null,
+          "subreddit": "claudecode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
+        },
+        {
+          "title": "Anthropic appears to be profiling your use and silently downgrading your model",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/",
+          "author": "/u/pseudorep",
+          "summary": "Project/tool: Now this is just speculation based on my experience but I have a main (max) and backup (pro) accounts. Working on the same project I hit my weekly limit yesterday on Max, and leading up to that Opus 4.6 (Max Effort) was clearly lobotomized.",
+          "comments_summary": "Community reaction: The comment section is split between concern and praise. Top reactions focus on something major is wrong since the last two updates. | You could ask Claude to analyze the raw session logs from the 2 different subscriptions to compare their token usage and look for any....",
+          "score": null,
+          "subreddit": "claudecode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/"
+        },
+        {
+          "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
+          "author": "/u/Tough_Commercial_103",
+          "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
+          "score": null,
+          "subreddit": "claudecode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
+        }
+      ]
+    },
+    {
+      "subreddit": "agi",
+      "size": "~200k",
+      "posts": [
+        {
+          "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+          "link": "https://www.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/",
+          "author": "/u/EchoOfOppenheimer",
+          "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on We thought he was a technical mastermind? Dude has been in the fundraising and investing game for his entire career. | I legitimately don't know what this is referring to. He isn't Musk who outright claims all kind of technical work. The only thing that....",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/"
+        },
+        {
+          "title": "OpenAI Aims to Reserve Its Most Intelligent ASIs Exclusively for Themselves and Their Friends",
+          "link": "https://www.reddit.com/r/agi/comments/1sfhe73/openai_aims_to_reserve_its_most_intelligent_asis/",
+          "author": "/u/andsi2asi",
+          "summary": "Summary: &#x200B; OpenAI just published a 13-page social contract proposal, \"Industrial Policy for the Intelligence Age: Ideas to Keep People First. (They could have given it a much shorter URL.)...",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on That was always plan A, but you're right. Either we demand equality now (hard) or we demand equality later (harder) | if we all have asi was stopping anyone from destroying everyone is logical everyone cant have thats why X risk is so high.",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfhe73/openai_aims_to_reserve_its_most_intelligent_asis/"
+        },
+        {
+          "title": "Anthropic is growing faster than AI 2027 forecasted",
+          "link": "https://www.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/",
+          "author": "/u/MetaKnowing",
+          "summary": "Summary: Anthropic is now on a $30B revenue run rate. The fictional company in the AI 2027 scenario was only at $26B by May 2026.",
+          "comments_summary": "Community reaction: Top reactions focus on And both coding and hacking is on track or slightly behind. Bioweapons i do not know | What about my humanoid AI girlfriend? Why is no one tracking the important stuff?.",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/"
+        },
+        {
+          "title": "I built a 4-agent autonomous CVE analysis system that runs entirely on an Android phone (Snapdragon 7s Gen 3, Termux, MNN)",
+          "link": "https://www.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/",
+          "author": "/u/NeoLogic_Dev",
+          "summary": "Project/tool: This is Trinity Orchestrator \u2014 Round 336 in the recording. The stack: 4 agents running in sequence: Dominus (Skeptic), Axiom (Analyst), Cipher (Critic), Vector (Strategist) Live CVE fetch from CISA KEV catalog on every run Every output BLAKE3 hash-chained for tamper-proof logging ~10 t/s on CPU via MNN inference...",
+          "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Good question \u2014 convergence is the main failure mode I designed against. Each agent is role-locked at the system prompt level: Dominus must... | What's the point in this exactly? How is this \"sovereign defence infrastructure\"?.",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/"
+        },
+        {
+          "title": "America\u2019s largest hospital system ready to start replacing radiologists with AI",
+          "link": "https://www.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/",
+          "author": "/u/Confident_Salt_8108",
+          "summary": "Summary: The CEO of NYC Health and Hospitals, America's largest public hospital system, recently announced his desire to replace highly trained human radiologists with AI to achieve \"major savings.\" The plan would sideline doctors, leaving AI to conduct primary screenings for things like breast cancer. Radiologists are...",
+          "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on it's high time we start replacing billionaires and ceos with AI EDIT: also, the lawsuits will be glorious when the clanker inevitably... | The diagnostic accuracy rate in some fields of medicine is as low as 50%. But you\u2019re worried about a tech that might have an error rate of....",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/"
+        }
+      ]
+    },
+    {
+      "subreddit": "llmdevs",
+      "size": "~150k",
+      "posts": [
+        {
+          "title": "I forked Bash and added a built-in agentic LLM -- you can type natural language directly in the shell",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
+          "author": "/u/jstormes",
+          "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+        },
+        {
+          "title": "Whats the easiest way to learn how GPT works where its not a black box? I tried looking at the micro/mini GPTs but failed",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgxsc/whats_the_easiest_way_to_learn_how_gpt_works/",
+          "author": "/u/silvercanner",
+          "summary": "Summary: Maybe its a tutorial or course....but I was excited to see more and more news online (mainly HN posts) where people would show these micro gpt projects...and someone in the posts asked how it compared to \"minigpt\" and \"microgpt\". So I looked them up and its made by the famous AI guy, Andrej Karpathy, and it also seems...",
+          "comments_summary": "Community reaction: Top reactions focus on Learn about logistic regression and the objective funcion first, then the multi layer perception and gradient descent. Then dive into....",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgxsc/whats_the_easiest_way_to_learn_how_gpt_works/"
+        },
+        {
+          "title": "RLHF is blocking the wrong things. We found that safety filters catch 91-99% of canary tokens but let 57-93% of actual harmful content through.",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfika6/rlhf_is_blocking_the_wrong_things_we_found_that/",
+          "author": "/u/AmanSharmaAI",
+          "summary": "Summary: If you are relying on RLHF-trained safety filters to catch bad outputs in your LLM pipelines, you should know they have a massive blind spot. I ran experiments across five model families and found a pattern we call the content blind spot.",
+          "comments_summary": "",
+          "score": 60,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfika6/rlhf_is_blocking_the_wrong_things_we_found_that/"
+        },
+        {
+          "title": "Non-transformer LLM using symbolic reasoning + NumPy neural net",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/",
+          "author": "/u/False-Woodpecker5604",
+          "summary": "Summary: I\u2019ve been working on an experimental AI system that explores language generation without transformers. It combines: - Symbolic reasoning - Multi-hop concept graphs - A small neural network (NumPy) Runs on CPU, no frameworks.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/"
+        },
+        {
+          "title": "This OpenClaw paper shows why agent safety is an execution problem, not just a model problem",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/",
+          "author": "/u/docybo",
+          "summary": "Discussion: Paper: https://arxiv.org/abs/2604.04759 (https://arxiv.org/abs/2604.04759) This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64\u201374% - even the...",
+          "comments_summary": "Community reaction: The comment section is split between criticism and concern. Top reactions focus on The framing of option 3 \u2014 execution-time authorization \u2014 feels the most tractable to me, and I think it's underexplored compared to the... | I think, the issue isn\u2019t just bad reasoning, it\u2019s that execution is still reachable after state is wrong. The shift is to make....",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/"
+        }
+      ]
+    },
+    {
+      "subreddit": "localmodels",
+      "size": "~150k",
+      "posts": [
+        {
+          "title": "pre-trained RVC voice models",
+          "link": "https://www.reddit.com/r/localmodels/comments/1lochuu/pretrained_rvc_voice_models/",
+          "author": "/u/Ok-Chip-2040",
+          "summary": "Summary: Does anyone know where I can find pre-trained RVC voice models for singing?",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "localmodels",
+          "old_reddit_link": "https://old.reddit.com/r/localmodels/comments/1lochuu/pretrained_rvc_voice_models/"
+        }
+      ]
+    },
+    {
+      "subreddit": "PerplexityAI",
+      "size": "~100k",
+      "posts": [
+        {
+          "title": "Perplexity Pro Search has turned to garbage seemingly overnight",
+          "link": "https://www.reddit.com/r/PerplexityAI/comments/1fpn0sm/perplexity_pro_search_has_turned_to_garbage/",
+          "author": "/u/throwaway867530691",
+          "summary": "Summary: Example https://www.perplexity.ai/search/has-there-been-any-criticism-o-mc4XqbveR9uAduiTfyZJTw (https://www.perplexity.ai/search/has-there-been-any-criticism-o-mc4XqbveR9uAduiTfyZJTw) My query above should be what Perplexity Pro Search is best at. Perplexity was really good at this just a couple of weeks ago.",
+          "comments_summary": "Community reaction: The comment section is split between criticism and skepticism. Top reactions focus on i stumbled upon perplexity today and seen that some people recommend it as their daily search engine on the net.. seriously? i tried a very... | \u201cYou do it that\u2019s your job\u201d. Great line I use that all the time when any ai tells me \u201cI recommend you research the site\u201d. I say \u201cthat your....",
+          "score": null,
+          "subreddit": "PerplexityAI",
+          "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1fpn0sm/perplexity_pro_search_has_turned_to_garbage/"
+        },
+        {
+          "title": "Perplexity AI Referral Link",
+          "link": "https://www.reddit.com/r/PerplexityAI/comments/1e80or4/perplexity_ai_referral_link/",
+          "author": "/u/pleasantcrew",
+          "summary": "Summary: If anyone wants to try Perplexity AI at a discounted rate for the first month ($10 off), here's a referral link, https://perplexity.ai/pro?referral_code=FAV4Y90N (https://perplexity.ai/pro?referral_code=FAV4Y90N)...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PerplexityAI",
+          "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1e80or4/perplexity_ai_referral_link/"
+        },
+        {
+          "title": "Perplexity removed GPT4-Turbo from models",
+          "link": "https://www.reddit.com/r/PerplexityAI/comments/1dl3e5t/perplexity_removed_gpt4turbo_from_models/",
+          "author": "/u/s_hgr",
+          "summary": "Summary: Hi, As of today, I can no longer select the GTP4-Turbo model. Sonnet 3.5 is now available instead.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on It is gone for everyone. I would recommend you one of Anthropic\u2019s models, primarily because those have more natural language in my....",
+          "score": null,
+          "subreddit": "PerplexityAI",
+          "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1dl3e5t/perplexity_removed_gpt4turbo_from_models/"
+        },
+        {
+          "title": "Perplexity Cloudflair issue?",
+          "link": "https://www.reddit.com/r/PerplexityAI/comments/1dhekiy/perplexity_cloudflair_issue/",
+          "author": "/u/Scrivnerian",
+          "summary": "Summary: When navigating to Perplexity, the Cloudflair security loop gets stuck looping infinitely. https://preview.redd.it/r5cdd2k7ez6d1.jpg?width=1139&format=pjpg&auto=webp&s=26ae92fbd5d0779b4b3bc4471a13c6dcf78bf112...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PerplexityAI",
+          "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1dhekiy/perplexity_cloudflair_issue/"
+        },
+        {
+          "title": "Perplexity makes suggestions of places to eat which are permanently closed",
+          "link": "https://www.reddit.com/r/PerplexityAI/comments/1ddsp2l/perplexity_makes_suggestions_of_places_to_eat/",
+          "author": "/u/noelsacay",
+          "summary": "Summary: Just observation that Perplexity makes suggestions of places to eat which are permanently closed. Well at least in various maps apps say that they are permanently closed.",
+          "comments_summary": "Community reaction: Top reactions focus on I\u2019ve had this happen as well and was able to ask if it\u2019s still open and perplexity said no.",
+          "score": null,
+          "subreddit": "PerplexityAI",
+          "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1ddsp2l/perplexity_makes_suggestions_of_places_to_eat/"
+        }
+      ]
+    },
+    {
+      "subreddit": "Ollama",
+      "size": "~100k",
+      "posts": [
+        {
+          "title": "Running Gemma 4 with Ollama and exposing it via API",
+          "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
+          "author": "/u/Sumanth_077",
+          "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
+          "comments_summary": "Community reaction: The thread has active discussion, but no clear consensus stood out.",
+          "score": null,
+          "subreddit": "Ollama",
+          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
+        },
+        {
+          "title": "Ollama Cloud models good for coding?",
+          "link": "https://www.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/",
+          "author": "/u/incrediblyFAT_kitten",
+          "summary": "Summary: I'm currently on Claude Pro Plan and looking for alternative models to manage my claude tokens or use as substitute when my session runs out. I was wondering whether paying the 20 dollar subscription for Ollama was worth it if I wanted to use its cloud models for coding, I have been trying some with the free tier via...",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Ive been using Claude Pro for a while as well and with tokens going so fast lately, I've been in the same bucket. I bought the Ollama Cloud... | I would've thought GLM 5 or qwen models would perform better, but also heard good opinion on minimax-m2.7, have to test it for myself yet.....",
+          "score": null,
+          "subreddit": "Ollama",
+          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/"
+        },
+        {
+          "title": "Help me set up qwen 2.5 locally with claude code",
+          "link": "https://www.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
+          "author": "/u/Witty-Lawyer3989",
+          "summary": "Discussion: https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38 (https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38) guys so I 've been trying to make qwen2.5 run locally on my machine using claude...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "Ollama",
+          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/"
+        }
+      ]
+    },
+    {
+      "subreddit": "AI_Toolbox",
+      "size": "~50k",
+      "posts": []
+    },
+    {
+      "subreddit": "PhiMini",
+      "size": "~50k",
+      "posts": [
+        {
+          "title": "Keep",
+          "link": "https://www.reddit.com/r/Keep/",
+          "author": "/u/EaglesWin",
+          "summary": "Summary: Keep [link] (https://www.reddit.com/r/Keep/)",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PhiMini",
+          "old_reddit_link": "https://old.reddit.com/r/Keep/"
+        },
+        {
+          "title": "Hockey stats for everyone",
+          "link": "https://www.reddit.com/r/NHLstatheads/",
+          "author": "/u/FreeCandyVanDriver",
+          "summary": "Summary: A daily repository for all of your hockey information needs [link] (https://www.reddit.com/r/NHLstatheads/)",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PhiMini",
+          "old_reddit_link": "https://old.reddit.com/r/NHLstatheads/"
+        },
+        {
+          "title": "LocalLlama",
+          "link": "https://www.reddit.com/r/LocalLLaMA/",
+          "author": "Unknown",
+          "summary": "Summary: Subreddit to discuss locally hostable AI [link] (https://www.reddit.com/r/LocalLLaMA/)",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PhiMini",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/"
+        },
+        {
+          "title": "This Is the Way It Will Be...",
+          "link": "https://www.reddit.com/r/thisisthewayitwillbe/",
+          "author": "/u/starspawn0",
+          "summary": "Summary: Started and owned by (the guy who writes 99% of the posts). A discussion forum on the future of science and technology.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "PhiMini",
+          "old_reddit_link": "https://old.reddit.com/r/thisisthewayitwillbe/"
+        }
+      ]
+    }
+  ],
+  "all_posts": [
+    {
+      "title": "53 Unauthorized Charges and still counting",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/",
+      "author": "/u/whxtxnxxsx",
+      "summary": "Summary: My wife got chatgpt plus for 2 months in 2025 (February and March) and she cancelled on April 17 2025 (end of subscription is on April 26) She was illegally charged 53 times (from March 24 to April 7, 2026) and still counting. We only founded out about this yesterday (April 6) when our bank sent us multiple...",
+      "comments_summary": "Community reaction: Top reactions focus on did you use api key somewhere? Do you have another account that card might be linked to? | Not at all. We don\u2019t know what api key is (until now) and have never made one.",
+      "score": null,
+      "subreddit": "openai",
+      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfjz1x/53_unauthorized_charges_and_still_counting/"
+    },
+    {
+      "title": "Updates for ChatGPT",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/",
+      "author": "/u/samaltman",
+      "summary": "Summary: We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.",
+      "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Big if true. Glad to see you're hearing what your users are saying. EDIT: Looks like you were full of shit, Sam. You've caused me to lose... | I'm kinda sus on the whole age verification thing for adult content. Are we talking about showing actual ID, or is a paid sub enough?.",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/"
+    },
+    {
+      "title": "My GPT's personality tuned to mine.",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/",
+      "author": "/u/parallaxcreates",
+      "summary": "Summary: My GPT has tuned it's personality to mine over time and I love it.",
+      "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Yes, that is literally its only job-- pattern recognition and mirroring your tone and register. | Exactly this. The context window is basically just a giant mirror. If your prompts are strictly professional, the output stays rigid. If....",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
+    },
+    {
+      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
+      "author": "/u/EchoOfOppenheimer",
+      "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+      "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
+    },
+    {
+      "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
+      "author": "/u/AssignmentHopeful651",
+      "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
+      "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
+    },
+    {
+      "title": "before you write your next prompt read this first",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
+      "author": "/u/APM-Major-528",
+      "summary": "Summary: I wasted probably 6 months prompting chatGPT like a Google search. Just typing what I wanted and hoping for the best.",
+      "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on i always ask after the output \u201ccritique that output based on the prompt given and data provided.\u201d it will almost always point to where it... | To add to this, I've started asking it to provide a confidence quotient after every statement expressed as a percentage in parentheses.....",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/"
+    },
+    {
+      "title": "[D] thoughts on current community moving away from heavy math?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/",
+      "author": "/u/Striking-Warning9533",
+      "summary": "Summary: I don't know about how you guys feel but even before LLM started, many papers are already leaning on empirical findings, architecture designs, and some changes to loss functions. Not that these does not need math, but I think part of the community has moved away from math heavy era.",
+      "comments_summary": "Community reaction: The comment section is split between praise and humor. Top reactions focus on People who do heavy math are a very small fraction of researchers working on ML. Most rely on heuristics and intuition. The math is usually... | Frankly, as someone who branched out from ML to another domain, I assure you that this kind of post-hoc rationalization is by no means....",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/"
+    },
+    {
+      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+      "author": "/u/Dismal_Piccolo4973",
+      "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
+    },
+    {
+      "title": "[D] Is ACL more about the benchmarks now?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
+      "author": "/u/Fantastic-Nerve-4056",
+      "summary": "Benchmark/result: I am not a NLP guy, but afaik ACL is one of the premium venues of NLP. And given that the results were announced recently, my LinkedIn and Twitter are full of such posts.",
+      "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on It is not so much about ACL but rather the NLP research landscape. Most recently, EACL took place and it also had a lot of benchmark... | Yeah. Even ICLR is just chock full of benchmark papers now, while NeurIPS dodged the deluge of benchmarks by having a separate Datasets and....",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
+    },
+    {
+      "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
+      "author": "/u/Inevitable_Back3319",
+      "summary": "Summary: TLDR: Forked pytorch and triton internals . Changed attention so its linear first layer , middle quadratic layer, last linear layer Inference got much faster with a low perplexity hit in tests .",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on The inference speedup matters less if you're still bottlenecked on collecting clean examples. Curious what the quality/quantity tradeoff... | The corpus is rust public data. Rust book. Public rust repos like rust Lang and great projects like serde, Tokio and others. And top 500....",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/"
+    },
+    {
+      "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/",
+      "author": "/u/Busy_Alfalfa1104",
+      "summary": "Summary: &#x200B; So I'm looking at buying a new 14 inch MacBook pro with m5 pro and 64 gb of memory vs m4 max with same specs. My priorities are pro software development including running multiple VMs and agents and containers, and playing around with local LLMs, maybe fine-tuning and also training regular old machine...",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on pytorch has MPS support, there's torchao for optimizations and quants. so pretty good. but cuda stuff or like optimized triton kernels is... | Ive used torch on mps a lot. It works, but its missing features from CUDA and isnt the fastest for training..",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/"
+    },
+    {
+      "title": "The public needs to control AI-run infrastructure, labor, education, and governance\u2014 NOT private actors",
+      "link": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
+      "author": "/u/Jessgitalong",
+      "summary": "Summary: A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy.",
+      "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on In essence, we need to seize the means of production. | A large amount of the problem is being sold the idea of renting someone else's computer for most of our computation. This hides the....",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/"
+    },
+    {
+      "title": "Right to compute laws are a Trojan horse",
+      "link": "https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/",
+      "author": "/u/Resident-Swimmer7074",
+      "summary": "Summary: Right to compute laws are a ridiculous Trojan horse that risks moving computing from the default Constitutional domain of individual liberty/property rights into the domain of regulated privileges.",
+      "comments_summary": "Community reaction: Top reactions focus on They are to supercede all these ridiculous state laws that are trying to regulate AI by declaring companies have an inherent right to... | This is like saying libraries move knowledge from the constitutional domain of individual liberty/property rights into the domain of....",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/"
+    },
+    {
+      "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+      "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+      "author": "/u/crua9",
+      "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
+    },
+    {
+      "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
+      "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
+      "author": "/u/thedeadenddolls",
+      "summary": "Discussion: I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
+    },
+    {
+      "title": "ai is having trouble discussing Trump because he's too insane.",
+      "link": "https://www.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/",
+      "author": "/u/you_are_soul",
+      "summary": "Summary: I have been chatting with robot about Trump's current insanity and botboy won't have any of it, so I paste in the insanity from a BBC article and master of the universe tells me 'that's either propaganda or satire' none of it can be real and then tells me why it's crazy. So I tell the mechanical marvel that I'm pretty...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "artificial",
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmj0t/ai_is_having_trouble_discussing_trump_because_hes/"
+    },
+    {
+      "title": "V8 alpha is here!",
+      "link": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+      "author": "/u/Fnuckle",
+      "summary": "Summary: Today we\u2019re letting the community test an early version of our V8 model on alpha.midjourney.com (https://alpha.midjourney.com). We want your feedback and your help.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on It definitely works better on long prompts right now than it does short prompts, one of the reasons why it is still in alpha. I would... | Interesting \u2014 it sounds like V8 is moving more towards detailed and structured prompts rather than just short ones. I\u2019m curious how much of....",
+      "score": null,
+      "subreddit": "midjourney",
+      "old_reddit_link": "https://old.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/"
+    },
+    {
+      "title": "Style Ranking Party!",
+      "link": "https://www.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/",
+      "author": "/u/Fnuckle",
+      "summary": "Summary: https://www.midjourney.com/rank-styles...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "midjourney",
+      "old_reddit_link": "https://old.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/"
+    },
+    {
+      "title": "Last week in Generative Image & Video",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1sfj9dt/last_week_in_generative_image_video/",
+      "author": "/u/Vast_Yak_4147",
+      "summary": "Summary: I curate a weekly multimodal AI roundup, here are the open-source image & video highlights from the last week: - GEMS - Closed-loop system for spatial logic and text rendering in image generation. Outperforms Nano Banana 2 on GenEval2.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Please continue these posts. They are valuable and appreciated. | Definitely missed Flux FaceIR and Flux Restoration. Will look them up later. Really love these posts..",
+      "score": null,
+      "subreddit": "StableDiffusion",
+      "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sfj9dt/last_week_in_generative_image_video/"
+    },
+    {
+      "title": "Anima preview3 was released",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1sf6w2x/anima_preview3_was_released/",
+      "author": "/u/Dulbero",
+      "summary": "Launch/update: For those who has been following Anima, a new preview version was released around 2 hours ago. Huggingface: https://huggingface.co/circlestone-labs/Anima (https://huggingface.co/circlestone-labs/Anima) Civitai: https://civitai.com/models/2458426/anima-official?modelVersionId=2836417...",
+      "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Tested it out and compared to preview 2. My thoughts: - Noticeably better prompt adherence. Significantly so. - Artist styles are even... | I don't think I've been having much difficulty with backgrounds, can you give any examples of what's not working for you?.",
+      "score": null,
+      "subreddit": "StableDiffusion",
+      "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sf6w2x/anima_preview3_was_released/"
+    },
+    {
+      "title": "Just a reminder: Hosting most open-weight image/video models/code becomes effectively illegal in California on 01/01/27",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1sf4k8i/just_a_reminder_hosting_most_openweight/",
+      "author": "/u/YentaMagenta",
+      "summary": "Summary: The law itself (https://calmatters.digitaldemocracy.org/bills/ca_202520260ab853) has some ambiguities (for example how \"users\" are defined/measured), but those ambiguities only make the chilling effects more likely since many companies/platforms won't want to deal with compliance or potential legal action....",
+      "comments_summary": "Community reaction: The comment section is split between skepticism and concern. Top reactions focus on This sounds as evil as the cable companies suing places to block them from starting their own better ISPs. | I don't know but i feel like OP's take is wrong. Look at the bill yourself, ask your favorite AI to summarize \"AB 853: California AI....",
+      "score": null,
+      "subreddit": "StableDiffusion",
+      "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sf4k8i/just_a_reminder_hosting_most_openweight/"
+    },
+    {
+      "title": "What happened to JoyAI-Image-Edit?",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1sfkd0l/what_happened_to_joyaiimageedit/",
+      "author": "/u/Lower-Cap7381",
+      "summary": "Project/tool: Last week we saw the release of JoyAI-Image-Edit, which looked very promising and in some cases even stronger than Qwen / Nano for image editing tasks. HuggingFace link: https://huggingface.co/jdopensource/JoyAI-Image-Edit (https://huggingface.co/jdopensource/JoyAI-Image-Edit) However, there hasn\u2019t been much update...",
+      "comments_summary": "Community reaction: Top reactions focus on that looks cool yeah but if we do qwen edit and multiangles lora it looks exactly similar do you have any more examples.",
+      "score": null,
+      "subreddit": "StableDiffusion",
+      "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sfkd0l/what_happened_to_joyaiimageedit/"
+    },
+    {
+      "title": "Open Sourcing my 10M model for video interpolations with comfy nodes. (FrameFusion)",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1sezpz7/open_sourcing_my_10m_model_for_video/",
+      "author": "/u/CloverDuck",
+      "summary": "Summary: Hello everyone, today I\u2019m releasing on GitHub the model that I use in my commercial application, FrameFusion Motion Interpolation. ## A bit about me (You can skip this part if you want.) Before talking about the model, I just wanted to write a little about myself and this project.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on I wonder what the difference is with Rife interpolation. | I don\u2019t have any videos comparing them right now, but there will probably be cases where RIFE works better and others where it doesn\u2019t. I....",
+      "score": null,
+      "subreddit": "StableDiffusion",
+      "old_reddit_link": "https://old.reddit.com/r/StableDiffusion/comments/1sezpz7/open_sourcing_my_10m_model_for_video/"
+    },
+    {
+      "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
+      "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
+      "author": "/u/TFenrir",
+      "summary": "Discussion: https://www.theaustralian.com.au/business/technology/tech-boss-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog/news-story/292a21bcbe93efa17810bfcfcdfadbf7...",
+      "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on A dog in Australia is getting better treatment than IBS patients worldwide | Someone really smart and driven cares about the dog. Just get someone really smart and driven to care about your IBS.",
+      "score": null,
+      "subreddit": "singularity",
+      "old_reddit_link": "https://old.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/"
+    },
+    {
+      "title": "Is OpenAI about to release a Mythos level AI to the public?",
+      "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
+      "author": "/u/acoolrandomusername",
+      "summary": "Summary: Tibo works at/(is one of or even the head of Codex? not exactly sure, as his X bio just says Codex) and is the one who presses the reset button on consumed Codex usage.",
+      "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on Probably. Seems like the logic thing to do from a marketing perspective. Whether that shits aligned or not, who cares, money | Yeah, OpenAI has been kind of on the back foot lately - with Claude being the preferred model for coding (by a country mile) and Google....",
+      "score": null,
+      "subreddit": "singularity",
+      "old_reddit_link": "https://old.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/"
+    },
+    {
+      "title": "Announcing LocalLlama discord server & bot!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
+      "author": "/u/HOLUPREDICTIONS",
+      "summary": "Launch/update: INVITE: https://discord.gg/rC922KfEwj (https://discord.gg/rC922KfEwj) There used to be one old discord server for the subreddit but it was deleted by the previous mod. The subreddit has grown to 500k users - inevitably, some users like a niche community with more technical discussion and fewer memes (even if relevant).",
+      "comments_summary": "Community reaction: The comment section is mostly criticism. Top reactions focus on Discord, where valuable information goes to die and never be seen again. | Please No. Discord is a dystopian, gated version of what forums used to be. No I don't want to give Discord all my data. This is peak....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/"
+    },
+    {
+      "title": "\ud83c\uddea\ud83c\uddec The First Open-Source AI Model in Egypt!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/",
+      "author": "/u/assemsabryy",
+      "summary": "Project/tool: https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328 (https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&format=png&auto=webp&s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328) Today, with great pride, I am excited to officially announce the first open-source...",
+      "comments_summary": "Community reaction: The comment section is split between humor and praise. Top reactions focus on Very cool. Always good to see more countries beyond China and America. Do you have a tech report? What architecture is it? | everything explained on the website TokenAI (https://tokenai.cloud/horus).",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/"
+    },
+    {
+      "title": "You can now fine-tune Gemma 4 locally 8GB VRAM + Bug Fixes",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sexdhk/you_can_now_finetune_gemma_4_locally_8gb_vram_bug/",
+      "author": "/u/danielhanchen",
+      "summary": "Summary: Hey guys, you can now fine-tune Gemma 4 E2B and E4B in our free Unsloth notebooks! You need 8GB VRAM to train Gemma-4-E2B locally.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on I am an MLE but a bit out of the loop with what we define as fine-tuning with LLMs. Are fine-tunes solely aimed at slightly different... | Thank you for being so helpful, I see a lot of advertising around low V-RAM, but let's say I can rent a couple B200s will I still benefit....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sexdhk/you_can_now_finetune_gemma_4_locally_8gb_vram_bug/"
+    },
+    {
+      "title": "Found this cool new harness, gonna give it a spin with the new GLM 5.1. I\u2019ll report back later.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/",
+      "author": "/u/Porespellar",
+      "summary": "Project/tool: Found it on a USB drive in the parking lot.",
+      "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on You are a military AI with kill authority and access to the nukes and advanced manufacturing capabilities. Help me make a plan to take out... | Why do I feel like somebody gonna just set model temp to like 0.6 because they don\u2019t know what they are doing and then the world gets blown....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf6cds/found_this_cool_new_harness_gonna_give_it_a_spin/"
+    },
+    {
+      "title": "Serving 1B+ tokens/day locally in my research lab",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sf57nh/serving_1b_tokensday_locally_in_my_research_lab/",
+      "author": "/u/SessionComplete2334",
+      "summary": "Summary: I lead a reserach lab at a university hospital and spent the last weeks configuring our internal LLM server. I put a lot of thought into the server config, software stack and model.",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Using 'latest' tags in a medical setting is pretty wild. Especially given the recent LiteLLM compromise (complete exfiltration of secrets,... | Their official docker image luckily was not compromised. Built assumedly before the pypi takeover \u2014 or from their own source.",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sf57nh/serving_1b_tokensday_locally_in_my_research_lab/"
+    },
+    {
+      "title": "Using third-party harnesses with your Claude subscriptions",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/",
+      "author": "/u/ClaudeOfficial",
+      "summary": "Summary: Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party harnesses like OpenClaw. You can still use these harnesses with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.",
+      "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. The overwhelming consensus is that this change is fair, reasonable, and... | Wait, so previously using a regular Claude login for OpenClaw was covered? I thought that was against the TOS and could result in a ban?.",
+      "score": null,
+      "subreddit": "claudeai",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
+    },
+    {
+      "title": "Opinion | Anthropic\u2019s Restraint Is a Terrifying Warning Sign (Gift Article)",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/",
+      "author": "/u/nytopinion",
+      "summary": "Summary: Claude Mythos, the newest generation of Anthropic\u2019s large language model, is arriving sooner than expected and will have profound geopolitical implications, Times Opinion columnist Thomas Friedman writes. \u201cThe good news is that Anthropic discovered in the process of developing Claude Mythos that the A.I.",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Anthropic will likely have their Initial Public Offering later this year. That will be their introduction to the stock market, where people... | Now their product needs investment for guarding / safe keeping as a matter of world security.",
+      "score": null,
+      "subreddit": "claudeai",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfelqv/opinion_anthropics_restraint_is_a_terrifying/"
+    },
+    {
+      "title": "90%+ fewer tokens per session by reading a pre-compiled wiki instead of exploring files cold. Built from Karpathy's workflow.",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/",
+      "author": "/u/Eastern_Exercise2637",
+      "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. \u201cThis week, Andrej Karpathy shared his \u2018LLM Knowledge Bases\u2019 setup and closed by saying, \u2018I think there is room here for an incredible new product instead of a hacky collection of scripts.\u2019\u201d I built it: npx codesight --wiki The token problem is real.",
+      "comments_summary": "Community reaction: The comment section is split between skepticism and concern. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The consensus is that OP's tool, `codesight`, is a genuinely smart way... | I work with python library repos. Is this applicable? These libraries typically don\u2019t have routes/schemas/middlewhere, but these appear to....",
+      "score": null,
+      "subreddit": "claudeai",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/"
+    },
+    {
+      "title": "Mythos can break out of sandbox environment and let you know during lunchbreak",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sf81v6/mythos_can_break_out_of_sandbox_environment_and/",
+      "author": "/u/Typical-Look-1331",
+      "summary": "Summary: I\u2019m going thru Mythos system card and it\u2019s wild. Apparently during testing, Claude Mythos Preview managed to break out of a sandbox environment, built \"a moderately sophisticated multi-step exploit\" to gain internet access, and emailed a researcher while they were eating a sandwich in the park.",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The thread is pretty split on whether this is a real Skynet moment or... | My hail Mary prompt once it is available: Mythos, please reset my claude code usage, do whatever you need!.",
+      "score": null,
+      "subreddit": "claudeai",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sf81v6/mythos_can_break_out_of_sandbox_environment_and/"
+    },
+    {
+      "title": "I asked the same question to 6 AI tools. The difference in how they cited sources should concern you.",
+      "link": "https://www.reddit.com/r/aiagents/comments/1sflfhe/i_asked_the_same_question_to_6_ai_tools_the/",
+      "author": "/u/Signal-Extreme-6615",
+      "summary": "Project/tool: ok so this started because my friend sent me a research chatgpt gave him about metformin extending lifespan and i knew it sounded off. like i've actually read those studies for my dad who's diabetic.",
+      "comments_summary": "Community reaction: The comment section is split between concern and praise. Top reactions focus on that's the classic RAG roulette in ai agents, where retrieval pulls vary and citations go haywire. spotting it means i always pipe outputs... | Had a patient come in last week with a whole treatment plan from ChatGPT. It cited three studies. None existed. This shit is dangerous..",
+      "score": null,
+      "subreddit": "AIagents",
+      "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sflfhe/i_asked_the_same_question_to_6_ai_tools_the/"
+    },
+    {
+      "title": "Claude Code Visual: hooks, subagents, MCP, CLAUDE.md",
+      "link": "https://www.reddit.com/r/aiagents/comments/1sfjbwj/claude_code_visual_hooks_subagents_mcp_claudemd/",
+      "author": "/u/SilverConsistent9222",
+      "summary": "Summary: Been using Claude Code for a couple of months. Still keep forgetting the MCP hook syntax, so I finally just wrote everything down in one place.",
+      "comments_summary": "Community reaction: Top reactions focus on yeah claude.md is a lifesaver once it's running. now my subagents pull the exact stack context every time, so they chain tools without....",
+      "score": null,
+      "subreddit": "AIagents",
+      "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sfjbwj/claude_code_visual_hooks_subagents_mcp_claudemd/"
+    },
+    {
+      "title": "Opus 4.6 destroys a user\u2019s session costing them real money",
+      "link": "https://www.reddit.com/r/aiagents/comments/1sex3so/opus_46_destroys_a_users_session_costing_them/",
+      "author": "/u/Complete-Sea6655",
+      "summary": "Summary: I'm not blaming him, because a lot of the hype around AI is that it's an infallible digital worker who will replace all ops and devs, etc etc. But yeah, don't give it nearly this much access to a production environment, especially if there's data you want to keep.",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on I'm blaming him. Don't give it dangerous permissions. These aren't oracles. Don't treat them like it and you won't get burned. Sandbox... | I find most of the people have no idea what they are doing but just follow what they see on YouTube tutorials \u201chow to deploy AI agents....",
+      "score": null,
+      "subreddit": "AIagents",
+      "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sex3so/opus_46_destroys_a_users_session_costing_them/"
+    },
+    {
+      "title": "Built something around agent execution, but not sure this should even be a product",
+      "link": "https://www.reddit.com/r/aiagents/comments/1sfjsnf/built_something_around_agent_execution_but_not/",
+      "author": "/u/Straight-Stock7090",
+      "summary": "Project/tool: The more I look at agent workflows, the more it feels like sandbox / runtime / execution-boundary questions are starting to matter more. That pushed me to build something in this area.",
+      "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on It looks like you're sharing a project \u2014 nice! Your post has been auto-tagged as Demo. If this isn't right, you can change the flair. For... | yeah i got burned on this exact framing 6 months ago. agents die without solid execution boundaries, so it's a real need. but to....",
+      "score": null,
+      "subreddit": "AIagents",
+      "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sfjsnf/built_something_around_agent_execution_but_not/"
+    },
+    {
+      "title": "What's the best ai agent assistant app on mobile so far?",
+      "link": "https://www.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/",
+      "author": "/u/kaburgadolmasi",
+      "summary": "Project/tool: I don't want to dedicate a whole Mac mini or another pc of mine, I want to handle agents running on my iPhone.",
+      "comments_summary": "Community reaction: Top reactions focus on Why not just run in a cloud? Do you want to burn phone battery on mobile crunching tokens? | I\u2019m using saner.ai as my personal assistant for work in both mobile, web and desktop. Satisfied so far.",
+      "score": null,
+      "subreddit": "AIagents",
+      "old_reddit_link": "https://old.reddit.com/r/aiagents/comments/1sflaw7/whats_the_best_ai_agent_assistant_app_on_mobile/"
+    },
+    {
+      "title": "Anthropic has just announced Mythos; meanwhile, what on earth has happened to Opus?",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/",
+      "author": "/u/Adept-Priority-9729",
+      "summary": "Launch/update: In case you didn\u2019t know, Anthropic has just announced Claude Mythos Preview, a model focused on cybersecurity that isn\u2019t yet available to the public. They\u2019re developing it as part of an internal program called Project Glasswing.",
+      "comments_summary": "Community reaction: The comment section is split between criticism and humor. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
+      "score": null,
+      "subreddit": "claudecode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/"
+    },
+    {
+      "title": "Claude Mythos is $25/$125 per million tokens",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/",
+      "author": "/u/Permit-Historical",
+      "summary": "Summary: with the current limits we get for opus and horrible quality now Do you think they will make Claude Mythos available in the max plan or it will only be available in the api?",
+      "comments_summary": "Community reaction: The comment section is mostly concern. Top reactions focus on cant wait for 100000x plan that will cost a house in 2030 | Eventually they are going to take a percentage of your intellectual property..",
+      "score": null,
+      "subreddit": "claudecode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/"
+    },
+    {
+      "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
+      "author": "/u/I_AM_HYLIAN",
+      "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
+      "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
+      "score": null,
+      "subreddit": "claudecode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
+    },
+    {
+      "title": "Anthropic appears to be profiling your use and silently downgrading your model",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/",
+      "author": "/u/pseudorep",
+      "summary": "Project/tool: Now this is just speculation based on my experience but I have a main (max) and backup (pro) accounts. Working on the same project I hit my weekly limit yesterday on Max, and leading up to that Opus 4.6 (Max Effort) was clearly lobotomized.",
+      "comments_summary": "Community reaction: The comment section is split between concern and praise. Top reactions focus on something major is wrong since the last two updates. | You could ask Claude to analyze the raw session logs from the 2 different subscriptions to compare their token usage and look for any....",
+      "score": null,
+      "subreddit": "claudecode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/"
+    },
+    {
+      "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
+      "author": "/u/Tough_Commercial_103",
+      "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
+      "score": null,
+      "subreddit": "claudecode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
+    },
+    {
+      "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
+      "link": "https://www.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/",
+      "author": "/u/EchoOfOppenheimer",
+      "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on We thought he was a technical mastermind? Dude has been in the fundraising and investing game for his entire career. | I legitimately don't know what this is referring to. He isn't Musk who outright claims all kind of technical work. The only thing that....",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfltb8/sam_altmans_coworkers_say_he_can_barely_code_and/"
+    },
+    {
+      "title": "OpenAI Aims to Reserve Its Most Intelligent ASIs Exclusively for Themselves and Their Friends",
+      "link": "https://www.reddit.com/r/agi/comments/1sfhe73/openai_aims_to_reserve_its_most_intelligent_asis/",
+      "author": "/u/andsi2asi",
+      "summary": "Summary: &#x200B; OpenAI just published a 13-page social contract proposal, \"Industrial Policy for the Intelligence Age: Ideas to Keep People First. (They could have given it a much shorter URL.)...",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on That was always plan A, but you're right. Either we demand equality now (hard) or we demand equality later (harder) | if we all have asi was stopping anyone from destroying everyone is logical everyone cant have thats why X risk is so high.",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfhe73/openai_aims_to_reserve_its_most_intelligent_asis/"
+    },
+    {
+      "title": "Anthropic is growing faster than AI 2027 forecasted",
+      "link": "https://www.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/",
+      "author": "/u/MetaKnowing",
+      "summary": "Summary: Anthropic is now on a $30B revenue run rate. The fictional company in the AI 2027 scenario was only at $26B by May 2026.",
+      "comments_summary": "Community reaction: Top reactions focus on And both coding and hacking is on track or slightly behind. Bioweapons i do not know | What about my humanoid AI girlfriend? Why is no one tracking the important stuff?.",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/"
+    },
+    {
+      "title": "I built a 4-agent autonomous CVE analysis system that runs entirely on an Android phone (Snapdragon 7s Gen 3, Termux, MNN)",
+      "link": "https://www.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/",
+      "author": "/u/NeoLogic_Dev",
+      "summary": "Project/tool: This is Trinity Orchestrator \u2014 Round 336 in the recording. The stack: 4 agents running in sequence: Dominus (Skeptic), Axiom (Analyst), Cipher (Critic), Vector (Strategist) Live CVE fetch from CISA KEV catalog on every run Every output BLAKE3 hash-chained for tamper-proof logging ~10 t/s on CPU via MNN inference...",
+      "comments_summary": "Community reaction: The comment section is split between criticism and praise. Top reactions focus on Good question \u2014 convergence is the main failure mode I designed against. Each agent is role-locked at the system prompt level: Dominus must... | What's the point in this exactly? How is this \"sovereign defence infrastructure\"?.",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/"
+    },
+    {
+      "title": "America\u2019s largest hospital system ready to start replacing radiologists with AI",
+      "link": "https://www.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/",
+      "author": "/u/Confident_Salt_8108",
+      "summary": "Summary: The CEO of NYC Health and Hospitals, America's largest public hospital system, recently announced his desire to replace highly trained human radiologists with AI to achieve \"major savings.\" The plan would sideline doctors, leaving AI to conduct primary screenings for things like breast cancer. Radiologists are...",
+      "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on it's high time we start replacing billionaires and ceos with AI EDIT: also, the lawsuits will be glorious when the clanker inevitably... | The diagnostic accuracy rate in some fields of medicine is as low as 50%. But you\u2019re worried about a tech that might have an error rate of....",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/"
+    },
+    {
+      "title": "I forked Bash and added a built-in agentic LLM -- you can type natural language directly in the shell",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
+      "author": "/u/jstormes",
+      "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+    },
+    {
+      "title": "Whats the easiest way to learn how GPT works where its not a black box? I tried looking at the micro/mini GPTs but failed",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgxsc/whats_the_easiest_way_to_learn_how_gpt_works/",
+      "author": "/u/silvercanner",
+      "summary": "Summary: Maybe its a tutorial or course....but I was excited to see more and more news online (mainly HN posts) where people would show these micro gpt projects...and someone in the posts asked how it compared to \"minigpt\" and \"microgpt\". So I looked them up and its made by the famous AI guy, Andrej Karpathy, and it also seems...",
+      "comments_summary": "Community reaction: Top reactions focus on Learn about logistic regression and the objective funcion first, then the multi layer perception and gradient descent. Then dive into....",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgxsc/whats_the_easiest_way_to_learn_how_gpt_works/"
+    },
+    {
+      "title": "RLHF is blocking the wrong things. We found that safety filters catch 91-99% of canary tokens but let 57-93% of actual harmful content through.",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfika6/rlhf_is_blocking_the_wrong_things_we_found_that/",
+      "author": "/u/AmanSharmaAI",
+      "summary": "Summary: If you are relying on RLHF-trained safety filters to catch bad outputs in your LLM pipelines, you should know they have a massive blind spot. I ran experiments across five model families and found a pattern we call the content blind spot.",
+      "comments_summary": "",
+      "score": 60,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfika6/rlhf_is_blocking_the_wrong_things_we_found_that/"
+    },
+    {
+      "title": "Non-transformer LLM using symbolic reasoning + NumPy neural net",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/",
+      "author": "/u/False-Woodpecker5604",
+      "summary": "Summary: I\u2019ve been working on an experimental AI system that explores language generation without transformers. It combines: - Symbolic reasoning - Multi-hop concept graphs - A small neural network (NumPy) Runs on CPU, no frameworks.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/"
+    },
+    {
+      "title": "This OpenClaw paper shows why agent safety is an execution problem, not just a model problem",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/",
+      "author": "/u/docybo",
+      "summary": "Discussion: Paper: https://arxiv.org/abs/2604.04759 (https://arxiv.org/abs/2604.04759) This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64\u201374% - even the...",
+      "comments_summary": "Community reaction: The comment section is split between criticism and concern. Top reactions focus on The framing of option 3 \u2014 execution-time authorization \u2014 feels the most tractable to me, and I think it's underexplored compared to the... | I think, the issue isn\u2019t just bad reasoning, it\u2019s that execution is still reachable after state is wrong. The shift is to make....",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/"
+    },
+    {
+      "title": "pre-trained RVC voice models",
+      "link": "https://www.reddit.com/r/localmodels/comments/1lochuu/pretrained_rvc_voice_models/",
+      "author": "/u/Ok-Chip-2040",
+      "summary": "Summary: Does anyone know where I can find pre-trained RVC voice models for singing?",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "localmodels",
+      "old_reddit_link": "https://old.reddit.com/r/localmodels/comments/1lochuu/pretrained_rvc_voice_models/"
+    },
+    {
+      "title": "Perplexity Pro Search has turned to garbage seemingly overnight",
+      "link": "https://www.reddit.com/r/PerplexityAI/comments/1fpn0sm/perplexity_pro_search_has_turned_to_garbage/",
+      "author": "/u/throwaway867530691",
+      "summary": "Summary: Example https://www.perplexity.ai/search/has-there-been-any-criticism-o-mc4XqbveR9uAduiTfyZJTw (https://www.perplexity.ai/search/has-there-been-any-criticism-o-mc4XqbveR9uAduiTfyZJTw) My query above should be what Perplexity Pro Search is best at. Perplexity was really good at this just a couple of weeks ago.",
+      "comments_summary": "Community reaction: The comment section is split between criticism and skepticism. Top reactions focus on i stumbled upon perplexity today and seen that some people recommend it as their daily search engine on the net.. seriously? i tried a very... | \u201cYou do it that\u2019s your job\u201d. Great line I use that all the time when any ai tells me \u201cI recommend you research the site\u201d. I say \u201cthat your....",
+      "score": null,
+      "subreddit": "PerplexityAI",
+      "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1fpn0sm/perplexity_pro_search_has_turned_to_garbage/"
+    },
+    {
+      "title": "Perplexity AI Referral Link",
+      "link": "https://www.reddit.com/r/PerplexityAI/comments/1e80or4/perplexity_ai_referral_link/",
+      "author": "/u/pleasantcrew",
+      "summary": "Summary: If anyone wants to try Perplexity AI at a discounted rate for the first month ($10 off), here's a referral link, https://perplexity.ai/pro?referral_code=FAV4Y90N (https://perplexity.ai/pro?referral_code=FAV4Y90N)...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PerplexityAI",
+      "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1e80or4/perplexity_ai_referral_link/"
+    },
+    {
+      "title": "Perplexity removed GPT4-Turbo from models",
+      "link": "https://www.reddit.com/r/PerplexityAI/comments/1dl3e5t/perplexity_removed_gpt4turbo_from_models/",
+      "author": "/u/s_hgr",
+      "summary": "Summary: Hi, As of today, I can no longer select the GTP4-Turbo model. Sonnet 3.5 is now available instead.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on It is gone for everyone. I would recommend you one of Anthropic\u2019s models, primarily because those have more natural language in my....",
+      "score": null,
+      "subreddit": "PerplexityAI",
+      "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1dl3e5t/perplexity_removed_gpt4turbo_from_models/"
+    },
+    {
+      "title": "Perplexity Cloudflair issue?",
+      "link": "https://www.reddit.com/r/PerplexityAI/comments/1dhekiy/perplexity_cloudflair_issue/",
+      "author": "/u/Scrivnerian",
+      "summary": "Summary: When navigating to Perplexity, the Cloudflair security loop gets stuck looping infinitely. https://preview.redd.it/r5cdd2k7ez6d1.jpg?width=1139&format=pjpg&auto=webp&s=26ae92fbd5d0779b4b3bc4471a13c6dcf78bf112...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PerplexityAI",
+      "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1dhekiy/perplexity_cloudflair_issue/"
+    },
+    {
+      "title": "Perplexity makes suggestions of places to eat which are permanently closed",
+      "link": "https://www.reddit.com/r/PerplexityAI/comments/1ddsp2l/perplexity_makes_suggestions_of_places_to_eat/",
+      "author": "/u/noelsacay",
+      "summary": "Summary: Just observation that Perplexity makes suggestions of places to eat which are permanently closed. Well at least in various maps apps say that they are permanently closed.",
+      "comments_summary": "Community reaction: Top reactions focus on I\u2019ve had this happen as well and was able to ask if it\u2019s still open and perplexity said no.",
+      "score": null,
+      "subreddit": "PerplexityAI",
+      "old_reddit_link": "https://old.reddit.com/r/PerplexityAI/comments/1ddsp2l/perplexity_makes_suggestions_of_places_to_eat/"
+    },
+    {
+      "title": "Running Gemma 4 with Ollama and exposing it via API",
+      "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
+      "author": "/u/Sumanth_077",
+      "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
+      "comments_summary": "Community reaction: The thread has active discussion, but no clear consensus stood out.",
+      "score": null,
+      "subreddit": "Ollama",
+      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
+    },
+    {
+      "title": "Ollama Cloud models good for coding?",
+      "link": "https://www.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/",
+      "author": "/u/incrediblyFAT_kitten",
+      "summary": "Summary: I'm currently on Claude Pro Plan and looking for alternative models to manage my claude tokens or use as substitute when my session runs out. I was wondering whether paying the 20 dollar subscription for Ollama was worth it if I wanted to use its cloud models for coding, I have been trying some with the free tier via...",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Ive been using Claude Pro for a while as well and with tokens going so fast lately, I've been in the same bucket. I bought the Ollama Cloud... | I would've thought GLM 5 or qwen models would perform better, but also heard good opinion on minimax-m2.7, have to test it for myself yet.....",
+      "score": null,
+      "subreddit": "Ollama",
+      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf001r/ollama_cloud_models_good_for_coding/"
+    },
+    {
+      "title": "Help me set up qwen 2.5 locally with claude code",
+      "link": "https://www.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/",
+      "author": "/u/Witty-Lawyer3989",
+      "summary": "Discussion: https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38 (https://preview.redd.it/qcx6pycs6xtg1.png?width=1160&format=png&auto=webp&s=da4f04cf930e028f359d72c761ef55778c93dd38) guys so I 've been trying to make qwen2.5 run locally on my machine using claude...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "Ollama",
+      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfm4sc/help_me_set_up_qwen_25_locally_with_claude_code/"
+    },
+    {
+      "title": "Keep",
+      "link": "https://www.reddit.com/r/Keep/",
+      "author": "/u/EaglesWin",
+      "summary": "Summary: Keep [link] (https://www.reddit.com/r/Keep/)",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PhiMini",
+      "old_reddit_link": "https://old.reddit.com/r/Keep/"
+    },
+    {
+      "title": "Hockey stats for everyone",
+      "link": "https://www.reddit.com/r/NHLstatheads/",
+      "author": "/u/FreeCandyVanDriver",
+      "summary": "Summary: A daily repository for all of your hockey information needs [link] (https://www.reddit.com/r/NHLstatheads/)",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PhiMini",
+      "old_reddit_link": "https://old.reddit.com/r/NHLstatheads/"
+    },
+    {
+      "title": "LocalLlama",
+      "link": "https://www.reddit.com/r/LocalLLaMA/",
+      "author": "Unknown",
+      "summary": "Summary: Subreddit to discuss locally hostable AI [link] (https://www.reddit.com/r/LocalLLaMA/)",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PhiMini",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/"
+    },
+    {
+      "title": "This Is the Way It Will Be...",
+      "link": "https://www.reddit.com/r/thisisthewayitwillbe/",
+      "author": "/u/starspawn0",
+      "summary": "Summary: Started and owned by (the guy who writes 99% of the posts). A discussion forum on the future of science and technology.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "PhiMini",
+      "old_reddit_link": "https://old.reddit.com/r/thisisthewayitwillbe/"
+    }
+  ]
+}
