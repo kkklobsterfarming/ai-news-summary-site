@@ -1,35 +1,15 @@
 {
-  "generated_at_iso": "2026-04-09T04:25:36.924886+08:00",
-  "generated_at": "2026-04-09T04:25:36.924886+08:00",
-  "generated_at_human": "2026-04-09 04:25 GMT+8",
+  "generated_at_iso": "2026-04-09T04:54:04.568730+08:00",
+  "generated_at": "2026-04-09T04:54:04.568730+08:00",
+  "generated_at_human": "2026-04-09 04:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_04-25.md",
+  "file": "summary_2026-04-09_04-54.md",
   "changes": [
     {
-      "title": "Former OpenAI exec: \"The truth is, we're building portals from which we're genuinely summoning aliens ... The portals currently exist in the US, and China, and Sam has added one in the Middle East ... It's the most reckless thing that has been done.\"",
-      "link": "https://old.reddit.com/r/OpenAI/comments/1sg0kpp/former_openai_exec_the_truth_is_were_building/",
-      "subreddit": "openai"
-    },
-    {
-      "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Most B2B dev tool startups building for AI agents are making a fundamental mistake: designing for human logic, not agent behavior",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sg2clw/most_b2b_dev_tool_startups_building_for_ai_agents/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Claude Code Opus 4.6 - Massive Quality Drop. Almost Un-usable. Max 20x",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Is there any mobile app where i can run codex and other ai agents directly from my phone?",
-      "link": "https://old.reddit.com/r/codex/comments/1sg3ef9/is_there_any_mobile_app_where_i_can_run_codex_and/",
+      "title": "Codex and claude - How to have them do code review for each other?",
+      "link": "https://old.reddit.com/r/codex/comments/1sfz1g3/codex_and_claude_how_to_have_them_do_code_review/",
       "subreddit": "Codex"
     }
   ],
@@ -53,7 +33,7 @@
           "link": "https://www.reddit.com/r/OpenAI/comments/1sg0kpp/former_openai_exec_the_truth_is_were_building/",
           "author": "/u/EchoOfOppenheimer",
           "summary": "Summary: [Image: Former OpenAI exec: \"The truth is, we're building portals from which we're genuinely summoning aliens ... The portals currently exist in the US, and China, and Sam has added one in the Middle East ...",
-          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on the \"summoning aliens\" framing is wild but tbh once you see these models actually doing stuff autonomously instead of just chatting it... | Could just be a way to verbally distance ourselves from things we don\u2019t like. Like calling someone the devil, possessed, evil, or inhuman..",
+          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on the \"summoning aliens\" framing is wild but tbh once you see these models actually doing stuff autonomously instead of just chatting it... | Could just be a way to verbally distance ourselves from things we don\u2019t like. Like calling someone the devil, possessed, evil, or inhuman..",
           "score": null,
           "subreddit": "openai",
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg0kpp/former_openai_exec_the_truth_is_were_building/"
@@ -85,16 +65,6 @@
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/"
         },
         {
-          "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
-          "author": "/u/jacek2023",
-          "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-          "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
-          "score": null,
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
-        },
-        {
           "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/",
           "author": "/u/EntertainerFew2832",
@@ -103,6 +73,16 @@
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/"
+        },
+        {
+          "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
+          "author": "/u/jacek2023",
+          "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
+          "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
         },
         {
           "title": "HF moves safetensors to the PyTorch Foundation",
@@ -119,7 +99,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
           "author": "/u/EvilEnginer",
           "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | I will be messaging you in 14 hours on 2026-04-09 05:46:41 UTC to remind you of this link 2 OTHERS CLICKED THIS LINK to send a PM to also....",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | Thanks for sharing this! Would you be willing to do some major hand-holding and explain how to quantize this model into something that will....",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
@@ -187,16 +167,6 @@
       "display_name": "Claude",
       "posts": [
         {
-          "title": "Using third-party harnesses with your Claude subscriptions",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/",
-          "author": "/u/ClaudeOfficial",
-          "summary": "Summary: Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party harnesses like OpenClaw. You can still use these harnesses with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.",
-          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. The overwhelming consensus is that this change is fair, reasonable, and... | Wait, so previously using a regular Claude login for OpenClaw was covered? I thought that was against the TOS and could result in a ban?.",
-          "score": null,
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
-        },
-        {
           "title": "Something happened to Opus 4.6's reasoning effort",
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
           "author": "/u/RealSuperdau",
@@ -253,6 +223,16 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
         },
         {
+          "title": "Claude Code Opus 4.6 - Massive Quality Drop. Almost Un-usable. Max 20x",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/",
+          "author": "/u/scandalous01",
+          "summary": "Summary: [Image: Claude Code Opus 4.6 - Massive Quality Drop. Max 20x] Claude Code for the first time in 2 years did not recognize it had a native Plan Mode.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Agreed. As a similiar poweruser; now you have to hold its hand and yell at opus 4.6 every 2-3 iterations. \ud83d\udc4e | OP please let me know if you find any real alternatives. The nerfed Opus for mythos and now it's practically a toy..",
+          "score": null,
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
+        },
+        {
           "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
           "author": "/u/Tough_Commercial_103",
@@ -271,16 +251,6 @@
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/"
-        },
-        {
-          "title": "Claude Code Opus 4.6 - Massive Quality Drop. Almost Un-usable. Max 20x",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/",
-          "author": "/u/scandalous01",
-          "summary": "Summary: [Image: Claude Code Opus 4.6 - Massive Quality Drop. Max 20x] Claude Code for the first time in 2 years did not recognize it had a native Plan Mode.",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Agreed. As a similiar poweruser; now you have to hold its hand and yell at opus 4.6 every 2-3 iterations. \ud83d\udc4e | OP please let me know if you find any real alternatives. The nerfed Opus for mythos and now it's practically a toy..",
-          "score": null,
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
         }
       ]
     },
@@ -319,14 +289,14 @@
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
         },
         {
-          "title": "Is there any mobile app where i can run codex and other ai agents directly from my phone?",
-          "link": "https://www.reddit.com/r/codex/comments/1sg3ef9/is_there_any_mobile_app_where_i_can_run_codex_and/",
-          "author": "/u/rinkitadhana",
-          "summary": "Project/tool: I\u2019m looking for something built for actual devs, not just ai slop or a good looking app full of bugs. i want to be able to use codex and other ai agents to run real tasks, not just chat.",
-          "comments_summary": "Community reaction: The comment section is split between critical and positive. Top reactions focus on can't you just ssh into your vps from your mobile. You can also deploy the preview in the same vps. | yes, there are many apps rn who supports codex and are opensource and free but not other ai agents or live preview i searched on chatgpt....",
+          "title": "Codex and claude - How to have them do code review for each other?",
+          "link": "https://www.reddit.com/r/codex/comments/1sfz1g3/codex_and_claude_how_to_have_them_do_code_review/",
+          "author": "/u/Capable_Cost_3933",
+          "summary": "Summary: I have openai plus subscriptions and claude pro subscriptions and i use them inside vscode to build my code for my website, products etc. What can i do to improve the co-ordination.",
+          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on I literally just copy over the plan once one produces a plan and tell the new platform to be critical. Usually CC to Codex back to CC for... | Ask Codex to create a custom slash command for you that will fire a script which sends a command to claude to read the plan/code and review....",
           "score": null,
           "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg3ef9/is_there_any_mobile_app_where_i_can_run_codex_and/"
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfz1g3/codex_and_claude_how_to_have_them_do_code_review/"
         }
       ]
     }
@@ -347,7 +317,7 @@
       "link": "https://www.reddit.com/r/OpenAI/comments/1sg0kpp/former_openai_exec_the_truth_is_were_building/",
       "author": "/u/EchoOfOppenheimer",
       "summary": "Summary: [Image: Former OpenAI exec: \"The truth is, we're building portals from which we're genuinely summoning aliens ... The portals currently exist in the US, and China, and Sam has added one in the Middle East ...",
-      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on the \"summoning aliens\" framing is wild but tbh once you see these models actually doing stuff autonomously instead of just chatting it... | Could just be a way to verbally distance ourselves from things we don\u2019t like. Like calling someone the devil, possessed, evil, or inhuman..",
+      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on the \"summoning aliens\" framing is wild but tbh once you see these models actually doing stuff autonomously instead of just chatting it... | Could just be a way to verbally distance ourselves from things we don\u2019t like. Like calling someone the devil, possessed, evil, or inhuman..",
       "score": null,
       "subreddit": "openai",
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg0kpp/former_openai_exec_the_truth_is_were_building/"
@@ -373,16 +343,6 @@
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/"
     },
     {
-      "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
-      "author": "/u/jacek2023",
-      "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-      "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
-      "score": null,
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
-    },
-    {
       "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/",
       "author": "/u/EntertainerFew2832",
@@ -391,6 +351,16 @@
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/"
+    },
+    {
+      "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
+      "author": "/u/jacek2023",
+      "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
+      "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
     },
     {
       "title": "HF moves safetensors to the PyTorch Foundation",
@@ -407,7 +377,7 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
       "author": "/u/EvilEnginer",
       "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | I will be messaging you in 14 hours on 2026-04-09 05:46:41 UTC to remind you of this link 2 OTHERS CLICKED THIS LINK to send a PM to also....",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | Thanks for sharing this! Would you be willing to do some major hand-holding and explain how to quantize this model into something that will....",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
@@ -463,16 +433,6 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfu4z8/tool_quick_hack_to_recover_qwen35_mtp_after/"
     },
     {
-      "title": "Using third-party harnesses with your Claude subscriptions",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/",
-      "author": "/u/ClaudeOfficial",
-      "summary": "Summary: Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party harnesses like OpenClaw. You can still use these harnesses with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.",
-      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 100 comments. The overwhelming consensus is that this change is fair, reasonable, and... | Wait, so previously using a regular Claude login for OpenClaw was covered? I thought that was against the TOS and could result in a ban?.",
-      "score": null,
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sbtmru/using_thirdparty_harnesses_with_your_claude/"
-    },
-    {
       "title": "Something happened to Opus 4.6's reasoning effort",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
       "author": "/u/RealSuperdau",
@@ -523,6 +483,16 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
     },
     {
+      "title": "Claude Code Opus 4.6 - Massive Quality Drop. Almost Un-usable. Max 20x",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/",
+      "author": "/u/scandalous01",
+      "summary": "Summary: [Image: Claude Code Opus 4.6 - Massive Quality Drop. Max 20x] Claude Code for the first time in 2 years did not recognize it had a native Plan Mode.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Agreed. As a similiar poweruser; now you have to hold its hand and yell at opus 4.6 every 2-3 iterations. \ud83d\udc4e | OP please let me know if you find any real alternatives. The nerfed Opus for mythos and now it's practically a toy..",
+      "score": null,
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
+    },
+    {
       "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
       "author": "/u/Tough_Commercial_103",
@@ -541,16 +511,6 @@
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/"
-    },
-    {
-      "title": "Claude Code Opus 4.6 - Massive Quality Drop. Almost Un-usable. Max 20x",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/",
-      "author": "/u/scandalous01",
-      "summary": "Summary: [Image: Claude Code Opus 4.6 - Massive Quality Drop. Max 20x] Claude Code for the first time in 2 years did not recognize it had a native Plan Mode.",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Agreed. As a similiar poweruser; now you have to hold its hand and yell at opus 4.6 every 2-3 iterations. \ud83d\udc4e | OP please let me know if you find any real alternatives. The nerfed Opus for mythos and now it's practically a toy..",
-      "score": null,
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
     },
     {
       "title": "Claude is dead Codex will heal my heart",
@@ -583,14 +543,14 @@
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfo9nn/can_we_please_stop_with_early_quota_resets/"
     },
     {
-      "title": "Is there any mobile app where i can run codex and other ai agents directly from my phone?",
-      "link": "https://www.reddit.com/r/codex/comments/1sg3ef9/is_there_any_mobile_app_where_i_can_run_codex_and/",
-      "author": "/u/rinkitadhana",
-      "summary": "Project/tool: I\u2019m looking for something built for actual devs, not just ai slop or a good looking app full of bugs. i want to be able to use codex and other ai agents to run real tasks, not just chat.",
-      "comments_summary": "Community reaction: The comment section is split between critical and positive. Top reactions focus on can't you just ssh into your vps from your mobile. You can also deploy the preview in the same vps. | yes, there are many apps rn who supports codex and are opensource and free but not other ai agents or live preview i searched on chatgpt....",
+      "title": "Codex and claude - How to have them do code review for each other?",
+      "link": "https://www.reddit.com/r/codex/comments/1sfz1g3/codex_and_claude_how_to_have_them_do_code_review/",
+      "author": "/u/Capable_Cost_3933",
+      "summary": "Summary: I have openai plus subscriptions and claude pro subscriptions and i use them inside vscode to build my code for my website, products etc. What can i do to improve the co-ordination.",
+      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on I literally just copy over the plan once one produces a plan and tell the new platform to be critical. Usually CC to Codex back to CC for... | Ask Codex to create a custom slash command for you that will fire a script which sends a command to claude to read the plan/code and review....",
       "score": null,
       "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg3ef9/is_there_any_mobile_app_where_i_can_run_codex_and/"
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfz1g3/codex_and_claude_how_to_have_them_do_code_review/"
     }
   ]
 }
