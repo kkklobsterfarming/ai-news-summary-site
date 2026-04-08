@@ -1,5 +1,73 @@
 [
   {
+    "generated_at": "2026-04-08T22:54:01.948037+08:00",
+    "generated_at_human": "2026-04-08 22:54 GMT+8",
+    "file": "summary_2026-04-08_22-54.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "Any news on the $100/mo plan?",
+        "link": "https://old.reddit.com/r/OpenAI/comments/1sfs4lx/any_news_on_the_100mo_plan/",
+        "subreddit": "openai"
+      },
+      {
+        "title": "[D] How are reviewers able to get away without providing acknowledgement in ICML 2026?",
+        "link": "https://old.reddit.com/r/MachineLearning/comments/1sftb6h/d_how_are_reviewers_able_to_get_away_without/",
+        "subreddit": "MachineLearning"
+      },
+      {
+        "title": "[P] Building a LLM from scratch with Mary Shelley's \"Frankenstein\" (on Kaggle)",
+        "link": "https://old.reddit.com/r/MachineLearning/comments/1sfuwqh/p_building_a_llm_from_scratch_with_mary_shelleys/",
+        "subreddit": "MachineLearning"
+      },
+      {
+        "title": "What actually makes something the best AI meeting recorder?",
+        "link": "https://old.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
+        "link": "https://old.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "What happened to JoyAI-Image-Edit?",
+        "link": "https://old.reddit.com/r/StableDiffusion/comments/1sfkd0l/what_happened_to_joyaiimageedit/",
+        "subreddit": "StableDiffusion"
+      },
+      {
+        "title": "Sam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans",
+        "link": "https://old.reddit.com/r/singularity/comments/1sft6f8/sam_altman_and_vinod_khosla_agree_ai_will_break/",
+        "subreddit": "singularity"
+      },
+      {
+        "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "How to save 80% on your claude bill with better context",
+        "link": "https://old.reddit.com/r/ClaudeAI/comments/1sfsqq5/how_to_save_80_on_your_claude_bill_with_better/",
+        "subreddit": "claudeai"
+      },
+      {
+        "title": "I built an open-source tool that catches AI agent loops before they burn your API budget",
+        "link": "https://old.reddit.com/r/aiagents/comments/1sfusx3/i_built_an_opensource_tool_that_catches_ai_agent/",
+        "subreddit": "AIagents"
+      },
+      {
+        "title": "I built my own tool to help my developer tool - inspiration from n8n & openclaw",
+        "link": "https://old.reddit.com/r/aiagents/comments/1sfudci/i_built_my_own_tool_to_help_my_developer_tool/",
+        "subreddit": "AIagents"
+      },
+      {
+        "title": "Copy and pasting was the original vibe coding",
+        "link": "https://old.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/",
+        "subreddit": "claudecode"
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-08T20:53:52.909531+08:00",
     "generated_at_human": "2026-04-08 20:53 GMT+8",
     "file": "summary_2026-04-08_20-53.md",
