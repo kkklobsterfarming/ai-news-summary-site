@@ -1,58 +1,12 @@
 {
-  "generated_at_iso": "2026-04-09T00:41:38.046227+08:00",
-  "generated_at": "2026-04-09T00:41:38.046227+08:00",
-  "generated_at_human": "2026-04-09 00:41 GMT+8",
+  "generated_at_iso": "2026-04-09T00:54:02.208138+08:00",
+  "generated_at": "2026-04-09T00:54:02.208138+08:00",
+  "generated_at_human": "2026-04-09 00:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_00-41.md",
-  "changes": [
-    {
-      "title": "HF moves safetensors to the PyTorch Foundation",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Evaluating agentic RAG for financial analysis: a FinanceBench study",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfx0sv/evaluating_agentic_rag_for_financial_analysis_a/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Something happened to Opus 4.6's reasoning effort",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "Dario Ol Marketing Technique",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sfw4cn/how_is_everyone_online_so_dang_gullible_about/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Gpt-5.4 is running out too quickly, almost like Claude",
-      "link": "https://old.reddit.com/r/codex/comments/1sfluq1/gpt54_is_running_out_too_quickly_almost_like/",
-      "subreddit": "Codex"
-    }
-  ],
+  "file": "summary_2026-04-09_00-54.md",
+  "changes": [],
   "sections": [
     {
       "subreddit": "openai",
@@ -171,6 +125,16 @@
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
         },
         {
+          "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
+          "author": "/u/Comfortable-Junket50",
+          "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
+          "comments_summary": "Community reaction: Top reactions focus on The only reliable way is to not give the LLM access to sensitive stuff in the first place. In your scenario, the LLM acts as a user agent....",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
+        },
+        {
           "title": "[Tool] Quick hack to recover Qwen3.5 MTP after fine-tuning for faster inference speed (Transformers)",
           "link": "https://www.reddit.com/r/LLMDevs/comments/1sfu4z8/tool_quick_hack_to_recover_qwen35_mtp_after/",
           "author": "/u/Gailenstorm",
@@ -199,16 +163,6 @@
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sftafv/i_opensourced_my_offline_ai_meeting_assistant/"
-        },
-        {
-          "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
-          "author": "/u/Comfortable-Junket50",
-          "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
         }
       ]
     },
@@ -251,7 +205,7 @@
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/",
           "author": "/u/ergeorgiev",
           "summary": "Summary: [Image: I vibe-coded my cat] My cat Mauri has not only lost more weight than before, but he can no longer meow either. Last year doctors treated him for hepatitis because they noticed something with his liver, but it didn't help much and now he's unwell again.",
-          "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on This happens too much. I really don\u2019t understand why more doctors don\u2019t use LLMs. Obviously they\u2019re not always right and they make... | Man I was having a problem with my car. An emergency brake pull over light would come up. Saying something about my brakes. I took it to....",
+          "comments_summary": "Community reaction: The comment section is split between positive and joking. Top reactions focus on This happens too much. I really don\u2019t understand why more doctors don\u2019t use LLMs. Obviously they\u2019re not always right and they make... | Man I was having a problem with my car. An emergency brake pull over light would come up. Saying something about my brakes. I took it to....",
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/"
@@ -283,6 +237,16 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/"
         },
         {
+          "title": "Dario Ol Marketing Technique",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
+          "author": "/u/pakalumachito",
+          "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
+          "score": null,
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
+        },
+        {
           "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
           "author": "/u/Tough_Commercial_103",
@@ -291,16 +255,6 @@
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
-        },
-        {
-          "title": "Dario Ol Marketing Technique",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
-          "author": "/u/pakalumachito",
-          "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
-          "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
-          "score": null,
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
         },
         {
           "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
@@ -333,7 +287,7 @@
           "link": "https://www.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
           "author": "/u/Beautiful-King-8875",
           "summary": "Summary: I've recently switched to Codex from Claude. Claude became unusable after Anthropics recent update - I'm not even an Open Claw user but noticed a significant reduction in performance and token cuts from their changes.",
-          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
+          "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
           "score": null,
           "subreddit": "Codex",
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
@@ -483,6 +437,16 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
     },
     {
+      "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
+      "author": "/u/Comfortable-Junket50",
+      "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
+      "comments_summary": "Community reaction: Top reactions focus on The only reliable way is to not give the LLM access to sensitive stuff in the first place. In your scenario, the LLM acts as a user agent....",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
+    },
+    {
       "title": "[Tool] Quick hack to recover Qwen3.5 MTP after fine-tuning for faster inference speed (Transformers)",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sfu4z8/tool_quick_hack_to_recover_qwen35_mtp_after/",
       "author": "/u/Gailenstorm",
@@ -511,16 +475,6 @@
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sftafv/i_opensourced_my_offline_ai_meeting_assistant/"
-    },
-    {
-      "title": "Anyone found a clean way to stop LLM agents from leaking sensitive context?",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/",
-      "author": "/u/Comfortable-Junket50",
-      "summary": "Summary: I am hitting an annoying production problem with an internal support agent. The agent gets user context, some retrieved docs, and a bit of account metadata so it can answer tickets properly.",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfy37s/anyone_found_a_clean_way_to_stop_llm_agents_from/"
     },
     {
       "title": "Using third-party harnesses with your Claude subscriptions",
@@ -557,7 +511,7 @@
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/",
       "author": "/u/ergeorgiev",
       "summary": "Summary: [Image: I vibe-coded my cat] My cat Mauri has not only lost more weight than before, but he can no longer meow either. Last year doctors treated him for hepatitis because they noticed something with his liver, but it didn't help much and now he's unwell again.",
-      "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on This happens too much. I really don\u2019t understand why more doctors don\u2019t use LLMs. Obviously they\u2019re not always right and they make... | Man I was having a problem with my car. An emergency brake pull over light would come up. Saying something about my brakes. I took it to....",
+      "comments_summary": "Community reaction: The comment section is split between positive and joking. Top reactions focus on This happens too much. I really don\u2019t understand why more doctors don\u2019t use LLMs. Obviously they\u2019re not always right and they make... | Man I was having a problem with my car. An emergency brake pull over light would come up. Saying something about my brakes. I took it to....",
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/"
@@ -583,6 +537,16 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/"
     },
     {
+      "title": "Dario Ol Marketing Technique",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
+      "author": "/u/pakalumachito",
+      "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
+      "score": null,
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
+    },
+    {
       "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
       "author": "/u/Tough_Commercial_103",
@@ -591,16 +555,6 @@
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
-    },
-    {
-      "title": "Dario Ol Marketing Technique",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
-      "author": "/u/pakalumachito",
-      "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
-      "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on Mythos is just a slightly better Opus that uses a lot more energy and tokens | In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\".",
-      "score": null,
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
     },
     {
       "title": "How is everyone online so dang gullible about this \"Mythos Preview\" leak",
@@ -627,7 +581,7 @@
       "link": "https://www.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
       "author": "/u/Beautiful-King-8875",
       "summary": "Summary: I've recently switched to Codex from Claude. Claude became unusable after Anthropics recent update - I'm not even an Open Claw user but noticed a significant reduction in performance and token cuts from their changes.",
-      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
+      "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I think you're celebrating a little too soon. Sam Altman once said their $200 plan was being overused by $5000. I know that currently you... | I don't disagree - I'm more celebrating the fact it can actually write solid code on the backend..",
       "score": null,
       "subreddit": "Codex",
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
