@@ -1,15 +1,35 @@
 {
-  "generated_at_iso": "2026-04-08T16:21:53.204431+08:00",
-  "generated_at_human": "2026-04-08 16:21 GMT+8",
+  "generated_at_iso": "2026-04-08T16:54:02.695654+08:00",
+  "generated_at_human": "2026-04-08 16:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-08_16-21.md",
+  "file": "summary_2026-04-08_16-54.md",
   "changes": [
     {
-      "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
-      "link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/",
+      "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+      "link": "https://old.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
       "subreddit": "artificial"
+    },
+    {
+      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly - so it built Project Glasswing",
+      "link": "https://old.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/",
+      "subreddit": "agi"
+    },
+    {
+      "title": "Solving OOM on 1-CPU/2GB instances: Using Wave Physics ($H = \\pi\\psi^2$) as a Pre-Inference \u201cCircuit Breaker\"",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/",
+      "subreddit": "llmdevs"
+    },
+    {
+      "title": "Tracked my Ollama Cloud free tier usage to estimate Pro and Max quotas. Anyone else done this?",
+      "link": "https://old.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/",
+      "subreddit": "Ollama"
+    },
+    {
+      "title": "structural and semantic component for improving code reviews with local models",
+      "link": "https://old.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/",
+      "subreddit": "Ollama"
     }
   ],
   "sections": [
@@ -48,7 +68,7 @@
           "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
           "author": "/u/EchoOfOppenheimer",
           "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
-          "comments_summary": "Community reaction: The comment section is split between humor and skepticism. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+          "comments_summary": "Community reaction: Top reactions focus on not surprising. it's not his job to write code. his job is to fly around the world and convince private capital people to throw a hundred... | And hype the technology as much as possible before they go public so the private capital people can dump their stake on retail investors..",
           "score": null,
           "subreddit": "ChatGPT",
           "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
@@ -64,16 +84,6 @@
           "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
         },
         {
-          "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
-          "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
-          "author": "/u/AssignmentHopeful651",
-          "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
-          "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
-          "score": null,
-          "subreddit": "ChatGPT",
-          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
-        },
-        {
           "title": "before you write your next prompt read this first",
           "link": "https://www.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
           "author": "/u/APM-Major-528",
@@ -82,6 +92,16 @@
           "score": null,
           "subreddit": "ChatGPT",
           "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/"
+        },
+        {
+          "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
+          "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
+          "author": "/u/AssignmentHopeful651",
+          "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
+          "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
+          "score": null,
+          "subreddit": "ChatGPT",
+          "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
         }
       ]
     },
@@ -110,16 +130,6 @@
           "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
         },
         {
-          "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
-          "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
-          "author": "/u/Dismal_Piccolo4973",
-          "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "MachineLearning",
-          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
-        },
-        {
           "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
           "link": "https://www.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
           "author": "/u/Inevitable_Back3319",
@@ -128,6 +138,16 @@
           "score": null,
           "subreddit": "MachineLearning",
           "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/"
+        },
+        {
+          "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+          "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+          "author": "/u/Dismal_Piccolo4973",
+          "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "MachineLearning",
+          "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
         },
         {
           "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
@@ -166,14 +186,14 @@
           "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/"
         },
         {
-          "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
-          "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
-          "author": "/u/crua9",
-          "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
-          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
+          "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+          "link": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+          "author": "/u/BubblyOption7980",
+          "summary": "Discussion: Anthropic\u2019s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment.",
+          "comments_summary": "",
           "score": null,
           "subreddit": "artificial",
-          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/"
         },
         {
           "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
@@ -186,14 +206,14 @@
           "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/"
         },
         {
-          "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
-          "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
-          "author": "/u/thedeadenddolls",
-          "summary": "Discussion: I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.",
-          "comments_summary": "",
+          "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+          "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+          "author": "/u/crua9",
+          "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
+          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
           "score": null,
           "subreddit": "artificial",
-          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
+          "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
         }
       ]
     },
@@ -472,7 +492,7 @@
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/",
           "author": "/u/Adept-Priority-9729",
           "summary": "Launch/update: In case you didn\u2019t know, Anthropic has just announced Claude Mythos Preview, a model focused on cybersecurity that isn\u2019t yet available to the public. They\u2019re developing it as part of an internal program called Project Glasswing.",
-          "comments_summary": "Community reaction: The comment section is split between criticism and humor. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
+          "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
           "score": null,
           "subreddit": "claudecode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/"
@@ -488,14 +508,14 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/"
         },
         {
-          "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
-          "author": "/u/I_AM_HYLIAN",
-          "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
-          "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
+          "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
+          "author": "/u/Tough_Commercial_103",
+          "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
+          "comments_summary": "Community reaction: The comment section is split between praise and skepticism. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
           "score": null,
           "subreddit": "claudecode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
         },
         {
           "title": "Anthropic appears to be profiling your use and silently downgrading your model",
@@ -508,14 +528,14 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/"
         },
         {
-          "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
-          "author": "/u/Tough_Commercial_103",
-          "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
-          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
+          "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
+          "author": "/u/I_AM_HYLIAN",
+          "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
+          "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
           "score": null,
           "subreddit": "claudecode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
         }
       ]
     },
@@ -554,6 +574,16 @@
           "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/"
         },
         {
+          "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly - so it built Project Glasswing",
+          "link": "https://www.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/",
+          "author": "/u/Confident_Salt_8108",
+          "summary": "Project/tool: Anthropic has developed a new AI model, Claude Mythos Preview, capable of autonomously identifying severe zero-day vulnerabilities in major operating systems. Citing security risks, the company will not release the model publicly.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "agi",
+          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/"
+        },
+        {
           "title": "I built a 4-agent autonomous CVE analysis system that runs entirely on an Android phone (Snapdragon 7s Gen 3, Termux, MNN)",
           "link": "https://www.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/",
           "author": "/u/NeoLogic_Dev",
@@ -562,16 +592,6 @@
           "score": null,
           "subreddit": "agi",
           "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/"
-        },
-        {
-          "title": "America\u2019s largest hospital system ready to start replacing radiologists with AI",
-          "link": "https://www.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/",
-          "author": "/u/Confident_Salt_8108",
-          "summary": "Summary: The CEO of NYC Health and Hospitals, America's largest public hospital system, recently announced his desire to replace highly trained human radiologists with AI to achieve \"major savings.\" The plan would sideline doctors, leaving AI to conduct primary screenings for things like breast cancer. Radiologists are...",
-          "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on it's high time we start replacing billionaires and ceos with AI EDIT: also, the lawsuits will be glorious when the clanker inevitably... | The diagnostic accuracy rate in some fields of medicine is as low as 50%. But you\u2019re worried about a tech that might have an error rate of....",
-          "score": null,
-          "subreddit": "agi",
-          "old_reddit_link": "https://old.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/"
         }
       ]
     },
@@ -584,10 +604,20 @@
           "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
           "author": "/u/jstormes",
           "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
-          "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
+          "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+        },
+        {
+          "title": "Solving OOM on 1-CPU/2GB instances: Using Wave Physics ($H = \\pi\\psi^2$) as a Pre-Inference \u201cCircuit Breaker\"",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/",
+          "author": "/u/TigerJoo",
+          "summary": "Summary: From what I've been learning, most of you are fighting Out-Of-Memory (OOM) crashes on low-resource instances because everyone treats LLM token outputs like a black box. You send the prompt, VRAM or what not takes over, and hope the signal gain doesn't spike.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/"
         },
         {
           "title": "Whats the easiest way to learn how GPT works where its not a black box? I tried looking at the micro/mini GPTs but failed",
@@ -618,16 +648,6 @@
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/"
-        },
-        {
-          "title": "This OpenClaw paper shows why agent safety is an execution problem, not just a model problem",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/",
-          "author": "/u/docybo",
-          "summary": "Discussion: Paper: https://arxiv.org/abs/2604.04759 (https://arxiv.org/abs/2604.04759) This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64\u201374% - even the...",
-          "comments_summary": "Community reaction: The comment section is split between criticism and concern. Top reactions focus on The framing of option 3 \u2014 execution-time authorization \u2014 feels the most tractable to me, and I think it's underexplored compared to the... | I think, the issue isn\u2019t just bad reasoning, it\u2019s that execution is still reachable after state is wrong. The shift is to make....",
-          "score": null,
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/"
         }
       ]
     },
@@ -712,10 +732,30 @@
           "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
           "author": "/u/Sumanth_077",
           "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
-          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need.",
+          "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need | That is not necessary. Everything is faster than ollama but I guarantee you that vllm is the fastest there is. It is easily twice as fast....",
           "score": null,
           "subreddit": "Ollama",
           "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
+        },
+        {
+          "title": "Tracked my Ollama Cloud free tier usage to estimate Pro and Max quotas. Anyone else done this?",
+          "link": "https://www.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/",
+          "author": "/u/nusquama",
+          "summary": "Summary: I tried to figure out Ollama Cloud's actual quotas. Here's what I found (take it with a grain of salt) Ollama Cloud doesn't publish how many tokens you get on each plan.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "Ollama",
+          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/"
+        },
+        {
+          "title": "structural and semantic component for improving code reviews with local models",
+          "link": "https://www.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/",
+          "author": "/u/Wise_Reflection_8340",
+          "summary": "Summary: I was curious in improving code reviews because they still suck, so researching on a triage layer that you can attach to your local LLMs/api calls for better code reviews. Most review tools dump a PR diff into a model and hope it finds bugs.",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "Ollama",
+          "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/"
         },
         {
           "title": "Ollama Cloud models good for coding?",
@@ -807,7 +847,7 @@
       "link": "https://www.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/",
       "author": "/u/EchoOfOppenheimer",
       "summary": "Summary: A new expose reveals that OpenAI CEO Sam Altman might not be the technical mastermind his public image suggests. According to insiders and former coworkers interviewed by the New Yorker, Altman has a surprisingly shallow grasp of AI, struggles with basic machine learning terminology, and relies entirely on boardroom...",
-      "comments_summary": "Community reaction: The comment section is split between humor and skepticism. Top reactions focus on not surprising. it's not his job to wrtie code. his job is to fly around the world and convince private capital people to throw a hundred... | Yes but almost every ceo of category defining company in last 25 to 30 years were competent engineers or technologists..",
+      "comments_summary": "Community reaction: Top reactions focus on not surprising. it's not his job to write code. his job is to fly around the world and convince private capital people to throw a hundred... | And hype the technology as much as possible before they go public so the private capital people can dump their stake on retail investors..",
       "score": null,
       "subreddit": "ChatGPT",
       "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfmbb7/sam_altmans_coworkers_say_he_can_barely_code_and/"
@@ -823,16 +863,6 @@
       "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sfjg4p/my_gpts_personality_tuned_to_mine/"
     },
     {
-      "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
-      "author": "/u/AssignmentHopeful651",
-      "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
-      "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
-      "score": null,
-      "subreddit": "ChatGPT",
-      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
-    },
-    {
       "title": "before you write your next prompt read this first",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/",
       "author": "/u/APM-Major-528",
@@ -841,6 +871,16 @@
       "score": null,
       "subreddit": "ChatGPT",
       "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sexhim/before_you_write_your_next_prompt_read_this_first/"
+    },
+    {
+      "title": "I genuinely think we're watching an entire generation forget how to think, and everyone's too distracted to notice.",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/",
+      "author": "/u/AssignmentHopeful651",
+      "summary": "Summary: My friend asked ChatGPT what 15% of 60 was. I'm not judging her, I've caught myself doing the same thing.",
+      "comments_summary": "Community reaction: Top reactions focus on \u201cWe're not losing intelligence. We're losing the habit of using it.\u201d That is robot speak for sure | That\u2019s precisely where I stopped reading and came to the comments to see who called it out..",
+      "score": null,
+      "subreddit": "ChatGPT",
+      "old_reddit_link": "https://old.reddit.com/r/ChatGPT/comments/1sf3wzq/i_genuinely_think_were_watching_an_entire/"
     },
     {
       "title": "[D] thoughts on current community moving away from heavy math?",
@@ -863,16 +903,6 @@
       "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/"
     },
     {
-      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
-      "author": "/u/Dismal_Piccolo4973",
-      "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "MachineLearning",
-      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
-    },
-    {
       "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
       "author": "/u/Inevitable_Back3319",
@@ -881,6 +911,16 @@
       "score": null,
       "subreddit": "MachineLearning",
       "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/"
+    },
+    {
+      "title": "[P] If you're building AI agents, logs aren't enough. You need evidence.",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/",
+      "author": "/u/Dismal_Piccolo4973",
+      "summary": "Summary: I have built a programmable governance layer for AI agents. I am considering to open source completely.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "MachineLearning",
+      "old_reddit_link": "https://old.reddit.com/r/MachineLearning/comments/1sfmilh/p_if_youre_building_ai_agents_logs_arent_enough/"
     },
     {
       "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
@@ -913,14 +953,14 @@
       "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/"
     },
     {
-      "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
-      "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
-      "author": "/u/crua9",
-      "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
-      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
+      "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+      "link": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+      "author": "/u/BubblyOption7980",
+      "summary": "Discussion: Anthropic\u2019s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment.",
+      "comments_summary": "",
       "score": null,
       "subreddit": "artificial",
-      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/"
     },
     {
       "title": "You can now prompt OpenClaw into existence. fully 1st party on top of Claude Code",
@@ -933,14 +973,14 @@
       "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmudm/you_can_now_prompt_openclaw_into_existence_fully/"
     },
     {
-      "title": "Can we even achieve AGI with LLMs, why do AI bros still believe we can?",
-      "link": "https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/",
-      "author": "/u/thedeadenddolls",
-      "summary": "Discussion: I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.",
-      "comments_summary": "",
+      "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+      "link": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+      "author": "/u/crua9",
+      "summary": "Summary: I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the \"teeth\" for that movement.",
+      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on This de facto just makes AI illegal in Tennessee. It's not feasible to train AI models to not SOMETIMES emit output that does this,... | >It's not feasible to train AI models to not... The bill's wording is \"to knowingly train an artificial intelligence system to do the....",
       "score": null,
       "subreddit": "artificial",
-      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/"
+      "old_reddit_link": "https://old.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/"
     },
     {
       "title": "V8 alpha is here!",
@@ -1177,7 +1217,7 @@
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/",
       "author": "/u/Adept-Priority-9729",
       "summary": "Launch/update: In case you didn\u2019t know, Anthropic has just announced Claude Mythos Preview, a model focused on cybersecurity that isn\u2019t yet available to the public. They\u2019re developing it as part of an internal program called Project Glasswing.",
-      "comments_summary": "Community reaction: The comment section is split between criticism and humor. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
+      "comments_summary": "Community reaction: The comment section is split between praise and criticism. Top reactions focus on Opus has been completely crushing my coding challenges today. | Opus been completely fucking mine today. It's 50/50 with Claude but I still love it.",
       "score": null,
       "subreddit": "claudecode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfddyx/anthropic_has_just_announced_mythos_meanwhile/"
@@ -1193,14 +1233,14 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sf8gb7/claude_mythos_is_25125_per_million_tokens/"
     },
     {
-      "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
-      "author": "/u/I_AM_HYLIAN",
-      "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
-      "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
+      "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
+      "author": "/u/Tough_Commercial_103",
+      "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
+      "comments_summary": "Community reaction: The comment section is split between praise and skepticism. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
       "score": null,
       "subreddit": "claudecode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
     },
     {
       "title": "Anthropic appears to be profiling your use and silently downgrading your model",
@@ -1213,14 +1253,14 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sffvn9/anthropic_appears_to_be_profiling_your_use_and/"
     },
     {
-      "title": "I used the Mythos referenced architecture patterns from the leaked source to restructure how I prompt Claude Code. The difference is night and day",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/",
-      "author": "/u/Tough_Commercial_103",
-      "summary": "Summary: Ok hear me out, I know the leak discourse has been mostly about the drama and the memes but I've been actually reading the code and trying to understand how Claude Code makes decisions internally. And then I started prompting it differently based on what I found and the results are kind of blowing my mind.",
-      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on Have you used the official brainstorm superpower? You pick up everything you describe for free with this plugin. | Exactly. And much better crafted skill instead of ad-hoc prompts..",
+      "title": "I made a Chrome extension that proves Reddit is showing you bad answers. 79% of \"top\" comments aren't actually the most useful.",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/",
+      "author": "/u/I_AM_HYLIAN",
+      "summary": "Summary: It's a Chrome extension that rescores every comment in a Reddit or HN thread using actual relevance instead of karma. How I built it with Claude: I used Claude (Sonnet via API) for pretty much the entire thing \u2014 generating the Chrome extension scaffold, writing the content extraction logic that pulls comments from...",
+      "comments_summary": "Community reaction: The comment section is mostly humor. Top reactions focus on This post was at the top when I opened this subreddit. You have my upvote. /s | Your comment was top comment for me. Guess we need the tool after all \ud83d\ude44.",
       "score": null,
       "subreddit": "claudecode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sflemo/i_used_the_mythos_referenced_architecture/"
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfjwpd/i_made_a_chrome_extension_that_proves_reddit_is/"
     },
     {
       "title": "Sam Altman's coworkers say he can barely code and misunderstands basic machine learning concepts",
@@ -1253,6 +1293,16 @@
       "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sf0p65/anthropic_is_growing_faster_than_ai_2027/"
     },
     {
+      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly - so it built Project Glasswing",
+      "link": "https://www.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/",
+      "author": "/u/Confident_Salt_8108",
+      "summary": "Project/tool: Anthropic has developed a new AI model, Claude Mythos Preview, capable of autonomously identifying severe zero-day vulnerabilities in major operating systems. Citing security risks, the company will not release the model publicly.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "agi",
+      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/"
+    },
+    {
       "title": "I built a 4-agent autonomous CVE analysis system that runs entirely on an Android phone (Snapdragon 7s Gen 3, Termux, MNN)",
       "link": "https://www.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/",
       "author": "/u/NeoLogic_Dev",
@@ -1263,24 +1313,24 @@
       "old_reddit_link": "https://old.reddit.com/r/agi/comments/1sfjbve/i_built_a_4agent_autonomous_cve_analysis_system/"
     },
     {
-      "title": "America\u2019s largest hospital system ready to start replacing radiologists with AI",
-      "link": "https://www.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/",
-      "author": "/u/Confident_Salt_8108",
-      "summary": "Summary: The CEO of NYC Health and Hospitals, America's largest public hospital system, recently announced his desire to replace highly trained human radiologists with AI to achieve \"major savings.\" The plan would sideline doctors, leaving AI to conduct primary screenings for things like breast cancer. Radiologists are...",
-      "comments_summary": "Community reaction: The comment section is split between praise and concern. Top reactions focus on it's high time we start replacing billionaires and ceos with AI EDIT: also, the lawsuits will be glorious when the clanker inevitably... | The diagnostic accuracy rate in some fields of medicine is as low as 50%. But you\u2019re worried about a tech that might have an error rate of....",
-      "score": null,
-      "subreddit": "agi",
-      "old_reddit_link": "https://old.reddit.com/r/agi/comments/1seqc6q/americas_largest_hospital_system_ready_to_start/"
-    },
-    {
       "title": "I forked Bash and added a built-in agentic LLM -- you can type natural language directly in the shell",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/",
       "author": "/u/jstormes",
       "summary": "Project/tool: DANGER: This software gives an AI agent unrestricted access to execute commands on your system with your full user permissions. The AI can read, write, and delete files, run arbitrary pipelines, and take actions you did not explicitly request.",
-      "comments_summary": "Community reaction: The comment section is split between concern and criticism. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
+      "comments_summary": "Community reaction: The comment section is split between concern and humor. Top reactions focus on Lol. Slapping \"Danger: Exploding hammer\" onto an exploding hammer does not make it okay you made the hammer explosive. 10/10 no notes | Yep, dangerous toys for dangerous girls and boys. I wanted to put lasers on sharks but my wife would not let me so I made this..",
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfgc09/i_forked_bash_and_added_a_builtin_agentic_llm_you/"
+    },
+    {
+      "title": "Solving OOM on 1-CPU/2GB instances: Using Wave Physics ($H = \\pi\\psi^2$) as a Pre-Inference \u201cCircuit Breaker\"",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/",
+      "author": "/u/TigerJoo",
+      "summary": "Summary: From what I've been learning, most of you are fighting Out-Of-Memory (OOM) crashes on low-resource instances because everyone treats LLM token outputs like a black box. You send the prompt, VRAM or what not takes over, and hope the signal gain doesn't spike.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/"
     },
     {
       "title": "Whats the easiest way to learn how GPT works where its not a black box? I tried looking at the micro/mini GPTs but failed",
@@ -1311,16 +1361,6 @@
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfm0jf/nontransformer_llm_using_symbolic_reasoning_numpy/"
-    },
-    {
-      "title": "This OpenClaw paper shows why agent safety is an execution problem, not just a model problem",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/",
-      "author": "/u/docybo",
-      "summary": "Discussion: Paper: https://arxiv.org/abs/2604.04759 (https://arxiv.org/abs/2604.04759) This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64\u201374% - even the...",
-      "comments_summary": "Community reaction: The comment section is split between criticism and concern. Top reactions focus on The framing of option 3 \u2014 execution-time authorization \u2014 feels the most tractable to me, and I think it's underexplored compared to the... | I think, the issue isn\u2019t just bad reasoning, it\u2019s that execution is still reachable after state is wrong. The shift is to make....",
-      "score": null,
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfbdqz/this_openclaw_paper_shows_why_agent_safety_is_an/"
     },
     {
       "title": "pre-trained RVC voice models",
@@ -1387,10 +1427,30 @@
       "link": "https://www.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/",
       "author": "/u/Sumanth_077",
       "summary": "Summary: Google released Gemma 4 a few days ago under Apache 2.0. Four sizes - E2B, E4B, 26B, and 31B.",
-      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need.",
+      "comments_summary": "Community reaction: The comment section is mostly praise. Top reactions focus on No. The E4B is 8B parameters with half activated based on need | That is not necessary. Everything is faster than ollama but I guarantee you that vllm is the fastest there is. It is easily twice as fast....",
       "score": null,
       "subreddit": "Ollama",
       "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sf6gxt/running_gemma_4_with_ollama_and_exposing_it_via/"
+    },
+    {
+      "title": "Tracked my Ollama Cloud free tier usage to estimate Pro and Max quotas. Anyone else done this?",
+      "link": "https://www.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/",
+      "author": "/u/nusquama",
+      "summary": "Summary: I tried to figure out Ollama Cloud's actual quotas. Here's what I found (take it with a grain of salt) Ollama Cloud doesn't publish how many tokens you get on each plan.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "Ollama",
+      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/"
+    },
+    {
+      "title": "structural and semantic component for improving code reviews with local models",
+      "link": "https://www.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/",
+      "author": "/u/Wise_Reflection_8340",
+      "summary": "Summary: I was curious in improving code reviews because they still suck, so researching on a triage layer that you can attach to your local LLMs/api calls for better code reviews. Most review tools dump a PR diff into a model and hope it finds bugs.",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "Ollama",
+      "old_reddit_link": "https://old.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/"
     },
     {
       "title": "Ollama Cloud models good for coding?",

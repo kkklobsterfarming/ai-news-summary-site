@@ -1,5 +1,38 @@
 [
   {
+    "generated_at": "2026-04-08T16:54:02.695654+08:00",
+    "generated_at_human": "2026-04-08 16:54 GMT+8",
+    "file": "summary_2026-04-08_16-54.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+        "link": "https://old.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+        "subreddit": "artificial"
+      },
+      {
+        "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly - so it built Project Glasswing",
+        "link": "https://old.reddit.com/r/agi/comments/1sfncpk/anthropic_says_its_most_powerful_ai_cyber_model/",
+        "subreddit": "agi"
+      },
+      {
+        "title": "Solving OOM on 1-CPU/2GB instances: Using Wave Physics ($H = \\pi\\psi^2$) as a Pre-Inference \u201cCircuit Breaker\"",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1sfndph/solving_oom_on_1cpu2gb_instances_using_wave/",
+        "subreddit": "llmdevs"
+      },
+      {
+        "title": "Tracked my Ollama Cloud free tier usage to estimate Pro and Max quotas. Anyone else done this?",
+        "link": "https://old.reddit.com/r/ollama/comments/1sfn3qr/tracked_my_ollama_cloud_free_tier_usage_to/",
+        "subreddit": "Ollama"
+      },
+      {
+        "title": "structural and semantic component for improving code reviews with local models",
+        "link": "https://old.reddit.com/r/ollama/comments/1sfn2ki/structural_and_semantic_component_for_improving/",
+        "subreddit": "Ollama"
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-08T16:21:53.204431+08:00",
     "generated_at_human": "2026-04-08 16:21 GMT+8",
     "file": "summary_2026-04-08_16-21.md",
