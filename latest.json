@@ -1,16 +1,36 @@
 {
-  "generated_at_iso": "2026-04-09T20:56:18.798078+08:00",
-  "generated_at": "2026-04-09T20:56:18.798078+08:00",
-  "generated_at_human": "2026-04-09 20:56 GMT+8",
+  "generated_at_iso": "2026-04-09T21:00:34.201708+08:00",
+  "generated_at": "2026-04-09T21:00:34.201708+08:00",
+  "generated_at_human": "2026-04-09 21:00 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_20-56.md",
+  "file": "summary_2026-04-09_21-00.md",
   "changes": [
     {
-      "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
-      "subreddit": "llmdevs"
+      "title": "I\u2019m the Maintainer (and Team) behind Open WebUI \u2013 AMA 2025 Q2",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Best search engine for OpenWebUI?",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Trouble shooting a multi agentic issue.",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Need a home OpenWebUI hardware recc for home",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1sf6hod/need_a_home_openwebui_hardware_recc_for_home/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Suggest Changes option",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+      "subreddit": "OpenWebUI"
     }
   ],
   "sections": [
@@ -76,6 +96,72 @@
       ]
     },
     {
+      "subreddit": "OpenWebUI",
+      "display_name": "Open WebUI",
+      "posts": [
+        {
+          "title": "I\u2019m the Maintainer (and Team) behind Open WebUI \u2013 AMA 2025 Q2",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+          "author": "/u/openwebui",
+          "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
+          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
+          "score": null,
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+          "profile_relevance_score": 14
+        },
+        {
+          "title": "Best search engine for OpenWebUI?",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+          "author": "/u/alew3",
+          "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
+          "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
+          "score": null,
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+          "profile_relevance_score": 12
+        },
+        {
+          "title": "Trouble shooting a multi agentic issue.",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
+          "author": "/u/RealFangedSpectre",
+          "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
+          "score": null,
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
+          "profile_relevance_score": 12
+        },
+        {
+          "title": "Need a home OpenWebUI hardware recc for home",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1sf6hod/need_a_home_openwebui_hardware_recc_for_home/",
+          "author": "/u/postfuture",
+          "summary": "Summary: I need recommendations for a hardware setup to run 14B models quickly, and image generation. I am assuming a rack server with a CUDA-ready card with 24 VRAM?",
+          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on What is \"quickly\"? I run two 3060s with 12 GB each in a twelve year old computer. It works but I wouldn't call it \"quick\", and of course... | How crazy would it be to default to something like Mac mini Desktop Computer with Apple M2 Pro chip with 10\u2011core CPU, and 16\u2011core GPU?.",
+          "score": null,
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sf6hod/need_a_home_openwebui_hardware_recc_for_home/",
+          "profile_relevance_score": 7
+        },
+        {
+          "title": "Suggest Changes option",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+          "author": "/u/FreedomFact",
+          "summary": "Summary: I recently decided to try the \"suggest a change\" after an answer in a chat bot is not what I expected to happen with the existing conversation! So, even though I suggest detailed what should happen, it ignores my suggestion completely!",
+          "comments_summary": "Community reaction: Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?.",
+          "score": null,
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+          "profile_relevance_score": 5
+        }
+      ]
+    },
+    {
+      "subreddit": "selfhosted",
+      "display_name": "Self-Hosted",
+      "posts": []
+    },
+    {
       "subreddit": "ClaudeAI",
       "display_name": "Claude",
       "posts": []
@@ -104,6 +190,61 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "I\u2019m the Maintainer (and Team) behind Open WebUI \u2013 AMA 2025 Q2",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+      "author": "/u/openwebui",
+      "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
+      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
+      "score": null,
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+      "profile_relevance_score": 14
+    },
+    {
+      "title": "Best search engine for OpenWebUI?",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+      "author": "/u/alew3",
+      "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
+      "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
+      "score": null,
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+      "profile_relevance_score": 12
+    },
+    {
+      "title": "Trouble shooting a multi agentic issue.",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
+      "author": "/u/RealFangedSpectre",
+      "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
+      "score": null,
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
+      "profile_relevance_score": 12
+    },
+    {
+      "title": "Need a home OpenWebUI hardware recc for home",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1sf6hod/need_a_home_openwebui_hardware_recc_for_home/",
+      "author": "/u/postfuture",
+      "summary": "Summary: I need recommendations for a hardware setup to run 14B models quickly, and image generation. I am assuming a rack server with a CUDA-ready card with 24 VRAM?",
+      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on What is \"quickly\"? I run two 3060s with 12 GB each in a twelve year old computer. It works but I wouldn't call it \"quick\", and of course... | How crazy would it be to default to something like Mac mini Desktop Computer with Apple M2 Pro chip with 10\u2011core CPU, and 16\u2011core GPU?.",
+      "score": null,
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sf6hod/need_a_home_openwebui_hardware_recc_for_home/",
+      "profile_relevance_score": 7
+    },
+    {
+      "title": "Suggest Changes option",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+      "author": "/u/FreedomFact",
+      "summary": "Summary: I recently decided to try the \"suggest a change\" after an answer in a chat bot is not what I expected to happen with the existing conversation! So, even though I suggest detailed what should happen, it ignores my suggestion completely!",
+      "comments_summary": "Community reaction: Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?.",
+      "score": null,
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+      "profile_relevance_score": 5
+    },
     {
       "title": "Am I not using LLM efficient enough?",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
