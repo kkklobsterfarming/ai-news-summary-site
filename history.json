@@ -1,5 +1,85 @@
 [
   {
+    "generated_at": "2026-04-09T20:29:00.372957+08:00",
+    "generated_at_human": "2026-04-09 20:29 GMT+8",
+    "file": "summary_2026-04-09_20-29.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "ggml: backend-agnostic tensor parallelism by JohannesGaessler \u00b7 Pull Request #19378 \u00b7 ggml-org/llama.cpp",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
+        "subreddit": "LocalLLaMA"
+      }
+    ],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": []
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": [
+          {
+            "title": "Gemma 4 on Llama.cpp should be stable now",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+            "author": "/u/ilintar",
+            "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
+            "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was still unstable as of yesterday. | My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it..",
+            "score": null,
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "ggml: backend-agnostic tensor parallelism by JohannesGaessler \u00b7 Pull Request #19378 \u00b7 ggml-org/llama.cpp",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
+            "author": "/u/FullstackSensei",
+            "summary": "Summary: [Image: ggml: backend-agnostic tensor parallelism by JohannesGaessler \u00b7 Pull Request #19378 \u00b7 ggml-org/llama.cpp] Greganov approved the tensor parallelism PR!!!!",
+            "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on backend agnostic TP is huge, multi gpu setups are about to get way less painful. | Cool! Does this work with 2 identical GPU's while also having a 3rd and 4th non-identical GPU?.",
+            "score": null,
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": [
+          {
+            "title": "Am I not using LLM efficient enough?",
+            "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
+            "author": "/u/nutrigrain",
+            "summary": "Summary: I'm a dev for more than 2 decades now and I've been using Cursor, Claude and local llm (qwen3, gemma, etc...) in my daily and side projects. I pay $20/month and my work has an enterprise level.",
+            "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | Haha, while I do hope that is the case, I do want to improve or learn more..",
+            "score": null,
+            "subreddit": "llmdevs",
+            "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": []
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-09T18:54:12.316075+08:00",
     "generated_at_human": "2026-04-09 18:54 GMT+8",
     "file": "summary_2026-04-09_18-54.md",
