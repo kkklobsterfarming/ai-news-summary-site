@@ -1,16 +1,16 @@
 {
-  "generated_at_iso": "2026-04-09T20:29:00.372957+08:00",
-  "generated_at": "2026-04-09T20:29:00.372957+08:00",
-  "generated_at_human": "2026-04-09 20:29 GMT+8",
+  "generated_at_iso": "2026-04-09T20:54:11.930351+08:00",
+  "generated_at": "2026-04-09T20:54:11.930351+08:00",
+  "generated_at_human": "2026-04-09 20:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_20-29.md",
+  "file": "summary_2026-04-09_20-54.md",
   "changes": [
     {
-      "title": "ggml: backend-agnostic tensor parallelism by JohannesGaessler \u00b7 Pull Request #19378 \u00b7 ggml-org/llama.cpp",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
-      "subreddit": "LocalLLaMA"
+      "title": "The solution to usage limits is ... 5.3",
+      "link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
+      "subreddit": "Codex"
     }
   ],
   "sections": [
@@ -77,7 +77,19 @@
     {
       "subreddit": "Codex",
       "display_name": "Codex",
-      "posts": []
+      "posts": [
+        {
+          "title": "The solution to usage limits is ... 5.3",
+          "link": "https://www.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
+          "author": "/u/Illustrious-Many-782",
+          "summary": "Summary: Sure to the imminent reset, I decided to grind through complete testing audits of three different projects simultaneously. I used Codex CLI for one, then realized that my usage wasn't dropping fast enough to use up everything I wanted, so I started another headless.",
+          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this? | yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid....",
+          "score": null,
+          "subreddit": "Codex",
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
+          "profile_relevance_score": 4
+        }
+      ]
     }
   ],
   "all_posts": [
@@ -112,6 +124,17 @@
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "The solution to usage limits is ... 5.3",
+      "link": "https://www.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
+      "author": "/u/Illustrious-Many-782",
+      "summary": "Summary: Sure to the imminent reset, I decided to grind through complete testing audits of three different projects simultaneously. I used Codex CLI for one, then realized that my usage wasn't dropping fast enough to use up everything I wanted, so I started another headless.",
+      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this? | yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid....",
+      "score": null,
+      "subreddit": "Codex",
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
       "profile_relevance_score": 4
     }
   ]
