@@ -1,28 +1,143 @@
 {
-  "generated_at_iso": "2026-04-10T04:53:53.448437+08:00",
-  "generated_at": "2026-04-10T04:53:53.448437+08:00",
-  "generated_at_human": "2026-04-10 04:53 GMT+8",
+  "generated_at_iso": "2026-04-10T06:56:12.824686+08:00",
+  "generated_at": "2026-04-10T06:56:12.824686+08:00",
+  "generated_at_human": "2026-04-10 06:56 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-10_04-53.md",
-  "changes": [],
+  "file": "summary_2026-04-10_06-56.md",
+  "changes": [
+    {
+      "title": "Marco-Mini (17.3B, 0.86B active) and Marco-Nano (8B, 0.6B active) by Alibaba",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgzt0p/marcomini_173b_086b_active_and_marconano_8b_06b/",
+      "subreddit": "LocalLLaMA"
+    },
+    {
+      "title": "AI agents can now open their own bank accounts",
+      "link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+      "subreddit": "openai"
+    },
+    {
+      "title": "I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors",
+      "link": "https://old.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+      "subreddit": "selfhosted"
+    }
+  ],
   "sections": [
     {
       "subreddit": "openai",
       "display_name": "OpenAI",
-      "posts": []
+      "posts": [
+        {
+          "title": "AI agents can now open their own bank accounts",
+          "link": "https://www.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+          "author": "/u/Significant-Doubt648",
+          "summary": "Summary: Dropping it here because I feel like this sub should be talking about it. The short version: banking platform Meow launched MCP support so your Claude/ChatGPT/Gemini agent can open a bank account, issue cards, send money, and audit spend autonomously.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:29 GMT+8: post=mixed, author=mixed \u2014 How do they satisfy banking laws that require identity verification? | 2026-04-10 05:51 GMT+8: post=mixed, author=mixed \u2014 The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting... | 2026-04-10 06:27 GMT+8: post=mixed, author=mixed \u2014 So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!",
+          "comment_analysis": {
+            "summary": "The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual....",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/Nailfoot1975",
+                "timestamp": "2026-04-10 05:29 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "How do they satisfy banking laws that require identity verification?"
+              },
+              {
+                "author": "/u/Significant-Doubt648",
+                "timestamp": "2026-04-10 05:51 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual verification still happens on the backend with..."
+              },
+              {
+                "author": "/u/appmapper",
+                "timestamp": "2026-04-10 06:27 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!"
+              },
+              {
+                "author": "/u/Significant-Doubt648",
+                "timestamp": "2026-04-10 06:00 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "It's from Meow (https://www.meow.com/mcp)"
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-09T21:21:22+00:00",
+          "timestamp_human": "2026-04-10 05:21 GMT+8",
+          "subreddit": "openai",
+          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+          "profile_relevance_score": 5
+        }
+      ]
     },
     {
       "subreddit": "LocalLLaMA",
       "display_name": "LocalLLaMA",
       "posts": [
         {
+          "title": "Marco-Mini (17.3B, 0.86B active) and Marco-Nano (8B, 0.6B active) by Alibaba",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgzt0p/marcomini_173b_086b_active_and_marconano_8b_06b/",
+          "author": "/u/AnticitizenPrime",
+          "summary": "Summary: Looks like these were released six days ago. Did a search and didn't see a post about them.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already.. Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-10 03:43 GMT+8: post=mixed, author=mixed \u2014 Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | 2026-04-10 03:35 GMT+8: post=mixed, author=mixed \u2014 No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so... | 2026-04-10 04:32 GMT+8: post=mixed, author=mixed \u2014 Q4_K_M at 10.6GB - this is way bigger than Qwen3.5B K_M which sits at 2.74GB....",
+          "comment_analysis": {
+            "summary": "The comment section is mostly skeptical. Top reactions focus on Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already..",
+            "overall_sentiment_toward_post": "skeptical",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/EffectiveCeilingFan",
+                "timestamp": "2026-04-10 03:43 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane."
+              },
+              {
+                "author": "/u/AnticitizenPrime",
+                "timestamp": "2026-04-10 03:35 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already."
+              },
+              {
+                "author": "/u/oxygen_addiction",
+                "timestamp": "2026-04-10 04:32 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Q4_K_M at 10.6GB - this is way bigger than Qwen3.5B K_M which sits at 2.74GB. (https://huggingface.co/unsloth/Qwen3.5-4B-GGUF)"
+              },
+              {
+                "author": "/u/john0201",
+                "timestamp": "2026-04-10 04:51 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "You\u2019re comparing a 17B moe model to a 3.5B."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-09T19:33:37+00:00",
+          "timestamp_human": "2026-04-10 03:33 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgzt0p/marcomini_173b_086b_active_and_marconano_8b_06b/",
+          "profile_relevance_score": 9
+        },
+        {
           "title": "Gemma 4 on Llama.cpp should be stable now",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
           "author": "/u/ilintar",
           "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
           "comment_analysis": {
             "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
             "overall_sentiment_toward_post": "mixed",
@@ -57,8 +172,7 @@
                 "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-09T09:48:52+00:00",
@@ -196,7 +310,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
           "author": "/u/openwebui",
           "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
           "comment_analysis": {
             "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
             "overall_sentiment_toward_post": "mixed",
@@ -231,8 +345,7 @@
                 "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
               }
             ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2025-06-12T14:15:16+00:00",
@@ -246,7 +359,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
           "author": "/u/alew3",
           "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
           "comment_analysis": {
             "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
             "overall_sentiment_toward_post": "mixed",
@@ -281,8 +394,7 @@
                 "summary": "I use searchxng with brave, google and DuckDuckGo"
               }
             ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-08T12:37:01+00:00",
@@ -296,7 +408,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
           "author": "/u/RealFangedSpectre",
           "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
           "comment_analysis": {
             "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
             "overall_sentiment_toward_post": "positive",
@@ -324,8 +436,7 @@
                 "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
               }
             ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-08T12:01:34+00:00",
@@ -423,62 +534,62 @@
     {
       "subreddit": "selfhosted",
       "display_name": "Self-Hosted",
-      "posts": []
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "display_name": "Claude",
       "posts": [
         {
-          "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
-          "author": "/u/Suspicious_Low7612",
-          "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:14 GMT+8: post=mixed, author=mixed \u2014 The first time I'm even hearing of this thing | 2026-04-09 22:53 GMT+8: post=mixed, author=mixed \u2014 You have to be in a partner organization to even sit for it.",
+          "title": "I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors",
+          "link": "https://www.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+          "author": "/u/semiramist",
+          "summary": "Project/tool: [Image: I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors] I\u2019ve been trying to get my health data out of Apple\u2019s ecosystem and into something I can actually query, automate, and keep long-term. Ended up building a pipeline that pushes everything...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 06:12 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 06:28 GMT+8: post=mixed, author=mixed \u2014 This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate... | 2026-04-10 06:35 GMT+8: post=mixed, author=mixed \u2014 Good question! On iOS I\u2019m using `HKAnchoredObjectQuery` with persisted anchors, so each sync only sends new...",
           "comment_analysis": {
-            "summary": "The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it..",
-            "overall_sentiment_toward_post": "concerned",
+            "summary": "The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion....",
+            "overall_sentiment_toward_post": "mixed",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
-                "author": "/u/campfig",
-                "timestamp": "2026-04-09 21:03 GMT+8",
+                "author": "/u/asimovs-auditor",
+                "timestamp": "2026-04-10 06:12 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner."
+                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
               },
               {
-                "author": "/u/m0j0m0j",
-                "timestamp": "2026-04-09 20:14 GMT+8",
+                "author": "/u/teyman11",
+                "timestamp": "2026-04-10 06:28 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "The first time I'm even hearing of this thing"
+                "summary": "This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion side?"
               },
               {
-                "author": "/u/siberianmi",
-                "timestamp": "2026-04-09 22:53 GMT+8",
+                "author": "/u/semiramist",
+                "timestamp": "2026-04-10 06:35 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "You have to be in a partner organization to even sit for it."
+                "summary": "Good question! On iOS I\u2019m using `HKAnchoredObjectQuery` with persisted anchors, so each sync only sends new samples, that already cuts most duplicates. On the backend I enforce a..."
               },
               {
-                "author": "/u/PttOne",
-                "timestamp": "2026-04-09 23:41 GMT+8",
+                "author": "/u/veverkap",
+                "timestamp": "2026-04-10 06:29 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "just got my results. passed with 900+. AMA if you are preparing to take this."
+                "summary": "How are you getting the data from HealthKit -> TimescaleDB?"
               }
             ],
             "model": "heuristic-fallback"
           },
           "score": null,
-          "timestamp": "2026-04-09T11:32:19+00:00",
-          "timestamp_human": "2026-04-09 19:32 GMT+8",
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
-          "profile_relevance_score": 6
+          "timestamp": "2026-04-09T22:12:28+00:00",
+          "timestamp_human": "2026-04-10 06:12 GMT+8",
+          "subreddit": "selfhosted",
+          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+          "profile_relevance_score": 4
         }
       ]
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "display_name": "Claude",
+      "posts": []
     },
     {
       "subreddit": "ClaudeCode",
@@ -497,7 +608,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
       "author": "/u/openwebui",
       "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
       "comment_analysis": {
         "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
         "overall_sentiment_toward_post": "mixed",
@@ -532,8 +643,7 @@
             "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
           }
         ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2025-06-12T14:15:16+00:00",
@@ -547,7 +657,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
       "author": "/u/alew3",
       "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
       "comment_analysis": {
         "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
         "overall_sentiment_toward_post": "mixed",
@@ -582,8 +692,7 @@
             "summary": "I use searchxng with brave, google and DuckDuckGo"
           }
         ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-08T12:37:01+00:00",
@@ -597,7 +706,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
       "author": "/u/RealFangedSpectre",
       "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
       "comment_analysis": {
         "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
         "overall_sentiment_toward_post": "positive",
@@ -625,8 +734,7 @@
             "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
           }
         ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-08T12:01:34+00:00",
@@ -636,11 +744,60 @@
       "profile_relevance_score": 12
     },
     {
+      "title": "Marco-Mini (17.3B, 0.86B active) and Marco-Nano (8B, 0.6B active) by Alibaba",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgzt0p/marcomini_173b_086b_active_and_marconano_8b_06b/",
+      "author": "/u/AnticitizenPrime",
+      "summary": "Summary: Looks like these were released six days ago. Did a search and didn't see a post about them.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already.. Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-10 03:43 GMT+8: post=mixed, author=mixed \u2014 Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | 2026-04-10 03:35 GMT+8: post=mixed, author=mixed \u2014 No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so... | 2026-04-10 04:32 GMT+8: post=mixed, author=mixed \u2014 Q4_K_M at 10.6GB - this is way bigger than Qwen3.5B K_M which sits at 2.74GB....",
+      "comment_analysis": {
+        "summary": "The comment section is mostly skeptical. Top reactions focus on Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane. | No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already..",
+        "overall_sentiment_toward_post": "skeptical",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/EffectiveCeilingFan",
+            "timestamp": "2026-04-10 03:43 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Holy shit that\u2019s sparse. 0.86B out of 17.3B is insane."
+          },
+          {
+            "author": "/u/AnticitizenPrime",
+            "timestamp": "2026-04-10 03:35 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "No GGUFs to be seen yet, and not sure about llama.cpp support. Edit: it's based on Qwen MoE arch, so llama.cpp supports it already."
+          },
+          {
+            "author": "/u/oxygen_addiction",
+            "timestamp": "2026-04-10 04:32 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Q4_K_M at 10.6GB - this is way bigger than Qwen3.5B K_M which sits at 2.74GB. (https://huggingface.co/unsloth/Qwen3.5-4B-GGUF)"
+          },
+          {
+            "author": "/u/john0201",
+            "timestamp": "2026-04-10 04:51 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "You\u2019re comparing a 17B moe model to a 3.5B."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-09T19:33:37+00:00",
+      "timestamp_human": "2026-04-10 03:33 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgzt0p/marcomini_173b_086b_active_and_marconano_8b_06b/",
+      "profile_relevance_score": 9
+    },
+    {
       "title": "Gemma 4 on Llama.cpp should be stable now",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
       "author": "/u/ilintar",
       "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
       "comment_analysis": {
         "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
         "overall_sentiment_toward_post": "mixed",
@@ -675,8 +832,7 @@
             "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-09T09:48:52+00:00",
@@ -686,53 +842,53 @@
       "profile_relevance_score": 6
     },
     {
-      "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
-      "author": "/u/Suspicious_Low7612",
-      "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:14 GMT+8: post=mixed, author=mixed \u2014 The first time I'm even hearing of this thing | 2026-04-09 22:53 GMT+8: post=mixed, author=mixed \u2014 You have to be in a partner organization to even sit for it.",
+      "title": "AI agents can now open their own bank accounts",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+      "author": "/u/Significant-Doubt648",
+      "summary": "Summary: Dropping it here because I feel like this sub should be talking about it. The short version: banking platform Meow launched MCP support so your Claude/ChatGPT/Gemini agent can open a bank account, issue cards, send money, and audit spend autonomously.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:29 GMT+8: post=mixed, author=mixed \u2014 How do they satisfy banking laws that require identity verification? | 2026-04-10 05:51 GMT+8: post=mixed, author=mixed \u2014 The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting... | 2026-04-10 06:27 GMT+8: post=mixed, author=mixed \u2014 So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!",
       "comment_analysis": {
-        "summary": "The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it..",
-        "overall_sentiment_toward_post": "concerned",
+        "summary": "The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual....",
+        "overall_sentiment_toward_post": "mixed",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
-            "author": "/u/campfig",
-            "timestamp": "2026-04-09 21:03 GMT+8",
+            "author": "/u/Nailfoot1975",
+            "timestamp": "2026-04-10 05:29 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner."
+            "summary": "How do they satisfy banking laws that require identity verification?"
           },
           {
-            "author": "/u/m0j0m0j",
-            "timestamp": "2026-04-09 20:14 GMT+8",
+            "author": "/u/Significant-Doubt648",
+            "timestamp": "2026-04-10 05:51 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "The first time I'm even hearing of this thing"
+            "summary": "The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual verification still happens on the backend with..."
           },
           {
-            "author": "/u/siberianmi",
-            "timestamp": "2026-04-09 22:53 GMT+8",
+            "author": "/u/appmapper",
+            "timestamp": "2026-04-10 06:27 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "You have to be in a partner organization to even sit for it."
+            "summary": "So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!"
           },
           {
-            "author": "/u/PttOne",
-            "timestamp": "2026-04-09 23:41 GMT+8",
+            "author": "/u/Significant-Doubt648",
+            "timestamp": "2026-04-10 06:00 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "just got my results. passed with 900+. AMA if you are preparing to take this."
+            "summary": "It's from Meow (https://www.meow.com/mcp)"
           }
         ],
         "model": "heuristic-fallback"
       },
       "score": null,
-      "timestamp": "2026-04-09T11:32:19+00:00",
-      "timestamp_human": "2026-04-09 19:32 GMT+8",
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
-      "profile_relevance_score": 6
+      "timestamp": "2026-04-09T21:21:22+00:00",
+      "timestamp_human": "2026-04-10 05:21 GMT+8",
+      "subreddit": "openai",
+      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+      "profile_relevance_score": 5
     },
     {
       "title": "Anyone else experiencing Gemini issues?",
@@ -928,6 +1084,55 @@
       "timestamp_human": "2026-04-09 12:54 GMT+8",
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors",
+      "link": "https://www.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+      "author": "/u/semiramist",
+      "summary": "Project/tool: [Image: I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors] I\u2019ve been trying to get my health data out of Apple\u2019s ecosystem and into something I can actually query, automate, and keep long-term. Ended up building a pipeline that pushes everything...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 06:12 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 06:28 GMT+8: post=mixed, author=mixed \u2014 This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate... | 2026-04-10 06:35 GMT+8: post=mixed, author=mixed \u2014 Good question! On iOS I\u2019m using `HKAnchoredObjectQuery` with persisted anchors, so each sync only sends new...",
+      "comment_analysis": {
+        "summary": "The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion....",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/asimovs-auditor",
+            "timestamp": "2026-04-10 06:12 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+          },
+          {
+            "author": "/u/teyman11",
+            "timestamp": "2026-04-10 06:28 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "This is actually a pretty clean pipeline. Curious about one thing how are you handling late/duplicate HealthKit updates on the ingestion side?"
+          },
+          {
+            "author": "/u/semiramist",
+            "timestamp": "2026-04-10 06:35 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Good question! On iOS I\u2019m using `HKAnchoredObjectQuery` with persisted anchors, so each sync only sends new samples, that already cuts most duplicates. On the backend I enforce a..."
+          },
+          {
+            "author": "/u/veverkap",
+            "timestamp": "2026-04-10 06:29 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "How are you getting the data from HealthKit -> TimescaleDB?"
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-09T22:12:28+00:00",
+      "timestamp_human": "2026-04-10 06:12 GMT+8",
+      "subreddit": "selfhosted",
+      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
       "profile_relevance_score": 4
     }
   ]
