@@ -1,26 +1,21 @@
 {
-  "generated_at_iso": "2026-04-10T00:54:04.381367+08:00",
-  "generated_at": "2026-04-10T00:54:04.381367+08:00",
-  "generated_at_human": "2026-04-10 00:54 GMT+8",
+  "generated_at_iso": "2026-04-10T02:54:03.766389+08:00",
+  "generated_at": "2026-04-10T02:54:03.766389+08:00",
+  "generated_at_human": "2026-04-10 02:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-10_00-54.md",
+  "file": "summary_2026-04-10_02-54.md",
   "changes": [
     {
-      "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Used ray tracing cores on my RTX 5070 Ti for LLM routing \u2014 218x speedup, runs entirely on 1 consumer GPU",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgs3vp/used_ray_tracing_cores_on_my_rtx_5070_ti_for_llm/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Cluade dynamic postgresql layer - asking for advice",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sgmoy4/cluade_dynamic_postgresql_layer_asking_for_advice/",
+      "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
       "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "16 GB VRAM users, what model do we like best now?",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+      "subreddit": "LocalLLaMA"
     }
   ],
   "sections": [
@@ -38,43 +33,43 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
           "author": "/u/jacek2023",
           "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on I like this graph because it starts at 0.... ohh wait | you people are not interested in the actual data? without scaling it would be less visible. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:06 GMT+8: post=mixed, author=mixed \u2014 I like this graph because it starts at 0.... ohh wait | 2026-04-10 00:52 GMT+8: post=mixed, author=mixed \u2014 Mind the ordinate axis doesn\u2019t start at 0 | 2026-04-10 00:54 GMT+8: post=mixed, author=mixed \u2014 you people are not interested in the actual data? without scaling it would be less visible",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:21 GMT+8: post=mixed, author=mixed \u2014 Does this mean I don't need to figure out vllm? Serious question | 2026-04-09 23:29 GMT+8: post=mixed, author=mixed \u2014 vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp | 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations...",
           "comment_analysis": {
-            "summary": "The comment section is split between critical and positive. Top reactions focus on I like this graph because it starts at 0.... ohh wait | you people are not interested in the actual data? without scaling it would be less visible.",
+            "summary": "The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp.",
             "overall_sentiment_toward_post": "mixed",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
-              {
-                "author": "/u/jax_cooper",
-                "timestamp": "2026-04-09 23:06 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I like this graph because it starts at 0.... ohh wait"
-              },
-              {
-                "author": "/u/sersoniko",
-                "timestamp": "2026-04-10 00:52 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Mind the ordinate axis doesn\u2019t start at 0"
-              },
-              {
-                "author": "/u/jacek2023",
-                "timestamp": "2026-04-10 00:54 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "you people are not interested in the actual data? without scaling it would be less visible"
-              },
               {
                 "author": "/u/Far_Course2496",
                 "timestamp": "2026-04-09 23:21 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
                 "summary": "Does this mean I don't need to figure out vllm? Serious question"
+              },
+              {
+                "author": "/u/jacek2023",
+                "timestamp": "2026-04-09 23:29 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp"
+              },
+              {
+                "author": "/u/sleepingsysadmin",
+                "timestamp": "2026-04-09 22:56 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
+              },
+              {
+                "author": "/u/jacek2023",
+                "timestamp": "2026-04-09 22:58 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "is this caused by different GPUs on your setup?"
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
           },
           "score": null,
           "timestamp": "2026-04-09T14:46:19+00:00",
@@ -84,60 +79,11 @@
           "profile_relevance_score": 9
         },
         {
-          "title": "Used ray tracing cores on my RTX 5070 Ti for LLM routing \u2014 218x speedup, runs entirely on 1 consumer GPU",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgs3vp/used_ray_tracing_cores_on_my_rtx_5070_ti_for_llm/",
-          "author": "/u/Critical-Chef9211",
-          "summary": "Summary: Quick summary: I found a way to use the RT Cores (normally used for ray tracing in games) to handle expert routing in MoE models. Those cores sit completely idle during LLM inference, so why not put them to work?",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip... | Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:51 GMT+8: post=mixed, author=mixed \u2014 I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody... | 2026-04-09 23:56 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for the kind words, it really means a lot! The strength of the open-source community is... | 2026-04-09 23:17 GMT+8: post=mixed, author=mixed \u2014 they all specialize by syntactic type (content words vs function words vs punctuation). The \"science expert\"...",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip... | Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these....",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/svankirk",
-                "timestamp": "2026-04-09 23:51 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip into you because it was written by an AI..."
-              },
-              {
-                "author": "/u/Critical-Chef9211",
-                "timestamp": "2026-04-09 23:56 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these experiments and share everything. If we..."
-              },
-              {
-                "author": "/u/grumd",
-                "timestamp": "2026-04-09 23:17 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "they all specialize by syntactic type (content words vs function words vs punctuation). The \"science expert\" is a myth. If this is true then it makes sense why REAP models never..."
-              },
-              {
-                "author": "/u/Critical-Chef9211",
-                "timestamp": "2026-04-09 23:22 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Exactly! The widespread assumption that we can control or edit MoEs by patching or routing to specific \"concept experts\" usually fails because you aren't isolating a topic\u2014you're..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-09T15:01:12+00:00",
-          "timestamp_human": "2026-04-09 23:01 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgs3vp/used_ray_tracing_cores_on_my_rtx_5070_ti_for_llm/",
-          "profile_relevance_score": 9
-        },
-        {
           "title": "Gemma 4 on Llama.cpp should be stable now",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
           "author": "/u/ilintar",
           "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 18:06 GMT+8: post=mixed, author=mixed \u2014 My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
           "comment_analysis": {
             "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
             "overall_sentiment_toward_post": "mixed",
@@ -158,18 +104,18 @@
                 "summary": "on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV. going back to 12.6 fixed it. felt more..."
               },
               {
+                "author": "/u/a_beautiful_rhind",
+                "timestamp": "2026-04-09 19:11 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was still unstable as of yesterday."
+              },
+              {
                 "author": "/u/ambient_temp_xeno",
                 "timestamp": "2026-04-09 18:06 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
                 "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
-              },
-              {
-                "author": "/u/finevelyn",
-                "timestamp": "2026-04-09 18:16 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "The official llama.cpp cuda13 docker image uses 13.1.1 instead of 13.2, and it gave me some speed boost compared to 12.x on 50-series RTX cards."
               }
             ],
             "model": "heuristic-fallback"
@@ -180,6 +126,55 @@
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
           "profile_relevance_score": 6
+        },
+        {
+          "title": "16 GB VRAM users, what model do we like best now?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+          "author": "/u/lemon07r",
+          "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 01:24 GMT+8: post=mixed, author=mixed \u2014 Qwopus is pretty decent, I quite like it | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be...",
+          "comment_analysis": {
+            "summary": "The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/sine120",
+                "timestamp": "2026-04-10 01:20 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
+              },
+              {
+                "author": "/u/Spicy_mch4ggis",
+                "timestamp": "2026-04-10 01:24 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Qwopus is pretty decent, I quite like it"
+              },
+              {
+                "author": "/u/xeeff",
+                "timestamp": "2026-04-10 02:30 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
+              },
+              {
+                "author": "/u/Morphon",
+                "timestamp": "2026-04-10 01:30 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Qwen 3.5 over here! 35B-A3B at Q6K and 128k context (expert weights pushed to CPU). 35t/s. Very usable speeds, low precision loss because of the big quant. 122B-A110B at IQ3_S and..."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-09T17:12:53+00:00",
+          "timestamp_human": "2026-04-10 01:12 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+          "profile_relevance_score": 4
         }
       ]
     },
@@ -187,55 +182,6 @@
       "subreddit": "llmdevs",
       "display_name": "LLM Devs",
       "posts": [
-        {
-          "title": "Am I not using LLM efficient enough?",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
-          "author": "/u/nutrigrain",
-          "summary": "Summary: I'm a dev for more than 2 decades now and I've been using Cursor, Claude and local llm (qwen3, gemma, etc...) in my daily and side projects. I pay $20/month and my work has an enterprise level.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | Haha, while I do hope that is the case, I do want to improve or learn more.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 13:05 GMT+8: post=mixed, author=mixed \u2014 Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | 2026-04-09 14:11 GMT+8: post=mixed, author=mixed \u2014 Haha, while I do hope that is the case, I do want to improve or learn more. | 2026-04-09 13:25 GMT+8: post=mixed, author=mixed \u2014 It depends also a lot how you use it. What are you doing with it. I'm tracking usage from my colleagues and I...",
-          "comment_analysis": {
-            "summary": "The comment section is mostly concerned. Top reactions focus on Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | Haha, while I do hope that is the case, I do want to improve or learn more..",
-            "overall_sentiment_toward_post": "concerned",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/EmotionalCan9434",
-                "timestamp": "2026-04-09 13:05 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much"
-              },
-              {
-                "author": "/u/nutrigrain",
-                "timestamp": "2026-04-09 14:11 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Haha, while I do hope that is the case, I do want to improve or learn more."
-              },
-              {
-                "author": "/u/majorebola",
-                "timestamp": "2026-04-09 13:25 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "It depends also a lot how you use it. What are you doing with it. I'm tracking usage from my colleagues and I can tell: dudes that are involved in massive refactor spend 10x that..."
-              },
-              {
-                "author": "/u/nutrigrain",
-                "timestamp": "2026-04-09 14:14 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I am currently having both the cloud/local models assessing 2 big designs that does the same thing and to create an entirely different design. And I'm surprised how well it can..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-09T05:01:21+00:00",
-          "timestamp_human": "2026-04-09 13:01 GMT+8",
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
-          "profile_relevance_score": 4
-        },
         {
           "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
           "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
@@ -311,7 +257,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
           "author": "/u/alew3",
           "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
           "comment_analysis": {
             "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
             "overall_sentiment_toward_post": "mixed",
@@ -346,8 +292,8 @@
                 "summary": "I use searchxng with brave, google and DuckDuckGo"
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
           },
           "score": null,
           "timestamp": "2026-04-08T12:37:01+00:00",
@@ -361,36 +307,35 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
           "author": "/u/RealFangedSpectre",
           "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+          "comments_summary": "Community reaction (minimax/MiniMax-M2.7): Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author. Overall sentiment \u2014 post: neutral; author: neutral. Reply threads: 2026-04-08 20:43 GMT+8: post=neutral, author=neutral \u2014 Suggests the duplicate models may stem from an arena configuration that groups multiple models together,... | 2026-04-08 20:58 GMT+8: post=concerned, author=neutral \u2014 Follows up asking for specific setting locations, confirming the issue persists and expressing frustration... | 2026-04-09 20:25 GMT+8: post=neutral, author=neutral \u2014 Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and...",
           "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
+            "summary": "Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author.",
+            "overall_sentiment_toward_post": "neutral",
+            "overall_sentiment_toward_author": "neutral",
             "reply_threads": [
               {
                 "author": "/u/ni__ko_las",
                 "timestamp": "2026-04-08 20:43 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you send a prompt to it, the prompt goes..."
+                "sentiment_toward_post": "neutral",
+                "sentiment_toward_author": "neutral",
+                "summary": "Suggests the duplicate models may stem from an arena configuration that groups multiple models together, offering this as a diagnostic lead for troubleshooting."
               },
               {
                 "author": "/u/RealFangedSpectre",
                 "timestamp": "2026-04-08 20:58 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked together, and I can\u2019t default my..."
+                "sentiment_toward_post": "concerned",
+                "sentiment_toward_author": "neutral",
+                "summary": "Follows up asking for specific setting locations, confirming the issue persists and expressing frustration that they cannot set a default workspace LLM."
               },
               {
                 "author": "/u/CapMonster1",
                 "timestamp": "2026-04-09 20:25 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
+                "sentiment_toward_post": "neutral",
+                "sentiment_toward_author": "neutral",
+                "summary": "Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and explaining that monolithic JSON configurations cause the UI routing logic to break down, recommending atomic tool structures instead."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "minimax/MiniMax-M2.7"
           },
           "score": null,
           "timestamp": "2026-04-08T12:01:34+00:00",
@@ -488,103 +433,60 @@
       "display_name": "Claude",
       "posts": [
         {
-          "title": "Cluade dynamic postgresql layer - asking for advice",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgmoy4/cluade_dynamic_postgresql_layer_asking_for_advice/",
-          "author": "/u/Impossible_Carob8839",
-          "summary": "Summary: [Image: Cluade dynamic postgresql layer - asking for advice] I am building analytics platform for manufcaturing companies, where manufacturing companies can find new clients and suppliers by analysing the market trends - manufacturing news feeds, we even analyse satellite data for facilites expansion, parking spots...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude... | Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:30 GMT+8: post=mixed, author=mixed \u2014 yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d... | 2026-04-10 00:22 GMT+8: post=mixed, author=mixed \u2014 Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will... | 2026-04-09 20:54 GMT+8: post=mixed, author=mixed \u2014 dont let claude write one big sql, thats the issue. nobody writes that in one shot. give it a postgres mcp...",
+          "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
+          "author": "/u/Suspicious_Low7612",
+          "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:14 GMT+8: post=mixed, author=mixed \u2014 The first time I'm even hearing of this thing | 2026-04-09 22:53 GMT+8: post=mixed, author=mixed \u2014 You have to be in a partner organization to even sit for it.",
           "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude... | Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure..",
-            "overall_sentiment_toward_post": "mixed",
+            "summary": "The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it..",
+            "overall_sentiment_toward_post": "concerned",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
-                "author": "/u/AmberMonsoon_",
-                "timestamp": "2026-04-09 23:30 GMT+8",
+                "author": "/u/campfig",
+                "timestamp": "2026-04-09 21:03 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude being \u201cnot smart enough\u201d, it\u2019s that..."
+                "summary": "How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner."
               },
               {
-                "author": "/u/e_lizzle",
-                "timestamp": "2026-04-10 00:22 GMT+8",
+                "author": "/u/m0j0m0j",
+                "timestamp": "2026-04-09 20:14 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure."
+                "summary": "The first time I'm even hearing of this thing"
               },
               {
-                "author": "/u/keshrath",
-                "timestamp": "2026-04-09 20:54 GMT+8",
+                "author": "/u/siberianmi",
+                "timestamp": "2026-04-09 22:53 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "dont let claude write one big sql, thats the issue. nobody writes that in one shot. give it a postgres mcp (crystaldba/postgres-mcp works fine) so it can actually look at the..."
+                "summary": "You have to be in a partner organization to even sit for it."
+              },
+              {
+                "author": "/u/OldManNickRod",
+                "timestamp": "2026-04-09 22:35 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I thought you had to be a partner with them to be able to take that test is that correct?"
               }
             ],
             "model": "heuristic-fallback"
           },
           "score": null,
-          "timestamp": "2026-04-09T11:16:22+00:00",
-          "timestamp_human": "2026-04-09 19:16 GMT+8",
+          "timestamp": "2026-04-09T11:32:19+00:00",
+          "timestamp_human": "2026-04-09 19:32 GMT+8",
           "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgmoy4/cluade_dynamic_postgresql_layer_asking_for_advice/",
-          "profile_relevance_score": 5
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
+          "profile_relevance_score": 6
         }
       ]
     },
     {
       "subreddit": "ClaudeCode",
       "display_name": "Claude Code",
-      "posts": [
-        {
-          "title": "The duality of man",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sgm8u1/the_duality_of_man/",
-          "author": "/u/Complete-Sea6655",
-          "summary": "Summary: [Image: The duality of man] One says that Claude has been utterly obliterated whilst someone else says it has never been better. What are your thoughts, so you think Claude has gotten better or worse recently ?",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system... | Yeah thats true Your setup can seriously impact how the model performs. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 18:59 GMT+8: post=mixed, author=mixed \u2014 its not duality of the users, there is a lot of factors, they might hit different api, different config,... | 2026-04-09 19:08 GMT+8: post=mixed, author=mixed \u2014 Yeah thats true Your setup can seriously impact how the model performs | 2026-04-09 19:19 GMT+8: post=mixed, author=mixed \u2014 Users access different servers, which have different loads and different quantizations. This greatly affects...",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system... | Yeah thats true Your setup can seriously impact how the model performs.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/LaylaTichy",
-                "timestamp": "2026-04-09 18:59 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system prompt, work on vastly different things, have..."
-              },
-              {
-                "author": "/u/Complete-Sea6655",
-                "timestamp": "2026-04-09 19:08 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Yeah thats true Your setup can seriously impact how the model performs"
-              },
-              {
-                "author": "/u/Realistic-Turn7337",
-                "timestamp": "2026-04-09 19:19 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Users access different servers, which have different loads and different quantizations. This greatly affects the model's performance."
-              },
-              {
-                "author": "/u/Front_Eagle739",
-                "timestamp": "2026-04-09 19:24 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Yeah this is the only thing that makes sense to me. I think they probably dont quantise the model weights but absolutely do quantise the attention depending on load which is why..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-09T10:53:13+00:00",
-          "timestamp_human": "2026-04-09 18:53 GMT+8",
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sgm8u1/the_duality_of_man/",
-          "profile_relevance_score": 6
-        }
-      ]
+      "posts": []
     },
     {
       "subreddit": "Codex",
@@ -648,7 +550,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
       "author": "/u/alew3",
       "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
       "comment_analysis": {
         "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
         "overall_sentiment_toward_post": "mixed",
@@ -683,8 +585,8 @@
             "summary": "I use searchxng with brave, google and DuckDuckGo"
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
       },
       "score": null,
       "timestamp": "2026-04-08T12:37:01+00:00",
@@ -698,36 +600,35 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
       "author": "/u/RealFangedSpectre",
       "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+      "comments_summary": "Community reaction (minimax/MiniMax-M2.7): Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author. Overall sentiment \u2014 post: neutral; author: neutral. Reply threads: 2026-04-08 20:43 GMT+8: post=neutral, author=neutral \u2014 Suggests the duplicate models may stem from an arena configuration that groups multiple models together,... | 2026-04-08 20:58 GMT+8: post=concerned, author=neutral \u2014 Follows up asking for specific setting locations, confirming the issue persists and expressing frustration... | 2026-04-09 20:25 GMT+8: post=neutral, author=neutral \u2014 Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and...",
       "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
+        "summary": "Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author.",
+        "overall_sentiment_toward_post": "neutral",
+        "overall_sentiment_toward_author": "neutral",
         "reply_threads": [
           {
             "author": "/u/ni__ko_las",
             "timestamp": "2026-04-08 20:43 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you send a prompt to it, the prompt goes..."
+            "sentiment_toward_post": "neutral",
+            "sentiment_toward_author": "neutral",
+            "summary": "Suggests the duplicate models may stem from an arena configuration that groups multiple models together, offering this as a diagnostic lead for troubleshooting."
           },
           {
             "author": "/u/RealFangedSpectre",
             "timestamp": "2026-04-08 20:58 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked together, and I can\u2019t default my..."
+            "sentiment_toward_post": "concerned",
+            "sentiment_toward_author": "neutral",
+            "summary": "Follows up asking for specific setting locations, confirming the issue persists and expressing frustration that they cannot set a default workspace LLM."
           },
           {
             "author": "/u/CapMonster1",
             "timestamp": "2026-04-09 20:25 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
+            "sentiment_toward_post": "neutral",
+            "sentiment_toward_author": "neutral",
+            "summary": "Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and explaining that monolithic JSON configurations cause the UI routing logic to break down, recommending atomic tool structures instead."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "minimax/MiniMax-M2.7"
       },
       "score": null,
       "timestamp": "2026-04-08T12:01:34+00:00",
@@ -741,43 +642,43 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
       "author": "/u/jacek2023",
       "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on I like this graph because it starts at 0.... ohh wait | you people are not interested in the actual data? without scaling it would be less visible. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:06 GMT+8: post=mixed, author=mixed \u2014 I like this graph because it starts at 0.... ohh wait | 2026-04-10 00:52 GMT+8: post=mixed, author=mixed \u2014 Mind the ordinate axis doesn\u2019t start at 0 | 2026-04-10 00:54 GMT+8: post=mixed, author=mixed \u2014 you people are not interested in the actual data? without scaling it would be less visible",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:21 GMT+8: post=mixed, author=mixed \u2014 Does this mean I don't need to figure out vllm? Serious question | 2026-04-09 23:29 GMT+8: post=mixed, author=mixed \u2014 vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp | 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations...",
       "comment_analysis": {
-        "summary": "The comment section is split between critical and positive. Top reactions focus on I like this graph because it starts at 0.... ohh wait | you people are not interested in the actual data? without scaling it would be less visible.",
+        "summary": "The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp.",
         "overall_sentiment_toward_post": "mixed",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
-          {
-            "author": "/u/jax_cooper",
-            "timestamp": "2026-04-09 23:06 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I like this graph because it starts at 0.... ohh wait"
-          },
-          {
-            "author": "/u/sersoniko",
-            "timestamp": "2026-04-10 00:52 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Mind the ordinate axis doesn\u2019t start at 0"
-          },
-          {
-            "author": "/u/jacek2023",
-            "timestamp": "2026-04-10 00:54 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "you people are not interested in the actual data? without scaling it would be less visible"
-          },
           {
             "author": "/u/Far_Course2496",
             "timestamp": "2026-04-09 23:21 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
             "summary": "Does this mean I don't need to figure out vllm? Serious question"
+          },
+          {
+            "author": "/u/jacek2023",
+            "timestamp": "2026-04-09 23:29 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp"
+          },
+          {
+            "author": "/u/sleepingsysadmin",
+            "timestamp": "2026-04-09 22:56 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
+          },
+          {
+            "author": "/u/jacek2023",
+            "timestamp": "2026-04-09 22:58 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "is this caused by different GPUs on your setup?"
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
       },
       "score": null,
       "timestamp": "2026-04-09T14:46:19+00:00",
@@ -787,60 +688,11 @@
       "profile_relevance_score": 9
     },
     {
-      "title": "Used ray tracing cores on my RTX 5070 Ti for LLM routing \u2014 218x speedup, runs entirely on 1 consumer GPU",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgs3vp/used_ray_tracing_cores_on_my_rtx_5070_ti_for_llm/",
-      "author": "/u/Critical-Chef9211",
-      "summary": "Summary: Quick summary: I found a way to use the RT Cores (normally used for ray tracing in games) to handle expert routing in MoE models. Those cores sit completely idle during LLM inference, so why not put them to work?",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip... | Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:51 GMT+8: post=mixed, author=mixed \u2014 I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody... | 2026-04-09 23:56 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for the kind words, it really means a lot! The strength of the open-source community is... | 2026-04-09 23:17 GMT+8: post=mixed, author=mixed \u2014 they all specialize by syntactic type (content words vs function words vs punctuation). The \"science expert\"...",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip... | Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these....",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/svankirk",
-            "timestamp": "2026-04-09 23:51 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I think this is a fascinating approach and it deserves some attention. I don't really understand why anybody would take any time to rip into you because it was written by an AI..."
-          },
-          {
-            "author": "/u/Critical-Chef9211",
-            "timestamp": "2026-04-09 23:56 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Thank you so much for the kind words, it really means a lot! The strength of the open-source community is exactly why I wanted to run these experiments and share everything. If we..."
-          },
-          {
-            "author": "/u/grumd",
-            "timestamp": "2026-04-09 23:17 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "they all specialize by syntactic type (content words vs function words vs punctuation). The \"science expert\" is a myth. If this is true then it makes sense why REAP models never..."
-          },
-          {
-            "author": "/u/Critical-Chef9211",
-            "timestamp": "2026-04-09 23:22 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Exactly! The widespread assumption that we can control or edit MoEs by patching or routing to specific \"concept experts\" usually fails because you aren't isolating a topic\u2014you're..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-09T15:01:12+00:00",
-      "timestamp_human": "2026-04-09 23:01 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgs3vp/used_ray_tracing_cores_on_my_rtx_5070_ti_for_llm/",
-      "profile_relevance_score": 9
-    },
-    {
       "title": "Gemma 4 on Llama.cpp should be stable now",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
       "author": "/u/ilintar",
       "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 18:06 GMT+8: post=mixed, author=mixed \u2014 My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
       "comment_analysis": {
         "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
         "overall_sentiment_toward_post": "mixed",
@@ -861,18 +713,18 @@
             "summary": "on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV. going back to 12.6 fixed it. felt more..."
           },
           {
+            "author": "/u/a_beautiful_rhind",
+            "timestamp": "2026-04-09 19:11 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was still unstable as of yesterday."
+          },
+          {
             "author": "/u/ambient_temp_xeno",
             "timestamp": "2026-04-09 18:06 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
             "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
-          },
-          {
-            "author": "/u/finevelyn",
-            "timestamp": "2026-04-09 18:16 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "The official llama.cpp cuda13 docker image uses 13.1.1 instead of 13.2, and it gave me some speed boost compared to 12.x on 50-series RTX cards."
           }
         ],
         "model": "heuristic-fallback"
@@ -885,52 +737,52 @@
       "profile_relevance_score": 6
     },
     {
-      "title": "The duality of man",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sgm8u1/the_duality_of_man/",
-      "author": "/u/Complete-Sea6655",
-      "summary": "Summary: [Image: The duality of man] One says that Claude has been utterly obliterated whilst someone else says it has never been better. What are your thoughts, so you think Claude has gotten better or worse recently ?",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system... | Yeah thats true Your setup can seriously impact how the model performs. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 18:59 GMT+8: post=mixed, author=mixed \u2014 its not duality of the users, there is a lot of factors, they might hit different api, different config,... | 2026-04-09 19:08 GMT+8: post=mixed, author=mixed \u2014 Yeah thats true Your setup can seriously impact how the model performs | 2026-04-09 19:19 GMT+8: post=mixed, author=mixed \u2014 Users access different servers, which have different loads and different quantizations. This greatly affects...",
+      "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
+      "author": "/u/Suspicious_Low7612",
+      "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:14 GMT+8: post=mixed, author=mixed \u2014 The first time I'm even hearing of this thing | 2026-04-09 22:53 GMT+8: post=mixed, author=mixed \u2014 You have to be in a partner organization to even sit for it.",
       "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system... | Yeah thats true Your setup can seriously impact how the model performs.",
-        "overall_sentiment_toward_post": "mixed",
+        "summary": "The comment section is mostly concerned. Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | You have to be in a partner organization to even sit for it..",
+        "overall_sentiment_toward_post": "concerned",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
-            "author": "/u/LaylaTichy",
-            "timestamp": "2026-04-09 18:59 GMT+8",
+            "author": "/u/campfig",
+            "timestamp": "2026-04-09 21:03 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "its not duality of the users, there is a lot of factors, they might hit different api, different config, different server side system prompt, work on vastly different things, have..."
+            "summary": "How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner."
           },
           {
-            "author": "/u/Complete-Sea6655",
-            "timestamp": "2026-04-09 19:08 GMT+8",
+            "author": "/u/m0j0m0j",
+            "timestamp": "2026-04-09 20:14 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Yeah thats true Your setup can seriously impact how the model performs"
+            "summary": "The first time I'm even hearing of this thing"
           },
           {
-            "author": "/u/Realistic-Turn7337",
-            "timestamp": "2026-04-09 19:19 GMT+8",
+            "author": "/u/siberianmi",
+            "timestamp": "2026-04-09 22:53 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Users access different servers, which have different loads and different quantizations. This greatly affects the model's performance."
+            "summary": "You have to be in a partner organization to even sit for it."
           },
           {
-            "author": "/u/Front_Eagle739",
-            "timestamp": "2026-04-09 19:24 GMT+8",
+            "author": "/u/OldManNickRod",
+            "timestamp": "2026-04-09 22:35 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Yeah this is the only thing that makes sense to me. I think they probably dont quantise the model weights but absolutely do quantise the attention depending on load which is why..."
+            "summary": "I thought you had to be a partner with them to be able to take that test is that correct?"
           }
         ],
         "model": "heuristic-fallback"
       },
       "score": null,
-      "timestamp": "2026-04-09T10:53:13+00:00",
-      "timestamp_human": "2026-04-09 18:53 GMT+8",
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sgm8u1/the_duality_of_man/",
+      "timestamp": "2026-04-09T11:32:19+00:00",
+      "timestamp_human": "2026-04-09 19:32 GMT+8",
+      "subreddit": "ClaudeAI",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
       "profile_relevance_score": 6
     },
     {
@@ -983,48 +835,6 @@
       "profile_relevance_score": 5
     },
     {
-      "title": "Cluade dynamic postgresql layer - asking for advice",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgmoy4/cluade_dynamic_postgresql_layer_asking_for_advice/",
-      "author": "/u/Impossible_Carob8839",
-      "summary": "Summary: [Image: Cluade dynamic postgresql layer - asking for advice] I am building analytics platform for manufcaturing companies, where manufacturing companies can find new clients and suppliers by analysing the market trends - manufacturing news feeds, we even analyse satellite data for facilites expansion, parking spots...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude... | Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:30 GMT+8: post=mixed, author=mixed \u2014 yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d... | 2026-04-10 00:22 GMT+8: post=mixed, author=mixed \u2014 Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will... | 2026-04-09 20:54 GMT+8: post=mixed, author=mixed \u2014 dont let claude write one big sql, thats the issue. nobody writes that in one shot. give it a postgres mcp...",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude... | Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure..",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/AmberMonsoon_",
-            "timestamp": "2026-04-09 23:30 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "yeah this is a pretty common wall once you try to go from \u201cAI answers questions\u201d \u2192 \u201cAI builds real queries\u201d problem isn\u2019t really Claude being \u201cnot smart enough\u201d, it\u2019s that..."
-          },
-          {
-            "author": "/u/e_lizzle",
-            "timestamp": "2026-04-10 00:22 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Great response. Maybe this is the one legit use case for GraphQL, throw it in front of PG. At a minimum will be much more secure."
-          },
-          {
-            "author": "/u/keshrath",
-            "timestamp": "2026-04-09 20:54 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "dont let claude write one big sql, thats the issue. nobody writes that in one shot. give it a postgres mcp (crystaldba/postgres-mcp works fine) so it can actually look at the..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-09T11:16:22+00:00",
-      "timestamp_human": "2026-04-09 19:16 GMT+8",
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgmoy4/cluade_dynamic_postgresql_layer_asking_for_advice/",
-      "profile_relevance_score": 5
-    },
-    {
       "title": "Suggest Changes option",
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
       "author": "/u/FreedomFact",
@@ -1053,52 +863,52 @@
       "profile_relevance_score": 5
     },
     {
-      "title": "Am I not using LLM efficient enough?",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
-      "author": "/u/nutrigrain",
-      "summary": "Summary: I'm a dev for more than 2 decades now and I've been using Cursor, Claude and local llm (qwen3, gemma, etc...) in my daily and side projects. I pay $20/month and my work has an enterprise level.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | Haha, while I do hope that is the case, I do want to improve or learn more.. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-09 13:05 GMT+8: post=mixed, author=mixed \u2014 Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | 2026-04-09 14:11 GMT+8: post=mixed, author=mixed \u2014 Haha, while I do hope that is the case, I do want to improve or learn more. | 2026-04-09 13:25 GMT+8: post=mixed, author=mixed \u2014 It depends also a lot how you use it. What are you doing with it. I'm tracking usage from my colleagues and I...",
+      "title": "16 GB VRAM users, what model do we like best now?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+      "author": "/u/lemon07r",
+      "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 01:24 GMT+8: post=mixed, author=mixed \u2014 Qwopus is pretty decent, I quite like it | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be...",
       "comment_analysis": {
-        "summary": "The comment section is mostly concerned. Top reactions focus on Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much | Haha, while I do hope that is the case, I do want to improve or learn more..",
-        "overall_sentiment_toward_post": "concerned",
+        "summary": "The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+        "overall_sentiment_toward_post": "mixed",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
-            "author": "/u/EmotionalCan9434",
-            "timestamp": "2026-04-09 13:05 GMT+8",
+            "author": "/u/sine120",
+            "timestamp": "2026-04-10 01:20 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Maybe it\u2019s because you\u2019re using it efficiently, so you don\u2019t need to pay that much"
+            "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
           },
           {
-            "author": "/u/nutrigrain",
-            "timestamp": "2026-04-09 14:11 GMT+8",
+            "author": "/u/Spicy_mch4ggis",
+            "timestamp": "2026-04-10 01:24 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Haha, while I do hope that is the case, I do want to improve or learn more."
+            "summary": "Qwopus is pretty decent, I quite like it"
           },
           {
-            "author": "/u/majorebola",
-            "timestamp": "2026-04-09 13:25 GMT+8",
+            "author": "/u/xeeff",
+            "timestamp": "2026-04-10 02:30 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "It depends also a lot how you use it. What are you doing with it. I'm tracking usage from my colleagues and I can tell: dudes that are involved in massive refactor spend 10x that..."
+            "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
           },
           {
-            "author": "/u/nutrigrain",
-            "timestamp": "2026-04-09 14:14 GMT+8",
+            "author": "/u/Morphon",
+            "timestamp": "2026-04-10 01:30 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "I am currently having both the cloud/local models assessing 2 big designs that does the same thing and to create an entirely different design. And I'm surprised how well it can..."
+            "summary": "Qwen 3.5 over here! 35B-A3B at Q6K and 128k context (expert weights pushed to CPU). 35t/s. Very usable speeds, low precision loss because of the big quant. 122B-A110B at IQ3_S and..."
           }
         ],
         "model": "heuristic-fallback"
       },
       "score": null,
-      "timestamp": "2026-04-09T05:01:21+00:00",
-      "timestamp_human": "2026-04-09 13:01 GMT+8",
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
+      "timestamp": "2026-04-09T17:12:53+00:00",
+      "timestamp_human": "2026-04-10 01:12 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
       "profile_relevance_score": 4
     },
     {
