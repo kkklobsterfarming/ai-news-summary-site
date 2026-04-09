@@ -1,35 +1,30 @@
 {
-  "generated_at_iso": "2026-04-09T06:53:54.180931+08:00",
-  "generated_at": "2026-04-09T06:53:54.180931+08:00",
-  "generated_at_human": "2026-04-09 06:53 GMT+8",
+  "generated_at_iso": "2026-04-09T08:54:09.221056+08:00",
+  "generated_at": "2026-04-09T08:54:09.221056+08:00",
+  "generated_at_human": "2026-04-09 08:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_06-53.md",
+  "file": "summary_2026-04-09_08-54.md",
   "changes": [
     {
-      "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
-      "link": "https://old.reddit.com/r/OpenAI/comments/1sfvr8j/mustafa_suleyman_ai_development_wont_hit_a_wall/",
+      "title": "I deleted everything, yet ChatGPT still keeps my chat history.",
+      "link": "https://old.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/",
       "subreddit": "openai"
     },
     {
-      "title": "Diversity beats selection: what the ATLAS ablation says about test-time compute",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Anthropic's recent run of \"Bad Luck\" is exactly what State sponsored AI attacks would look like",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sg5088/anthropics_recent_run_of_bad_luck_is_exactly_what/",
+      "title": "Claude Code got my Meta ads account permanently banned. Don't make the same mistake I did.",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/",
       "subreddit": "ClaudeAI"
     },
     {
-      "title": "Meta just dropped a new coding model",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/",
+      "title": "Karpathy said \"there's room for an incredible product here.\" I built it 99% fewer tokens per Claude Code session by compiling your codebase into a wiki.",
+      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sg9nj6/karpathy_said_theres_room_for_an_incredible/",
       "subreddit": "ClaudeCode"
     },
     {
-      "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
-      "link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
+      "title": "Pro Users \u2014 do you hit limits?",
+      "link": "https://old.reddit.com/r/codex/comments/1sg9fxt/pro_users_do_you_hit_limits/",
       "subreddit": "Codex"
     }
   ],
@@ -43,7 +38,7 @@
           "link": "https://www.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/",
           "author": "/u/py-net",
           "summary": "Summary: [Image: Monetization truly doesn\u2019t care how big your user base is. People will always pay for what is working best for them in the moment.",
-          "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on How the fuck can they just makeup their revenue how ever they want? Aren\u2019t they supposed to report revenue of the number of actual dollars... | They are private companies, not public. Only publicly traded companies are required to use standard accounting methods for reporting....",
+          "comments_summary": "Community reaction: Top reactions focus on How the fuck can they just makeup their revenue how ever they want? Aren\u2019t they supposed to report revenue of the number of actual dollars... | They are private companies, not public. Only publicly traded companies are required to use standard accounting methods for reporting....",
           "score": null,
           "subreddit": "openai",
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/"
@@ -69,14 +64,14 @@
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfqz25/we_are_already_in_the_early_stages_of_recursive/"
         },
         {
-          "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
-          "link": "https://www.reddit.com/r/OpenAI/comments/1sfvr8j/mustafa_suleyman_ai_development_wont_hit_a_wall/",
-          "author": "/u/techreview",
-          "summary": "Summary: [Image: Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why] From this opinion article by Mustafa Suleyman: We evolved for a linear world. If you walk for an hour, you cover a certain distance.",
-          "comments_summary": "Community reaction: Top reactions focus on Are you familiar with the concept of a sigmoidal curve? | You could replace the nouns and this would work perfectly fine for crypto or NFTs if it was written four years ago. Thrilled to see where....",
+          "title": "I deleted everything, yet ChatGPT still keeps my chat history.",
+          "link": "https://www.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/",
+          "author": "/u/Vast-Moose1393",
+          "summary": "Summary: I deleted all my chats, memories, projects, archived chats, preferences, an advertising memory, the lot. The only thing I left was my name and my job role.",
+          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Nothing is deleted from servers, only unassigned. This is true for every single company who you give data too. Data is more valuable than... | Yep, but my main gripe is that they're not transparent about it. It's buried deep in the T&C's, and the ChatGPT model continues to gaslight....",
           "score": null,
           "subreddit": "openai",
-          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfvr8j/mustafa_suleyman_ai_development_wont_hit_a_wall/"
+          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/"
         }
       ]
     },
@@ -89,7 +84,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/",
           "author": "/u/EntertainerFew2832",
           "summary": "Project/tool: [Image: It finally happened, I actually had a use case for a local LLM and it was brilliant] https://preview.redd.it/6v2q5726j0ug1.png?width=2950&format=png&auto=webp&s=142b34c6829d80d7ff807a3a589441463d0babf9...",
-          "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on Worth clarifying my wife was concerned about my sinuses, just not about the specific version of Gemma I was running on my MacBook \ud83d\ude02 | just not about the specific version of Gemma So, she\u2019s team Qwen?.",
+          "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on This is a great story and exactly why, even though I run some heavier models locally on my server at home, I always have small on-device... | So cool, it's crazy to have such tiny (I mean it's not huge) model with that much knowledge baked in.",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/"
@@ -109,7 +104,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
           "author": "/u/jacek2023",
           "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-          "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on I am trying to understand why listed changes require new GGUF and why 31B was not updated, but I see that GGUFs for 26B and E2B are new | All models have just been updated, from e2b to 31B. They are now available at huggingface..",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
@@ -129,7 +124,7 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
           "author": "/u/EvilEnginer",
           "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | does this mean the 27B dense model have similar training bug or is it only MOE?.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | Just curious... who's actually responsible for the bug in this model? The GGUF creator? HauhauCS? The Qwen team? Seems like an important....",
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
@@ -165,20 +160,10 @@
           "link": "https://www.reddit.com/r/LLMDevs/comments/1sfzp0i/kimi_vs_glm_vs_claude_vs_gpt/",
           "author": "/u/YoungXardas",
           "summary": "Summary: I am planning to buy a subscription for one of these models. I am a developer and planning to buy a package between 10-40$.",
-          "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on I\u2019ve bounced between all of these for real work, and yeah\u2026 benchmarks don\u2019t tell the whole story. If you just want the cleanest experience... | Your answer is unique! Usually, people would say not to go with Claude because it barely gives any usage to 20$ plan anymore..",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I'm a software engineer and if you do serious work you need Claude at the Max plan. Everything else Is a waste of time | Claude feels like it's been lobotomized in the past few weeks. Sonnet 4.6 basically feels like Haiku but with a higher thinking budget, and....",
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfzp0i/kimi_vs_glm_vs_claude_vs_gpt/"
-        },
-        {
-          "title": "Diversity beats selection: what the ATLAS ablation says about test-time compute",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/",
-          "author": "/u/Additional_Wish_3619",
-          "summary": "Benchmark/result: ATLAS is the open source test-time compute project from a Virginia Tech business student that hit #1 on HN earlier in March. The headline is a frozen Qwen3-14B-Q4_K_M scoring 74.6% pass@1-v(k=3) on 599 LiveCodeBench v5 problems, up from 54.9% on the base model.",
-          "comments_summary": "",
-          "score": 4,
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/"
         },
         {
           "title": "Multi-agent investment analyst with CrewAI",
@@ -189,6 +174,16 @@
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfzgb9/multiagent_investment_analyst_with_crewai/"
+        },
+        {
+          "title": "Diversity beats selection: what the ATLAS ablation says about test-time compute",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/",
+          "author": "/u/Additional_Wish_3619",
+          "summary": "Benchmark/result: ATLAS is the open source test-time compute project from a Virginia Tech business student that hit #1 on HN earlier in March. The headline is a frozen Qwen3-14B-Q4_K_M scoring 74.6% pass@1-v(k=3) on 599 LiveCodeBench v5 problems, up from 54.9% on the base model.",
+          "comments_summary": "",
+          "score": 4,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/"
         }
       ]
     },
@@ -211,10 +206,20 @@
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sg5088/anthropics_recent_run_of_bad_luck_is_exactly_what/",
           "author": "/u/Intraluminal",
           "summary": "Summary: Anthropic recently announced an AI model called 'Mythos' that reportedly was able to find \"zero-day\" attacks in numerous common software stacks, basically allowing it to take over a number of common apps that run the internet. Mythos wasn't trained for offensive cyber.",
-          "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on A lot of people's instant reaction to your post would be something like \"You don't know that for sure!\" Just a meaningless \"caution\" that... | You looked at a piece of toast. You saw a face in it. The logical conclusion, of course, was that God is sending you messages, what else....",
+          "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on Forget about state sponsored. Billionaires can buy and provision an entire data center and run the most evil hacking AI it's possible to... | \u2026which has probably already been built to various degrees by powers that be. Let\u2019s be real.",
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg5088/anthropics_recent_run_of_bad_luck_is_exactly_what/"
+        },
+        {
+          "title": "Claude Code got my Meta ads account permanently banned. Don't make the same mistake I did.",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/",
+          "author": "/u/SurfaceLabs",
+          "summary": "Summary: connected claude code to our meta ads account thinking i was about to automate everything. pulling campaign data, generating creatives, shifting budgets, the whole thing.",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The overwhelming consensus is that Claude didn't get your account... | \"That throwing stick stunt of yours has boomeranged on us!'.",
+          "score": null,
+          "subreddit": "ClaudeAI",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/"
         },
         {
           "title": "I vibe-coded my cat",
@@ -225,16 +230,6 @@
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/"
-        },
-        {
-          "title": "How to save 80% on your claude bill with better context",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfsqq5/how_to_save_80_on_your_claude_bill_with_better/",
-          "author": "/u/TaskSpecialist5881",
-          "summary": "Summary: [Image: How to save 80% on your claude bill with better context] been building web apps with claude lately and those token limits have honestly started hitting me too. i\u2019m using claude 4.6 sonnet for a research tool, but feeding it raw web data was absolutely nuking my limits.",
-          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The community is in violent agreement with OP: these cost-saving tricks... | left extended thinking on high for a batch job and came back to a number that made me close the laptop and go outside. set hard limits in....",
-          "score": null,
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfsqq5/how_to_save_80_on_your_claude_bill_with_better/"
         }
       ]
     },
@@ -267,7 +262,7 @@
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/",
           "author": "/u/Complete-Sea6655",
           "summary": "Summary: [Image: Meta just dropped a new coding model] It looks decent (atleats the benchmarks do). The multimodal looks to be the best part of \"Spark Muse\" The agentic section is pretty bad when compared to Opus 4.6, I find it weird that all the numbers are in blue even though they are worse than the comparisons, quite...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on If it is an open model.. and stuck on Vertex.. then I will. | open weights model.. i mean.. its not like you gotta sign into a meta account or something :P.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | exactly I was listening to dwarkesh the other day who was saying that it seems like anthropic are the only ones not benchmarkmaxxing.",
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/"
@@ -283,14 +278,14 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
         },
         {
-          "title": "W to the F",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/",
-          "author": "/u/Krum_Rum_2hell",
-          "summary": "Summary: This last 2 months in a nutshell > Releases awesome 4.6 model > Wow, very impressive > I buy Claude MAX > Love it for a month > Token usage get KO'd with a Hadouken! to the nuts > Claude Code suddenly asks me after every prompt if I want to \"go to bed\".",
-          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on From Max Claude to Pro Codex; it was a necessary switch of survival. The one thing codex sux is UI; a custom skill temporarily patched this... | I'm thinking of making the codex change at this point. I'm so tired of paying a $100 a month, and for what?.",
+          "title": "Karpathy said \"there's room for an incredible product here.\" I built it 99% fewer tokens per Claude Code session by compiling your codebase into a wiki.",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg9nj6/karpathy_said_theres_room_for_an_incredible/",
+          "author": "/u/Eastern_Exercise2637",
+          "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. Every Claude Code session starts the same way.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Thanks - right now my team is focused on the \u201cemergent properties\u201d between multiple complex codebases and systems. Can we give our coding... | no. codesight maps dependencies, blast radius, and event flows (Kafka, BullMQ, Redis pub/sub) within a single codebase. It doesn't do....",
           "score": null,
           "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/"
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg9nj6/karpathy_said_theres_room_for_an_incredible/"
         }
       ]
     },
@@ -298,6 +293,16 @@
       "subreddit": "Codex",
       "display_name": "Codex",
       "posts": [
+        {
+          "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
+          "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
+          "author": "/u/dr-tenma",
+          "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
+          "comments_summary": "Community reaction: Top reactions focus on Chrome mcp is like magic and I was thinking of doing something like this thanks I will give it a shot!.",
+          "score": null,
+          "subreddit": "Codex",
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
+        },
         {
           "title": "Claude is dead Codex will heal my heart",
           "link": "https://www.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/",
@@ -309,14 +314,14 @@
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
         },
         {
-          "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
-          "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
-          "author": "/u/dr-tenma",
-          "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
-          "comments_summary": "Community reaction: Top reactions focus on Chrome mcp is like magic and I was thinking of doing something like this thanks I will give it a shot!.",
+          "title": "Pro Users \u2014 do you hit limits?",
+          "link": "https://www.reddit.com/r/codex/comments/1sg9fxt/pro_users_do_you_hit_limits/",
+          "author": "/u/Purple-Programmer-7",
+          "summary": "Summary: 10x cost != 6x use\u2026 Do you pro users hit limits often? Can anyone comp to the Claude code max plans?",
+          "comments_summary": "Community reaction: The comment section is mostly skeptical. Top reactions focus on I swear my work/business account hits limits faster than my personal plus account these days\u2026 | I also have personal plus. Codex working on 2 projects almost the whole day. Never hit a limit. But ok, the question was about pro users..",
           "score": null,
           "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg9fxt/pro_users_do_you_hit_limits/"
         },
         {
           "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
@@ -347,7 +352,7 @@
       "link": "https://www.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/",
       "author": "/u/py-net",
       "summary": "Summary: [Image: Monetization truly doesn\u2019t care how big your user base is. People will always pay for what is working best for them in the moment.",
-      "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on How the fuck can they just makeup their revenue how ever they want? Aren\u2019t they supposed to report revenue of the number of actual dollars... | They are private companies, not public. Only publicly traded companies are required to use standard accounting methods for reporting....",
+      "comments_summary": "Community reaction: Top reactions focus on How the fuck can they just makeup their revenue how ever they want? Aren\u2019t they supposed to report revenue of the number of actual dollars... | They are private companies, not public. Only publicly traded companies are required to use standard accounting methods for reporting....",
       "score": null,
       "subreddit": "openai",
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sftdkl/monetization_truly_doesnt_care_how_big_your_user/"
@@ -373,21 +378,21 @@
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfqz25/we_are_already_in_the_early_stages_of_recursive/"
     },
     {
-      "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1sfvr8j/mustafa_suleyman_ai_development_wont_hit_a_wall/",
-      "author": "/u/techreview",
-      "summary": "Summary: [Image: Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why] From this opinion article by Mustafa Suleyman: We evolved for a linear world. If you walk for an hour, you cover a certain distance.",
-      "comments_summary": "Community reaction: Top reactions focus on Are you familiar with the concept of a sigmoidal curve? | You could replace the nouns and this would work perfectly fine for crypto or NFTs if it was written four years ago. Thrilled to see where....",
+      "title": "I deleted everything, yet ChatGPT still keeps my chat history.",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/",
+      "author": "/u/Vast-Moose1393",
+      "summary": "Summary: I deleted all my chats, memories, projects, archived chats, preferences, an advertising memory, the lot. The only thing I left was my name and my job role.",
+      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Nothing is deleted from servers, only unassigned. This is true for every single company who you give data too. Data is more valuable than... | Yep, but my main gripe is that they're not transparent about it. It's buried deep in the T&C's, and the ChatGPT model continues to gaslight....",
       "score": null,
       "subreddit": "openai",
-      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sfvr8j/mustafa_suleyman_ai_development_wont_hit_a_wall/"
+      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/"
     },
     {
       "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/",
       "author": "/u/EntertainerFew2832",
       "summary": "Project/tool: [Image: It finally happened, I actually had a use case for a local LLM and it was brilliant] https://preview.redd.it/6v2q5726j0ug1.png?width=2950&format=png&auto=webp&s=142b34c6829d80d7ff807a3a589441463d0babf9...",
-      "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on Worth clarifying my wife was concerned about my sinuses, just not about the specific version of Gemma I was running on my MacBook \ud83d\ude02 | just not about the specific version of Gemma So, she\u2019s team Qwen?.",
+      "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on This is a great story and exactly why, even though I run some heavier models locally on my server at home, I always have small on-device... | So cool, it's crazy to have such tiny (I mean it's not huge) model with that much knowledge baked in.",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg2686/it_finally_happened_i_actually_had_a_use_case_for/"
@@ -407,7 +412,7 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
       "author": "/u/jacek2023",
       "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-      "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on I am trying to understand why listed changes require new GGUF and why 31B was not updated, but I see that GGUFs for 26B and E2B are new | All models have just been updated, from e2b to 31B. They are now available at huggingface..",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
@@ -427,7 +432,7 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
       "author": "/u/EvilEnginer",
       "summary": "Summary: I found and fixed training bug in Qwen3.5 35B A3B model. Here my fixed version: https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF (https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF) Upgraded system prompt that unlocks deep thinking (works great with this...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | does this mean the 27B dense model have similar training bug or is it only MOE?.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Yep, very true. GGUF is some kind of \"blackbox\" with hidden things. | Just curious... who's actually responsible for the bug in this model? The GGUF creator? HauhauCS? The Qwen team? Seems like an important....",
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/"
@@ -457,20 +462,10 @@
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sfzp0i/kimi_vs_glm_vs_claude_vs_gpt/",
       "author": "/u/YoungXardas",
       "summary": "Summary: I am planning to buy a subscription for one of these models. I am a developer and planning to buy a package between 10-40$.",
-      "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on I\u2019ve bounced between all of these for real work, and yeah\u2026 benchmarks don\u2019t tell the whole story. If you just want the cleanest experience... | Your answer is unique! Usually, people would say not to go with Claude because it barely gives any usage to 20$ plan anymore..",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on I'm a software engineer and if you do serious work you need Claude at the Max plan. Everything else Is a waste of time | Claude feels like it's been lobotomized in the past few weeks. Sonnet 4.6 basically feels like Haiku but with a higher thinking budget, and....",
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfzp0i/kimi_vs_glm_vs_claude_vs_gpt/"
-    },
-    {
-      "title": "Diversity beats selection: what the ATLAS ablation says about test-time compute",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/",
-      "author": "/u/Additional_Wish_3619",
-      "summary": "Benchmark/result: ATLAS is the open source test-time compute project from a Virginia Tech business student that hit #1 on HN earlier in March. The headline is a frozen Qwen3-14B-Q4_K_M scoring 74.6% pass@1-v(k=3) on 599 LiveCodeBench v5 problems, up from 54.9% on the base model.",
-      "comments_summary": "",
-      "score": 4,
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/"
     },
     {
       "title": "Multi-agent investment analyst with CrewAI",
@@ -481,6 +476,16 @@
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfzgb9/multiagent_investment_analyst_with_crewai/"
+    },
+    {
+      "title": "Diversity beats selection: what the ATLAS ablation says about test-time compute",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/",
+      "author": "/u/Additional_Wish_3619",
+      "summary": "Benchmark/result: ATLAS is the open source test-time compute project from a Virginia Tech business student that hit #1 on HN earlier in March. The headline is a frozen Qwen3-14B-Q4_K_M scoring 74.6% pass@1-v(k=3) on 599 LiveCodeBench v5 problems, up from 54.9% on the base model.",
+      "comments_summary": "",
+      "score": 4,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sg868o/diversity_beats_selection_what_the_atlas_ablation/"
     },
     {
       "title": "Something happened to Opus 4.6's reasoning effort",
@@ -497,10 +502,20 @@
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sg5088/anthropics_recent_run_of_bad_luck_is_exactly_what/",
       "author": "/u/Intraluminal",
       "summary": "Summary: Anthropic recently announced an AI model called 'Mythos' that reportedly was able to find \"zero-day\" attacks in numerous common software stacks, basically allowing it to take over a number of common apps that run the internet. Mythos wasn't trained for offensive cyber.",
-      "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on A lot of people's instant reaction to your post would be something like \"You don't know that for sure!\" Just a meaningless \"caution\" that... | You looked at a piece of toast. You saw a face in it. The logical conclusion, of course, was that God is sending you messages, what else....",
+      "comments_summary": "Community reaction: The comment section is split between concerned and critical. Top reactions focus on Forget about state sponsored. Billionaires can buy and provision an entire data center and run the most evil hacking AI it's possible to... | \u2026which has probably already been built to various degrees by powers that be. Let\u2019s be real.",
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg5088/anthropics_recent_run_of_bad_luck_is_exactly_what/"
+    },
+    {
+      "title": "Claude Code got my Meta ads account permanently banned. Don't make the same mistake I did.",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/",
+      "author": "/u/SurfaceLabs",
+      "summary": "Summary: connected claude code to our meta ads account thinking i was about to automate everything. pulling campaign data, generating creatives, shifting budgets, the whole thing.",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The overwhelming consensus is that Claude didn't get your account... | \"That throwing stick stunt of yours has boomeranged on us!'.",
+      "score": null,
+      "subreddit": "ClaudeAI",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/"
     },
     {
       "title": "I vibe-coded my cat",
@@ -511,16 +526,6 @@
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfpopp/i_vibecoded_my_cat/"
-    },
-    {
-      "title": "How to save 80% on your claude bill with better context",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfsqq5/how_to_save_80_on_your_claude_bill_with_better/",
-      "author": "/u/TaskSpecialist5881",
-      "summary": "Summary: [Image: How to save 80% on your claude bill with better context] been building web apps with claude lately and those token limits have honestly started hitting me too. i\u2019m using claude 4.6 sonnet for a research tool, but feeding it raw web data was absolutely nuking my limits.",
-      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The community is in violent agreement with OP: these cost-saving tricks... | left extended thinking on high for a batch job and came back to a number that made me close the laptop and go outside. set hard limits in....",
-      "score": null,
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfsqq5/how_to_save_80_on_your_claude_bill_with_better/"
     },
     {
       "title": "Copy and pasting was the original vibe coding",
@@ -547,7 +552,7 @@
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/",
       "author": "/u/Complete-Sea6655",
       "summary": "Summary: [Image: Meta just dropped a new coding model] It looks decent (atleats the benchmarks do). The multimodal looks to be the best part of \"Spark Muse\" The agentic section is pretty bad when compared to Opus 4.6, I find it weird that all the numbers are in blue even though they are worse than the comparisons, quite...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on If it is an open model.. and stuck on Vertex.. then I will. | open weights model.. i mean.. its not like you gotta sign into a meta account or something :P.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | exactly I was listening to dwarkesh the other day who was saying that it seems like anthropic are the only ones not benchmarkmaxxing.",
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/"
@@ -563,14 +568,24 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg2kkc/claude_code_opus_46_massive_quality_drop_almost/"
     },
     {
-      "title": "W to the F",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/",
-      "author": "/u/Krum_Rum_2hell",
-      "summary": "Summary: This last 2 months in a nutshell > Releases awesome 4.6 model > Wow, very impressive > I buy Claude MAX > Love it for a month > Token usage get KO'd with a Hadouken! to the nuts > Claude Code suddenly asks me after every prompt if I want to \"go to bed\".",
-      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on From Max Claude to Pro Codex; it was a necessary switch of survival. The one thing codex sux is UI; a custom skill temporarily patched this... | I'm thinking of making the codex change at this point. I'm so tired of paying a $100 a month, and for what?.",
+      "title": "Karpathy said \"there's room for an incredible product here.\" I built it 99% fewer tokens per Claude Code session by compiling your codebase into a wiki.",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg9nj6/karpathy_said_theres_room_for_an_incredible/",
+      "author": "/u/Eastern_Exercise2637",
+      "summary": "Project/tool: Reduced Claude context from 47,450 tokens \u2192 360 tokens. Every Claude Code session starts the same way.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on Thanks - right now my team is focused on the \u201cemergent properties\u201d between multiple complex codebases and systems. Can we give our coding... | no. codesight maps dependencies, blast radius, and event flows (Kafka, BullMQ, Redis pub/sub) within a single codebase. It doesn't do....",
       "score": null,
       "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxa2o/w_to_the_f/"
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg9nj6/karpathy_said_theres_room_for_an_incredible/"
+    },
+    {
+      "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
+      "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
+      "author": "/u/dr-tenma",
+      "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
+      "comments_summary": "Community reaction: Top reactions focus on Chrome mcp is like magic and I was thinking of doing something like this thanks I will give it a shot!.",
+      "score": null,
+      "subreddit": "Codex",
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
     },
     {
       "title": "Claude is dead Codex will heal my heart",
@@ -583,14 +598,14 @@
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sfpwks/claude_is_dead_codex_will_heal_my_heart/"
     },
     {
-      "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
-      "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
-      "author": "/u/dr-tenma",
-      "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
-      "comments_summary": "Community reaction: Top reactions focus on Chrome mcp is like magic and I was thinking of doing something like this thanks I will give it a shot!.",
+      "title": "Pro Users \u2014 do you hit limits?",
+      "link": "https://www.reddit.com/r/codex/comments/1sg9fxt/pro_users_do_you_hit_limits/",
+      "author": "/u/Purple-Programmer-7",
+      "summary": "Summary: 10x cost != 6x use\u2026 Do you pro users hit limits often? Can anyone comp to the Claude code max plans?",
+      "comments_summary": "Community reaction: The comment section is mostly skeptical. Top reactions focus on I swear my work/business account hits limits faster than my personal plus account these days\u2026 | I also have personal plus. Codex working on 2 projects almost the whole day. Never hit a limit. But ok, the question was about pro users..",
       "score": null,
       "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg9fxt/pro_users_do_you_hit_limits/"
     },
     {
       "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
