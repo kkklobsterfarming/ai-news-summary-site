@@ -1,12 +1,18 @@
 {
-  "generated_at_iso": "2026-04-09T22:41:18.002634+08:00",
-  "generated_at": "2026-04-09T22:41:18.002634+08:00",
-  "generated_at_human": "2026-04-09 22:41 GMT+8",
+  "generated_at_iso": "2026-04-09T22:56:06.500939+08:00",
+  "generated_at": "2026-04-09T22:56:06.500939+08:00",
+  "generated_at_human": "2026-04-09 22:56 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_22-41.md",
-  "changes": [],
+  "file": "summary_2026-04-09_22-56.md",
+  "changes": [
+    {
+      "title": "How to get my own local chatbot to perform better?",
+      "link": "https://old.reddit.com/r/selfhosted/comments/1sgquz7/how_to_get_my_own_local_chatbot_to_perform_better/",
+      "subreddit": "selfhosted"
+    }
+  ],
   "sections": [
     {
       "subreddit": "openai",
@@ -195,7 +201,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
           "author": "/u/openwebui",
           "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
           "comment_analysis": {
             "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
             "overall_sentiment_toward_post": "mixed",
@@ -230,8 +236,7 @@
                 "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2025-06-12T14:15:16+00:00",
@@ -245,7 +250,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
           "author": "/u/alew3",
           "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
           "comment_analysis": {
             "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
             "overall_sentiment_toward_post": "mixed",
@@ -280,8 +285,7 @@
                 "summary": "I use searchxng with brave, google and DuckDuckGo"
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-08T12:37:01+00:00",
@@ -295,7 +299,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
           "author": "/u/RealFangedSpectre",
           "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
           "comment_analysis": {
             "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
             "overall_sentiment_toward_post": "positive",
@@ -323,8 +327,7 @@
                 "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-08T12:01:34+00:00",
@@ -380,7 +383,43 @@
     {
       "subreddit": "selfhosted",
       "display_name": "Self-Hosted",
-      "posts": []
+      "posts": [
+        {
+          "title": "How to get my own local chatbot to perform better?",
+          "link": "https://www.reddit.com/r/selfhosted/comments/1sgquz7/how_to_get_my_own_local_chatbot_to_perform_better/",
+          "author": "/u/Dalkamyr",
+          "summary": "Summary: I run open webui and ollama with docker desktop and WSL2 (Ubuntu). I have an rtx 5070 ti 16gb and run the qwen 3.14 11b model I've got web search enabled and configured to use SearXNG.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-09 22:15 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-09 22:48 GMT+8: post=mixed, author=mixed \u2014 Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at...",
+          "comment_analysis": {
+            "summary": "The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse....",
+            "overall_sentiment_toward_post": "positive",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/asimovs-auditor",
+                "timestamp": "2026-04-09 22:15 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+              },
+              {
+                "author": "/u/gscjj",
+                "timestamp": "2026-04-09 22:48 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse and complicated ones that require it to..."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-09T14:15:43+00:00",
+          "timestamp_human": "2026-04-09 22:15 GMT+8",
+          "subreddit": "selfhosted",
+          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sgquz7/how_to_get_my_own_local_chatbot_to_perform_better/",
+          "profile_relevance_score": 7
+        }
+      ]
     },
     {
       "subreddit": "ClaudeAI",
@@ -391,7 +430,7 @@
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
           "author": "/u/Suspicious_Low7612",
           "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:10 GMT+8: post=mixed, author=mixed \u2014 Can you share more on it and how to get on the pipeline? | 2026-04-09 20:47 GMT+8: post=mixed, author=mixed \u2014 No. The test is proctored. So no browsers no hard guides.",
+          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:10 GMT+8: post=mixed, author=mixed \u2014 Can you share more on it and how to get on the pipeline? | 2026-04-09 20:47 GMT+8: post=mixed, author=mixed \u2014 No. The test is proctored. So no browsers no hard guides.",
           "comment_analysis": {
             "summary": "Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?.",
             "overall_sentiment_toward_post": "mixed",
@@ -426,8 +465,7 @@
                 "summary": "That seems... against their philosophy that SWE is dead and AI can do everything."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-09T11:32:19+00:00",
@@ -496,57 +534,7 @@
     {
       "subreddit": "Codex",
       "display_name": "Codex",
-      "posts": [
-        {
-          "title": "The solution to usage limits is ... 5.3",
-          "link": "https://www.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
-          "author": "/u/Illustrious-Many-782",
-          "summary": "Summary: Due to the imminent reset, I decided to grind through complete testing audits of three different projects simultaneously. I used Codex CLI for one, then realized that my usage wasn't dropping fast enough to use up everything I wanted, so I started another headless.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and positive. Top reactions focus on yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid... | 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 20:50 GMT+8: post=mixed, author=mixed \u2014 yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default... | 2026-04-09 22:27 GMT+8: post=mixed, author=mixed \u2014 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled... | 2026-04-09 20:44 GMT+8: post=mixed, author=mixed \u2014 Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this?",
-          "comment_analysis": {
-            "summary": "The comment section is split between concerned and positive. Top reactions focus on yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid... | 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if....",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/BrainCurrent8276",
-                "timestamp": "2026-04-09 20:50 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid for both old a new usage rules. meanwhile..."
-              },
-              {
-                "author": "/u/learn-by-flying",
-                "timestamp": "2026-04-09 22:27 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if the prompt can be written for medium or..."
-              },
-              {
-                "author": "/u/Crafty_Ball_8285",
-                "timestamp": "2026-04-09 20:44 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this?"
-              },
-              {
-                "author": "/u/reddit_is_kayfabe",
-                "timestamp": "2026-04-09 20:59 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I'm on Pro. I typically run 1-2 sessions processing long-running tasks and sometimes with another 3-4 sessions performing short tasks in other projects. I use 5.4 Extra High..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-09T12:31:08+00:00",
-          "timestamp_human": "2026-04-09 20:31 GMT+8",
-          "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
-          "profile_relevance_score": 4
-        }
-      ]
+      "posts": []
     }
   ],
   "all_posts": [
@@ -555,7 +543,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
       "author": "/u/openwebui",
       "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
       "comment_analysis": {
         "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
         "overall_sentiment_toward_post": "mixed",
@@ -590,8 +578,7 @@
             "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2025-06-12T14:15:16+00:00",
@@ -605,7 +592,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
       "author": "/u/alew3",
       "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
       "comment_analysis": {
         "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
         "overall_sentiment_toward_post": "mixed",
@@ -640,8 +627,7 @@
             "summary": "I use searchxng with brave, google and DuckDuckGo"
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-08T12:37:01+00:00",
@@ -655,7 +641,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
       "author": "/u/RealFangedSpectre",
       "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
       "comment_analysis": {
         "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
         "overall_sentiment_toward_post": "positive",
@@ -683,8 +669,7 @@
             "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-08T12:01:34+00:00",
@@ -694,11 +679,46 @@
       "profile_relevance_score": 12
     },
     {
+      "title": "How to get my own local chatbot to perform better?",
+      "link": "https://www.reddit.com/r/selfhosted/comments/1sgquz7/how_to_get_my_own_local_chatbot_to_perform_better/",
+      "author": "/u/Dalkamyr",
+      "summary": "Summary: I run open webui and ollama with docker desktop and WSL2 (Ubuntu). I have an rtx 5070 ti 16gb and run the qwen 3.14 11b model I've got web search enabled and configured to use SearXNG.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-09 22:15 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-09 22:48 GMT+8: post=mixed, author=mixed \u2014 Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at...",
+      "comment_analysis": {
+        "summary": "The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse....",
+        "overall_sentiment_toward_post": "positive",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/asimovs-auditor",
+            "timestamp": "2026-04-09 22:15 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+          },
+          {
+            "author": "/u/gscjj",
+            "timestamp": "2026-04-09 22:48 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Larger model, an 11B is not going to get you to level you want like chat gpt. Those small models are great at singular tasks, not diverse and complicated ones that require it to..."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-09T14:15:43+00:00",
+      "timestamp_human": "2026-04-09 22:15 GMT+8",
+      "subreddit": "selfhosted",
+      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sgquz7/how_to_get_my_own_local_chatbot_to_perform_better/",
+      "profile_relevance_score": 7
+    },
+    {
       "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
       "author": "/u/Suspicious_Low7612",
       "summary": "Summary: I've been building agentic supply chain systems for enterprise clients such as forecast review, procurement intelligence, packaging line diagnostics. You learn fast when broken pipelines have real consequences.",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:10 GMT+8: post=mixed, author=mixed \u2014 Can you share more on it and how to get on the pipeline? | 2026-04-09 20:47 GMT+8: post=mixed, author=mixed \u2014 No. The test is proctored. So no browsers no hard guides.",
+      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 21:03 GMT+8: post=mixed, author=mixed \u2014 How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | 2026-04-09 20:10 GMT+8: post=mixed, author=mixed \u2014 Can you share more on it and how to get on the pipeline? | 2026-04-09 20:47 GMT+8: post=mixed, author=mixed \u2014 No. The test is proctored. So no browsers no hard guides.",
       "comment_analysis": {
         "summary": "Top reactions focus on How does one sit for it? I\u2019ve been trying to figure it out but can\u2019t register as a Partner. | Can you share more on it and how to get on the pipeline?.",
         "overall_sentiment_toward_post": "mixed",
@@ -733,8 +753,7 @@
             "summary": "That seems... against their philosophy that SWE is dead and AI can do everything."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback"
       },
       "score": null,
       "timestamp": "2026-04-09T11:32:19+00:00",
@@ -993,55 +1012,6 @@
       "timestamp_human": "2026-04-09 18:04 GMT+8",
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglde2/ggml_backendagnostic_tensor_parallelism_by/",
-      "profile_relevance_score": 4
-    },
-    {
-      "title": "The solution to usage limits is ... 5.3",
-      "link": "https://www.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
-      "author": "/u/Illustrious-Many-782",
-      "summary": "Summary: Due to the imminent reset, I decided to grind through complete testing audits of three different projects simultaneously. I used Codex CLI for one, then realized that my usage wasn't dropping fast enough to use up everything I wanted, so I started another headless.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and positive. Top reactions focus on yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid... | 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 20:50 GMT+8: post=mixed, author=mixed \u2014 yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default... | 2026-04-09 22:27 GMT+8: post=mixed, author=mixed \u2014 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled... | 2026-04-09 20:44 GMT+8: post=mixed, author=mixed \u2014 Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this?",
-      "comment_analysis": {
-        "summary": "The comment section is split between concerned and positive. Top reactions focus on yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid... | 5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if....",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/BrainCurrent8276",
-            "timestamp": "2026-04-09 20:50 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "yes, this is what ChatGPT told me few days ago -- best quality vs costs ratio is 5.3, and medium as default for most tasks. this is valid for both old a new usage rules. meanwhile..."
-          },
-          {
-            "author": "/u/learn-by-flying",
-            "timestamp": "2026-04-09 22:27 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "5.4 XHigh seems to also be superior and does function well with token use when prompted in a very controlled manner. I often ask ChatGPT if the prompt can be written for medium or..."
-          },
-          {
-            "author": "/u/Crafty_Ball_8285",
-            "timestamp": "2026-04-09 20:44 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Can you quantify the tokens you utilized on one versus the other in a reproducible benchmark to verify this?"
-          },
-          {
-            "author": "/u/reddit_is_kayfabe",
-            "timestamp": "2026-04-09 20:59 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I'm on Pro. I typically run 1-2 sessions processing long-running tasks and sometimes with another 3-4 sessions performing short tasks in other projects. I use 5.4 Extra High..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-09T12:31:08+00:00",
-      "timestamp_human": "2026-04-09 20:31 GMT+8",
-      "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
       "profile_relevance_score": 4
     }
   ]
