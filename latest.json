@@ -1,30 +1,35 @@
 {
-  "generated_at_iso": "2026-04-09T16:53:56.265216+08:00",
-  "generated_at": "2026-04-09T16:53:56.265216+08:00",
-  "generated_at_human": "2026-04-09 16:53 GMT+8",
+  "generated_at_iso": "2026-04-09T18:54:12.316075+08:00",
+  "generated_at": "2026-04-09T18:54:12.316075+08:00",
+  "generated_at_human": "2026-04-09 18:54 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_16-53.md",
+  "file": "summary_2026-04-09_18-54.md",
   "changes": [
     {
-      "title": "New TTS Model: VoxCPM2",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/",
+      "title": "OpenAI plans staggered rollout of new model over cybersecurity risk, similar to Anthropic's limited roll out of Mythos",
+      "link": "https://old.reddit.com/r/OpenAI/comments/1sglq2b/openai_plans_staggered_rollout_of_new_model_over/",
+      "subreddit": "openai"
+    },
+    {
+      "title": "Gemma 4 on Llama.cpp should be stable now",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
       "subreddit": "LocalLLaMA"
     },
     {
-      "title": "Why are people running Claude Code on a Mac mini instead of their personal MacBook?",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/",
-      "subreddit": "ClaudeAI"
+      "title": "Could it be that this take is not too far fetched?",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglx0a/could_it_be_that_this_take_is_not_too_far_fetched/",
+      "subreddit": "LocalLLaMA"
     },
     {
-      "title": "Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/",
-      "subreddit": "ClaudeCode"
+      "title": "Does the target language affect how correct LLM-generated code is? I benchmarked 6 models across Vera, Python, and TypeScript.",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sgm080/does_the_target_language_affect_how_correct/",
+      "subreddit": "llmdevs"
     },
     {
-      "title": "Codex has been much better than Gemini CLI for me so far",
-      "link": "https://old.reddit.com/r/codex/comments/1sgiuth/codex_has_been_much_better_than_gemini_cli_for_me/",
+      "title": "Is there \"Ask Before Edits\" in codex?",
+      "link": "https://old.reddit.com/r/codex/comments/1sgliij/is_there_ask_before_edits_in_codex/",
       "subreddit": "Codex"
     }
   ],
@@ -58,10 +63,20 @@
           "link": "https://www.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/",
           "author": "/u/Vast-Moose1393",
           "summary": "Summary: I deleted all my chats, memories, projects, archived chats, preferences, an advertising memory, the lot. The only thing I left was my name and my job role.",
-          "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on If you are using the same account, there are \u201cUser Knowledge Memories\u201d that are automatically generated and retained by ChatGPT. It takes a... | I closed my account down and switched to something better (local)..",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on If you are using the same account, there are \u201cUser Knowledge Memories\u201d that are automatically generated and retained by ChatGPT. It takes a... | This makes sense. I\u2019ll try a fresh chat again in a week and see what happens. I\u2019m afraid more that it\u2019s onto me and won\u2019t slip up again now....",
           "score": null,
           "subreddit": "openai",
           "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/"
+        },
+        {
+          "title": "OpenAI plans staggered rollout of new model over cybersecurity risk, similar to Anthropic's limited roll out of Mythos",
+          "link": "https://www.reddit.com/r/OpenAI/comments/1sglq2b/openai_plans_staggered_rollout_of_new_model_over/",
+          "author": "/u/Nunki08",
+          "summary": "Summary: [Image: OpenAI plans staggered rollout of new model over cybersecurity risk, similar to Anthropic's limited roll out of Mythos] Axios: https://www.axios.com/2026/04/09/openai-new-model-cyber-mythos-anthopic...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "openai",
+          "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sglq2b/openai_plans_staggered_rollout_of_new_model_over/"
         }
       ]
     },
@@ -78,6 +93,26 @@
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/"
+        },
+        {
+          "title": "Gemma 4 on Llama.cpp should be stable now",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+          "author": "/u/ilintar",
+          "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it. | The official llama.cpp cuda13 docker image uses 13.1.1 instead of 13.2, and it gave me some speed boost compared to 12.x on 50-series RTX....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/"
+        },
+        {
+          "title": "Could it be that this take is not too far fetched?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sglx0a/could_it_be_that_this_take_is_not_too_far_fetched/",
+          "author": "/u/pier4r",
+          "summary": "Summary: [Image: Could it be that this take is not too far fetched?] Sources: - https://www.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/ (https://www.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/) -...",
+          "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on This graph is as made up bullshit as the claims of massive model improvements | not really, the model quality overall feels exactly like the graph. for sure its not based on real benchmarks but the feeling is definitely....",
+          "score": null,
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglx0a/could_it_be_that_this_take_is_not_too_far_fetched/"
         },
         {
           "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
@@ -98,26 +133,6 @@
           "score": null,
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/"
-        },
-        {
-          "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
-          "author": "/u/jacek2023",
-          "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-          "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
-          "score": null,
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
-        },
-        {
-          "title": "New TTS Model: VoxCPM2",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/",
-          "author": "/u/foldl-li",
-          "summary": "Summary: VoxCPM2 \u2014 Three Modes of Speech Generation: \ud83c\udfa8 Voice Design \u2014 Create a brand-new voice \ud83c\udf9b\ufe0f Controllable Cloning \u2014 Clone a voice with optional style guidance \ud83c\udf99\ufe0f Ultimate Cloning \u2014 Reproduce every vocal nuance through audio continuation Demo https://huggingface.co/spaces/openbmb/VoxCPM-Demo...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on \ud83d\udca1 Voice Description Examples: Try the following Control Instructions to explore different voices: Example 1 \u2014 Gentle & Melancholic Girl... | Don't ignore this one! The first version of VOX was phenomenal (and still is!) for English TTS with near Eleven-quality voice cloning and....",
-          "score": null,
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/"
         }
       ]
     },
@@ -146,11 +161,21 @@
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/"
         },
         {
+          "title": "Does the target language affect how correct LLM-generated code is? I benchmarked 6 models across Vera, Python, and TypeScript.",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sgm080/does_the_target_language_affect_how_correct/",
+          "author": "/u/alasdairallan",
+          "summary": "Benchmark/result: [Image: Does the target language affect how correct LLM-generated code is? I benchmarked 6 models across Vera, Python, and TypeScript.] I've been working on a question that I think is relevant to anyone using LLMs to generate code: does the language you ask a model to write in affect how often it gets the answer right?",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgm080/does_the_target_language_affect_how_correct/"
+        },
+        {
           "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
           "link": "https://www.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
           "author": "/u/Nir777",
           "summary": "Project/tool: Hi everyone, I\u2019ve spent the last 18 months maintaining the RAG Techniques repository on GitHub. After looking at hundreds of implementations and seeing where most teams fall over when they try to move past a simple \"Vector DB + Prompt\" setup, I decided to codify everything into a formal guide.",
-          "comments_summary": "Community reaction: Top reactions focus on sure!! (would appreciate a review on amazon if you liked it) | link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on sure!! (would appreciate a review on amazon if you liked it) | link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
@@ -164,16 +189,6 @@
           "score": null,
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sge9xx/real_world_applications/"
-        },
-        {
-          "title": "Free Ollama Cloud (yes)",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1sghvpo/free_ollama_cloud_yes/",
-          "author": "/u/Hamzayslmn",
-          "summary": "Summary: [Image: Free Ollama Cloud (yes)] https://github.com/HamzaYslmn/Colab-Ollama-Server-Free/blob/main/README.md (https://github.com/HamzaYslmn/Colab-Ollama-Server-Free/blob/main/README.md) My new project: With the Colab T4 GPU, you can run any local model (15GB Vram) remotely and access it from anywhere using Cloudflare...",
-          "comments_summary": "",
-          "score": null,
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sghvpo/free_ollama_cloud_yes/"
         }
       ]
     },
@@ -186,10 +201,20 @@
           "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
           "author": "/u/RealSuperdau",
           "summary": "Project/tool: [Image: Something happened to Opus 4.6's reasoning effort] It now fails the car wash test consistently (5/5 tries) and doesn't display a thinking block. Sonnet 4.6 and Opus 4.5 still manage to get it right.",
-          "comments_summary": "Community reaction: The comment section is split between joking and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 200 comments. The thread is split right down the middle, but the leading theory is... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
+          "comments_summary": "Community reaction: The comment section is split between joking and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 400 comments. So, is Opus 4.6 having a moment? The thread is a mixed bag, but the... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/"
+        },
+        {
+          "title": "Why are people running Claude Code on a Mac mini instead of their personal MacBook?",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/",
+          "author": "/u/Capable-Profile6935",
+          "summary": "Discussion: I\u2019ve been seeing a lot of people setting up Claude Code on a Mac mini instead of just using their personal MacBook or laptop, and I\u2019m trying to understand why. Is it mainly for having a dedicated machine running 24/7?",
+          "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The consensus is that using a Mac mini for Claude Code is less about a... | In my case, I move around for work a lot so my MacBook is closed and asleep a lot of the time. I already had a home server (a refurbished....",
+          "score": null,
+          "subreddit": "ClaudeAI",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/"
         },
         {
           "title": "Anthropic's recent run of \"Bad Luck\" is exactly what State sponsored AI attacks would look like",
@@ -210,26 +235,6 @@
           "score": null,
           "subreddit": "ClaudeAI",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/"
-        },
-        {
-          "title": "Why are people running Claude Code on a Mac mini instead of their personal MacBook?",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/",
-          "author": "/u/Capable-Profile6935",
-          "summary": "Discussion: I\u2019ve been seeing a lot of people setting up Claude Code on a Mac mini instead of just using their personal MacBook or laptop, and I\u2019m trying to understand why. Is it mainly for having a dedicated machine running 24/7?",
-          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Mac mini is cheaper and is always left powered on at home without risking battery hazard issues. | Not turned my laptop off in about 2 weeks, normally do it for a company mandated mac OS update.",
-          "score": null,
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/"
-        },
-        {
-          "title": "They removed the buddy from latest? (Claude Code v2.1.97)",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgcbcj/they_removed_the_buddy_from_latest_claude_code/",
-          "author": "/u/wigelsworth",
-          "summary": "Summary: In the latest changelog: REMOVED: System Prompt: Buddy Mode \u2014 Removed the coding companion personality generator for terminal buddies. Seems coding buddies were just a tease.",
-          "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on v2.1.97 release removed /buddy \ud83d\ude14 GitHub Issue now marked not-planned... | great. Now add pokemon to claude. The more vibe coding you do the stronger your companion gets with learned skills. Use a cli command to....",
-          "score": null,
-          "subreddit": "ClaudeAI",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgcbcj/they_removed_the_buddy_from_latest_claude_code/"
         }
       ]
     },
@@ -248,11 +253,21 @@
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sge3cu/funny_how_the_first_90_of_any_project_is_the/"
         },
         {
+          "title": "Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/",
+          "author": "/u/MR_-_501",
+          "summary": "Summary: [Image: Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.] yes, its a stupid test; but this result is very consistently worse on 4.6 now; while in the past it consistently passed it. Switched to back to 4.5 on claude code and what a difference does that make holy shit, feels like i got...",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on `private let countdownTimer: CountdownTimerModuleProtocol = CountdownTimer() ` ``` I just 5 min ago was shocked. Asked about to make inject... | The side by side difference is so clear, would this be due to the inflow of new free users?.",
+          "score": null,
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/"
+        },
+        {
           "title": "Copy and pasting was the original vibe coding",
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/",
           "author": "/u/Complete-Sea6655",
           "summary": "Summary: [Image: Copy and pasting was the original vibe coding] People seem to think that devs wrote perfect code before AI!! Stack overflow copy and pasting was the original vibe coding Saw this on ijustvibecodedthis (https://www.ijustvibecodedthis.com) so cred to them!!",
-          "comments_summary": "Community reaction: The comment section is split between critical and joking. Top reactions focus on That\u2019s actually a very good point, a lot of the current vulnerabilities exist because of dev slop | Humans before 2026: Look at this AI slop AI after 2026: Look at this human slop.",
+          "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on That\u2019s actually a very good point, a lot of the current vulnerabilities exist because of dev slop | Humans before 2026: Look at this AI slop AI after 2026: Look at this human slop.",
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/"
@@ -262,7 +277,7 @@
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/",
           "author": "/u/Complete-Sea6655",
           "summary": "Summary: [Image: Meta just dropped a new coding model] It looks decent (atleats the benchmarks do). The multimodal looks to be the best part of \"Spark Muse\" The agentic section is pretty bad when compared to Opus 4.6, I find it weird that all the numbers are in blue even though they are worse than the comparisons, quite...",
-          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | Codex and opus are much closer than most people admit. I find codex much better for really difficult problems and systems debugging But....",
+          "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | exactly I was listening to dwarkesh the other day who was saying that it seems like anthropic are the only ones not benchmarkmaxxing.",
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/"
@@ -272,20 +287,10 @@
           "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
           "author": "/u/pakalumachito",
           "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
-          "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\" | Wasn't that just poking fun at silly US export restrictions at the time that said computers faster than X were \"supercomputers\" and needed....",
+          "comments_summary": "Community reaction: The comment section is split between concerned and skeptical. Top reactions focus on In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\" | Wasn't that just poking fun at silly US export restrictions at the time that said computers faster than X were \"supercomputers\" and needed....",
           "score": null,
           "subreddit": "ClaudeCode",
           "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
-        },
-        {
-          "title": "Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/",
-          "author": "/u/MR_-_501",
-          "summary": "Summary: [Image: Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.] yes, its a stupid test; but this result is very consistently worse on 4.6 now; while in the past it consistently passed it. Switched to back to 4.5 on claude code and what a difference does that make holy shit, feels like i got...",
-          "comments_summary": "Community reaction: Top reactions focus on now imagine, letting that fucking shit touch your codebase...yo... | I CANT CONVINCE IT OTHERWISE, IT 100% THINKS WALKING IS CORRECT \ud83d\udc80\ud83d\udc80 FULL ON confidence that walking...is...fucking...correct \ud83d\udc80\ud83d\udc80.",
-          "score": null,
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/"
         }
       ]
     },
@@ -298,30 +303,20 @@
           "link": "https://www.reddit.com/r/codex/comments/1sgiuth/codex_has_been_much_better_than_gemini_cli_for_me/",
           "author": "/u/ianhooi",
           "summary": "Summary: Switched from Gemini CLI to Codex for a real repo project, and the difference has been pretty big for me. What feels better so far: - more organized changes instead of messy overreach - better at one-shot bug fixes - less need to sanity check every single change for collateral damage - better at anticipating adjacent...",
-          "comments_summary": "Community reaction: The comment section is split between critical and positive. Top reactions focus on Gemini isn't really the competition currently, it's Claude. We will see what happens in a few months, seems everyone is working on huge new... | codex is just the best, its even better than claude code, just use codex and your chill.",
+          "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on Gemini isn't really the competition currently, it's Claude. We will see what happens in a few months, seems everyone is working on huge new... | It\u2019s so funny. I remember when GPT-5 dropped, and it was underwhelming compared to the hype. It was followed by Gemini 3, which felt like a....",
           "score": null,
           "subreddit": "Codex",
           "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgiuth/codex_has_been_much_better_than_gemini_cli_for_me/"
         },
         {
-          "title": "I'm so back in team Codex for now",
-          "link": "https://www.reddit.com/r/codex/comments/1sg0g4i/im_so_back_in_team_codex_for_now/",
-          "author": "/u/Nervous_Trainer_2630",
-          "summary": "Summary: [Image: I'm so back in team Codex for now] The Anthropic operational model: 1.",
-          "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on And you can't even post your negative experiences without being downvoted because, it doesn't happen to them - so it must be a \"skill\"... | They think downvoting and deleting comments will just make the issue go away. I'm a Claude refugee too, using Codex too, having a good....",
+          "title": "Is there \"Ask Before Edits\" in codex?",
+          "link": "https://www.reddit.com/r/codex/comments/1sgliij/is_there_ask_before_edits_in_codex/",
+          "author": "/u/SPR1NG9",
+          "summary": "Summary: Is there something like \"Ask Before Edits\" in claude code?",
+          "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on you can create a AGENTS.md (http://AGENTS.md) file and put in there to only start editing when you have explicitly said to do so. It ends... | yes. tell Codex to ASK ME F****NG EVERY TIME FIRST BEFORE CHANGING ANYTHING !!!!!!!!!!!!!!!!!!!!!!!!! this, or put it AGENTS.MD....",
           "score": null,
           "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg0g4i/im_so_back_in_team_codex_for_now/"
-        },
-        {
-          "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
-          "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
-          "author": "/u/dr-tenma",
-          "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
-          "comments_summary": "Community reaction: Top reactions focus on Ok I\u2019ll check it out, i tried the regular one for a few months but had been buggy for me | im increasingly getting annoyed by these blatant advertisements that always signal some workflow with a paid tool/api.",
-          "score": null,
-          "subreddit": "Codex",
-          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgliij/is_there_ask_before_edits_in_codex/"
         }
       ]
     }
@@ -352,10 +347,20 @@
       "link": "https://www.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/",
       "author": "/u/Vast-Moose1393",
       "summary": "Summary: I deleted all my chats, memories, projects, archived chats, preferences, an advertising memory, the lot. The only thing I left was my name and my job role.",
-      "comments_summary": "Community reaction: The comment section is split between concerned and joking. Top reactions focus on If you are using the same account, there are \u201cUser Knowledge Memories\u201d that are automatically generated and retained by ChatGPT. It takes a... | I closed my account down and switched to something better (local)..",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on If you are using the same account, there are \u201cUser Knowledge Memories\u201d that are automatically generated and retained by ChatGPT. It takes a... | This makes sense. I\u2019ll try a fresh chat again in a week and see what happens. I\u2019m afraid more that it\u2019s onto me and won\u2019t slip up again now....",
       "score": null,
       "subreddit": "openai",
       "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sg92hq/i_deleted_everything_yet_chatgpt_still_keeps_my/"
+    },
+    {
+      "title": "OpenAI plans staggered rollout of new model over cybersecurity risk, similar to Anthropic's limited roll out of Mythos",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1sglq2b/openai_plans_staggered_rollout_of_new_model_over/",
+      "author": "/u/Nunki08",
+      "summary": "Summary: [Image: OpenAI plans staggered rollout of new model over cybersecurity risk, similar to Anthropic's limited roll out of Mythos] Axios: https://www.axios.com/2026/04/09/openai-new-model-cyber-mythos-anthopic...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "openai",
+      "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sglq2b/openai_plans_staggered_rollout_of_new_model_over/"
     },
     {
       "title": "It's insane how lobotomized Opus 4.6 is right now. Even Gemma 4 31B UD IQ3 XXS beat it on the carwash test on my 5070 TI.",
@@ -366,6 +371,26 @@
       "score": null,
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/"
+    },
+    {
+      "title": "Gemma 4 on Llama.cpp should be stable now",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+      "author": "/u/ilintar",
+      "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it. | The official llama.cpp cuda13 docker image uses 13.1.1 instead of 13.2, and it gave me some speed boost compared to 12.x on 50-series RTX....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/"
+    },
+    {
+      "title": "Could it be that this take is not too far fetched?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sglx0a/could_it_be_that_this_take_is_not_too_far_fetched/",
+      "author": "/u/pier4r",
+      "summary": "Summary: [Image: Could it be that this take is not too far fetched?] Sources: - https://www.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/ (https://www.reddit.com/r/LocalLLaMA/comments/1sgd7fp/its_insane_how_lobotomized_opus_46_is_right_now/) -...",
+      "comments_summary": "Community reaction: The comment section is split between positive and skeptical. Top reactions focus on This graph is as made up bullshit as the claims of massive model improvements | not really, the model quality overall feels exactly like the graph. for sure its not based on real benchmarks but the feeling is definitely....",
+      "score": null,
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sglx0a/could_it_be_that_this_take_is_not_too_far_fetched/"
     },
     {
       "title": "It finally happened, I actually had a use case for a local LLM and it was brilliant",
@@ -388,26 +413,6 @@
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/"
     },
     {
-      "title": "It looks like we\u2019ll need to download the new Gemma 4 GGUFs",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
-      "author": "/u/jacek2023",
-      "summary": "Summary: https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF (https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF (https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) by...",
-      "comments_summary": "Community reaction: Top reactions focus on Do the bartowski versions need updating too or just unsloth? | I don't think mine need updates desperately since my most recent upload, many people told me mine were the only ones behaving normally....",
-      "score": null,
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/"
-    },
-    {
-      "title": "New TTS Model: VoxCPM2",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/",
-      "author": "/u/foldl-li",
-      "summary": "Summary: VoxCPM2 \u2014 Three Modes of Speech Generation: \ud83c\udfa8 Voice Design \u2014 Create a brand-new voice \ud83c\udf9b\ufe0f Controllable Cloning \u2014 Clone a voice with optional style guidance \ud83c\udf99\ufe0f Ultimate Cloning \u2014 Reproduce every vocal nuance through audio continuation Demo https://huggingface.co/spaces/openbmb/VoxCPM-Demo...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on \ud83d\udca1 Voice Description Examples: Try the following Control Instructions to explore different voices: Example 1 \u2014 Gentle & Melancholic Girl... | Don't ignore this one! The first version of VOX was phenomenal (and still is!) for English TTS with near Eleven-quality voice cloning and....",
-      "score": null,
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sg89kl/new_tts_model_voxcpm2/"
-    },
-    {
       "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
       "author": "/u/ubunt2",
@@ -428,11 +433,21 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/"
     },
     {
+      "title": "Does the target language affect how correct LLM-generated code is? I benchmarked 6 models across Vera, Python, and TypeScript.",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sgm080/does_the_target_language_affect_how_correct/",
+      "author": "/u/alasdairallan",
+      "summary": "Benchmark/result: [Image: Does the target language affect how correct LLM-generated code is? I benchmarked 6 models across Vera, Python, and TypeScript.] I've been working on a question that I think is relevant to anyone using LLMs to generate code: does the language you ask a model to write in affect how often it gets the answer right?",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgm080/does_the_target_language_affect_how_correct/"
+    },
+    {
       "title": "I maintain the \"RAG Techniques\" repo (27k stars). I finally finished a 22-chapter guide on moving from basic demos to production systems",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/",
       "author": "/u/Nir777",
       "summary": "Project/tool: Hi everyone, I\u2019ve spent the last 18 months maintaining the RAG Techniques repository on GitHub. After looking at hundreds of implementations and seeing where most teams fall over when they try to move past a simple \"Vector DB + Prompt\" setup, I decided to codify everything into a formal guide.",
-      "comments_summary": "Community reaction: Top reactions focus on sure!! (would appreciate a review on amazon if you liked it) | link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on sure!! (would appreciate a review on amazon if you liked it) | link to get the book: https://www.amazon.com/dp/B0D76734SZ.",
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sfwkg0/i_maintain_the_rag_techniques_repo_27k_stars_i/"
@@ -448,24 +463,24 @@
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sge9xx/real_world_applications/"
     },
     {
-      "title": "Free Ollama Cloud (yes)",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1sghvpo/free_ollama_cloud_yes/",
-      "author": "/u/Hamzayslmn",
-      "summary": "Summary: [Image: Free Ollama Cloud (yes)] https://github.com/HamzaYslmn/Colab-Ollama-Server-Free/blob/main/README.md (https://github.com/HamzaYslmn/Colab-Ollama-Server-Free/blob/main/README.md) My new project: With the Colab T4 GPU, you can run any local model (15GB Vram) remotely and access it from anywhere using Cloudflare...",
-      "comments_summary": "",
-      "score": null,
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sghvpo/free_ollama_cloud_yes/"
-    },
-    {
       "title": "Something happened to Opus 4.6's reasoning effort",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/",
       "author": "/u/RealSuperdau",
       "summary": "Project/tool: [Image: Something happened to Opus 4.6's reasoning effort] It now fails the car wash test consistently (5/5 tries) and doesn't display a thinking block. Sonnet 4.6 and Opus 4.5 still manage to get it right.",
-      "comments_summary": "Community reaction: The comment section is split between joking and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 200 comments. The thread is split right down the middle, but the leading theory is... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
+      "comments_summary": "Community reaction: The comment section is split between joking and skeptical. Top reactions focus on TL;DR of the discussion generated automatically after 400 comments. So, is Opus 4.6 having a moment? The thread is a mixed bag, but the... | Opus 4.6 told me: \"Drive. You need the car at the car wash.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\" Edit: In \"thought process\", it says: \"Funny question.\".",
       "score": null,
       "subreddit": "ClaudeAI",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sfw9b5/something_happened_to_opus_46s_reasoning_effort/"
+    },
+    {
+      "title": "Why are people running Claude Code on a Mac mini instead of their personal MacBook?",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/",
+      "author": "/u/Capable-Profile6935",
+      "summary": "Discussion: I\u2019ve been seeing a lot of people setting up Claude Code on a Mac mini instead of just using their personal MacBook or laptop, and I\u2019m trying to understand why. Is it mainly for having a dedicated machine running 24/7?",
+      "comments_summary": "Community reaction: The comment section is split between concerned and positive. Top reactions focus on TL;DR of the discussion generated automatically after 50 comments. The consensus is that using a Mac mini for Claude Code is less about a... | In my case, I move around for work a lot so my MacBook is closed and asleep a lot of the time. I already had a home server (a refurbished....",
+      "score": null,
+      "subreddit": "ClaudeAI",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/"
     },
     {
       "title": "Anthropic's recent run of \"Bad Luck\" is exactly what State sponsored AI attacks would look like",
@@ -488,26 +503,6 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sg6vpl/claude_code_got_my_meta_ads_account_permanently/"
     },
     {
-      "title": "Why are people running Claude Code on a Mac mini instead of their personal MacBook?",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/",
-      "author": "/u/Capable-Profile6935",
-      "summary": "Discussion: I\u2019ve been seeing a lot of people setting up Claude Code on a Mac mini instead of just using their personal MacBook or laptop, and I\u2019m trying to understand why. Is it mainly for having a dedicated machine running 24/7?",
-      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on Mac mini is cheaper and is always left powered on at home without risking battery hazard issues. | Not turned my laptop off in about 2 weeks, normally do it for a company mandated mac OS update.",
-      "score": null,
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgix71/why_are_people_running_claude_code_on_a_mac_mini/"
-    },
-    {
-      "title": "They removed the buddy from latest? (Claude Code v2.1.97)",
-      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sgcbcj/they_removed_the_buddy_from_latest_claude_code/",
-      "author": "/u/wigelsworth",
-      "summary": "Summary: In the latest changelog: REMOVED: System Prompt: Buddy Mode \u2014 Removed the coding companion personality generator for terminal buddies. Seems coding buddies were just a tease.",
-      "comments_summary": "Community reaction: The comment section is split between joking and positive. Top reactions focus on v2.1.97 release removed /buddy \ud83d\ude14 GitHub Issue now marked not-planned... | great. Now add pokemon to claude. The more vibe coding you do the stronger your companion gets with learned skills. Use a cli command to....",
-      "score": null,
-      "subreddit": "ClaudeAI",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sgcbcj/they_removed_the_buddy_from_latest_claude_code/"
-    },
-    {
       "title": "Funny how the first 90% of any project is the majority of the work.. until the last 10%...",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sge3cu/funny_how_the_first_90_of_any_project_is_the/",
       "author": "/u/Anthony_S_Destefano",
@@ -518,11 +513,21 @@
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sge3cu/funny_how_the_first_90_of_any_project_is_the/"
     },
     {
+      "title": "Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/",
+      "author": "/u/MR_-_501",
+      "summary": "Summary: [Image: Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.] yes, its a stupid test; but this result is very consistently worse on 4.6 now; while in the past it consistently passed it. Switched to back to 4.5 on claude code and what a difference does that make holy shit, feels like i got...",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on `private let countdownTimer: CountdownTimerModuleProtocol = CountdownTimer() ` ``` I just 5 min ago was shocked. Asked about to make inject... | The side by side difference is so clear, would this be due to the inflow of new free users?.",
+      "score": null,
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/"
+    },
+    {
       "title": "Copy and pasting was the original vibe coding",
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/",
       "author": "/u/Complete-Sea6655",
       "summary": "Summary: [Image: Copy and pasting was the original vibe coding] People seem to think that devs wrote perfect code before AI!! Stack overflow copy and pasting was the original vibe coding Saw this on ijustvibecodedthis (https://www.ijustvibecodedthis.com) so cred to them!!",
-      "comments_summary": "Community reaction: The comment section is split between critical and joking. Top reactions focus on That\u2019s actually a very good point, a lot of the current vulnerabilities exist because of dev slop | Humans before 2026: Look at this AI slop AI after 2026: Look at this human slop.",
+      "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on That\u2019s actually a very good point, a lot of the current vulnerabilities exist because of dev slop | Humans before 2026: Look at this AI slop AI after 2026: Look at this human slop.",
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sftqea/copy_and_pasting_was_the_original_vibe_coding/"
@@ -532,7 +537,7 @@
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/",
       "author": "/u/Complete-Sea6655",
       "summary": "Summary: [Image: Meta just dropped a new coding model] It looks decent (atleats the benchmarks do). The multimodal looks to be the best part of \"Spark Muse\" The agentic section is pretty bad when compared to Opus 4.6, I find it weird that all the numbers are in blue even though they are worse than the comparisons, quite...",
-      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | Codex and opus are much closer than most people admit. I find codex much better for really difficult problems and systems debugging But....",
+      "comments_summary": "Community reaction: The comment section is mostly positive. Top reactions focus on benchmarks - here opus is worse than rest but still beats them in actual coding thanks to the right tooling and probably more actual... | exactly I was listening to dwarkesh the other day who was saying that it seems like anthropic are the only ones not benchmarkmaxxing.",
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sg51ut/meta_just_dropped_a_new_coding_model/"
@@ -542,50 +547,30 @@
       "link": "https://www.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/",
       "author": "/u/pakalumachito",
       "summary": "Summary: [Image: Dario Ol Marketing Technique] why dario always use the same marketing technique since 2019 when he was on OpenAI ? and he seem using the same technique on 2026, nerfing the current model so the next model feels like huge or offer an unbelieveable performance ?",
-      "comments_summary": "Community reaction: The comment section is mostly concerned. Top reactions focus on In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\" | Wasn't that just poking fun at silly US export restrictions at the time that said computers faster than X were \"supercomputers\" and needed....",
+      "comments_summary": "Community reaction: The comment section is split between concerned and skeptical. Top reactions focus on In 1999 apple marketed the g4 desktops as \"super computer too dangerous for private use\" | Wasn't that just poking fun at silly US export restrictions at the time that said computers faster than X were \"supercomputers\" and needed....",
       "score": null,
       "subreddit": "ClaudeCode",
       "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sfxnfd/dario_ol_marketing_technique/"
-    },
-    {
-      "title": "Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/",
-      "author": "/u/MR_-_501",
-      "summary": "Summary: [Image: Opus 4.6 was definitely nerfed due to demand, Opus 4.5 does not seem to be hit.] yes, its a stupid test; but this result is very consistently worse on 4.6 now; while in the past it consistently passed it. Switched to back to 4.5 on claude code and what a difference does that make holy shit, feels like i got...",
-      "comments_summary": "Community reaction: Top reactions focus on now imagine, letting that fucking shit touch your codebase...yo... | I CANT CONVINCE IT OTHERWISE, IT 100% THINKS WALKING IS CORRECT \ud83d\udc80\ud83d\udc80 FULL ON confidence that walking...is...fucking...correct \ud83d\udc80\ud83d\udc80.",
-      "score": null,
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sghy4i/opus_46_was_definitely_nerfed_due_to_demand_opus/"
     },
     {
       "title": "Codex has been much better than Gemini CLI for me so far",
       "link": "https://www.reddit.com/r/codex/comments/1sgiuth/codex_has_been_much_better_than_gemini_cli_for_me/",
       "author": "/u/ianhooi",
       "summary": "Summary: Switched from Gemini CLI to Codex for a real repo project, and the difference has been pretty big for me. What feels better so far: - more organized changes instead of messy overreach - better at one-shot bug fixes - less need to sanity check every single change for collateral damage - better at anticipating adjacent...",
-      "comments_summary": "Community reaction: The comment section is split between critical and positive. Top reactions focus on Gemini isn't really the competition currently, it's Claude. We will see what happens in a few months, seems everyone is working on huge new... | codex is just the best, its even better than claude code, just use codex and your chill.",
+      "comments_summary": "Community reaction: The comment section is split between positive and concerned. Top reactions focus on Gemini isn't really the competition currently, it's Claude. We will see what happens in a few months, seems everyone is working on huge new... | It\u2019s so funny. I remember when GPT-5 dropped, and it was underwhelming compared to the hype. It was followed by Gemini 3, which felt like a....",
       "score": null,
       "subreddit": "Codex",
       "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgiuth/codex_has_been_much_better_than_gemini_cli_for_me/"
     },
     {
-      "title": "I'm so back in team Codex for now",
-      "link": "https://www.reddit.com/r/codex/comments/1sg0g4i/im_so_back_in_team_codex_for_now/",
-      "author": "/u/Nervous_Trainer_2630",
-      "summary": "Summary: [Image: I'm so back in team Codex for now] The Anthropic operational model: 1.",
-      "comments_summary": "Community reaction: The comment section is split between positive and critical. Top reactions focus on And you can't even post your negative experiences without being downvoted because, it doesn't happen to them - so it must be a \"skill\"... | They think downvoting and deleting comments will just make the issue go away. I'm a Claude refugee too, using Codex too, having a good....",
+      "title": "Is there \"Ask Before Edits\" in codex?",
+      "link": "https://www.reddit.com/r/codex/comments/1sgliij/is_there_ask_before_edits_in_codex/",
+      "author": "/u/SPR1NG9",
+      "summary": "Summary: Is there something like \"Ask Before Edits\" in claude code?",
+      "comments_summary": "Community reaction: The comment section is mostly joking. Top reactions focus on you can create a AGENTS.md (http://AGENTS.md) file and put in there to only start editing when you have explicitly said to do so. It ends... | yes. tell Codex to ASK ME F****NG EVERY TIME FIRST BEFORE CHANGING ANYTHING !!!!!!!!!!!!!!!!!!!!!!!!! this, or put it AGENTS.MD....",
       "score": null,
       "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg0g4i/im_so_back_in_team_codex_for_now/"
-    },
-    {
-      "title": "Codex + ChromeDevTools MCP (seperate profile) + BitwardenCli (with TOTP) is ALL YOU NEED to automate yourself",
-      "link": "https://www.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/",
-      "author": "/u/dr-tenma",
-      "summary": "Project/tool: Codex, Chrome DevTools MCP configured correctly with a separate Chrome profile, and Bitwarden CLI with TOTP is the most reliable setup I\u2019ve personally found for authenticated browser workflows. Claude vs Codex - i am a poweruser of both, but Claude makes way too mean mistakes and does not follow insturctions, codex is...",
-      "comments_summary": "Community reaction: Top reactions focus on Ok I\u2019ll check it out, i tried the regular one for a few months but had been buggy for me | im increasingly getting annoyed by these blatant advertisements that always signal some workflow with a paid tool/api.",
-      "score": null,
-      "subreddit": "Codex",
-      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sg63tc/codex_chromedevtools_mcp_seperate_profile/"
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgliij/is_there_ask_before_edits_in_codex/"
     }
   ]
 }
