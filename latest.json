@@ -1,23 +1,12 @@
 {
-  "generated_at_iso": "2026-04-10T02:54:03.766389+08:00",
-  "generated_at": "2026-04-10T02:54:03.766389+08:00",
-  "generated_at_human": "2026-04-10 02:54 GMT+8",
+  "generated_at_iso": "2026-04-10T04:53:53.448437+08:00",
+  "generated_at": "2026-04-10T04:53:53.448437+08:00",
+  "generated_at_human": "2026-04-10 04:53 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-10_02-54.md",
-  "changes": [
-    {
-      "title": "Passed Anthropic's Claude Certified Architect (893/1000)",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sgn0cf/passed_anthropics_claude_certified_architect/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "16 GB VRAM users, what model do we like best now?",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
-      "subreddit": "LocalLLaMA"
-    }
-  ],
+  "file": "summary_2026-04-10_04-53.md",
+  "changes": [],
   "sections": [
     {
       "subreddit": "openai",
@@ -29,61 +18,11 @@
       "display_name": "LocalLLaMA",
       "posts": [
         {
-          "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
-          "author": "/u/jacek2023",
-          "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:21 GMT+8: post=mixed, author=mixed \u2014 Does this mean I don't need to figure out vllm? Serious question | 2026-04-09 23:29 GMT+8: post=mixed, author=mixed \u2014 vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp | 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations...",
-          "comment_analysis": {
-            "summary": "The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/Far_Course2496",
-                "timestamp": "2026-04-09 23:21 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Does this mean I don't need to figure out vllm? Serious question"
-              },
-              {
-                "author": "/u/jacek2023",
-                "timestamp": "2026-04-09 23:29 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp"
-              },
-              {
-                "author": "/u/sleepingsysadmin",
-                "timestamp": "2026-04-09 22:56 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
-              },
-              {
-                "author": "/u/jacek2023",
-                "timestamp": "2026-04-09 22:58 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "is this caused by different GPUs on your setup?"
-              }
-            ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
-          },
-          "score": null,
-          "timestamp": "2026-04-09T14:46:19+00:00",
-          "timestamp_human": "2026-04-09 22:46 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
-          "profile_relevance_score": 9
-        },
-        {
           "title": "Gemma 4 on Llama.cpp should be stable now",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
           "author": "/u/ilintar",
           "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
+          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
           "comment_analysis": {
             "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
             "overall_sentiment_toward_post": "mixed",
@@ -118,7 +57,8 @@
                 "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
               }
             ],
-            "model": "heuristic-fallback"
+            "model": "heuristic-fallback-timeout",
+            "minimax_error": "timeout"
           },
           "score": null,
           "timestamp": "2026-04-09T09:48:52+00:00",
@@ -132,10 +72,10 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
           "author": "/u/lemon07r",
           "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 01:24 GMT+8: post=mixed, author=mixed \u2014 Qwopus is pretty decent, I quite like it | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be... | 2026-04-10 04:28 GMT+8: post=mixed, author=mixed \u2014 Is there a 35B Qwopus? I only see 4/9/27B.",
           "comment_analysis": {
-            "summary": "The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
-            "overall_sentiment_toward_post": "mixed",
+            "summary": "The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+            "overall_sentiment_toward_post": "positive",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
@@ -146,13 +86,6 @@
                 "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
               },
               {
-                "author": "/u/Spicy_mch4ggis",
-                "timestamp": "2026-04-10 01:24 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Qwopus is pretty decent, I quite like it"
-              },
-              {
                 "author": "/u/xeeff",
                 "timestamp": "2026-04-10 02:30 GMT+8",
                 "sentiment_toward_post": "mixed",
@@ -160,11 +93,18 @@
                 "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
               },
               {
-                "author": "/u/Morphon",
-                "timestamp": "2026-04-10 01:30 GMT+8",
+                "author": "/u/sine120",
+                "timestamp": "2026-04-10 04:28 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "Qwen 3.5 over here! 35B-A3B at Q6K and 128k context (expert weights pushed to CPU). 35t/s. Very usable speeds, low precision loss because of the big quant. 122B-A110B at IQ3_S and..."
+                "summary": "Is there a 35B Qwopus? I only see 4/9/27B."
+              },
+              {
+                "author": "/u/ansibleloop",
+                "timestamp": "2026-04-10 03:35 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "My issue is I want the entire model in my GPU for speed, but with my monitors I only have like 15GB of RAM with 12GBish for the model and 3GB for context I need to offload some of..."
               }
             ],
             "model": "heuristic-fallback"
@@ -174,6 +114,55 @@
           "timestamp_human": "2026-04-10 01:12 GMT+8",
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+          "profile_relevance_score": 4
+        },
+        {
+          "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
+          "author": "/u/jacek2023",
+          "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations... | 2026-04-09 22:58 GMT+8: post=mixed, author=mixed \u2014 is this caused by different GPUs on your setup? | 2026-04-09 23:13 GMT+8: post=mixed, author=mixed \u2014 Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck...",
+          "comment_analysis": {
+            "summary": "The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test..",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/sleepingsysadmin",
+                "timestamp": "2026-04-09 22:56 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
+              },
+              {
+                "author": "/u/jacek2023",
+                "timestamp": "2026-04-09 22:58 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "is this caused by different GPUs on your setup?"
+              },
+              {
+                "author": "/u/sleepingsysadmin",
+                "timestamp": "2026-04-09 23:13 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test."
+              },
+              {
+                "author": "/u/jacek2023",
+                "timestamp": "2026-04-09 23:14 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I mean RX 6800 and MI50 are two different GPUs, maybe it requires them to be same"
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-09T14:46:19+00:00",
+          "timestamp_human": "2026-04-09 22:46 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
           "profile_relevance_score": 4
         }
       ]
@@ -207,7 +196,7 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
           "author": "/u/openwebui",
           "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
           "comment_analysis": {
             "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
             "overall_sentiment_toward_post": "mixed",
@@ -242,8 +231,8 @@
                 "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
           },
           "score": null,
           "timestamp": "2025-06-12T14:15:16+00:00",
@@ -307,35 +296,36 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
           "author": "/u/RealFangedSpectre",
           "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-          "comments_summary": "Community reaction (minimax/MiniMax-M2.7): Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author. Overall sentiment \u2014 post: neutral; author: neutral. Reply threads: 2026-04-08 20:43 GMT+8: post=neutral, author=neutral \u2014 Suggests the duplicate models may stem from an arena configuration that groups multiple models together,... | 2026-04-08 20:58 GMT+8: post=concerned, author=neutral \u2014 Follows up asking for specific setting locations, confirming the issue persists and expressing frustration... | 2026-04-09 20:25 GMT+8: post=neutral, author=neutral \u2014 Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and...",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
           "comment_analysis": {
-            "summary": "Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author.",
-            "overall_sentiment_toward_post": "neutral",
-            "overall_sentiment_toward_author": "neutral",
+            "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
+            "overall_sentiment_toward_post": "positive",
+            "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
                 "author": "/u/ni__ko_las",
                 "timestamp": "2026-04-08 20:43 GMT+8",
-                "sentiment_toward_post": "neutral",
-                "sentiment_toward_author": "neutral",
-                "summary": "Suggests the duplicate models may stem from an arena configuration that groups multiple models together, offering this as a diagnostic lead for troubleshooting."
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you send a prompt to it, the prompt goes..."
               },
               {
                 "author": "/u/RealFangedSpectre",
                 "timestamp": "2026-04-08 20:58 GMT+8",
-                "sentiment_toward_post": "concerned",
-                "sentiment_toward_author": "neutral",
-                "summary": "Follows up asking for specific setting locations, confirming the issue persists and expressing frustration that they cannot set a default workspace LLM."
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked together, and I can\u2019t default my..."
               },
               {
                 "author": "/u/CapMonster1",
                 "timestamp": "2026-04-09 20:25 GMT+8",
-                "sentiment_toward_post": "neutral",
-                "sentiment_toward_author": "neutral",
-                "summary": "Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and explaining that monolithic JSON configurations cause the UI routing logic to break down, recommending atomic tool structures instead."
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
               }
             ],
-            "model": "minimax/MiniMax-M2.7"
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
           },
           "score": null,
           "timestamp": "2026-04-08T12:01:34+00:00",
@@ -398,10 +388,10 @@
           "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
           "author": "/u/FreedomFact",
           "summary": "Summary: I recently decided to try the \"suggest a change\" after an answer in a chat bot is not what I expected to happen with the existing conversation! So, even though I suggest detailed what should happen, it ignores my suggestion completely!",
-          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 12:07 GMT+8: post=mixed, author=mixed \u2014 What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the.... Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-09 12:07 GMT+8: post=mixed, author=mixed \u2014 What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | 2026-04-10 03:31 GMT+8: post=mixed, author=mixed \u2014 When you ask the interface to answer question, once the answer is typed and complete, there are a few tools...",
           "comment_analysis": {
-            "summary": "Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?.",
-            "overall_sentiment_toward_post": "mixed",
+            "summary": "The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the....",
+            "overall_sentiment_toward_post": "skeptical",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
@@ -410,6 +400,13 @@
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
                 "summary": "What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?"
+              },
+              {
+                "author": "/u/FreedomFact",
+                "timestamp": "2026-04-10 03:31 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the answer. One of the tools look like a refresh-..."
               }
             ],
             "model": "heuristic-fallback"
@@ -465,11 +462,11 @@
                 "summary": "You have to be in a partner organization to even sit for it."
               },
               {
-                "author": "/u/OldManNickRod",
-                "timestamp": "2026-04-09 22:35 GMT+8",
+                "author": "/u/PttOne",
+                "timestamp": "2026-04-09 23:41 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "I thought you had to be a partner with them to be able to take that test is that correct?"
+                "summary": "just got my results. passed with 900+. AMA if you are preparing to take this."
               }
             ],
             "model": "heuristic-fallback"
@@ -500,7 +497,7 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
       "author": "/u/openwebui",
       "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
       "comment_analysis": {
         "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
         "overall_sentiment_toward_post": "mixed",
@@ -535,8 +532,8 @@
             "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
       },
       "score": null,
       "timestamp": "2025-06-12T14:15:16+00:00",
@@ -600,35 +597,36 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfqt81/trouble_shooting_a_multi_agentic_issue/",
       "author": "/u/RealFangedSpectre",
       "summary": "Summary: I\u2019ve never had this happen before.. I\u2019m using ollama, open WebUI, have ollama environment set to 0, but somehow open WebUI first loaded doubles of my models under admin model system, finally fixed that, but when I boot up openwebui it\u2019s not letting me pick one..",
-      "comments_summary": "Community reaction (minimax/MiniMax-M2.7): Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author. Overall sentiment \u2014 post: neutral; author: neutral. Reply threads: 2026-04-08 20:43 GMT+8: post=neutral, author=neutral \u2014 Suggests the duplicate models may stem from an arena configuration that groups multiple models together,... | 2026-04-08 20:58 GMT+8: post=concerned, author=neutral \u2014 Follows up asking for specific setting locations, confirming the issue persists and expressing frustration... | 2026-04-09 20:25 GMT+8: post=neutral, author=neutral \u2014 Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and...",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-08 20:43 GMT+8: post=mixed, author=mixed \u2014 Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a... | 2026-04-08 20:58 GMT+8: post=mixed, author=mixed \u2014 Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just... | 2026-04-09 20:25 GMT+8: post=mixed, author=mixed \u2014 This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex...",
       "comment_analysis": {
-        "summary": "Commenters recognize the author's multi-agent setup issue as a legitimate and common Open WebUI problem, particularly when configurations become too complex or monolithic. They offer diagnostic suggestions about arena settings and validate that overloading with tools causes model selection and routing failures. The overall tone is helpful and collaborative, with no criticism toward the author.",
-        "overall_sentiment_toward_post": "neutral",
-        "overall_sentiment_toward_author": "neutral",
+        "summary": "The comment section is mostly positive. Top reactions focus on Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you... | Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked....",
+        "overall_sentiment_toward_post": "positive",
+        "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
             "author": "/u/ni__ko_las",
             "timestamp": "2026-04-08 20:43 GMT+8",
-            "sentiment_toward_post": "neutral",
-            "sentiment_toward_author": "neutral",
-            "summary": "Suggests the duplicate models may stem from an arena configuration that groups multiple models together, offering this as a diagnostic lead for troubleshooting."
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Sounds like you have an \"arena\" setup somewhere. Basically it takes one or more models and treats them as a single instance and when you send a prompt to it, the prompt goes..."
           },
           {
             "author": "/u/RealFangedSpectre",
             "timestamp": "2026-04-08 20:58 GMT+8",
-            "sentiment_toward_post": "concerned",
-            "sentiment_toward_author": "neutral",
-            "summary": "Follows up asking for specific setting locations, confirming the issue persists and expressing frustration that they cannot set a default workspace LLM."
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Any idea what setting that might be under? I had the default arena thing, but now if I open WebUI it just shows my 3 giant models stacked together, and I can\u2019t default my..."
           },
           {
             "author": "/u/CapMonster1",
             "timestamp": "2026-04-09 20:25 GMT+8",
-            "sentiment_toward_post": "neutral",
-            "sentiment_toward_author": "neutral",
-            "summary": "Confirms this is a classic Open WebUI issue caused by tool overload, validating the author's experience and explaining that monolithic JSON configurations cause the UI routing logic to break down, recommending atomic tool structures instead."
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "This is a pretty classic Open WebUI issue when you overload it with tools \u2014 it doesn\u2019t handle overly complex or monolithic configurations very well. Packing 12 tools into one JSON..."
           }
         ],
-        "model": "minimax/MiniMax-M2.7"
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
       },
       "score": null,
       "timestamp": "2026-04-08T12:01:34+00:00",
@@ -638,61 +636,11 @@
       "profile_relevance_score": 12
     },
     {
-      "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
-      "author": "/u/jacek2023",
-      "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 23:21 GMT+8: post=mixed, author=mixed \u2014 Does this mean I don't need to figure out vllm? Serious question | 2026-04-09 23:29 GMT+8: post=mixed, author=mixed \u2014 vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp | 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations...",
-      "comment_analysis": {
-        "summary": "The comment section is split between critical and positive. Top reactions focus on Does this mean I don't need to figure out vllm? Serious question | vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Far_Course2496",
-            "timestamp": "2026-04-09 23:21 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Does this mean I don't need to figure out vllm? Serious question"
-          },
-          {
-            "author": "/u/jacek2023",
-            "timestamp": "2026-04-09 23:29 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "vllm has a serious limitation: you need two or four GPUs, I have three, three work only with llama.cpp"
-          },
-          {
-            "author": "/u/sleepingsysadmin",
-            "timestamp": "2026-04-09 22:56 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
-          },
-          {
-            "author": "/u/jacek2023",
-            "timestamp": "2026-04-09 22:58 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "is this caused by different GPUs on your setup?"
-          }
-        ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
-      },
-      "score": null,
-      "timestamp": "2026-04-09T14:46:19+00:00",
-      "timestamp_human": "2026-04-09 22:46 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
-      "profile_relevance_score": 9
-    },
-    {
       "title": "Gemma 4 on Llama.cpp should be stable now",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
       "author": "/u/ilintar",
       "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
+      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
       "comment_analysis": {
         "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
         "overall_sentiment_toward_post": "mixed",
@@ -727,7 +675,8 @@
             "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
           }
         ],
-        "model": "heuristic-fallback"
+        "model": "heuristic-fallback-timeout",
+        "minimax_error": "timeout"
       },
       "score": null,
       "timestamp": "2026-04-09T09:48:52+00:00",
@@ -769,11 +718,11 @@
             "summary": "You have to be in a partner organization to even sit for it."
           },
           {
-            "author": "/u/OldManNickRod",
-            "timestamp": "2026-04-09 22:35 GMT+8",
+            "author": "/u/PttOne",
+            "timestamp": "2026-04-09 23:41 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "I thought you had to be a partner with them to be able to take that test is that correct?"
+            "summary": "just got my results. passed with 900+. AMA if you are preparing to take this."
           }
         ],
         "model": "heuristic-fallback"
@@ -839,10 +788,10 @@
       "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
       "author": "/u/FreedomFact",
       "summary": "Summary: I recently decided to try the \"suggest a change\" after an answer in a chat bot is not what I expected to happen with the existing conversation! So, even though I suggest detailed what should happen, it ignores my suggestion completely!",
-      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 12:07 GMT+8: post=mixed, author=mixed \u2014 What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the.... Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-09 12:07 GMT+8: post=mixed, author=mixed \u2014 What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | 2026-04-10 03:31 GMT+8: post=mixed, author=mixed \u2014 When you ask the interface to answer question, once the answer is typed and complete, there are a few tools...",
       "comment_analysis": {
-        "summary": "Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?.",
-        "overall_sentiment_toward_post": "mixed",
+        "summary": "The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the....",
+        "overall_sentiment_toward_post": "skeptical",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
@@ -851,6 +800,13 @@
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
             "summary": "What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?"
+          },
+          {
+            "author": "/u/FreedomFact",
+            "timestamp": "2026-04-10 03:31 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the answer. One of the tools look like a refresh-..."
           }
         ],
         "model": "heuristic-fallback"
@@ -867,10 +823,10 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
       "author": "/u/lemon07r",
       "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 01:24 GMT+8: post=mixed, author=mixed \u2014 Qwopus is pretty decent, I quite like it | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be... | 2026-04-10 04:28 GMT+8: post=mixed, author=mixed \u2014 Is there a 35B Qwopus? I only see 4/9/27B.",
       "comment_analysis": {
-        "summary": "The comment section is split between positive and critical. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
-        "overall_sentiment_toward_post": "mixed",
+        "summary": "The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+        "overall_sentiment_toward_post": "positive",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
@@ -881,13 +837,6 @@
             "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
           },
           {
-            "author": "/u/Spicy_mch4ggis",
-            "timestamp": "2026-04-10 01:24 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Qwopus is pretty decent, I quite like it"
-          },
-          {
             "author": "/u/xeeff",
             "timestamp": "2026-04-10 02:30 GMT+8",
             "sentiment_toward_post": "mixed",
@@ -895,11 +844,18 @@
             "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
           },
           {
-            "author": "/u/Morphon",
-            "timestamp": "2026-04-10 01:30 GMT+8",
+            "author": "/u/sine120",
+            "timestamp": "2026-04-10 04:28 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Qwen 3.5 over here! 35B-A3B at Q6K and 128k context (expert weights pushed to CPU). 35t/s. Very usable speeds, low precision loss because of the big quant. 122B-A110B at IQ3_S and..."
+            "summary": "Is there a 35B Qwopus? I only see 4/9/27B."
+          },
+          {
+            "author": "/u/ansibleloop",
+            "timestamp": "2026-04-10 03:35 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "My issue is I want the entire model in my GPU for speed, but with my monitors I only have like 15GB of RAM with 12GBish for the model and 3GB for context I need to offload some of..."
           }
         ],
         "model": "heuristic-fallback"
@@ -909,6 +865,55 @@
       "timestamp_human": "2026-04-10 01:12 GMT+8",
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
+      "author": "/u/jacek2023",
+      "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations... | 2026-04-09 22:58 GMT+8: post=mixed, author=mixed \u2014 is this caused by different GPUs on your setup? | 2026-04-09 23:13 GMT+8: post=mixed, author=mixed \u2014 Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck...",
+      "comment_analysis": {
+        "summary": "The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test..",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/sleepingsysadmin",
+            "timestamp": "2026-04-09 22:56 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
+          },
+          {
+            "author": "/u/jacek2023",
+            "timestamp": "2026-04-09 22:58 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "is this caused by different GPUs on your setup?"
+          },
+          {
+            "author": "/u/sleepingsysadmin",
+            "timestamp": "2026-04-09 23:13 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test."
+          },
+          {
+            "author": "/u/jacek2023",
+            "timestamp": "2026-04-09 23:14 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I mean RX 6800 and MI50 are two different GPUs, maybe it requires them to be same"
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-09T14:46:19+00:00",
+      "timestamp_human": "2026-04-09 22:46 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
       "profile_relevance_score": 4
     },
     {
