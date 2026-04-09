@@ -1,16 +1,16 @@
 {
-  "generated_at_iso": "2026-04-09T20:54:11.930351+08:00",
-  "generated_at": "2026-04-09T20:54:11.930351+08:00",
-  "generated_at_human": "2026-04-09 20:54 GMT+8",
+  "generated_at_iso": "2026-04-09T20:56:18.798078+08:00",
+  "generated_at": "2026-04-09T20:56:18.798078+08:00",
+  "generated_at_human": "2026-04-09 20:56 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-09_20-54.md",
+  "file": "summary_2026-04-09_20-56.md",
   "changes": [
     {
-      "title": "The solution to usage limits is ... 5.3",
-      "link": "https://old.reddit.com/r/codex/comments/1sgoa0w/the_solution_to_usage_limits_is_53/",
-      "subreddit": "Codex"
+      "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
+      "link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+      "subreddit": "llmdevs"
     }
   ],
   "sections": [
@@ -61,6 +61,17 @@
           "subreddit": "llmdevs",
           "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
           "profile_relevance_score": 4
+        },
+        {
+          "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
+          "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+          "author": "/u/ubunt2",
+          "summary": "Project/tool: [Image: Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split] Visualize your chunking strategies, and see how your docs are getting split: https://aiagentsbuzz.com/tools/rag-chunking-playground/ (https://aiagentsbuzz.com/tools/rag-chunking-playground/) What it does: -...",
+          "comments_summary": "",
+          "score": null,
+          "subreddit": "llmdevs",
+          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+          "profile_relevance_score": 4
         }
       ]
     },
@@ -102,6 +113,17 @@
       "score": null,
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg7oo/am_i_not_using_llm_efficient_enough/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+      "author": "/u/ubunt2",
+      "summary": "Project/tool: [Image: Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split] Visualize your chunking strategies, and see how your docs are getting split: https://aiagentsbuzz.com/tools/rag-chunking-playground/ (https://aiagentsbuzz.com/tools/rag-chunking-playground/) What it does: -...",
+      "comments_summary": "",
+      "score": null,
+      "subreddit": "llmdevs",
+      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
       "profile_relevance_score": 4
     },
     {
