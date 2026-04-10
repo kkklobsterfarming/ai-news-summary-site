@@ -1,5 +1,54 @@
 [
   {
+    "generated_at": "2026-04-11T00:56:00.769789+08:00",
+    "generated_at_human": "2026-04-11 00:56 GMT+8",
+    "file": "summary_2026-04-11_00-56.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": []
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": []
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": []
+      },
+      {
+        "subreddit": "OpenWebUI",
+        "display_name": "Open WebUI",
+        "posts": []
+      },
+      {
+        "subreddit": "selfhosted",
+        "display_name": "Self-Hosted",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": []
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-10T18:55:49.886777+08:00",
     "generated_at_human": "2026-04-10 18:55 GMT+8",
     "file": "summary_2026-04-10_18-55.md",
