@@ -1,5 +1,569 @@
 [
   {
+    "generated_at": "2026-04-10T10:54:18.105412+08:00",
+    "generated_at_human": "2026-04-10 10:54 GMT+8",
+    "file": "summary_2026-04-10_10-54.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "I built an MCP server for Chinese metaphysics (BaZi / Feng Shui) \u2014 740+ verified tests",
+        "link": "https://old.reddit.com/r/ClaudeAI/comments/1sh877z/i_built_an_mcp_server_for_chinese_metaphysics/",
+        "subreddit": "ClaudeAI"
+      }
+    ],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": [
+          {
+            "title": "AI agents can now open their own bank accounts",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "author": "/u/Significant-Doubt648",
+            "summary": "Summary: Dropping it here because I feel like this sub should be talking about it. The short version: banking platform Meow launched MCP support so your Claude/ChatGPT/Gemini agent can open a bank account, issue cards, send money, and audit spend autonomously.",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:29 GMT+8: post=mixed, author=mixed \u2014 How do they satisfy banking laws that require identity verification? | 2026-04-10 05:51 GMT+8: post=mixed, author=mixed \u2014 The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting... | 2026-04-10 06:27 GMT+8: post=mixed, author=mixed \u2014 So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!",
+            "comment_analysis": {
+              "summary": "Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Nailfoot1975",
+                  "timestamp": "2026-04-10 05:29 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How do they satisfy banking laws that require identity verification?"
+                },
+                {
+                  "author": "/u/Significant-Doubt648",
+                  "timestamp": "2026-04-10 05:51 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual verification still happens on the backend with..."
+                },
+                {
+                  "author": "/u/appmapper",
+                  "timestamp": "2026-04-10 06:27 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!"
+                },
+                {
+                  "author": "/u/Snoron",
+                  "timestamp": "2026-04-10 08:17 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How is that different from me just signing up to a bank that has an API, and letting the AI use it once I'm done? (Ie. like I already have)?"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T21:21:22+00:00",
+            "timestamp_human": "2026-04-10 05:21 GMT+8",
+            "subreddit": "openai",
+            "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": [
+          {
+            "title": "Qwen3.5-122B at 198 tok/s on 2x RTX PRO 6000 Blackwell \u2014 Budget build, verified results",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sh7yxa/qwen35122b_at_198_toks_on_2x_rtx_pro_6000/",
+            "author": "/u/Visual_Synthesizer",
+            "summary": "Summary: I've been optimizing a 2-GPU inference server for the past week and wanted to share the results. Full data is public with raw JSONs, launch commands, and methodology.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly concerned. Top reactions focus on Well it's a budget. Humongous budget, but a budget indeed. | I\u00b4ll say, if I where to pickup 2 of those cards alone where I live, they would cost 26.5K. Overall sentiment \u2014 post: concerned; author: mixed. Reply threads: 2026-04-10 10:45 GMT+8: post=mixed, author=mixed \u2014 Man probably has a \"Budget private jet\" too. | 2026-04-10 10:51 GMT+8: post=mixed, author=mixed \u2014 it flies 18% faster than the expensive one though | 2026-04-10 10:19 GMT+8: post=mixed, author=mixed \u2014 Well it's a budget. Humongous budget, but a budget indeed.",
+            "comment_analysis": {
+              "summary": "The comment section is mostly concerned. Top reactions focus on Well it's a budget. Humongous budget, but a budget indeed. | I\u00b4ll say, if I where to pickup 2 of those cards alone where I live, they would cost 26.5K.",
+              "overall_sentiment_toward_post": "concerned",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/FatheredPuma81",
+                  "timestamp": "2026-04-10 10:45 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Man probably has a \"Budget private jet\" too."
+                },
+                {
+                  "author": "/u/Visual_Synthesizer",
+                  "timestamp": "2026-04-10 10:51 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "it flies 18% faster than the expensive one though"
+                },
+                {
+                  "author": "/u/Nick-Sanchez",
+                  "timestamp": "2026-04-10 10:19 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Well it's a budget. Humongous budget, but a budget indeed."
+                },
+                {
+                  "author": "/u/--Rotten-By-Design--",
+                  "timestamp": "2026-04-10 10:21 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I\u00b4ll say, if I where to pickup 2 of those cards alone where I live, they would cost 26.5K"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T00:59:58+00:00",
+            "timestamp_human": "2026-04-10 08:59 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sh7yxa/qwen35122b_at_198_toks_on_2x_rtx_pro_6000/",
+            "profile_relevance_score": 6
+          },
+          {
+            "title": "16 GB VRAM users, what model do we like best now?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "author": "/u/lemon07r",
+            "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be... | 2026-04-10 04:28 GMT+8: post=mixed, author=mixed \u2014 Is there a 35B Qwopus? I only see 4/9/27B.",
+            "comment_analysis": {
+              "summary": "The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+              "overall_sentiment_toward_post": "positive",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 01:20 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
+                },
+                {
+                  "author": "/u/xeeff",
+                  "timestamp": "2026-04-10 02:30 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
+                },
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 04:28 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Is there a 35B Qwopus? I only see 4/9/27B."
+                },
+                {
+                  "author": "/u/grumd",
+                  "timestamp": "2026-04-10 08:02 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "You should try 122B at IQ3_S, at a low quant it outperforms 27B. 27B gets ahead of 122B at higher quants"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T17:12:53+00:00",
+            "timestamp_human": "2026-04-10 01:12 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "Intel Core Ultra 270k+ is a beast on prefill (2x over 14700f), but decoding takes a hit",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sh73ph/intel_core_ultra_270k_is_a_beast_on_prefill_2x/",
+            "author": "/u/Shoddy_Bed3240",
+            "summary": "Summary: Hey everyone, I recently upgraded my rig to the Intel Core Ultra 270k+ and wanted to share some specific `llama.cpp` benchmarks, as the results are a bit of a \"good news/bad news\" situation compared to my old 14700f. The Setup: - OS: Debian 13 - CPU: Intel Core Ultra 270k+ - Software: llama.cpp (CPU only, no GPU...",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on I\u2019m impatiently waiting for Memory Express to get them in stock so I can swap the 245k out of my homelab.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 09:32 GMT+8: post=mixed, author=mixed \u2014 I\u2019m impatiently waiting for Memory Express to get them in stock so I can swap the 245k out of my homelab.",
+            "comment_analysis": {
+              "summary": "Top reactions focus on I\u2019m impatiently waiting for Memory Express to get them in stock so I can swap the 245k out of my homelab..",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/spky-dev",
+                  "timestamp": "2026-04-10 09:32 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I\u2019m impatiently waiting for Memory Express to get them in stock so I can swap the 245k out of my homelab."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T00:20:56+00:00",
+            "timestamp_human": "2026-04-10 08:20 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sh73ph/intel_core_ultra_270k_is_a_beast_on_prefill_2x/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": []
+      },
+      {
+        "subreddit": "OpenWebUI",
+        "display_name": "Open WebUI",
+        "posts": [
+          {
+            "title": "API Error / 500 Crash in v0.8.12 when enabling OAI GPT-5.1 reasoning. Workarounds?",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sh9e0g/api_error_500_crash_in_v0812_when_enabling_oai/",
+            "author": "/u/DMmeMagikarp",
+            "summary": "Summary: [Image: API Error / 500 Crash in v0.8.12 when enabling OAI GPT-5.1 reasoning. Workarounds?] I\u2019m hitting a frustrating wall trying to enable reasoning for OAI\u2019s \u201cgpt-5.1-2025-11-13\u201d via API in OWUI v0.8.12.",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-10T02:03:45+00:00",
+            "timestamp_human": "2026-04-10 10:03 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sh9e0g/api_error_500_crash_in_v0812_when_enabling_oai/",
+            "profile_relevance_score": 5
+          },
+          {
+            "title": "Model Test",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sh7azn/model_test/",
+            "author": "/u/Quirky_Requirement33",
+            "summary": "Summary: Probably a tired theme but always fun - my new default flat model prompt to test without tuning. And a perfect result is not the correct answer given this is related to a hands on trade (not a particularly difficulty question for a seasoned woodworker).",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-10T00:30:11+00:00",
+            "timestamp_human": "2026-04-10 08:30 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sh7azn/model_test/",
+            "profile_relevance_score": 5
+          },
+          {
+            "title": "These tools should be baked in, by the big brains, so I am not overloading?!?>",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sh81cr/these_tools_should_be_baked_in_by_the_big_brains/",
+            "author": "/u/RealFangedSpectre",
+            "summary": "Project/tool: [Image: These tools should be baked in, by the big brains, so I am not overloading?!?>] https://preview.redd.it/j5tj42xei9ug1.png?width=897&format=png&auto=webp&s=227d25cd49efdebf4569a88fd1ab7a00622ec7b7...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on P.S. I will share every single one if it helps evolve my favorite way to talk to my LLMs, this takes Open Web UI from a strong 6 to a 11 | I wrote superpowersWUI for openwebui, but dayuuum, this stack is a full on OS framework within openwebui, that's slick!. Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-10 09:04 GMT+8: post=mixed, author=mixed \u2014 P.S. I will share every single one if it helps evolve my favorite way to talk to my LLMs, this takes Open Web... | 2026-04-10 09:11 GMT+8: post=mixed, author=mixed \u2014 I wrote superpowersWUI for openwebui, but dayuuum, this stack is a full on OS framework within openwebui,... | 2026-04-10 10:39 GMT+8: post=mixed, author=mixed \u2014 Thank you, I put a ton of time and many failed experiments to get here.",
+            "comment_analysis": {
+              "summary": "The comment section is mostly skeptical. Top reactions focus on P.S. I will share every single one if it helps evolve my favorite way to talk to my LLMs, this takes Open Web UI from a strong 6 to a 11 | I wrote superpowersWUI for openwebui, but dayuuum, this stack is a full on OS framework within openwebui, that's slick!.",
+              "overall_sentiment_toward_post": "skeptical",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/RealFangedSpectre",
+                  "timestamp": "2026-04-10 09:04 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "P.S. I will share every single one if it helps evolve my favorite way to talk to my LLMs, this takes Open Web UI from a strong 6 to a 11"
+                },
+                {
+                  "author": "/u/Dry_Inspection_4583",
+                  "timestamp": "2026-04-10 09:11 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I wrote superpowersWUI for openwebui, but dayuuum, this stack is a full on OS framework within openwebui, that's slick!"
+                },
+                {
+                  "author": "/u/RealFangedSpectre",
+                  "timestamp": "2026-04-10 10:39 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Thank you, I put a ton of time and many failed experiments to get here."
+                },
+                {
+                  "author": "/u/RealFangedSpectre",
+                  "timestamp": "2026-04-10 10:40 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I have a GitHub account, not 100% sure how to share everything"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T01:02:45+00:00",
+            "timestamp_human": "2026-04-10 09:02 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sh81cr/these_tools_should_be_baked_in_by_the_big_brains/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "selfhosted",
+        "display_name": "Self-Hosted",
+        "posts": [
+          {
+            "title": "I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+            "author": "/u/semiramist",
+            "summary": "Project/tool: [Image: I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors] I\u2019ve been trying to get my health data out of Apple\u2019s ecosystem and into something I can actually query, automate, and keep long-term. Ended up building a pipeline that pushes everything...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 06:12 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 06:54 GMT+8: post=mixed, author=mixed \u2014 Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all... | 2026-04-10 06:59 GMT+8: post=mixed, author=mixed \u2014 Nice, happy to help if you hit any snags with the setup!",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!.",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/asimovs-auditor",
+                  "timestamp": "2026-04-10 06:12 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+                },
+                {
+                  "author": "/u/Notice_Me_Sauron",
+                  "timestamp": "2026-04-10 06:54 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!"
+                },
+                {
+                  "author": "/u/semiramist",
+                  "timestamp": "2026-04-10 06:59 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Nice, happy to help if you hit any snags with the setup!"
+                },
+                {
+                  "author": "/u/gscjj",
+                  "timestamp": "2026-04-10 07:00 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Really cool, this has been on my list for a while. So was this an app you built for IOS that queries the data? Or is there an API for it? How was the process to get it accepted?..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T22:12:28+00:00",
+            "timestamp_human": "2026-04-10 06:12 GMT+8",
+            "subreddit": "selfhosted",
+            "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "Lightweight self-hosted VPN setup with VLESS + AmneziaWG and a simple client",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1sh2sff/lightweight_selfhosted_vpn_setup_with_vless/",
+            "author": "/u/Scared-Pound-61",
+            "summary": "Summary: [Image: Lightweight self-hosted VPN setup with VLESS + AmneziaWG and a simple client] Hey everyone, I've been experimenting with self-hosted VPN setups and kept running into the same issue \u2014 the server side is flexible, but most clients are either too limited or overly complicated. So I ended up building a lightweight...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Looks pretty cool. Do you have repo link you can share? I am not familiar with VLESS nor with AmneziaWG but looks pretty cool. I think a.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:23 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 05:39 GMT+8: post=mixed, author=mixed \u2014 Looks pretty cool. Do you have repo link you can share? I am not familiar with VLESS nor with AmneziaWG but... | 2026-04-10 07:16 GMT+8: post=mixed, author=mixed \u2014 I\u2019m also working on proper docs \u2014 planning to add: step-by-step server setup (3x-ui + VLESS Reality)...",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and skeptical. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Looks pretty cool. Do you have repo link you can share? I am not familiar with VLESS nor with AmneziaWG but looks pretty cool. I think a....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/asimovs-auditor",
+                  "timestamp": "2026-04-10 05:23 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+                },
+                {
+                  "author": "/u/cazador517",
+                  "timestamp": "2026-04-10 05:39 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Looks pretty cool. Do you have repo link you can share? I am not familiar with VLESS nor with AmneziaWG but looks pretty cool. I think a lot people can appreciate it if you show..."
+                },
+                {
+                  "author": "/u/cazador517",
+                  "timestamp": "2026-04-10 07:16 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I\u2019m also working on proper docs \u2014 planning to add: step-by-step server setup (3x-ui + VLESS Reality) ready-to-use configs and better onboarding overall I think that would be a..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T21:23:20+00:00",
+            "timestamp_human": "2026-04-10 05:23 GMT+8",
+            "subreddit": "selfhosted",
+            "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh2sff/lightweight_selfhosted_vpn_setup_with_vless/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "Self hosted XMPP on a Raspberry Pi 2",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1sh7j25/self_hosted_xmpp_on_a_raspberry_pi_2/",
+            "author": "/u/TheGabrielShear",
+            "summary": "Summary: [Image: Self hosted XMPP on a Raspberry Pi 2] 117 days, not bad. history retrieval is slow though even with an SQL server and indexing.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Remember that long up time is not a good thing. You should be updating your system to get the latest updates which includes security.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 08:40 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 08:49 GMT+8: post=mixed, author=mixed \u2014 Remember that long up time is not a good thing. You should be updating your system to get the latest updates...",
+            "comment_analysis": {
+              "summary": "The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Remember that long up time is not a good thing. You should be updating your system to get the latest updates which includes security....",
+              "overall_sentiment_toward_post": "positive",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/asimovs-auditor",
+                  "timestamp": "2026-04-10 08:40 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+                },
+                {
+                  "author": "/u/1WeekNotice",
+                  "timestamp": "2026-04-10 08:49 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Remember that long up time is not a good thing. You should be updating your system to get the latest updates which includes security patches."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T00:40:31+00:00",
+            "timestamp_human": "2026-04-10 08:40 GMT+8",
+            "subreddit": "selfhosted",
+            "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh7j25/self_hosted_xmpp_on_a_raspberry_pi_2/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "Trying to reduce app sprawl with a local orchestration layer (TALOS)",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1sh3g0s/trying_to_reduce_app_sprawl_with_a_local/",
+            "author": "/u/New-Time-8269",
+            "summary": "Project/tool: I\u2019ve been getting increasingly frustrated with how fragmented my self-hosted setup has become, and I\u2019m curious how others are handling this. Right now I\u2019ve got multiple services running (LLMs locally, scripts, different tools), but everything lives in its own silo.",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:48 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project",
+            "comment_analysis": {
+              "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project.",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/asimovs-auditor",
+                  "timestamp": "2026-04-10 05:48 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T21:48:35+00:00",
+            "timestamp_human": "2026-04-10 05:48 GMT+8",
+            "subreddit": "selfhosted",
+            "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh3g0s/trying_to_reduce_app_sprawl_with_a_local/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": [
+          {
+            "title": "I built an MCP server for Chinese metaphysics (BaZi / Feng Shui) \u2014 740+ verified tests",
+            "link": "https://www.reddit.com/r/ClaudeAI/comments/1sh877z/i_built_an_mcp_server_for_chinese_metaphysics/",
+            "author": "/u/Simple-Fuel-5703",
+            "summary": "Project/tool: Been studying BaZi (Four Pillars of Destiny) since 2017. Courses with Joey Yap, classical texts, the whole rabbit hole.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and skeptical. Top reactions focus on Your post will be reviewed shortly. (ALL posts are processed like this. Please wait a few minutes....) I am a bot, and this action was... | Fun fact: solar term boundaries are computed via NASA JPL's DE421 ephemeris (same data used for spacecraft navigation), not lookup tables..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 09:13 GMT+8: post=mixed, author=mixed \u2014 Your post will be reviewed shortly. (ALL posts are processed like this. Please wait a few minutes....) I am a... | 2026-04-10 09:17 GMT+8: post=mixed, author=mixed \u2014 Fun fact: solar term boundaries are computed via NASA JPL's DE421 ephemeris (same data used for spacecraft...",
+            "comment_analysis": {
+              "summary": "The comment section is split between concerned and skeptical. Top reactions focus on Your post will be reviewed shortly. (ALL posts are processed like this. Please wait a few minutes....) I am a bot, and this action was... | Fun fact: solar term boundaries are computed via NASA JPL's DE421 ephemeris (same data used for spacecraft navigation), not lookup tables.....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/AutoModerator",
+                  "timestamp": "2026-04-10 09:13 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Your post will be reviewed shortly. (ALL posts are processed like this. Please wait a few minutes....) I am a bot, and this action was performed automatically. Please contact the..."
+                },
+                {
+                  "author": "/u/Simple-Fuel-5703",
+                  "timestamp": "2026-04-10 09:17 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Fun fact: solar term boundaries are computed via NASA JPL's DE421 ephemeris (same data used for spacecraft navigation), not lookup tables. So the month pillar accuracy is to the..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T01:10:01+00:00",
+            "timestamp_human": "2026-04-10 09:10 GMT+8",
+            "subreddit": "ClaudeAI",
+            "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sh877z/i_built_an_mcp_server_for_chinese_metaphysics/",
+            "profile_relevance_score": 7
+          },
+          {
+            "title": "Combined Karpathy's LLM Wiki with Milla Jovovich`s MemPalace MCP. Claude Code now remembers everything across sessions",
+            "link": "https://www.reddit.com/r/ClaudeAI/comments/1sh48b4/combined_karpathys_llm_wiki_with_milla_jovovichs/",
+            "author": "/u/Ogretape",
+            "summary": "Summary: If you use Claude Code for anything serious, you know the pain. Your CLAUDE.md helps, but it's static.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on But isn't Mempalace a scam by a known grifter trying to impersonate the real Milla? Why choose that one to combine with the Karpathy... | I was deeply depressed, apathetic, and I couldn't get my startup, unfairgaps.com (http://unfairgaps.com), off the ground, and I was.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 09:45 GMT+8: post=mixed, author=mixed \u2014 But isn't Mempalace a scam by a known grifter trying to impersonate the real Milla? Why choose that one to... | 2026-04-10 09:49 GMT+8: post=mixed, author=mixed \u2014 I was deeply depressed, apathetic, and I couldn't get my startup, unfairgaps.com (http://unfairgaps.com), off... | 2026-04-10 07:04 GMT+8: post=mixed, author=mixed \u2014 putting the fact that this is an AI drafted post to the side - this solution is using a sledgehammer to put...",
+            "comment_analysis": {
+              "summary": "The comment section is mostly positive. Top reactions focus on But isn't Mempalace a scam by a known grifter trying to impersonate the real Milla? Why choose that one to combine with the Karpathy... | I was deeply depressed, apathetic, and I couldn't get my startup, unfairgaps.com (http://unfairgaps.com), off the ground, and I was....",
+              "overall_sentiment_toward_post": "positive",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/m3umax",
+                  "timestamp": "2026-04-10 09:45 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "But isn't Mempalace a scam by a known grifter trying to impersonate the real Milla? Why choose that one to combine with the Karpathy pattern when there are much better memory..."
+                },
+                {
+                  "author": "/u/Ogretape",
+                  "timestamp": "2026-04-10 09:49 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I was deeply depressed, apathetic, and I couldn't get my startup, unfairgaps.com (http://unfairgaps.com), off the ground, and I was scolding myself for it. Memoriki was my first..."
+                },
+                {
+                  "author": "/u/Fidel___Castro",
+                  "timestamp": "2026-04-10 07:04 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "putting the fact that this is an AI drafted post to the side - this solution is using a sledgehammer to put in a screw. just export transcripts and logs of all sessions as JSON...."
+                },
+                {
+                  "author": "/u/portugese_fruit",
+                  "timestamp": "2026-04-10 07:35 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Yes, Def +1 to this: just export transcripts and logs of all sessions as JSON. enforce a schema. it's much more efficient than this brute force approach. great attempt though"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T22:19:44+00:00",
+            "timestamp_human": "2026-04-10 06:19 GMT+8",
+            "subreddit": "ClaudeAI",
+            "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sh48b4/combined_karpathys_llm_wiki_with_milla_jovovichs/",
+            "profile_relevance_score": 5
+          },
+          {
+            "title": "Dissertation Godsend",
+            "link": "https://www.reddit.com/r/ClaudeAI/comments/1sh8yej/dissertation_godsend/",
+            "author": "/u/PhDNerd1980",
+            "summary": "Summary: I am using a data enclave to access retricted data for my dissertation, which prevents me from creating publication ready tables to export to my own computer unless I have the host institution a couple weeks to approve exporting files. So I have had to screenshot all my output and then pray a program can put it...",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-10T01:44:13+00:00",
+            "timestamp_human": "2026-04-10 09:44 GMT+8",
+            "subreddit": "ClaudeAI",
+            "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sh8yej/dissertation_godsend/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": []
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-10T10:21:22.218322+08:00",
     "generated_at_human": "2026-04-10 10:21 GMT+8",
     "file": "summary_2026-04-10_10-21.md",
