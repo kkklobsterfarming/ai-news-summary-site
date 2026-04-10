@@ -1,5 +1,579 @@
 [
   {
+    "generated_at": "2026-04-10T08:54:03.568189+08:00",
+    "generated_at_human": "2026-04-10 08:54 GMT+8",
+    "file": "summary_2026-04-10_08-54.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "Codex on ChatGPT Plus\u2026 burned 75% of 5H in 20 mins",
+        "link": "https://old.reddit.com/r/codex/comments/1sgzy01/codex_on_chatgpt_plus_burned_75_of_5h_in_20_mins/",
+        "subreddit": "Codex"
+      },
+      {
+        "title": "Model Test",
+        "link": "https://old.reddit.com/r/OpenWebUI/comments/1sh7azn/model_test/",
+        "subreddit": "OpenWebUI"
+      }
+    ],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": [
+          {
+            "title": "AI agents can now open their own bank accounts",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "author": "/u/Significant-Doubt648",
+            "summary": "Summary: Dropping it here because I feel like this sub should be talking about it. The short version: banking platform Meow launched MCP support so your Claude/ChatGPT/Gemini agent can open a bank account, issue cards, send money, and audit spend autonomously.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:29 GMT+8: post=mixed, author=mixed \u2014 How do they satisfy banking laws that require identity verification? | 2026-04-10 05:51 GMT+8: post=mixed, author=mixed \u2014 The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting... | 2026-04-10 06:27 GMT+8: post=mixed, author=mixed \u2014 So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!",
+            "comment_analysis": {
+              "summary": "The comment section is split between joking and positive. Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Nailfoot1975",
+                  "timestamp": "2026-04-10 05:29 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How do they satisfy banking laws that require identity verification?"
+                },
+                {
+                  "author": "/u/Significant-Doubt648",
+                  "timestamp": "2026-04-10 05:51 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual verification still happens on the backend with..."
+                },
+                {
+                  "author": "/u/appmapper",
+                  "timestamp": "2026-04-10 06:27 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!"
+                },
+                {
+                  "author": "/u/Snoron",
+                  "timestamp": "2026-04-10 08:17 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How is that different from me just signing up to a bank that has an API, and letting the AI use it once I'm done? (Ie. like I already have)?"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T21:21:22+00:00",
+            "timestamp_human": "2026-04-10 05:21 GMT+8",
+            "subreddit": "openai",
+            "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": [
+          {
+            "title": "Gemma 4 on Llama.cpp should be stable now",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+            "author": "/u/ilintar",
+            "summary": "Summary: With the merging of https://github.com/ggml-org/llama.cpp/pull/21534 (https://github.com/ggml-org/llama.cpp/pull/21534), all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.",
+            "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:07 GMT+8: post=mixed, author=mixed \u2014 How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | 2026-04-10 00:17 GMT+8: post=mixed, author=mixed \u2014 on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer,... | 2026-04-09 19:11 GMT+8: post=mixed, author=mixed \u2014 I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was...",
+            "comment_analysis": {
+              "summary": "The comment section is split between critical and positive. Top reactions focus on How big is the blast radius? What else is broken with 13.2, besides llama.cpp? | on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV.....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/florinandrei",
+                  "timestamp": "2026-04-10 00:07 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How big is the blast radius? What else is broken with 13.2, besides llama.cpp?"
+                },
+                {
+                  "author": "/u/ai_without_borders",
+                  "timestamp": "2026-04-10 00:17 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "on my 5090 it was not hard crashes. gemma would run, then start repeating fragments once context got longer, especially with quantized KV. going back to 12.6 fixed it. felt more..."
+                },
+                {
+                  "author": "/u/a_beautiful_rhind",
+                  "timestamp": "2026-04-09 19:11 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I'm using 13.2 driver with 12.6 nvcc and runtime. I didn't see any breakage on other models but gemma was still unstable as of yesterday."
+                },
+                {
+                  "author": "/u/ambient_temp_xeno",
+                  "timestamp": "2026-04-09 18:06 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "My spider sense already taught me not to use 13x instead of 12x because if it ain't broke don't fix it."
+                }
+              ],
+              "model": "heuristic-fallback-timeout",
+              "minimax_error": "timeout"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T09:48:52+00:00",
+            "timestamp_human": "2026-04-09 17:48 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgl3qz/gemma_4_on_llamacpp_should_be_stable_now/",
+            "profile_relevance_score": 6
+          },
+          {
+            "title": "16 GB VRAM users, what model do we like best now?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "author": "/u/lemon07r",
+            "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be... | 2026-04-10 04:28 GMT+8: post=mixed, author=mixed \u2014 Is there a 35B Qwopus? I only see 4/9/27B.",
+            "comment_analysis": {
+              "summary": "The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+              "overall_sentiment_toward_post": "positive",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 01:20 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
+                },
+                {
+                  "author": "/u/xeeff",
+                  "timestamp": "2026-04-10 02:30 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
+                },
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 04:28 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Is there a 35B Qwopus? I only see 4/9/27B."
+                },
+                {
+                  "author": "/u/grumd",
+                  "timestamp": "2026-04-10 08:02 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "You should try 122B at IQ3_S, at a low quant it outperforms 27B. 27B gets ahead of 122B at higher quants"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T17:12:53+00:00",
+            "timestamp_human": "2026-04-10 01:12 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "backend-agnostic tensor parallelism has been merged into llama.cpp",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
+            "author": "/u/jacek2023",
+            "summary": "Summary: [Image: backend-agnostic tensor parallelism has been merged into llama.cpp] if you have more than one GPU - your models can now run much faster -sm layer is the default behaviour, -sm tensor is the new thing to try \"backend-agnostic\" means you don't need CUDA to enjoy this This is experimental, and in your case the...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-09 22:56 GMT+8: post=mixed, author=mixed \u2014 - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations... | 2026-04-09 22:58 GMT+8: post=mixed, author=mixed \u2014 is this caused by different GPUs on your setup? | 2026-04-09 23:13 GMT+8: post=mixed, author=mixed \u2014 Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck...",
+            "comment_analysis": {
+              "summary": "The comment section is split between critical and positive. Top reactions focus on - The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or... | Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test..",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/sleepingsysadmin",
+                  "timestamp": "2026-04-09 22:56 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "- The \"ROCm\" backend works since it is just the CUDA code translated via HIP. On the hardware combinations that I have (RX 6800 + MI50 or RX 9060 XT + MI100) the performance is..."
+                },
+                {
+                  "author": "/u/jacek2023",
+                  "timestamp": "2026-04-09 22:58 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "is this caused by different GPUs on your setup?"
+                },
+                {
+                  "author": "/u/sleepingsysadmin",
+                  "timestamp": "2026-04-09 23:13 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Well, no, I have identical gpus. Am I misunderstanding here? Im reading it as AMD cards are shit out of luck again. Guess I have to test."
+                },
+                {
+                  "author": "/u/jacek2023",
+                  "timestamp": "2026-04-09 23:14 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I mean RX 6800 and MI50 are two different GPUs, maybe it requires them to be same"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T14:46:19+00:00",
+            "timestamp_human": "2026-04-09 22:46 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgrovd/backendagnostic_tensor_parallelism_has_been/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": [
+          {
+            "title": "Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split",
+            "link": "https://www.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+            "author": "/u/ubunt2",
+            "summary": "Project/tool: [Image: Built a RAG chunking playground \u2014 paste any document, see how different chunking strategies get split] Visualize your chunking strategies, and see how your docs are getting split: https://aiagentsbuzz.com/tools/rag-chunking-playground/ (https://aiagentsbuzz.com/tools/rag-chunking-playground/) What it does: -...",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-09T04:54:01+00:00",
+            "timestamp_human": "2026-04-09 12:54 GMT+8",
+            "subreddit": "llmdevs",
+            "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1sgg2r7/built_a_rag_chunking_playground_paste_any/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "OpenWebUI",
+        "display_name": "Open WebUI",
+        "posts": [
+          {
+            "title": "I\u2019m the Maintainer (and Team) behind Open WebUI \u2013 AMA 2025 Q2",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+            "author": "/u/openwebui",
+            "summary": "Summary: Hi everyone, It\u2019s been a while since our last AMA (\u201cI\u2019m the Sole Maintainer of Open WebUI \u2014 AMA!\u201d), and, wow, so much has happened! We\u2019ve grown, we\u2019ve learned, and the landscape of open source (especially at any meaningful scale) is as challenging and rewarding as ever.",
+            "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2025-06-12 22:43 GMT+8: post=mixed, author=mixed \u2014 Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly... | 2025-06-13 20:13 GMT+8: post=mixed, author=mixed \u2014 Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve... | 2025-06-14 03:39 GMT+8: post=mixed, author=mixed \u2014 Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow...",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and skeptical. Top reactions focus on Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using... | Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/throwaway957263",
+                  "timestamp": "2025-06-12 22:43 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Hey Tim, First off, huge thanks for OpenWebUI. It\u2019s an incredible project, and your work on it is truly impressive. I\u2019ve been using OpenWebUI quite a bit and wanted to ask about..."
+                },
+                {
+                  "author": "/u/openwebui",
+                  "timestamp": "2025-06-13 20:13 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Thank you so much for your thoughtful feedback and kind words, it genuinely means a lot! Everything you\u2019ve raised about RAG is right on point and matches the pain points we\u2019re..."
+                },
+                {
+                  "author": "/u/throwaway957263",
+                  "timestamp": "2025-06-14 03:39 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Teriffic response. Love to hear your commitment and agreement to these issues. If you have specific workflow ideas or features you\u2019d love to see handled natively, please share..."
+                },
+                {
+                  "author": "/u/themusician985",
+                  "timestamp": "2025-06-12 22:39 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Thanks a lot for your tool. I consult for enterprise clients and most of them were relieved upon the license change as it made it clear, that OUI has a future. A single dev..."
+                }
+              ],
+              "model": "heuristic-fallback-timeout",
+              "minimax_error": "timeout"
+            },
+            "score": null,
+            "timestamp": "2025-06-12T14:15:16+00:00",
+            "timestamp_human": "2025-06-12 22:15 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1l9nkvk/im_the_maintainer_and_team_behind_open_webui_ama/",
+            "profile_relevance_score": 14
+          },
+          {
+            "title": "Best search engine for OpenWebUI?",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+            "author": "/u/alew3",
+            "summary": "Summary: I'm testing a few search solutions (Perplexity, Brave, etc.), but it seems it is very slow and some models (such as Qwen3.5) running on OpenRouter just fail. Any tips on getting it working smoothly?",
+            "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-08 21:02 GMT+8: post=mixed, author=mixed \u2014 I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and... | 2026-04-08 22:38 GMT+8: post=mixed, author=mixed \u2014 Setup Searxng seriously, you will have an amazing quick search tool without any API cost | 2026-04-08 20:55 GMT+8: post=mixed, author=mixed \u2014 Tavily. 1000 credits for free accounts per month is not bad for a single user.",
+            "comment_analysis": {
+              "summary": "The comment section is split between concerned and critical. Top reactions focus on I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my... | Setup Searxng seriously, you will have an amazing quick search tool without any API cost.",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/watson_x11",
+                  "timestamp": "2026-04-08 21:02 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I have setup searxng and a MCP. Then I have OWUI using that for searches and have it enabled on my local and cloud models. I will post my setup later today, I\u2019ve had success with..."
+                },
+                {
+                  "author": "/u/Altair12311",
+                  "timestamp": "2026-04-08 22:38 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Setup Searxng seriously, you will have an amazing quick search tool without any API cost"
+                },
+                {
+                  "author": "/u/simracerman",
+                  "timestamp": "2026-04-08 20:55 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Tavily. 1000 credits for free accounts per month is not bad for a single user."
+                },
+                {
+                  "author": "/u/brianveg77",
+                  "timestamp": "2026-04-09 06:49 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I use searchxng with brave, google and DuckDuckGo"
+                }
+              ],
+              "model": "heuristic-fallback-timeout",
+              "minimax_error": "timeout"
+            },
+            "score": null,
+            "timestamp": "2026-04-08T12:37:01+00:00",
+            "timestamp_human": "2026-04-08 20:37 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sfrm0w/best_search_engine_for_openwebui/",
+            "profile_relevance_score": 12
+          },
+          {
+            "title": "Anyone else experiencing Gemini issues?",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sgqz8i/anyone_else_experiencing_gemini_issues/",
+            "author": "/u/KookyThought",
+            "summary": "Summary: Woke up to Gemini Flash being really slow, and really dumb. Been working on a coding project where I can start new chats with no context (I use several tools for DB and file I/O), and this morning it is on the struggle bus big time.",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on I haven\u2019t been able to use Gemini at all in the last few releases. I think there is an open bug in the repo for it. | I'm using it through the API (both Gemini studio and Vertex) and it has been fine until last night.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 00:27 GMT+8: post=mixed, author=mixed \u2014 I haven\u2019t been able to use Gemini at all in the last few releases. I think there is an open bug in the repo... | 2026-04-10 00:36 GMT+8: post=mixed, author=mixed \u2014 I'm using it through the API (both Gemini studio and Vertex) and it has been fine until last night. | 2026-04-10 00:42 GMT+8: post=mixed, author=mixed \u2014 My Gemini studio stopped working a few days ago and tool calling stopped working a few weeks ago.",
+            "comment_analysis": {
+              "summary": "Top reactions focus on I haven\u2019t been able to use Gemini at all in the last few releases. I think there is an open bug in the repo for it. | I'm using it through the API (both Gemini studio and Vertex) and it has been fine until last night..",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/dellis87",
+                  "timestamp": "2026-04-10 00:27 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I haven\u2019t been able to use Gemini at all in the last few releases. I think there is an open bug in the repo for it."
+                },
+                {
+                  "author": "/u/KookyThought",
+                  "timestamp": "2026-04-10 00:36 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I'm using it through the API (both Gemini studio and Vertex) and it has been fine until last night."
+                },
+                {
+                  "author": "/u/dellis87",
+                  "timestamp": "2026-04-10 00:42 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "My Gemini studio stopped working a few days ago and tool calling stopped working a few weeks ago."
+                },
+                {
+                  "author": "/u/KookyThought",
+                  "timestamp": "2026-04-10 00:44 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Weird. It is still working for me, but just SO slow."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T14:20:06+00:00",
+            "timestamp_human": "2026-04-09 22:20 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sgqz8i/anyone_else_experiencing_gemini_issues/",
+            "profile_relevance_score": 5
+          },
+          {
+            "title": "Model Test",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sh7azn/model_test/",
+            "author": "/u/Quirky_Requirement33",
+            "summary": "Summary: Probably a tired theme but always fun - my new default flat model prompt to test without tuning. And a perfect result is not the correct answer given this is related to a hands on trade (not a particularly difficulty question for a seasoned woodworker).",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-10T00:30:11+00:00",
+            "timestamp_human": "2026-04-10 08:30 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sh7azn/model_test/",
+            "profile_relevance_score": 5
+          },
+          {
+            "title": "Suggest Changes option",
+            "link": "https://www.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+            "author": "/u/FreedomFact",
+            "summary": "Summary: I recently decided to try the \"suggest a change\" after an answer in a chat bot is not what I expected to happen with the existing conversation! So, even though I suggest detailed what should happen, it ignores my suggestion completely!",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the.... Overall sentiment \u2014 post: skeptical; author: mixed. Reply threads: 2026-04-09 12:07 GMT+8: post=mixed, author=mixed \u2014 What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | 2026-04-10 03:31 GMT+8: post=mixed, author=mixed \u2014 When you ask the interface to answer question, once the answer is typed and complete, there are a few tools...",
+            "comment_analysis": {
+              "summary": "The comment section is mostly skeptical. Top reactions focus on What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function? | When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the....",
+              "overall_sentiment_toward_post": "skeptical",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/iChrist",
+                  "timestamp": "2026-04-09 12:07 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "What do you mean by \u201csuggest a change\u201d? Is that a custom tool/function?"
+                },
+                {
+                  "author": "/u/FreedomFact",
+                  "timestamp": "2026-04-10 03:31 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "When you ask the interface to answer question, once the answer is typed and complete, there are a few tools that come underneath the answer. One of the tools look like a refresh-..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-08T22:45:01+00:00",
+            "timestamp_human": "2026-04-09 06:45 GMT+8",
+            "subreddit": "OpenWebUI",
+            "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sg81jb/suggest_changes_option/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "selfhosted",
+        "display_name": "Self-Hosted",
+        "posts": [
+          {
+            "title": "I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+            "author": "/u/semiramist",
+            "summary": "Project/tool: [Image: I'm syncing Apple Health data to my self-hosted TimescaleDB + Grafana stack and feeding it into Home Assistant as sensors] I\u2019ve been trying to get my health data out of Apple\u2019s ecosystem and into something I can actually query, automate, and keep long-term. Ended up building a pipeline that pushes everything...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 06:12 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-10 06:54 GMT+8: post=mixed, author=mixed \u2014 Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all... | 2026-04-10 06:59 GMT+8: post=mixed, author=mixed \u2014 Nice, happy to help if you hit any snags with the setup!",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!.",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/asimovs-auditor",
+                  "timestamp": "2026-04-10 06:12 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+                },
+                {
+                  "author": "/u/Notice_Me_Sauron",
+                  "timestamp": "2026-04-10 06:54 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Excited to dig into this and check it out, as it\u2019s been on my project list for a while. Thanks for doing all the heavy lifting!"
+                },
+                {
+                  "author": "/u/semiramist",
+                  "timestamp": "2026-04-10 06:59 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Nice, happy to help if you hit any snags with the setup!"
+                },
+                {
+                  "author": "/u/gscjj",
+                  "timestamp": "2026-04-10 07:00 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Really cool, this has been on my list for a while. So was this an app you built for IOS that queries the data? Or is there an API for it? How was the process to get it accepted?..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T22:12:28+00:00",
+            "timestamp_human": "2026-04-10 06:12 GMT+8",
+            "subreddit": "selfhosted",
+            "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sh41id/im_syncing_apple_health_data_to_my_selfhosted/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": [
+          {
+            "title": "Codex on ChatGPT Plus\u2026 burned 75% of 5H in 20 mins",
+            "link": "https://www.reddit.com/r/codex/comments/1sgzy01/codex_on_chatgpt_plus_burned_75_of_5h_in_20_mins/",
+            "author": "/u/aLka01",
+            "summary": "Summary: [Image: Codex on ChatGPT Plus\u2026 burned 75% of 5H in 20 mins] Was doing some refactoring with Codex \u2014 no planning, nothing heavy. In 20 minutes I used 75% of my 5-hour limit.",
+            "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is mostly joking. Top reactions focus on Yeah, they decided to fuck Plus users and make it sound like they're doing us a favor. | Pray to the gods that china get all the GPUs they deserve. Overall sentiment \u2014 post: joking; author: mixed. Reply threads: 2026-04-10 04:08 GMT+8: post=mixed, author=mixed \u2014 Yeah, they decided to fuck Plus users and make it sound like they're doing us a favor. | 2026-04-10 07:13 GMT+8: post=mixed, author=mixed \u2014 Pray to the gods that china get all the GPUs they deserve | 2026-04-10 04:14 GMT+8: post=mixed, author=mixed \u2014 The shilling in this thread reminds me of the same bot shit when Anthropic fucked their Pro users over with...",
+            "comment_analysis": {
+              "summary": "The comment section is mostly joking. Top reactions focus on Yeah, they decided to fuck Plus users and make it sound like they're doing us a favor. | Pray to the gods that china get all the GPUs they deserve.",
+              "overall_sentiment_toward_post": "joking",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/pale_halide",
+                  "timestamp": "2026-04-10 04:08 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Yeah, they decided to fuck Plus users and make it sound like they're doing us a favor."
+                },
+                {
+                  "author": "/u/real_serviceloom",
+                  "timestamp": "2026-04-10 07:13 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Pray to the gods that china get all the GPUs they deserve"
+                },
+                {
+                  "author": "/u/ShroomShroomBeepBeep",
+                  "timestamp": "2026-04-10 04:14 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "The shilling in this thread reminds me of the same bot shit when Anthropic fucked their Pro users over with the same kind of usage limit bullshit."
+                },
+                {
+                  "author": "/u/bronfmanhigh",
+                  "timestamp": "2026-04-10 04:40 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "or there are actually real life people that knew the gravy train wasnt gonna last forever lmao. any millennial who used to pay for $3 ubers knows the enshitification drill. enjoy..."
+                }
+              ],
+              "model": "heuristic-fallback-timeout",
+              "minimax_error": "timeout"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T19:38:47+00:00",
+            "timestamp_human": "2026-04-10 03:38 GMT+8",
+            "subreddit": "Codex",
+            "old_reddit_link": "https://old.reddit.com/r/codex/comments/1sgzy01/codex_on_chatgpt_plus_burned_75_of_5h_in_20_mins/",
+            "profile_relevance_score": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-10T06:56:12.824686+08:00",
     "generated_at_human": "2026-04-10 06:56 GMT+8",
     "file": "summary_2026-04-10_06-56.md",
