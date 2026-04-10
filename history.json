@@ -1,5 +1,431 @@
 [
   {
+    "generated_at": "2026-04-10T18:55:49.886777+08:00",
+    "generated_at_human": "2026-04-10 18:55 GMT+8",
+    "file": "summary_2026-04-10_18-55.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "Dynamic NVFP4? Is anyone doing it?",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shif56/dynamic_nvfp4_is_anyone_doing_it/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "96GB Vram. What to run in 2026?",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shd5nm/96gb_vram_what_to_run_in_2026/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "Observability in production",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1shfdzr/observability_in_production/",
+        "subreddit": "llmdevs"
+      },
+      {
+        "title": "Making small models actually browse the web, thought Bonsai would dominate bench. 1/6. What am I missing?",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shfhxc/making_small_models_actually_browse_the_web/",
+        "subreddit": "LocalLLaMA"
+      },
+      {
+        "title": "RAG for complex PDFs (DDQ finance) \u2014 struggling with parsing vs privacy trade-off",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1shdvrr/rag_for_complex_pdfs_ddq_finance_struggling_with/",
+        "subreddit": "llmdevs"
+      },
+      {
+        "title": "RAG for complex PDFs \u2014 struggling with parsing vs privacy trade-off",
+        "link": "https://old.reddit.com/r/LLMDevs/comments/1shdvc6/rag_for_complex_pdfs_struggling_with_parsing_vs/",
+        "subreddit": "llmdevs"
+      }
+    ],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": [
+          {
+            "title": "AI agents can now open their own bank accounts",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "author": "/u/Significant-Doubt648",
+            "summary": "Summary: Dropping it here because I feel like this sub should be talking about it. The short version: banking platform Meow launched MCP support so your Claude/ChatGPT/Gemini agent can open a bank account, issue cards, send money, and audit spend autonomously.",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 05:29 GMT+8: post=mixed, author=mixed \u2014 How do they satisfy banking laws that require identity verification? | 2026-04-10 05:51 GMT+8: post=mixed, author=mixed \u2014 The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting... | 2026-04-10 06:27 GMT+8: post=mixed, author=mixed \u2014 So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!",
+            "comment_analysis": {
+              "summary": "Top reactions focus on How do they satisfy banking laws that require identity verification? | The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Nailfoot1975",
+                  "timestamp": "2026-04-10 05:29 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "How do they satisfy banking laws that require identity verification?"
+                },
+                {
+                  "author": "/u/Significant-Doubt648",
+                  "timestamp": "2026-04-10 05:51 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "The human still provides identity docs and goes through KYC. The agent just handles collecting and submitting everything but actual verification still happens on the backend with..."
+                },
+                {
+                  "author": "/u/appmapper",
+                  "timestamp": "2026-04-10 06:27 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "So it can\u2019t open its own bank account? Your thread title is built on a house of lies!!!"
+                },
+                {
+                  "author": "/u/coloradical5280",
+                  "timestamp": "2026-04-10 15:06 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "And can\u2019t make deposits, investments, or transfers, without a human in the loop. So yeah OP saying \u201cwithout a human in the loop\u201d is entirely untrue. Obviously."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T21:21:22+00:00",
+            "timestamp_human": "2026-04-10 05:21 GMT+8",
+            "subreddit": "openai",
+            "old_reddit_link": "https://old.reddit.com/r/OpenAI/comments/1sh2qm1/ai_agents_can_now_open_their_own_bank_accounts/",
+            "profile_relevance_score": 5
+          }
+        ]
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": [
+          {
+            "title": "Dynamic NVFP4? Is anyone doing it?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shif56/dynamic_nvfp4_is_anyone_doing_it/",
+            "author": "/u/getpodapp",
+            "summary": "Summary: Stupid idea here but if nvfp4 is basically 98% of int8 quality then can\u2019t someone release an activation aware dynamic NVFP4 quant with less important params quantised down to 1-3bits and the more important ones remaining at nvfp4?",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on I believe nvfp4 is supported only in TensorRT-LLM and in vLLM, which have no exotic quantization support like .gguf and exllama have.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 18:30 GMT+8: post=mixed, author=mixed \u2014 I believe nvfp4 is supported only in TensorRT-LLM and in vLLM, which have no exotic quantization support like...",
+            "comment_analysis": {
+              "summary": "Top reactions focus on I believe nvfp4 is supported only in TensorRT-LLM and in vLLM, which have no exotic quantization support like .gguf and exllama have..",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Expensive-Paint-9490",
+                  "timestamp": "2026-04-10 18:30 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I believe nvfp4 is supported only in TensorRT-LLM and in vLLM, which have no exotic quantization support like .gguf and exllama have."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T10:14:36+00:00",
+            "timestamp_human": "2026-04-10 18:14 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shif56/dynamic_nvfp4_is_anyone_doing_it/",
+            "profile_relevance_score": 19
+          },
+          {
+            "title": "96GB Vram. What to run in 2026?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shd5nm/96gb_vram_what_to_run_in_2026/",
+            "author": "/u/inthesearchof",
+            "summary": "Summary: I was all set on doing the 4x 3090 route but with the current releases of qwen 3.5 and gemma 4. 96gb of vram seems to be in a weird spot where it not enough to run larger models and more than needed for the mid models.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and critical. Top reactions focus on Qwen 3.5 122B at AWQ or GPTQ or nvfp4 fit with 200+K context running on vllm at 110+ tps. | Qwen 27b seems to match or come close to 122b moe but there is the world knowledge difference. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 13:13 GMT+8: post=mixed, author=mixed \u2014 Qwen 3.5 122B at AWQ or GPTQ or nvfp4 fit with 200+K context running on vllm at 110+ tps. | 2026-04-10 13:16 GMT+8: post=mixed, author=mixed \u2014 Qwen 27b seems to match or come close to 122b moe but there is the world knowledge difference | 2026-04-10 13:21 GMT+8: post=mixed, author=mixed \u2014 Speed is a quality as well. 27B is slower.",
+            "comment_analysis": {
+              "summary": "The comment section is split between concerned and critical. Top reactions focus on Qwen 3.5 122B at AWQ or GPTQ or nvfp4 fit with 200+K context running on vllm at 110+ tps. | Qwen 27b seems to match or come close to 122b moe but there is the world knowledge difference.",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Nepherpitu",
+                  "timestamp": "2026-04-10 13:13 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Qwen 3.5 122B at AWQ or GPTQ or nvfp4 fit with 200+K context running on vllm at 110+ tps."
+                },
+                {
+                  "author": "/u/inthesearchof",
+                  "timestamp": "2026-04-10 13:16 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Qwen 27b seems to match or come close to 122b moe but there is the world knowledge difference"
+                },
+                {
+                  "author": "/u/Nepherpitu",
+                  "timestamp": "2026-04-10 13:21 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Speed is a quality as well. 27B is slower."
+                },
+                {
+                  "author": "/u/Panthau",
+                  "timestamp": "2026-04-10 13:28 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "exactly, around 10-15t/s on my strix halo 128gb"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T05:07:43+00:00",
+            "timestamp_human": "2026-04-10 13:07 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shd5nm/96gb_vram_what_to_run_in_2026/",
+            "profile_relevance_score": 15
+          },
+          {
+            "title": "Making small models actually browse the web, thought Bonsai would dominate bench. 1/6. What am I missing?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shfhxc/making_small_models_actually_browse_the_web/",
+            "author": "/u/Honest-Debate-6863",
+            "summary": "Summary: [Image: Making small models actually browse the web, thought Bonsai would dominate bench. What am I missing?] Continuing from the discussion of local CUA & GUI based toolcalling functionality- Post #1...",
+            "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on If higher quants make Gemma worse, maybe you need to do several rounds to eliminate uncertainty in the scores, especially with only a... | These are scores on average, after 5-10 rounds the results were same it was able to solve almost all captcha but some rounds it didn\u2019t.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 17:01 GMT+8: post=mixed, author=mixed \u2014 If higher quants make Gemma worse, maybe you need to do several rounds to eliminate uncertainty in the... | 2026-04-10 17:39 GMT+8: post=mixed, author=mixed \u2014 These are scores on average, after 5-10 rounds the results were same it was able to solve almost all captcha... | 2026-04-10 17:56 GMT+8: post=mixed, author=mixed \u2014 Bonsai have Qwen3 as a base model, not 3.5",
+            "comment_analysis": {
+              "summary": "Top reactions focus on If higher quants make Gemma worse, maybe you need to do several rounds to eliminate uncertainty in the scores, especially with only a... | These are scores on average, after 5-10 rounds the results were same it was able to solve almost all captcha but some rounds it didn\u2019t....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/KaroYadgar",
+                  "timestamp": "2026-04-10 17:01 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "If higher quants make Gemma worse, maybe you need to do several rounds to eliminate uncertainty in the scores, especially with only a couple tasks like this."
+                },
+                {
+                  "author": "/u/Honest-Debate-6863",
+                  "timestamp": "2026-04-10 17:39 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "These are scores on average, after 5-10 rounds the results were same it was able to solve almost all captcha but some rounds it didn\u2019t complete full aka for Qwen so 0.5 I.e half..."
+                },
+                {
+                  "author": "/u/Ghulaschsuppe",
+                  "timestamp": "2026-04-10 17:56 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Bonsai have Qwen3 as a base model, not 3.5"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T07:20:54+00:00",
+            "timestamp_human": "2026-04-10 15:20 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shfhxc/making_small_models_actually_browse_the_web/",
+            "profile_relevance_score": 6
+          },
+          {
+            "title": "Qwen3.5-122B at 198 tok/s on 2x RTX PRO 6000 Blackwell \u2014 Budget build, verified results",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sh7yxa/qwen35122b_at_198_toks_on_2x_rtx_pro_6000/",
+            "author": "/u/Visual_Synthesizer",
+            "summary": "Summary: I've been optimizing a 2-GPU inference server for the past week and wanted to share the results. Full data is public with raw JSONs, launch commands, and methodology.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between concerned and positive. Top reactions focus on Sorry man its just a combination of factors. Qwen3.5 122B is a model those with high end gaming PC's can run at 20-30t/s. So you're... | 20-30 tok/s on a gaming PC is like saying you can tow a boat with a Honda Civic. Technically true. Not the same experience. The post is.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 10:45 GMT+8: post=mixed, author=mixed \u2014 Man probably has a \"Budget private jet\" too. | 2026-04-10 10:51 GMT+8: post=mixed, author=mixed \u2014 it flies 18% faster than the expensive one though | 2026-04-10 11:03 GMT+8: post=mixed, author=mixed \u2014 Sorry man its just a combination of factors. Qwen3.5 122B is a model those with high end gaming PC's can run...",
+            "comment_analysis": {
+              "summary": "The comment section is split between concerned and positive. Top reactions focus on Sorry man its just a combination of factors. Qwen3.5 122B is a model those with high end gaming PC's can run at 20-30t/s. So you're... | 20-30 tok/s on a gaming PC is like saying you can tow a boat with a Honda Civic. Technically true. Not the same experience. The post is....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/FatheredPuma81",
+                  "timestamp": "2026-04-10 10:45 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Man probably has a \"Budget private jet\" too."
+                },
+                {
+                  "author": "/u/Visual_Synthesizer",
+                  "timestamp": "2026-04-10 10:51 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "it flies 18% faster than the expensive one though"
+                },
+                {
+                  "author": "/u/FatheredPuma81",
+                  "timestamp": "2026-04-10 11:03 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Sorry man its just a combination of factors. Qwen3.5 122B is a model those with high end gaming PC's can run at 20-30t/s. So you're comparing \"Budget $3000 Qwen3.5 122B build\" to..."
+                },
+                {
+                  "author": "/u/Visual_Synthesizer",
+                  "timestamp": "2026-04-10 11:06 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "20-30 tok/s on a gaming PC is like saying you can tow a boat with a Honda Civic. Technically true. Not the same experience. The post is about optimized throughput on purpose-built..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T00:59:58+00:00",
+            "timestamp_human": "2026-04-10 08:59 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sh7yxa/qwen35122b_at_198_toks_on_2x_rtx_pro_6000/",
+            "profile_relevance_score": 6
+          },
+          {
+            "title": "16 GB VRAM users, what model do we like best now?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "author": "/u/lemon07r",
+            "summary": "Summary: I'm finding Qwen 3.5 27b at IQ3 quants to be quite nice, I can usually fit around 32k (this is usually enough context for me since I dont use my local models for anything like coding) without issues and get around 40+ t/s on my RTX 4080 using ik_llama.cpp compiled for CUDA. I'm wondering if we could maybe get away...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :). Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-10 01:20 GMT+8: post=mixed, author=mixed \u2014 Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with... | 2026-04-10 02:30 GMT+8: post=mixed, author=mixed \u2014 please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be... | 2026-04-10 04:28 GMT+8: post=mixed, author=mixed \u2014 Is there a 35B Qwopus? I only see 4/9/27B.",
+            "comment_analysis": {
+              "summary": "The comment section is mostly positive. Top reactions focus on Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system... | please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :).",
+              "overall_sentiment_toward_post": "positive",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 01:20 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Like you said, 27B at IQ3_XXS does well. I have 64GB of system RAM, so I tend to run MoE's in harnesses with a small amount of system prompt if possible. Qwen3-Coder is good,..."
+                },
+                {
+                  "author": "/u/xeeff",
+                  "timestamp": "2026-04-10 02:30 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "please let me know how Qwopus (9B/35B A3B/27B) works out for you, and what your use cases are. i'll be waiting :)"
+                },
+                {
+                  "author": "/u/sine120",
+                  "timestamp": "2026-04-10 04:28 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Is there a 35B Qwopus? I only see 4/9/27B."
+                },
+                {
+                  "author": "/u/grumd",
+                  "timestamp": "2026-04-10 08:02 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "You should try 122B at IQ3_S, at a low quant it outperforms 27B. 27B gets ahead of 122B at higher quants"
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-09T17:12:53+00:00",
+            "timestamp_human": "2026-04-10 01:12 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": [
+          {
+            "title": "Observability in production",
+            "link": "https://www.reddit.com/r/LLMDevs/comments/1shfdzr/observability_in_production/",
+            "author": "/u/WelcomeMysterious122",
+            "summary": "Summary: Just wanted to know what everyone is using and finds works for them. Mainly leaning towards langfuse, though not sure may just use it for dev and make something custom for prod.",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly critical. Top reactions focus on we\u2019re using open source monocle2ai from Linux foundation to instrument apps to get agentic traces in Otel format. we pipe these traces into.... Overall sentiment \u2014 post: critical; author: mixed. Reply threads: 2026-04-10 15:45 GMT+8: post=mixed, author=mixed \u2014 we\u2019re using open source monocle2ai from Linux foundation to instrument apps to get agentic traces in Otel...",
+            "comment_analysis": {
+              "summary": "The comment section is mostly critical. Top reactions focus on we\u2019re using open source monocle2ai from Linux foundation to instrument apps to get agentic traces in Otel format. we pipe these traces into....",
+              "overall_sentiment_toward_post": "critical",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/pvatokahu",
+                  "timestamp": "2026-04-10 15:45 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "we\u2019re using open source monocle2ai from Linux foundation to instrument apps to get agentic traces in Otel format. we pipe these traces into Okahu cloud that stores and manages..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T07:14:31+00:00",
+            "timestamp_human": "2026-04-10 15:14 GMT+8",
+            "subreddit": "llmdevs",
+            "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1shfdzr/observability_in_production/",
+            "profile_relevance_score": 9
+          },
+          {
+            "title": "RAG for complex PDFs (DDQ finance) \u2014 struggling with parsing vs privacy trade-off",
+            "link": "https://www.reddit.com/r/LLMDevs/comments/1shdvrr/rag_for_complex_pdfs_ddq_finance_struggling_with/",
+            "author": "/u/Proof-Exercise2695",
+            "summary": "Summary: Hey everyone, I\u2019ve built a fairly flexible RAG pipeline that was initially designed to handle any type of document (PDFs, reports, mixed content, etc.). The setup allows users to choose between different parsers and models: - Parsing: LlamaParse (LlamaCloud) or Docling - Models: OpenAI API or local (Ollama) What I\u2019m...",
+            "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on I don\u2019t have any suggestions for tooling, but runpod has its secure cloud and hipaa/gdpr compliance. May be worth seeing whether they are... | Pymupdf4llm and pdf-plumber can parse PDFs, extract their contents, and convert them into structured formats like JSON or Markdown. This.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-10 14:15 GMT+8: post=mixed, author=mixed \u2014 I don\u2019t have any suggestions for tooling, but runpod has its secure cloud and hipaa/gdpr compliance. May be... | 2026-04-10 15:31 GMT+8: post=mixed, author=mixed \u2014 Pymupdf4llm and pdf-plumber can parse PDFs, extract their contents, and convert them into structured formats...",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and concerned. Top reactions focus on I don\u2019t have any suggestions for tooling, but runpod has its secure cloud and hipaa/gdpr compliance. May be worth seeing whether they are... | Pymupdf4llm and pdf-plumber can parse PDFs, extract their contents, and convert them into structured formats like JSON or Markdown. This....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/MR_Weiner",
+                  "timestamp": "2026-04-10 14:15 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I don\u2019t have any suggestions for tooling, but runpod has its secure cloud and hipaa/gdpr compliance. May be worth seeing whether they are \u201cprivate enough\u201d for your use case, in..."
+                },
+                {
+                  "author": "/u/yaks18",
+                  "timestamp": "2026-04-10 15:31 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Pymupdf4llm and pdf-plumber can parse PDFs, extract their contents, and convert them into structured formats like JSON or Markdown. This structured output can then be chunked and..."
+                }
+              ],
+              "model": "heuristic-fallback"
+            },
+            "score": null,
+            "timestamp": "2026-04-10T05:48:18+00:00",
+            "timestamp_human": "2026-04-10 13:48 GMT+8",
+            "subreddit": "llmdevs",
+            "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1shdvrr/rag_for_complex_pdfs_ddq_finance_struggling_with/",
+            "profile_relevance_score": 4
+          },
+          {
+            "title": "RAG for complex PDFs \u2014 struggling with parsing vs privacy trade-off",
+            "link": "https://www.reddit.com/r/LLMDevs/comments/1shdvc6/rag_for_complex_pdfs_struggling_with_parsing_vs/",
+            "author": "/u/Proof-Exercise2695",
+            "summary": "Summary: Hey everyone, I\u2019ve built a fairly flexible RAG pipeline that was initially designed to handle any type of document (PDFs, reports, mixed content, etc.). The setup allows users to choose between different parsers and models: - Parsing: LlamaParse (LlamaCloud) or Docling - Models: OpenAI API or local (Ollama) What I\u2019m...",
+            "comments_summary": "",
+            "comment_analysis": {},
+            "score": null,
+            "timestamp": "2026-04-10T05:47:38+00:00",
+            "timestamp_human": "2026-04-10 13:47 GMT+8",
+            "subreddit": "llmdevs",
+            "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1shdvc6/rag_for_complex_pdfs_struggling_with_parsing_vs/",
+            "profile_relevance_score": 4
+          }
+        ]
+      },
+      {
+        "subreddit": "OpenWebUI",
+        "display_name": "Open WebUI",
+        "posts": []
+      },
+      {
+        "subreddit": "selfhosted",
+        "display_name": "Self-Hosted",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": []
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-10T10:54:18.105412+08:00",
     "generated_at_human": "2026-04-10 10:54 GMT+8",
     "file": "summary_2026-04-10_10-54.md",
