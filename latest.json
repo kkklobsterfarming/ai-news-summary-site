@@ -1,71 +1,16 @@
 {
-  "generated_at_iso": "2026-04-11T18:55:47.846205+08:00",
-  "generated_at": "2026-04-11T18:55:47.846205+08:00",
-  "generated_at_human": "2026-04-11 18:55 GMT+8",
+  "generated_at_iso": "2026-04-12T00:55:37.580098+08:00",
+  "generated_at": "2026-04-12T00:55:37.580098+08:00",
+  "generated_at_human": "2026-04-12 00:55 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-11_18-55.md",
+  "file": "summary_2026-04-12_00-55.md",
   "changes": [
     {
-      "title": "[R] PCA rotation makes non-Matryoshka embeddings truncatable \u2014 27x compression at 99% recall with reranking",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sicp1h/r_pca_rotation_makes_nonmatryoshka_embeddings/",
+      "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
       "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Lm studio and context lengths",
-      "link": "https://old.reddit.com/r/OpenWebUI/comments/1sie1cy/lm_studio_and_context_lengths/",
-      "subreddit": "OpenWebUI"
-    },
-    {
-      "title": "WorkIQ in OpenWebUI",
-      "link": "https://old.reddit.com/r/OpenWebUI/comments/1siamcg/workiq_in_openwebui/",
-      "subreddit": "OpenWebUI"
-    },
-    {
-      "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Intel Arc Pro B70 32GB performance on Qwen3.5-27B@Q4",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "Building a Self-Hosted Stack on Vultr VPS + Cloudflare Zero Trust Tunnel (Ubuntu 24.04) -- Looking for Feedback",
-      "link": "https://old.reddit.com/r/selfhosted/comments/1sicfls/building_a_selfhosted_stack_on_vultr_vps/",
-      "subreddit": "selfhosted"
-    },
-    {
-      "title": "Hallucination problem",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1sif3py/hallucination_problem/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Just canceled.",
-      "link": "https://old.reddit.com/r/ClaudeCode/comments/1siez15/just_canceled/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Struggling to get Ollama Cloud only configured in Dockerised OpenWebUI",
-      "link": "https://old.reddit.com/r/OpenWebUI/comments/1siemq8/struggling_to_get_ollama_cloud_only_configured_in/",
-      "subreddit": "OpenWebUI"
-    },
-    {
-      "title": "curious about how households/families handle storage/photos long term",
-      "link": "https://old.reddit.com/r/selfhosted/comments/1sifuon/curious_about_how_householdsfamilies_handle/",
-      "subreddit": "selfhosted"
-    },
-    {
-      "title": "Running a full AI agent pipeline natively on Android via Termux \u2014 no cloud, no root",
-      "link": "https://old.reddit.com/r/selfhosted/comments/1siffr5/running_a_full_ai_agent_pipeline_natively_on/",
-      "subreddit": "selfhosted"
-    },
-    {
-      "title": "Self-hosted Synapse (Matrix) server for small communities",
-      "link": "https://old.reddit.com/r/selfhosted/comments/1sict28/selfhosted_synapse_matrix_server_for_small/",
-      "subreddit": "selfhosted"
     }
   ],
   "sections": [
@@ -79,619 +24,71 @@
       "display_name": "LocalLLaMA",
       "posts": [
         {
-          "title": "[R] PCA rotation makes non-Matryoshka embeddings truncatable \u2014 27x compression at 99% recall with reranking",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sicp1h/r_pca_rotation_makes_nonmatryoshka_embeddings/",
-          "author": "/u/ahbond",
-          "summary": "Summary: Most embedding models (BGE-M3, E5, ada-002, Cohere) weren't trained with Matryoshka losses, so you can't just drop trailing dimensions. We tried: truncating BGE-M3 from 1024 to 256 dims gives 0.467 cosine similarity.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is... | Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 16:02 GMT+8: post=mixed, author=mixed \u2014 Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of... | 2026-04-11 17:28 GMT+8: post=mixed, author=mixed \u2014 Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the... | 2026-04-11 17:19 GMT+8: post=mixed, author=mixed \u2014 Interesting point about cosine similarity breaking down. It would work a lot better if all high dimensional...",
+          "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+          "author": "/u/LocalLLaMa_reader",
+          "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
+          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:42 GMT+8: post=mixed, author=mixed \u2014 My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But... | 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:38 GMT+8: post=mixed, author=mixed \u2014 Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in...",
           "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is... | Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/-Cubie-",
-                "timestamp": "2026-04-11 16:02 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is how you want it to be used, then why..."
-              },
-              {
-                "author": "/u/jkflying",
-                "timestamp": "2026-04-11 17:28 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better results for their 'findings' even if it..."
-              },
-              {
-                "author": "/u/Luke2642",
-                "timestamp": "2026-04-11 17:19 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Interesting point about cosine similarity breaking down. It would work a lot better if all high dimensional embedding spaces were subdivided into n-sphere groups. Denoising and..."
-              },
-              {
-                "author": "/u/Lolzyyy",
-                "timestamp": "2026-04-11 18:42 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "yet another ai post on crazy made up compression that has wrong numbers cause the model hallucinated half of it, wow!"
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T07:44:01+00:00",
-          "timestamp_human": "2026-04-11 15:44 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sicp1h/r_pca_rotation_makes_nonmatryoshka_embeddings/",
-          "profile_relevance_score": 12
-        },
-        {
-          "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
-          "author": "/u/zylskysniper",
-          "summary": "Benchmark/result: [Image: GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost] https://preview.redd.it/s9lg647zjeug1.png?width=1161&format=png&auto=webp&s=4d0c361b5fbee97e4084e2d48543cafbc299ce25...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my... | Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 03:03 GMT+8: post=mixed, author=mixed \u2014 GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run... | 2026-04-11 15:52 GMT+8: post=mixed, author=mixed \u2014 Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I... | 2026-04-11 17:56 GMT+8: post=mixed, author=mixed \u2014 27b is really good, but prefix caching has been fixed in sgl / vllm just fee days ago",
-          "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my... | Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/miniocz",
-                "timestamp": "2026-04-11 03:03 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my hardware. As Q3..."
-              },
-              {
-                "author": "/u/relmny",
-                "timestamp": "2026-04-11 15:52 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1 q2-m and 21t/s with qwen3.5-27b q6-kl......"
-              },
-              {
-                "author": "/u/ahtolllka",
-                "timestamp": "2026-04-11 17:56 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "27b is really good, but prefix caching has been fixed in sgl / vllm just fee days ago"
-              },
-              {
-                "author": "/u/miniocz",
-                "timestamp": "2026-04-11 18:25 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "That is what I am getting with GLM5.1. But those dense models (qwen and Gemma) are slower for me (like 15t/s) so I am using Gemma 4 26B. And I am also using 122b and 397b both @Q3..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T18:23:15+00:00",
-          "timestamp_human": "2026-04-11 02:23 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
-          "profile_relevance_score": 9
-        },
-        {
-          "title": "More Gemma4 fixes in the past 24 hours",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
-          "author": "/u/andy2na",
-          "summary": "Summary: Reasoning budget fix (merged): https://github.com/ggml-org/llama.cpp/pull/21697 (https://github.com/ggml-org/llama.cpp/pull/21697) New chat templates from Google to fix tool calling: 31B: https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 11:07 GMT+8: post=mixed, author=mixed \u2014 Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing...",
-          "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now.....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/ambient_temp_xeno",
-                "timestamp": "2026-04-11 01:07 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from fixing their opinions about anything for a..."
-              },
-              {
-                "author": "/u/StacDnaStoob",
-                "timestamp": "2026-04-11 01:29 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now. The nightly seems to *mostly* fix tool..."
-              },
-              {
-                "author": "/u/AnOnlineHandle",
-                "timestamp": "2026-04-11 11:07 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing model I've ever found, and I'm really nervous that it was a crazy fluke of..."
-              },
-              {
-                "author": "/u/Luke2642",
-                "timestamp": "2026-04-11 01:20 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T16:52:36+00:00",
-          "timestamp_human": "2026-04-11 00:52 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
-          "profile_relevance_score": 9
-        },
-        {
-          "title": "Intel Arc Pro B70 32GB performance on Qwen3.5-27B@Q4",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/",
-          "author": "/u/Puzzleheaded_Base302",
-          "summary": "Summary: Posted something when I initially got the GPU on r/IntelArc (/r/IntelArc). Did not have vllm working at the time, so no real use case numbers.",
-          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 14:09 GMT+8: post=mixed, author=mixed \u2014 That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | 2026-04-11 14:18 GMT+8: post=mixed, author=mixed \u2014 Agree. Let\u2019s go Intel we are all rooting for you. | 2026-04-11 14:20 GMT+8: post=mixed, author=mixed \u2014 i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on...",
-          "comment_analysis": {
-            "summary": "Top reactions focus on That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric..",
+            "summary": "The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that....",
             "overall_sentiment_toward_post": "mixed",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
-                "author": "/u/Monad_Maya",
-                "timestamp": "2026-04-11 14:09 GMT+8",
+                "author": "/u/Rim_smokey",
+                "timestamp": "2026-04-12 00:42 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue."
+                "summary": "My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also faster and less resource intensive. It's..."
               },
               {
-                "author": "/u/bennyb0y",
-                "timestamp": "2026-04-11 14:18 GMT+8",
+                "author": "/u/MaybeIWasTheBot",
+                "timestamp": "2026-04-12 00:43 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "Agree. Let\u2019s go Intel we are all rooting for you."
+                "summary": "the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that of dense models. the initial issue with..."
               },
               {
-                "author": "/u/Puzzleheaded_Base302",
-                "timestamp": "2026-04-11 14:20 GMT+8",
+                "author": "/u/jacek2023",
+                "timestamp": "2026-04-12 00:38 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric."
+                "summary": "Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in the final calculation. 26B A4B means that the model has 26B parameters..."
               },
               {
-                "author": "/u/RaDDaKKa",
-                "timestamp": "2026-04-11 14:18 GMT+8",
+                "author": "/u/Minute_Attempt3063",
+                "timestamp": "2026-04-12 00:44 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "So, a total disappointment. I expected this to be a solid card for local LLMs like Qwen 3.5 27B or Gemma 4 31B with at least a 100k context. I considered a dual gpu setup, perhaps..."
+                "summary": "I think they both have uses. Depending on the situation, dense is better, and vice versa"
               }
             ],
-            "model": "heuristic-fallback"
+            "model": "heuristic-fallback-timeout",
+            "minimax_error": "timeout"
           },
           "score": null,
-          "timestamp": "2026-04-11T05:52:23+00:00",
-          "timestamp_human": "2026-04-11 13:52 GMT+8",
+          "timestamp": "2026-04-11T16:32:42+00:00",
+          "timestamp_human": "2026-04-12 00:32 GMT+8",
           "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/",
-          "profile_relevance_score": 7
-        },
-        {
-          "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-          "author": "/u/Thireus",
-          "summary": "Project/tool: For anyone interested in building their own GGUF quants, I\u2019ve put together the GGUF-Tool-Suite (https://github.com/Thireus/GGUF-Tool-Suite) docs and a simple web UI to make the process easier. - Docs: https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs (https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs)...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | Oh sorry, I had not noticed. Could you share the repo?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 10:20 GMT+8: post=mixed, author=mixed \u2014 Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | 2026-04-11 12:52 GMT+8: post=mixed, author=mixed \u2014 Oh sorry, I had not noticed. Could you share the repo? | 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!",
-          "comment_analysis": {
-            "summary": "The comment section is split between critical and positive. Top reactions focus on Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | Oh sorry, I had not noticed. Could you share the repo?.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/notdba",
-                "timestamp": "2026-04-11 10:20 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!"
-              },
-              {
-                "author": "/u/Thireus",
-                "timestamp": "2026-04-11 12:52 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Oh sorry, I had not noticed. Could you share the repo?"
-              },
-              {
-                "author": "/u/Monad_Maya",
-                "timestamp": "2026-04-11 05:01 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!"
-              },
-              {
-                "author": "/u/Jack_Kennedy_2009",
-                "timestamp": "2026-04-11 06:55 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for keeping those up to date and solid! I was using your Cuda 13.2 builds and..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T20:49:43+00:00",
-          "timestamp_human": "2026-04-11 04:49 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-          "profile_relevance_score": 7
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+          "profile_relevance_score": 9
         }
       ]
     },
     {
       "subreddit": "llmdevs",
       "display_name": "LLM Devs",
-      "posts": [
-        {
-          "title": "Tired of unpredictable API bills from agents? Here\u2019s a 0-dep MCP server to estimate costs in real-time.",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1shx9eb/tired_of_unpredictable_api_bills_from_agents/",
-          "author": "/u/Pitiful-Hearing-5352",
-          "summary": "Summary: Been running some agent workflows lately and got hit with unexpected API costs. Tried a few tools but most were either overkill or needed extra setup just to estimate tokens.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Useful tool bro. Unexpected agent bills are the worst | Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 13:11 GMT+8: post=mixed, author=mixed \u2014 Useful tool bro. Unexpected agent bills are the worst | 2026-04-11 13:18 GMT+8: post=mixed, author=mixed \u2014 Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not,...",
-          "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on Useful tool bro. Unexpected agent bills are the worst | Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/Plenty_Coconut_1717",
-                "timestamp": "2026-04-11 13:11 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Useful tool bro. Unexpected agent bills are the worst"
-              },
-              {
-                "author": "/u/Pitiful-Hearing-5352",
-                "timestamp": "2026-04-11 13:18 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to run it locally."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T19:52:55+00:00",
-          "timestamp_human": "2026-04-11 03:52 GMT+8",
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1shx9eb/tired_of_unpredictable_api_bills_from_agents/",
-          "profile_relevance_score": 7
-        },
-        {
-          "title": "How a $500 GPU beat Claude Sonnet on a coding benchmark (and why the \"secret\" isn't the model)",
-          "link": "https://www.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
-          "author": "/u/Additional_Wish_3619",
-          "summary": "Benchmark/result: ATLAS, a frozen Qwen3-14B-Q4_K_M running on a single RTX 5060 Ti scored 74.6% pass@1-v(k=3) on On LiveCodeBench v5, which in a way beats Claude 4.5 Sonnet (71.4%). Pass@1-v(k=3) meaning one solution submitted per task, generated via best-of-3 candidates plus Lens selection plus iterative repair on failures.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come... | What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 13:49 GMT+8: post=mixed, author=mixed \u2014 Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of... | 2026-04-11 16:47 GMT+8: post=mixed, author=mixed \u2014 What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can... | 2026-04-11 07:52 GMT+8: post=mixed, author=mixed \u2014 That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs...",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and concerned. Top reactions focus on Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come... | What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I....",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/Snoo44065",
-                "timestamp": "2026-04-11 13:49 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come from on top of the readme i would much..."
-              },
-              {
-                "author": "/u/Karyo_Ten",
-                "timestamp": "2026-04-11 16:47 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I surely wont read your code without being..."
-              },
-              {
-                "author": "/u/Additional_Wish_3619",
-                "timestamp": "2026-04-11 07:52 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under $650-$700."
-              },
-              {
-                "author": "/u/Loose_Object_8311",
-                "timestamp": "2026-04-11 10:29 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Sonnet is not frontier. Opus is. Big difference."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": 4,
-          "timestamp": "2026-04-10T21:46:55+00:00",
-          "timestamp_human": "2026-04-11 05:46 GMT+8",
-          "subreddit": "llmdevs",
-          "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
-          "profile_relevance_score": 4
-        }
-      ]
+      "posts": []
     },
     {
       "subreddit": "OpenWebUI",
       "display_name": "Open WebUI",
-      "posts": [
-        {
-          "title": "Lm studio and context lengths",
-          "link": "https://www.reddit.com/r/OpenWebUI/comments/1sie1cy/lm_studio_and_context_lengths/",
-          "author": "/u/cyberkiller6",
-          "summary": "Summary: In lm studio I have 24k context set with context auto flow enabled. In open webui as soon as a chat hits 24k context, it breaks.",
-          "comments_summary": "",
-          "comment_analysis": {},
-          "score": null,
-          "timestamp": "2026-04-11T09:03:54+00:00",
-          "timestamp_human": "2026-04-11 17:03 GMT+8",
-          "subreddit": "OpenWebUI",
-          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sie1cy/lm_studio_and_context_lengths/",
-          "profile_relevance_score": 12
-        },
-        {
-          "title": "WorkIQ in OpenWebUI",
-          "link": "https://www.reddit.com/r/OpenWebUI/comments/1siamcg/workiq_in_openwebui/",
-          "author": "/u/AccomplishedOne9144",
-          "summary": "Summary: Did anyone already try using the WorkIQ MCP server in OpenWebUi? https://github.com/microsoft/work-iq (https://github.com/microsoft/work-iq) I have configured them in azure and they show me now a link to a MCP server but the authentication is not clear to me and the documentation is just focused on CoPilot studio.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but... | Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 16:50 GMT+8: post=mixed, author=mixed \u2014 We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a... | 2026-04-11 18:48 GMT+8: post=mixed, author=mixed \u2014 Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a... | 2026-04-11 18:52 GMT+8: post=mixed, author=mixed \u2014 As always from you, great answer and quick as well. Thanks a lot! I am not aware of a graph API OpenWebUI...",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but... | Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean....",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/ClassicMain",
-                "timestamp": "2026-04-11 16:50 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but a stdio mcp server 2) even if it was..."
-              },
-              {
-                "author": "/u/Warhouse512",
-                "timestamp": "2026-04-11 18:48 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean OpenWebUI official or we as in your org?"
-              },
-              {
-                "author": "/u/AccomplishedOne9144",
-                "timestamp": "2026-04-11 18:52 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "As always from you, great answer and quick as well. Thanks a lot! I am not aware of a graph API OpenWebUI tool. Do you know if there is one publicly available?"
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T05:44:58+00:00",
-          "timestamp_human": "2026-04-11 13:44 GMT+8",
-          "subreddit": "OpenWebUI",
-          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siamcg/workiq_in_openwebui/",
-          "profile_relevance_score": 12
-        },
-        {
-          "title": "Struggling to get Ollama Cloud only configured in Dockerised OpenWebUI",
-          "link": "https://www.reddit.com/r/OpenWebUI/comments/1siemq8/struggling_to_get_ollama_cloud_only_configured_in/",
-          "author": "/u/SandStorm1863",
-          "summary": "Summary: hi all, I've tried loads of combinations of environment variables for my Dockerised OpenWebUI, but I can't manage to get it to connect to Ollama cloud. I've tried enabling and disabling OpenAI's auth.",
-          "comments_summary": "",
-          "comment_analysis": {},
-          "score": null,
-          "timestamp": "2026-04-11T09:40:19+00:00",
-          "timestamp_human": "2026-04-11 17:40 GMT+8",
-          "subreddit": "OpenWebUI",
-          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siemq8/struggling_to_get_ollama_cloud_only_configured_in/",
-          "profile_relevance_score": 5
-        }
-      ]
+      "posts": []
     },
     {
       "subreddit": "selfhosted",
       "display_name": "Self-Hosted",
-      "posts": [
-        {
-          "title": "Building a Self-Hosted Stack on Vultr VPS + Cloudflare Zero Trust Tunnel (Ubuntu 24.04) -- Looking for Feedback",
-          "link": "https://www.reddit.com/r/selfhosted/comments/1sicfls/building_a_selfhosted_stack_on_vultr_vps/",
-          "author": "/u/Complex-Ingenuity157",
-          "summary": "Summary: Hi r/selfhosted (/r/selfhosted), I'm transitioning my self-hosting setup from a Japan-based VPS (Xserver) to a US-based Vultr VPS, and I'd love to share my stack and get feedback from this community. ### My Setup - **VPS**: Vultr, 2 vCPU / 4 GB RAM / 80 GB SSD (~$24/month) - **OS**: Ubuntu 24.04 LTS - **Domain**:...",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 15:28 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 17:47 GMT+8: post=mixed, author=mixed \u2014 Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS...",
-          "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats....",
-            "overall_sentiment_toward_post": "positive",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/asimovs-auditor",
-                "timestamp": "2026-04-11 15:28 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-              },
-              {
-                "author": "/u/zfa",
-                "timestamp": "2026-04-11 17:47 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats Cloudflare decide to mitigate it's not really..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T07:28:10+00:00",
-          "timestamp_human": "2026-04-11 15:28 GMT+8",
-          "subreddit": "selfhosted",
-          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sicfls/building_a_selfhosted_stack_on_vultr_vps/",
-          "profile_relevance_score": 6
-        },
-        {
-          "title": "curious about how households/families handle storage/photos long term",
-          "link": "https://www.reddit.com/r/selfhosted/comments/1sifuon/curious_about_how_householdsfamilies_handle/",
-          "author": "/u/therealzenzei",
-          "summary": "Summary: i moved away from google photos/drive and all these cloud solutions some time ago. I host my own server with Immich, nextcloud and other things.",
-          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:50 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 18:55 GMT+8: post=mixed, author=mixed \u2014 My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless...",
-          "comment_analysis": {
-            "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister....",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/asimovs-auditor",
-                "timestamp": "2026-04-11 18:50 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-              },
-              {
-                "author": "/u/Keili1997",
-                "timestamp": "2026-04-11 18:55 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister just doesn't see the benefit over..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T10:50:48+00:00",
-          "timestamp_human": "2026-04-11 18:50 GMT+8",
-          "subreddit": "selfhosted",
-          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sifuon/curious_about_how_householdsfamilies_handle/",
-          "profile_relevance_score": 4
-        },
-        {
-          "title": "Running a full AI agent pipeline natively on Android via Termux \u2014 no cloud, no root",
-          "link": "https://www.reddit.com/r/selfhosted/comments/1siffr5/running_a_full_ai_agent_pipeline_natively_on/",
-          "author": "/u/NeoLogic_Dev",
-          "summary": "Summary: Anyone else self-hosting on mobile hardware? Running a 4-agent sequential pipeline on a Snapdragon 7s Gen 3 in Termux.",
-          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | do you have code published to replicate your setup?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:27 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 18:38 GMT+8: post=mixed, author=mixed \u2014 do you have code published to replicate your setup? | 2026-04-11 18:40 GMT+8: post=mixed, author=mixed \u2014 yeah its on github, github.com/weissmann93/NeoBild full setup guide in the docs folder too",
-          "comment_analysis": {
-            "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | do you have code published to replicate your setup?.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/asimovs-auditor",
-                "timestamp": "2026-04-11 18:27 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-              },
-              {
-                "author": "/u/v3d",
-                "timestamp": "2026-04-11 18:38 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "do you have code published to replicate your setup?"
-              },
-              {
-                "author": "/u/NeoLogic_Dev",
-                "timestamp": "2026-04-11 18:40 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "yeah its on github, github.com/weissmann93/NeoBild full setup guide in the docs folder too"
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T10:27:05+00:00",
-          "timestamp_human": "2026-04-11 18:27 GMT+8",
-          "subreddit": "selfhosted",
-          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1siffr5/running_a_full_ai_agent_pipeline_natively_on/",
-          "profile_relevance_score": 4
-        },
-        {
-          "title": "Self-hosted Synapse (Matrix) server for small communities",
-          "link": "https://www.reddit.com/r/selfhosted/comments/1sict28/selfhosted_synapse_matrix_server_for_small/",
-          "author": "/u/st_iron",
-          "summary": "Summary: I've been running a non-federated Synapse (Matrix) server for about a year and overall the experience has been good. Initially I enabled video/audio with a TURN relay, but later removed it since our small community didn't really need it.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Just getting started on this, why did you chose the non-federated route ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 15:50 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 16:15 GMT+8: post=mixed, author=mixed \u2014 Just getting started on this, why did you chose the non-federated route ? | 2026-04-11 16:46 GMT+8: post=mixed, author=mixed \u2014 Federation is useful when you want to connect to the wider Matrix network. For example matrix.yourserver.com...",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Just getting started on this, why did you chose the non-federated route ?.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/asimovs-auditor",
-                "timestamp": "2026-04-11 15:50 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-              },
-              {
-                "author": "/u/bromatofiel",
-                "timestamp": "2026-04-11 16:15 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Just getting started on this, why did you chose the non-federated route ?"
-              },
-              {
-                "author": "/u/st_iron",
-                "timestamp": "2026-04-11 16:46 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Federation is useful when you want to connect to the wider Matrix network. For example matrix.yourserver.com and matrix.friendserver.com can see each other's rooms and users and..."
-              },
-              {
-                "author": "/u/arcoast",
-                "timestamp": "2026-04-11 16:36 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Problem with federation is caching will happen locally, so resource usage could become a problem. Also if any illegal material gets cached on your server, I think legally you'd be..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T07:50:42+00:00",
-          "timestamp_human": "2026-04-11 15:50 GMT+8",
-          "subreddit": "selfhosted",
-          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sict28/selfhosted_synapse_matrix_server_for_small/",
-          "profile_relevance_score": 4
-        },
-        {
-          "title": "TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...",
-          "link": "https://www.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
-          "author": "/u/trailbaseio",
-          "summary": "Summary: [Image: TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...] TrailBase (https://github.com/trailbaseio/trailbase) is an open, fast (https://trailbase.io/reference/benchmarks) Firebase-like server for building apps. It provides type-safe REST APIs + change subscriptions, auth,...",
-          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:05 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 12:04 GMT+8: post=mixed, author=mixed \u2014 Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?",
-          "comment_analysis": {
-            "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/asimovs-auditor",
-                "timestamp": "2026-04-11 07:05 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-              },
-              {
-                "author": "/u/Traditional_Wafer_20",
-                "timestamp": "2026-04-11 12:04 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?"
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T23:05:33+00:00",
-          "timestamp_human": "2026-04-11 07:05 GMT+8",
-          "subreddit": "selfhosted",
-          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
-          "profile_relevance_score": 4
-        }
-      ]
+      "posts": []
     },
     {
       "subreddit": "ClaudeAI",
@@ -701,71 +98,7 @@
     {
       "subreddit": "ClaudeCode",
       "display_name": "Claude Code",
-      "posts": [
-        {
-          "title": "Hallucination problem",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1sif3py/hallucination_problem/",
-          "author": "/u/parihanauntie",
-          "summary": "Summary: Hello everyone, yesterday I pushed the 324k JSON code for OLLAMA into Collab and got a GGUF output. I didn't encounter any problems during 1000 tests in Collab.",
-          "comments_summary": "",
-          "comment_analysis": {},
-          "score": null,
-          "timestamp": "2026-04-11T10:07:49+00:00",
-          "timestamp_human": "2026-04-11 18:07 GMT+8",
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sif3py/hallucination_problem/",
-          "profile_relevance_score": 5
-        },
-        {
-          "title": "Just canceled.",
-          "link": "https://www.reddit.com/r/ClaudeCode/comments/1siez15/just_canceled/",
-          "author": "/u/drgitgud",
-          "summary": "Summary: When I tried claude first was for a workshop on agentic coding back in january. at the time I usedclaude to build an orchestration tool that ran claude code cli headless.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than... | Guys, bring out the cookies tray. We got a live one here. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:24 GMT+8: post=mixed, author=mixed \u2014 Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying.... | 2026-04-11 18:18 GMT+8: post=mixed, author=mixed \u2014 Guys, bring out the cookies tray. We got a live one here | 2026-04-11 18:24 GMT+8: post=mixed, author=mixed \u2014 Hmm, I don't think a 27B local model is anywhere near as good as Claude Opus. Probably Claude Haiku at best....",
-          "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than... | Guys, bring out the cookies tray. We got a live one here.",
-            "overall_sentiment_toward_post": "mixed",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/officerblues",
-                "timestamp": "2026-04-11 18:24 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than everything else, but not by the 3-5x the price I..."
-              },
-              {
-                "author": "/u/puppymaster123",
-                "timestamp": "2026-04-11 18:18 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Guys, bring out the cookies tray. We got a live one here"
-              },
-              {
-                "author": "/u/upbuilderAI",
-                "timestamp": "2026-04-11 18:24 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Hmm, I don't think a 27B local model is anywhere near as good as Claude Opus. Probably Claude Haiku at best. You're better off paying for Codex, which is decent and gives you lots..."
-              },
-              {
-                "author": "/u/drgitgud",
-                "timestamp": "2026-04-11 18:27 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Two/three weeks ago opus? Not even comparable to a local. Entirely different ballparks. 100% agreed. What I worked with yesterday? Hell it was even ignoring direct orders at..."
-              }
-            ],
-            "model": "heuristic-fallback"
-          },
-          "score": null,
-          "timestamp": "2026-04-11T10:00:30+00:00",
-          "timestamp_human": "2026-04-11 18:00 GMT+8",
-          "subreddit": "ClaudeCode",
-          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1siez15/just_canceled/",
-          "profile_relevance_score": 5
-        }
-      ]
+      "posts": []
     },
     {
       "subreddit": "Codex",
@@ -775,662 +108,54 @@
   ],
   "all_posts": [
     {
-      "title": "[R] PCA rotation makes non-Matryoshka embeddings truncatable \u2014 27x compression at 99% recall with reranking",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sicp1h/r_pca_rotation_makes_nonmatryoshka_embeddings/",
-      "author": "/u/ahbond",
-      "summary": "Summary: Most embedding models (BGE-M3, E5, ada-002, Cohere) weren't trained with Matryoshka losses, so you can't just drop trailing dimensions. We tried: truncating BGE-M3 from 1024 to 256 dims gives 0.467 cosine similarity.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is... | Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 16:02 GMT+8: post=mixed, author=mixed \u2014 Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of... | 2026-04-11 17:28 GMT+8: post=mixed, author=mixed \u2014 Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the... | 2026-04-11 17:19 GMT+8: post=mixed, author=mixed \u2014 Interesting point about cosine similarity breaking down. It would work a lot better if all high dimensional...",
+      "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+      "author": "/u/LocalLLaMa_reader",
+      "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
+      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:42 GMT+8: post=mixed, author=mixed \u2014 My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But... | 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:38 GMT+8: post=mixed, author=mixed \u2014 Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in...",
       "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is... | Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/-Cubie-",
-            "timestamp": "2026-04-11 16:02 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Okay, but you're: 1. Only doing that 5x oversampling + exact rescoring on your approach, and not on any of the other approaches. If this is how you want it to be used, then why..."
-          },
-          {
-            "author": "/u/jkflying",
-            "timestamp": "2026-04-11 17:28 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Yeah this is typical of current AI-driven research, the models try to make the author happy by setting up the experiments to show better results for their 'findings' even if it..."
-          },
-          {
-            "author": "/u/Luke2642",
-            "timestamp": "2026-04-11 17:19 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Interesting point about cosine similarity breaking down. It would work a lot better if all high dimensional embedding spaces were subdivided into n-sphere groups. Denoising and..."
-          },
-          {
-            "author": "/u/Lolzyyy",
-            "timestamp": "2026-04-11 18:42 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "yet another ai post on crazy made up compression that has wrong numbers cause the model hallucinated half of it, wow!"
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T07:44:01+00:00",
-      "timestamp_human": "2026-04-11 15:44 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sicp1h/r_pca_rotation_makes_nonmatryoshka_embeddings/",
-      "profile_relevance_score": 12
-    },
-    {
-      "title": "Lm studio and context lengths",
-      "link": "https://www.reddit.com/r/OpenWebUI/comments/1sie1cy/lm_studio_and_context_lengths/",
-      "author": "/u/cyberkiller6",
-      "summary": "Summary: In lm studio I have 24k context set with context auto flow enabled. In open webui as soon as a chat hits 24k context, it breaks.",
-      "comments_summary": "",
-      "comment_analysis": {},
-      "score": null,
-      "timestamp": "2026-04-11T09:03:54+00:00",
-      "timestamp_human": "2026-04-11 17:03 GMT+8",
-      "subreddit": "OpenWebUI",
-      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1sie1cy/lm_studio_and_context_lengths/",
-      "profile_relevance_score": 12
-    },
-    {
-      "title": "WorkIQ in OpenWebUI",
-      "link": "https://www.reddit.com/r/OpenWebUI/comments/1siamcg/workiq_in_openwebui/",
-      "author": "/u/AccomplishedOne9144",
-      "summary": "Summary: Did anyone already try using the WorkIQ MCP server in OpenWebUi? https://github.com/microsoft/work-iq (https://github.com/microsoft/work-iq) I have configured them in azure and they show me now a link to a MCP server but the authentication is not clear to me and the documentation is just focused on CoPilot studio.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but... | Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 16:50 GMT+8: post=mixed, author=mixed \u2014 We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a... | 2026-04-11 18:48 GMT+8: post=mixed, author=mixed \u2014 Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a... | 2026-04-11 18:52 GMT+8: post=mixed, author=mixed \u2014 As always from you, great answer and quick as well. Thanks a lot! I am not aware of a graph API OpenWebUI...",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but... | Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean....",
+        "summary": "The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that....",
         "overall_sentiment_toward_post": "mixed",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
           {
-            "author": "/u/ClassicMain",
-            "timestamp": "2026-04-11 16:50 GMT+8",
+            "author": "/u/Rim_smokey",
+            "timestamp": "2026-04-12 00:42 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "We had the same question and the answer is twofold but no 1) it doesn't work because the workIQ mcp is not a streamable http mcp server but a stdio mcp server 2) even if it was..."
+            "summary": "My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also faster and less resource intensive. It's..."
           },
           {
-            "author": "/u/Warhouse512",
-            "timestamp": "2026-04-11 18:48 GMT+8",
+            "author": "/u/MaybeIWasTheBot",
+            "timestamp": "2026-04-12 00:43 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Friend, anything off the shelf or just custom tools built to interact with ms graph? Also, given you\u2019re a maintainer, does the we mean OpenWebUI official or we as in your org?"
+            "summary": "the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that of dense models. the initial issue with..."
           },
           {
-            "author": "/u/AccomplishedOne9144",
-            "timestamp": "2026-04-11 18:52 GMT+8",
+            "author": "/u/jacek2023",
+            "timestamp": "2026-04-12 00:38 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "As always from you, great answer and quick as well. Thanks a lot! I am not aware of a graph API OpenWebUI tool. Do you know if there is one publicly available?"
+            "summary": "Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in the final calculation. 26B A4B means that the model has 26B parameters..."
+          },
+          {
+            "author": "/u/Minute_Attempt3063",
+            "timestamp": "2026-04-12 00:44 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I think they both have uses. Depending on the situation, dense is better, and vice versa"
           }
         ],
-        "model": "heuristic-fallback"
+        "model": "heuristic-fallback-timeout",
+        "minimax_error": "timeout"
       },
       "score": null,
-      "timestamp": "2026-04-11T05:44:58+00:00",
-      "timestamp_human": "2026-04-11 13:44 GMT+8",
-      "subreddit": "OpenWebUI",
-      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siamcg/workiq_in_openwebui/",
-      "profile_relevance_score": 12
-    },
-    {
-      "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
-      "author": "/u/zylskysniper",
-      "summary": "Benchmark/result: [Image: GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost] https://preview.redd.it/s9lg647zjeug1.png?width=1161&format=png&auto=webp&s=4d0c361b5fbee97e4084e2d48543cafbc299ce25...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my... | Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 03:03 GMT+8: post=mixed, author=mixed \u2014 GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run... | 2026-04-11 15:52 GMT+8: post=mixed, author=mixed \u2014 Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I... | 2026-04-11 17:56 GMT+8: post=mixed, author=mixed \u2014 27b is really good, but prefix caching has been fixed in sgl / vllm just fee days ago",
-      "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my... | Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/miniocz",
-            "timestamp": "2026-04-11 03:03 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "GLM 5.1 is real. For me it could be the only LLM I need and replace all the cloud ones. Only if it can run more than 1-1.5 t/s on my hardware. As Q3..."
-          },
-          {
-            "author": "/u/relmny",
-            "timestamp": "2026-04-11 15:52 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Based on that chart, I'd seriously consider (I actually use it a lot, although I don't code) qwen3.5-27b. I get about 1.4t/s with glm-5.1 q2-m and 21t/s with qwen3.5-27b q6-kl......"
-          },
-          {
-            "author": "/u/ahtolllka",
-            "timestamp": "2026-04-11 17:56 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "27b is really good, but prefix caching has been fixed in sgl / vllm just fee days ago"
-          },
-          {
-            "author": "/u/miniocz",
-            "timestamp": "2026-04-11 18:25 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "That is what I am getting with GLM5.1. But those dense models (qwen and Gemma) are slower for me (like 15t/s) so I am using Gemma 4 26B. And I am also using 122b and 397b both @Q3..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T18:23:15+00:00",
-      "timestamp_human": "2026-04-11 02:23 GMT+8",
+      "timestamp": "2026-04-11T16:32:42+00:00",
+      "timestamp_human": "2026-04-12 00:32 GMT+8",
       "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
       "profile_relevance_score": 9
-    },
-    {
-      "title": "More Gemma4 fixes in the past 24 hours",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
-      "author": "/u/andy2na",
-      "summary": "Summary: Reasoning budget fix (merged): https://github.com/ggml-org/llama.cpp/pull/21697 (https://github.com/ggml-org/llama.cpp/pull/21697) New chat templates from Google to fix tool calling: 31B: https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 11:07 GMT+8: post=mixed, author=mixed \u2014 Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing...",
-      "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now.....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/ambient_temp_xeno",
-            "timestamp": "2026-04-11 01:07 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from fixing their opinions about anything for a..."
-          },
-          {
-            "author": "/u/StacDnaStoob",
-            "timestamp": "2026-04-11 01:29 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now. The nightly seems to *mostly* fix tool..."
-          },
-          {
-            "author": "/u/AnOnlineHandle",
-            "timestamp": "2026-04-11 11:07 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing model I've ever found, and I'm really nervous that it was a crazy fluke of..."
-          },
-          {
-            "author": "/u/Luke2642",
-            "timestamp": "2026-04-11 01:20 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T16:52:36+00:00",
-      "timestamp_human": "2026-04-11 00:52 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
-      "profile_relevance_score": 9
-    },
-    {
-      "title": "Intel Arc Pro B70 32GB performance on Qwen3.5-27B@Q4",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/",
-      "author": "/u/Puzzleheaded_Base302",
-      "summary": "Summary: Posted something when I initially got the GPU on r/IntelArc (/r/IntelArc). Did not have vllm working at the time, so no real use case numbers.",
-      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 14:09 GMT+8: post=mixed, author=mixed \u2014 That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | 2026-04-11 14:18 GMT+8: post=mixed, author=mixed \u2014 Agree. Let\u2019s go Intel we are all rooting for you. | 2026-04-11 14:20 GMT+8: post=mixed, author=mixed \u2014 i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on...",
-      "comment_analysis": {
-        "summary": "Top reactions focus on That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue. | i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric..",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Monad_Maya",
-            "timestamp": "2026-04-11 14:09 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "That's kinda low for a single user single GPU scenario. I hope it's just a software optimization issue."
-          },
-          {
-            "author": "/u/bennyb0y",
-            "timestamp": "2026-04-11 14:18 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Agree. Let\u2019s go Intel we are all rooting for you."
-          },
-          {
-            "author": "/u/Puzzleheaded_Base302",
-            "timestamp": "2026-04-11 14:20 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "i hope that is the case. otherwise, this card won't fly in datacenter either, even if they can beat on token/dollar figure of metric."
-          },
-          {
-            "author": "/u/RaDDaKKa",
-            "timestamp": "2026-04-11 14:18 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "So, a total disappointment. I expected this to be a solid card for local LLMs like Qwen 3.5 27B or Gemma 4 31B with at least a 100k context. I considered a dual gpu setup, perhaps..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T05:52:23+00:00",
-      "timestamp_human": "2026-04-11 13:52 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1siar7y/intel_arc_pro_b70_32gb_performance_on_qwen3527bq4/",
-      "profile_relevance_score": 7
-    },
-    {
-      "title": "Tired of unpredictable API bills from agents? Here\u2019s a 0-dep MCP server to estimate costs in real-time.",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1shx9eb/tired_of_unpredictable_api_bills_from_agents/",
-      "author": "/u/Pitiful-Hearing-5352",
-      "summary": "Summary: Been running some agent workflows lately and got hit with unexpected API costs. Tried a few tools but most were either overkill or needed extra setup just to estimate tokens.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Useful tool bro. Unexpected agent bills are the worst | Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 13:11 GMT+8: post=mixed, author=mixed \u2014 Useful tool bro. Unexpected agent bills are the worst | 2026-04-11 13:18 GMT+8: post=mixed, author=mixed \u2014 Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not,...",
-      "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on Useful tool bro. Unexpected agent bills are the worst | Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Plenty_Coconut_1717",
-            "timestamp": "2026-04-11 13:11 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Useful tool bro. Unexpected agent bills are the worst"
-          },
-          {
-            "author": "/u/Pitiful-Hearing-5352",
-            "timestamp": "2026-04-11 13:18 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Appreciate it. If you\u2019re using MCP already, you can plug it in directly and test with a single call. If not, I can show you a quick way to run it locally."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T19:52:55+00:00",
-      "timestamp_human": "2026-04-11 03:52 GMT+8",
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1shx9eb/tired_of_unpredictable_api_bills_from_agents/",
-      "profile_relevance_score": 7
-    },
-    {
-      "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-      "author": "/u/Thireus",
-      "summary": "Project/tool: For anyone interested in building their own GGUF quants, I\u2019ve put together the GGUF-Tool-Suite (https://github.com/Thireus/GGUF-Tool-Suite) docs and a simple web UI to make the process easier. - Docs: https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs (https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs)...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | Oh sorry, I had not noticed. Could you share the repo?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 10:20 GMT+8: post=mixed, author=mixed \u2014 Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | 2026-04-11 12:52 GMT+8: post=mixed, author=mixed \u2014 Oh sorry, I had not noticed. Could you share the repo? | 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!",
-      "comment_analysis": {
-        "summary": "The comment section is split between critical and positive. Top reactions focus on Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | Oh sorry, I had not noticed. Could you share the repo?.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/notdba",
-            "timestamp": "2026-04-11 10:20 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!"
-          },
-          {
-            "author": "/u/Thireus",
-            "timestamp": "2026-04-11 12:52 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Oh sorry, I had not noticed. Could you share the repo?"
-          },
-          {
-            "author": "/u/Monad_Maya",
-            "timestamp": "2026-04-11 05:01 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!"
-          },
-          {
-            "author": "/u/Jack_Kennedy_2009",
-            "timestamp": "2026-04-11 06:55 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for keeping those up to date and solid! I was using your Cuda 13.2 builds and..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T20:49:43+00:00",
-      "timestamp_human": "2026-04-11 04:49 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-      "profile_relevance_score": 7
-    },
-    {
-      "title": "Building a Self-Hosted Stack on Vultr VPS + Cloudflare Zero Trust Tunnel (Ubuntu 24.04) -- Looking for Feedback",
-      "link": "https://www.reddit.com/r/selfhosted/comments/1sicfls/building_a_selfhosted_stack_on_vultr_vps/",
-      "author": "/u/Complex-Ingenuity157",
-      "summary": "Summary: Hi r/selfhosted (/r/selfhosted), I'm transitioning my self-hosting setup from a Japan-based VPS (Xserver) to a US-based Vultr VPS, and I'd love to share my stack and get feedback from this community. ### My Setup - **VPS**: Vultr, 2 vCPU / 4 GB RAM / 80 GB SSD (~$24/month) - **OS**: Ubuntu 24.04 LTS - **Domain**:...",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 15:28 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 17:47 GMT+8: post=mixed, author=mixed \u2014 Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS...",
-      "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats....",
-        "overall_sentiment_toward_post": "positive",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/asimovs-auditor",
-            "timestamp": "2026-04-11 15:28 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-          },
-          {
-            "author": "/u/zfa",
-            "timestamp": "2026-04-11 17:47 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Tunnel is good security if you're applying some kind of access rules, otherwise while it defends aginst DDOS and emergent threats Cloudflare decide to mitigate it's not really..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T07:28:10+00:00",
-      "timestamp_human": "2026-04-11 15:28 GMT+8",
-      "subreddit": "selfhosted",
-      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sicfls/building_a_selfhosted_stack_on_vultr_vps/",
-      "profile_relevance_score": 6
-    },
-    {
-      "title": "Hallucination problem",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1sif3py/hallucination_problem/",
-      "author": "/u/parihanauntie",
-      "summary": "Summary: Hello everyone, yesterday I pushed the 324k JSON code for OLLAMA into Collab and got a GGUF output. I didn't encounter any problems during 1000 tests in Collab.",
-      "comments_summary": "",
-      "comment_analysis": {},
-      "score": null,
-      "timestamp": "2026-04-11T10:07:49+00:00",
-      "timestamp_human": "2026-04-11 18:07 GMT+8",
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1sif3py/hallucination_problem/",
-      "profile_relevance_score": 5
-    },
-    {
-      "title": "Just canceled.",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1siez15/just_canceled/",
-      "author": "/u/drgitgud",
-      "summary": "Summary: When I tried claude first was for a workshop on agentic coding back in january. at the time I usedclaude to build an orchestration tool that ran claude code cli headless.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and skeptical. Top reactions focus on Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than... | Guys, bring out the cookies tray. We got a live one here. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:24 GMT+8: post=mixed, author=mixed \u2014 Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying.... | 2026-04-11 18:18 GMT+8: post=mixed, author=mixed \u2014 Guys, bring out the cookies tray. We got a live one here | 2026-04-11 18:24 GMT+8: post=mixed, author=mixed \u2014 Hmm, I don't think a 27B local model is anywhere near as good as Claude Opus. Probably Claude Haiku at best....",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than... | Guys, bring out the cookies tray. We got a live one here.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/officerblues",
-            "timestamp": "2026-04-11 18:24 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Yeah. I also canceled my plan. Right now, the quality and usage I can get out of it do not justify paying. Yes, it is better than everything else, but not by the 3-5x the price I..."
-          },
-          {
-            "author": "/u/puppymaster123",
-            "timestamp": "2026-04-11 18:18 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Guys, bring out the cookies tray. We got a live one here"
-          },
-          {
-            "author": "/u/upbuilderAI",
-            "timestamp": "2026-04-11 18:24 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Hmm, I don't think a 27B local model is anywhere near as good as Claude Opus. Probably Claude Haiku at best. You're better off paying for Codex, which is decent and gives you lots..."
-          },
-          {
-            "author": "/u/drgitgud",
-            "timestamp": "2026-04-11 18:27 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Two/three weeks ago opus? Not even comparable to a local. Entirely different ballparks. 100% agreed. What I worked with yesterday? Hell it was even ignoring direct orders at..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T10:00:30+00:00",
-      "timestamp_human": "2026-04-11 18:00 GMT+8",
-      "subreddit": "ClaudeCode",
-      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1siez15/just_canceled/",
-      "profile_relevance_score": 5
-    },
-    {
-      "title": "Struggling to get Ollama Cloud only configured in Dockerised OpenWebUI",
-      "link": "https://www.reddit.com/r/OpenWebUI/comments/1siemq8/struggling_to_get_ollama_cloud_only_configured_in/",
-      "author": "/u/SandStorm1863",
-      "summary": "Summary: hi all, I've tried loads of combinations of environment variables for my Dockerised OpenWebUI, but I can't manage to get it to connect to Ollama cloud. I've tried enabling and disabling OpenAI's auth.",
-      "comments_summary": "",
-      "comment_analysis": {},
-      "score": null,
-      "timestamp": "2026-04-11T09:40:19+00:00",
-      "timestamp_human": "2026-04-11 17:40 GMT+8",
-      "subreddit": "OpenWebUI",
-      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siemq8/struggling_to_get_ollama_cloud_only_configured_in/",
-      "profile_relevance_score": 5
-    },
-    {
-      "title": "How a $500 GPU beat Claude Sonnet on a coding benchmark (and why the \"secret\" isn't the model)",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
-      "author": "/u/Additional_Wish_3619",
-      "summary": "Benchmark/result: ATLAS, a frozen Qwen3-14B-Q4_K_M running on a single RTX 5060 Ti scored 74.6% pass@1-v(k=3) on On LiveCodeBench v5, which in a way beats Claude 4.5 Sonnet (71.4%). Pass@1-v(k=3) meaning one solution submitted per task, generated via best-of-3 candidates plus Lens selection plus iterative repair on failures.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come... | What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 13:49 GMT+8: post=mixed, author=mixed \u2014 Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of... | 2026-04-11 16:47 GMT+8: post=mixed, author=mixed \u2014 What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can... | 2026-04-11 07:52 GMT+8: post=mixed, author=mixed \u2014 That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs...",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and concerned. Top reactions focus on Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come... | What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I....",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Snoo44065",
-            "timestamp": "2026-04-11 13:49 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Its interesting but what you are writing seems to me very confusing and bloated unfortunately. Instead of describing you and where you come from on top of the readme i would much..."
-          },
-          {
-            "author": "/u/Karyo_Ten",
-            "timestamp": "2026-04-11 16:47 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "What a \"geometric-lens\" is seems to be nowhere defined for example and its uncommon enough so that one can not find it easily on google. I surely wont read your code without being..."
-          },
-          {
-            "author": "/u/Additional_Wish_3619",
-            "timestamp": "2026-04-11 07:52 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under $650-$700."
-          },
-          {
-            "author": "/u/Loose_Object_8311",
-            "timestamp": "2026-04-11 10:29 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Sonnet is not frontier. Opus is. Big difference."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": 4,
-      "timestamp": "2026-04-10T21:46:55+00:00",
-      "timestamp_human": "2026-04-11 05:46 GMT+8",
-      "subreddit": "llmdevs",
-      "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
-      "profile_relevance_score": 4
-    },
-    {
-      "title": "curious about how households/families handle storage/photos long term",
-      "link": "https://www.reddit.com/r/selfhosted/comments/1sifuon/curious_about_how_householdsfamilies_handle/",
-      "author": "/u/therealzenzei",
-      "summary": "Summary: i moved away from google photos/drive and all these cloud solutions some time ago. I host my own server with Immich, nextcloud and other things.",
-      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:50 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 18:55 GMT+8: post=mixed, author=mixed \u2014 My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless...",
-      "comment_analysis": {
-        "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister....",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/asimovs-auditor",
-            "timestamp": "2026-04-11 18:50 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-          },
-          {
-            "author": "/u/Keili1997",
-            "timestamp": "2026-04-11 18:55 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "My parents never wanted to pay for cloud services, so when I told them about my Immich and paperless installs, they were onboard. My sister just doesn't see the benefit over..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T10:50:48+00:00",
-      "timestamp_human": "2026-04-11 18:50 GMT+8",
-      "subreddit": "selfhosted",
-      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sifuon/curious_about_how_householdsfamilies_handle/",
-      "profile_relevance_score": 4
-    },
-    {
-      "title": "Running a full AI agent pipeline natively on Android via Termux \u2014 no cloud, no root",
-      "link": "https://www.reddit.com/r/selfhosted/comments/1siffr5/running_a_full_ai_agent_pipeline_natively_on/",
-      "author": "/u/NeoLogic_Dev",
-      "summary": "Summary: Anyone else self-hosting on mobile hardware? Running a 4-agent sequential pipeline on a Snapdragon 7s Gen 3 in Termux.",
-      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | do you have code published to replicate your setup?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 18:27 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 18:38 GMT+8: post=mixed, author=mixed \u2014 do you have code published to replicate your setup? | 2026-04-11 18:40 GMT+8: post=mixed, author=mixed \u2014 yeah its on github, github.com/weissmann93/NeoBild full setup guide in the docs folder too",
-      "comment_analysis": {
-        "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | do you have code published to replicate your setup?.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/asimovs-auditor",
-            "timestamp": "2026-04-11 18:27 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-          },
-          {
-            "author": "/u/v3d",
-            "timestamp": "2026-04-11 18:38 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "do you have code published to replicate your setup?"
-          },
-          {
-            "author": "/u/NeoLogic_Dev",
-            "timestamp": "2026-04-11 18:40 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "yeah its on github, github.com/weissmann93/NeoBild full setup guide in the docs folder too"
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T10:27:05+00:00",
-      "timestamp_human": "2026-04-11 18:27 GMT+8",
-      "subreddit": "selfhosted",
-      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1siffr5/running_a_full_ai_agent_pipeline_natively_on/",
-      "profile_relevance_score": 4
-    },
-    {
-      "title": "Self-hosted Synapse (Matrix) server for small communities",
-      "link": "https://www.reddit.com/r/selfhosted/comments/1sict28/selfhosted_synapse_matrix_server_for_small/",
-      "author": "/u/st_iron",
-      "summary": "Summary: I've been running a non-federated Synapse (Matrix) server for about a year and overall the experience has been good. Initially I enabled video/audio with a TURN relay, but later removed it since our small community didn't really need it.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Just getting started on this, why did you chose the non-federated route ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 15:50 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 16:15 GMT+8: post=mixed, author=mixed \u2014 Just getting started on this, why did you chose the non-federated route ? | 2026-04-11 16:46 GMT+8: post=mixed, author=mixed \u2014 Federation is useful when you want to connect to the wider Matrix network. For example matrix.yourserver.com...",
-      "comment_analysis": {
-        "summary": "The comment section is split between positive and concerned. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Just getting started on this, why did you chose the non-federated route ?.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/asimovs-auditor",
-            "timestamp": "2026-04-11 15:50 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-          },
-          {
-            "author": "/u/bromatofiel",
-            "timestamp": "2026-04-11 16:15 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Just getting started on this, why did you chose the non-federated route ?"
-          },
-          {
-            "author": "/u/st_iron",
-            "timestamp": "2026-04-11 16:46 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Federation is useful when you want to connect to the wider Matrix network. For example matrix.yourserver.com and matrix.friendserver.com can see each other's rooms and users and..."
-          },
-          {
-            "author": "/u/arcoast",
-            "timestamp": "2026-04-11 16:36 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Problem with federation is caching will happen locally, so resource usage could become a problem. Also if any illegal material gets cached on your server, I think legally you'd be..."
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-11T07:50:42+00:00",
-      "timestamp_human": "2026-04-11 15:50 GMT+8",
-      "subreddit": "selfhosted",
-      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1sict28/selfhosted_synapse_matrix_server_for_small/",
-      "profile_relevance_score": 4
-    },
-    {
-      "title": "TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...",
-      "link": "https://www.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
-      "author": "/u/trailbaseio",
-      "summary": "Summary: [Image: TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...] TrailBase (https://github.com/trailbaseio/trailbase) is an open, fast (https://trailbase.io/reference/benchmarks) Firebase-like server for building apps. It provides type-safe REST APIs + change subscriptions, auth,...",
-      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:05 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 12:04 GMT+8: post=mixed, author=mixed \u2014 Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?",
-      "comment_analysis": {
-        "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?.",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/asimovs-auditor",
-            "timestamp": "2026-04-11 07:05 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
-          },
-          {
-            "author": "/u/Traditional_Wafer_20",
-            "timestamp": "2026-04-11 12:04 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?"
-          }
-        ],
-        "model": "heuristic-fallback"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T23:05:33+00:00",
-      "timestamp_human": "2026-04-11 07:05 GMT+8",
-      "subreddit": "selfhosted",
-      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
-      "profile_relevance_score": 4
     }
   ]
 }

@@ -1,5 +1,111 @@
 [
   {
+    "generated_at": "2026-04-12T00:55:37.580098+08:00",
+    "generated_at_human": "2026-04-12 00:55 GMT+8",
+    "file": "summary_2026-04-12_00-55.md",
+    "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
+    "changes": [
+      {
+        "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+        "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+        "subreddit": "LocalLLaMA"
+      }
+    ],
+    "sections": [
+      {
+        "subreddit": "openai",
+        "display_name": "OpenAI",
+        "posts": []
+      },
+      {
+        "subreddit": "LocalLLaMA",
+        "display_name": "LocalLLaMA",
+        "posts": [
+          {
+            "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+            "author": "/u/LocalLLaMa_reader",
+            "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
+            "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:42 GMT+8: post=mixed, author=mixed \u2014 My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But... | 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:38 GMT+8: post=mixed, author=mixed \u2014 Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in...",
+            "comment_analysis": {
+              "summary": "The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that....",
+              "overall_sentiment_toward_post": "mixed",
+              "overall_sentiment_toward_author": "mixed",
+              "reply_threads": [
+                {
+                  "author": "/u/Rim_smokey",
+                  "timestamp": "2026-04-12 00:42 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also faster and less resource intensive. It's..."
+                },
+                {
+                  "author": "/u/MaybeIWasTheBot",
+                  "timestamp": "2026-04-12 00:43 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that of dense models. the initial issue with..."
+                },
+                {
+                  "author": "/u/jacek2023",
+                  "timestamp": "2026-04-12 00:38 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in the final calculation. 26B A4B means that the model has 26B parameters..."
+                },
+                {
+                  "author": "/u/Minute_Attempt3063",
+                  "timestamp": "2026-04-12 00:44 GMT+8",
+                  "sentiment_toward_post": "mixed",
+                  "sentiment_toward_author": "mixed",
+                  "summary": "I think they both have uses. Depending on the situation, dense is better, and vice versa"
+                }
+              ],
+              "model": "heuristic-fallback-timeout",
+              "minimax_error": "timeout"
+            },
+            "score": null,
+            "timestamp": "2026-04-11T16:32:42+00:00",
+            "timestamp_human": "2026-04-12 00:32 GMT+8",
+            "subreddit": "LocalLLaMA",
+            "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+            "profile_relevance_score": 9
+          }
+        ]
+      },
+      {
+        "subreddit": "llmdevs",
+        "display_name": "LLM Devs",
+        "posts": []
+      },
+      {
+        "subreddit": "OpenWebUI",
+        "display_name": "Open WebUI",
+        "posts": []
+      },
+      {
+        "subreddit": "selfhosted",
+        "display_name": "Self-Hosted",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeAI",
+        "display_name": "Claude",
+        "posts": []
+      },
+      {
+        "subreddit": "ClaudeCode",
+        "display_name": "Claude Code",
+        "posts": []
+      },
+      {
+        "subreddit": "Codex",
+        "display_name": "Codex",
+        "posts": []
+      }
+    ]
+  },
+  {
     "generated_at": "2026-04-11T18:55:47.846205+08:00",
     "generated_at_human": "2026-04-11 18:55 GMT+8",
     "file": "summary_2026-04-11_18-55.md",
