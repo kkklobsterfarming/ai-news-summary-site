@@ -1,41 +1,36 @@
 {
-  "generated_at_iso": "2026-04-11T06:55:46.119965+08:00",
-  "generated_at": "2026-04-11T06:55:46.119965+08:00",
-  "generated_at_human": "2026-04-11 06:55 GMT+8",
+  "generated_at_iso": "2026-04-11T12:55:49.241333+08:00",
+  "generated_at": "2026-04-11T12:55:49.241333+08:00",
+  "generated_at_human": "2026-04-11 12:55 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-11_06-55.md",
+  "file": "summary_2026-04-11_12-55.md",
   "changes": [
     {
-      "title": "More Gemma4 fixes in the past 24 hours",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
+      "title": "Gist for getting Gemma 4 27b (FP8) working with TP=2 on vLLM (R9700)",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1si988m/gist_for_getting_gemma_4_27b_fp8_working_with_tp2/",
       "subreddit": "LocalLLaMA"
     },
     {
-      "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
+      "title": "How I set up mcp rate limiting and permissions on my self-hosted setup",
+      "link": "https://old.reddit.com/r/selfhosted/comments/1si3j72/how_i_set_up_mcp_rate_limiting_and_permissions_on/",
+      "subreddit": "selfhosted"
+    },
+    {
+      "title": "$3000: What GPU for my use case? Will my setup work? Dedicated machine instead?",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1si7l6l/3000_what_gpu_for_my_use_case_will_my_setup_work/",
       "subreddit": "LocalLLaMA"
     },
     {
-      "title": "TurboQuant + TriAttention (C/HIP): ~6.8\u00d7 total KV cache reduction in llama.cpp",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
-      "subreddit": "LocalLLaMA"
+      "title": "This is my framework. There are many like it but this one is mine: Ways and attention for Claude.",
+      "link": "https://old.reddit.com/r/ClaudeCode/comments/1si2shk/this_is_my_framework_there_are_many_like_it_but/",
+      "subreddit": "ClaudeCode"
     },
     {
-      "title": "Tired of unpredictable API bills from agents? Here\u2019s a 0-dep MCP server to estimate costs in real-time.",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1shx9eb/tired_of_unpredictable_api_bills_from_agents/",
-      "subreddit": "llmdevs"
-    },
-    {
-      "title": "Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1shzerk/gemma_4_vs_qwen35_benchmarking_quantized_local/",
-      "subreddit": "LocalLLaMA"
-    },
-    {
-      "title": "How a $500 GPU beat Claude Sonnet on a coding benchmark (and why the \"secret\" isn't the model)",
-      "link": "https://old.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
-      "subreddit": "llmdevs"
+      "title": "TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...",
+      "link": "https://old.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
+      "subreddit": "selfhosted"
     }
   ],
   "sections": [
@@ -49,11 +44,25 @@
       "display_name": "LocalLLaMA",
       "posts": [
         {
+          "title": "Gist for getting Gemma 4 27b (FP8) working with TP=2 on vLLM (R9700)",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1si988m/gist_for_getting_gemma_4_27b_fp8_working_with_tp2/",
+          "author": "/u/pubudeux",
+          "summary": "Summary: [Image: Gist for getting Gemma 4 27b (FP8) working with TP=2 on vLLM (R9700)] In case anyone is trying to use Gemma 4 with their multi-R9700 setup or just trying to get it running with vLLM with rocm in general. Most of the new model architectures dont work for the AMD cards out of the box in my experience so they...",
+          "comments_summary": "",
+          "comment_analysis": {},
+          "score": null,
+          "timestamp": "2026-04-11T04:31:07+00:00",
+          "timestamp_human": "2026-04-11 12:31 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1si988m/gist_for_getting_gemma_4_27b_fp8_working_with_tp2/",
+          "profile_relevance_score": 10
+        },
+        {
           "title": "More Gemma4 fixes in the past 24 hours",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
           "author": "/u/andy2na",
           "summary": "Summary: Reasoning budget fix (merged): https://github.com/ggml-org/llama.cpp/pull/21697 (https://github.com/ggml-org/llama.cpp/pull/21697) New chat templates from Google to fix tool calling: 31B: https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja...",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 01:20 GMT+8: post=mixed, author=mixed \u2014 You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo.",
+          "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 11:07 GMT+8: post=mixed, author=mixed \u2014 Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing...",
           "comment_analysis": {
             "summary": "The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now.....",
             "overall_sentiment_toward_post": "positive",
@@ -74,22 +83,23 @@
                 "summary": "Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now. The nightly seems to *mostly* fix tool..."
               },
               {
+                "author": "/u/AnOnlineHandle",
+                "timestamp": "2026-04-11 11:07 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing model I've ever found, and I'm really nervous that it was a crazy fluke of..."
+              },
+              {
                 "author": "/u/Luke2642",
                 "timestamp": "2026-04-11 01:20 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
                 "summary": "You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo."
-              },
-              {
-                "author": "/u/Luke2642",
-                "timestamp": "2026-04-11 01:29 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Rejected quips: Benchmarking on a toaster leads to burnt toast. Witnessing the Dunning-Kruger at 0.8 tokens per second. Model IQ capped by your refusal to buy more VRAM."
               }
             ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
+            "model": "heuristic-fallback-bad-json",
+            "minimax_error": "bad_json:Expecting value",
+            "minimax_raw_output": "```json { \"summary\": \"Commenters generally appreciate the Gemma4 fixes being shared but emphasize that both low-end and high-end users should hold off on forming strong opinions until fixes stabilize further. Some praise Gemma4 26B for creative writing while expressing concern that updates might..."
           },
           "score": null,
           "timestamp": "2026-04-10T16:52:36+00:00",
@@ -103,9 +113,9 @@
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
           "author": "/u/Thireus",
           "summary": "Project/tool: For anyone interested in building their own GGUF quants, I\u2019ve put together the GGUF-Tool-Suite (https://github.com/Thireus/GGUF-Tool-Suite) docs and a simple web UI to make the process easier. - Docs: https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs (https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs)...",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | 2026-04-11 05:58 GMT+8: post=mixed, author=mixed \u2014 I tried to do this but never found a way to select what's going to be on GPU and what's going to be on... | 2026-04-11 06:26 GMT+8: post=mixed, author=mixed \u2014 Why does the docs say to use your fork instead of the ik_llama.cpp fork? There's no reason given why.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | 2026-04-11 10:20 GMT+8: post=mixed, author=mixed \u2014 Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | 2026-04-11 06:55 GMT+8: post=mixed, author=mixed \u2014 Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for...",
           "comment_analysis": {
-            "summary": "The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing....",
+            "summary": "The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!.",
             "overall_sentiment_toward_post": "mixed",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
@@ -117,18 +127,11 @@
                 "summary": "I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!"
               },
               {
-                "author": "/u/a_beautiful_rhind",
-                "timestamp": "2026-04-11 05:58 GMT+8",
+                "author": "/u/notdba",
+                "timestamp": "2026-04-11 10:20 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing something."
-              },
-              {
-                "author": "/u/fiery_prometheus",
-                "timestamp": "2026-04-11 06:26 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Why does the docs say to use your fork instead of the ik_llama.cpp fork? There's no reason given why."
+                "summary": "Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!"
               },
               {
                 "author": "/u/Jack_Kennedy_2009",
@@ -136,79 +139,49 @@
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
                 "summary": "Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for keeping those up to date and solid! I was using your Cuda 13.2 builds and..."
+              },
+              {
+                "author": "/u/a_beautiful_rhind",
+                "timestamp": "2026-04-11 05:58 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing something."
               }
             ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
+            "model": "heuristic-fallback"
           },
           "score": null,
           "timestamp": "2026-04-10T20:49:43+00:00",
           "timestamp_human": "2026-04-11 04:49 GMT+8",
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-          "profile_relevance_score": 9
-        },
-        {
-          "title": "TurboQuant + TriAttention (C/HIP): ~6.8\u00d7 total KV cache reduction in llama.cpp",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
-          "author": "/u/Acrobatic_Bee_6660",
-          "summary": "Summary: Edit (2026-04-11): Correction \u2014 my NIAH 28/28 results are TurboQuant-only, not the TriAttention combo. The ~6.8\u00d7 figure is an arithmetic stack estimate (5.12\u00d7 \u00d7 1.33\u00d7), not a validated end-to-end retrieval claim.",
-          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly critical. Top reactions focus on Okay but is any of this ever going to be merged into actual llama.cpp | TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR.... Overall sentiment \u2014 post: critical; author: mixed. Reply threads: 2026-04-11 05:23 GMT+8: post=mixed, author=mixed \u2014 Okay but is any of this ever going to be merged into actual llama.cpp | 2026-04-11 06:14 GMT+8: post=mixed, author=mixed \u2014 TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only... | 2026-04-11 06:24 GMT+8: post=mixed, author=mixed \u2014 Are you sure it is? Because I can\u2019t see it on the master branch.",
-          "comment_analysis": {
-            "summary": "The comment section is mostly critical. Top reactions focus on Okay but is any of this ever going to be merged into actual llama.cpp | TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR....",
-            "overall_sentiment_toward_post": "critical",
-            "overall_sentiment_toward_author": "mixed",
-            "reply_threads": [
-              {
-                "author": "/u/Pwc9Z",
-                "timestamp": "2026-04-11 05:23 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Okay but is any of this ever going to be merged into actual llama.cpp"
-              },
-              {
-                "author": "/u/Acrobatic_Bee_6660",
-                "timestamp": "2026-04-11 06:14 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR is planned but needs to be split into..."
-              },
-              {
-                "author": "/u/DygusFufs",
-                "timestamp": "2026-04-11 06:24 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "Are you sure it is? Because I can\u2019t see it on the master branch."
-              },
-              {
-                "author": "/u/Acrobatic_Bee_6660",
-                "timestamp": "2026-04-11 06:26 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "You're right, I misspoke \u2014 TurboQuant is in TheTom's fork (llama-cpp-turboquant), not in mainline llama.cpp master. My fork adds the HIP/ROCm backend on top of that. Neither is..."
-              }
-            ],
-            "model": "heuristic-fallback-empty-response",
-            "minimax_error": "empty_text_response"
-          },
-          "score": null,
-          "timestamp": "2026-04-10T21:18:28+00:00",
-          "timestamp_human": "2026-04-11 05:18 GMT+8",
-          "subreddit": "LocalLLaMA",
-          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
-          "profile_relevance_score": 8
+          "profile_relevance_score": 7
         },
         {
           "title": "Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding",
           "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shzerk/gemma_4_vs_qwen35_benchmarking_quantized_local/",
           "author": "/u/m3thos",
           "summary": "Benchmark/result: I'm continuing to play around with local llms on my framework13 laptop. So, limited memory bandwith and processing power means exploring MoE quantized models below 40B params.",
-          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb... | Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 05:18 GMT+8: post=mixed, author=mixed \u2014 Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants... | 2026-04-11 05:52 GMT+8: post=mixed, author=mixed \u2014 Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and... | 2026-04-11 05:58 GMT+8: post=mixed, author=mixed \u2014 27b q3 still beats 35b non quant on almost all coding benchmarks.. so... Q2 and q1 are not nearly as good but...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is... | Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level.. Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 09:08 GMT+8: post=mixed, author=mixed \u2014 These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor... | 2026-04-11 12:42 GMT+8: post=mixed, author=mixed \u2014 Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level. | 2026-04-11 05:18 GMT+8: post=mixed, author=mixed \u2014 Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants...",
           "comment_analysis": {
-            "summary": "The comment section is mostly positive. Top reactions focus on Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb... | Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models....",
+            "summary": "The comment section is mostly positive. Top reactions focus on These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is... | Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level..",
             "overall_sentiment_toward_post": "positive",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
+              {
+                "author": "/u/m3thos",
+                "timestamp": "2026-04-11 09:08 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is also puny to run bigger models.. Even..."
+              },
+              {
+                "author": "/u/tavirabon",
+                "timestamp": "2026-04-11 12:42 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level."
+              },
               {
                 "author": "/u/ShadyShroomz",
                 "timestamp": "2026-04-11 05:18 GMT+8",
@@ -217,25 +190,11 @@
                 "summary": "Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb at 15-25tps? Would love to see the..."
               },
               {
-                "author": "/u/Temporary-Roof2867",
-                "timestamp": "2026-04-11 05:52 GMT+8",
+                "author": "/u/PrefersAwkward",
+                "timestamp": "2026-04-11 05:43 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models are particularly crappy because the..."
-              },
-              {
-                "author": "/u/ShadyShroomz",
-                "timestamp": "2026-04-11 05:58 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "27b q3 still beats 35b non quant on almost all coding benchmarks.. so... Q2 and q1 are not nearly as good but q4 27b is nearly as good as the full thing."
-              },
-              {
-                "author": "/u/Temporary-Roof2867",
-                "timestamp": "2026-04-11 06:10 GMT+8",
-                "sentiment_toward_post": "mixed",
-                "sentiment_toward_author": "mixed",
-                "summary": "I was lucky enough to get a full RAM upgrade when it was cheap! 128 GB of RAM! The MoE models are amazing!"
+                "summary": "MOEs are great for bandwidth constrained scenarios, such as an IGPU. Often you have a lot of RAM / GTT but you have very low bandwidth. A dense model runs at like 2 to 6 TPS while..."
               }
             ],
             "model": "heuristic-fallback"
@@ -246,6 +205,41 @@
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shzerk/gemma_4_vs_qwen35_benchmarking_quantized_local/",
           "profile_relevance_score": 6
+        },
+        {
+          "title": "$3000: What GPU for my use case? Will my setup work? Dedicated machine instead?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1si7l6l/3000_what_gpu_for_my_use_case_will_my_setup_work/",
+          "author": "/u/CrayCJ",
+          "summary": "Summary: My PC has the following specs: GPU \u2013 to be replaced, see below* AMD Radeon RX 5700 XT, 8GB (Powercolor Red Devil) CPU AMD Ryzen 5 3600X, 3.8 GHz, 6-core RAM 2x 8GB, 3600 MHz, DDR4 (G.Skill Trident) Motherboard MSI B450 Gaming Pro Carbon AC Power supply Corsair HX 750 Platinum Storage 1TB \u2013 Adata SX8200 Operating...",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to... | Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 -.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 11:43 GMT+8: post=mixed, author=mixed \u2014 if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will... | 2026-04-11 12:15 GMT+8: post=mixed, author=mixed \u2014 Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I...",
+          "comment_analysis": {
+            "summary": "The comment section is split between positive and concerned. Top reactions focus on if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to... | Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 -....",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/Puzzleheaded_Base302",
+                "timestamp": "2026-04-11 11:43 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to 115K context length on LM Studio..."
+              },
+              {
+                "author": "/u/CrayCJ",
+                "timestamp": "2026-04-11 12:15 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 - what you say regarding the xx90s seem to..."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T03:08:57+00:00",
+          "timestamp_human": "2026-04-11 11:08 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1si7l6l/3000_what_gpu_for_my_use_case_will_my_setup_work/",
+          "profile_relevance_score": 4
         }
       ]
     },
@@ -272,8 +266,43 @@
           "link": "https://www.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
           "author": "/u/Additional_Wish_3619",
           "summary": "Benchmark/result: ATLAS, a frozen Qwen3-14B-Q4_K_M running on a single RTX 5060 Ti scored 74.6% pass@1-v(k=3) on On LiveCodeBench v5, which in a way beats Claude 4.5 Sonnet (71.4%). Pass@1-v(k=3) meaning one solution submitted per task, generated via best-of-3 candidates plus Lens selection plus iterative repair on failures.",
-          "comments_summary": "",
-          "comment_analysis": {},
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under... | Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:52 GMT+8: post=mixed, author=mixed \u2014 That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs... | 2026-04-11 10:29 GMT+8: post=mixed, author=mixed \u2014 Sonnet is not frontier. Opus is. Big difference. | 2026-04-11 12:09 GMT+8: post=mixed, author=mixed \u2014 Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and...",
+          "comment_analysis": {
+            "summary": "The comment section is split between positive and concerned. Top reactions focus on That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under... | Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint..",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/Additional_Wish_3619",
+                "timestamp": "2026-04-11 07:52 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under $650-$700."
+              },
+              {
+                "author": "/u/Loose_Object_8311",
+                "timestamp": "2026-04-11 10:29 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Sonnet is not frontier. Opus is. Big difference."
+              },
+              {
+                "author": "/u/Additional_Wish_3619",
+                "timestamp": "2026-04-11 12:09 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint."
+              },
+              {
+                "author": "/u/babige",
+                "timestamp": "2026-04-11 12:44 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Not really as a swe I can't even use sonnet it's garbage for anything outside small tasks, opus is far superior for mid large tasks that I need to be 95% complete."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
           "score": 4,
           "timestamp": "2026-04-10T21:46:55+00:00",
           "timestamp_human": "2026-04-11 05:46 GMT+8",
@@ -291,7 +320,93 @@
     {
       "subreddit": "selfhosted",
       "display_name": "Self-Hosted",
-      "posts": []
+      "posts": [
+        {
+          "title": "How I set up mcp rate limiting and permissions on my self-hosted setup",
+          "link": "https://www.reddit.com/r/selfhosted/comments/1si3j72/how_i_set_up_mcp_rate_limiting_and_permissions_on/",
+          "author": "/u/Ok-Cell-3480",
+          "summary": "Summary: Running local models with mcp tool access and spent last weekend locking down my setup because it was a mess. ollama with a couple models connecting to 4 mcp servers: filesystem, sqlite, web scraper, and a local api for home automation.",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and joking. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 08:03 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 10:40 GMT+8: post=mixed, author=mixed \u2014 how does the api key auth work? Does each family member enter a key every time they start a session or is it... | 2026-04-11 10:42 GMT+8: post=mixed, author=mixed \u2014 stored in each person's claude config file, they set it once and forget about it. I generate the keys in the...",
+          "comment_analysis": {
+            "summary": "The comment section is split between concerned and joking. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?.",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/asimovs-auditor",
+                "timestamp": "2026-04-11 08:03 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+              },
+              {
+                "author": "/u/EldenBoredAF",
+                "timestamp": "2026-04-11 10:40 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?"
+              },
+              {
+                "author": "/u/Ok-Cell-3480",
+                "timestamp": "2026-04-11 10:42 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "stored in each person's claude config file, they set it once and forget about it. I generate the keys in the gravitee dashboard and assign policies there"
+              },
+              {
+                "author": "/u/ComprehensiveBus3613",
+                "timestamp": "2026-04-11 10:41 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "the thermostat thing made me laugh but it's a legit concern lol. My kid asked their local agent to \"make the room more comfortable\" and it tried to call every tool it had access..."
+              }
+            ],
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T00:02:55+00:00",
+          "timestamp_human": "2026-04-11 08:02 GMT+8",
+          "subreddit": "selfhosted",
+          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si3j72/how_i_set_up_mcp_rate_limiting_and_permissions_on/",
+          "profile_relevance_score": 9
+        },
+        {
+          "title": "TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...",
+          "link": "https://www.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
+          "author": "/u/trailbaseio",
+          "summary": "Summary: [Image: TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...] TrailBase (https://github.com/trailbaseio/trailbase) is an open, fast (https://trailbase.io/reference/benchmarks) Firebase-like server for building apps. It provides type-safe REST APIs + change subscriptions, auth,...",
+          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:05 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 12:04 GMT+8: post=mixed, author=mixed \u2014 Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?",
+          "comment_analysis": {
+            "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?.",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/asimovs-auditor",
+                "timestamp": "2026-04-11 07:05 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+              },
+              {
+                "author": "/u/Traditional_Wafer_20",
+                "timestamp": "2026-04-11 12:04 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?"
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-10T23:05:33+00:00",
+          "timestamp_human": "2026-04-11 07:05 GMT+8",
+          "subreddit": "selfhosted",
+          "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
+          "profile_relevance_score": 4
+        }
+      ]
     },
     {
       "subreddit": "ClaudeAI",
@@ -301,7 +416,57 @@
     {
       "subreddit": "ClaudeCode",
       "display_name": "Claude Code",
-      "posts": []
+      "posts": [
+        {
+          "title": "This is my framework. There are many like it but this one is mine: Ways and attention for Claude.",
+          "link": "https://www.reddit.com/r/ClaudeCode/comments/1si2shk/this_is_my_framework_there_are_many_like_it_but/",
+          "author": "/u/aaronsb",
+          "summary": "Summary: There are many like it but this one is mine: Ways and attention for Claude.] https://github.com/aaronsb/agent-ways (https://github.com/aaronsb/agent-ways) Just been working on it - got a fun agent loop working with the monitor tool (https://code.claude.com/docs/en/tools-reference#monitor-tool) in Claude Code.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to... | I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 08:45 GMT+8: post=mixed, author=mixed \u2014 This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what... | 2026-04-11 09:09 GMT+8: post=mixed, author=mixed \u2014 I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English)... | 2026-04-11 09:15 GMT+8: post=mixed, author=mixed \u2014 That is ridiculously clean. `paraphrase-multilingual-MiniLM-L12-v2` quantized to Q8_0 running via `llama.cpp`...",
+          "comment_analysis": {
+            "summary": "The comment section is split between positive and concerned. Top reactions focus on This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to... | I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or....",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/ekkOStech",
+                "timestamp": "2026-04-11 08:45 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to break out of single-session amnesia. I\u2019ve..."
+              },
+              {
+                "author": "/u/aaronsb",
+                "timestamp": "2026-04-11 09:09 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or paraphrase-multilingual-MiniLM-L12-v2 Q8_0 for INTL support (many..."
+              },
+              {
+                "author": "/u/ekkOStech",
+                "timestamp": "2026-04-11 09:15 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "That is ridiculously clean. `paraphrase-multilingual-MiniLM-L12-v2` quantized to Q8_0 running via `llama.cpp` is the perfect balance of latency, cross-lingual capability, and..."
+              },
+              {
+                "author": "/u/aaronsb",
+                "timestamp": "2026-04-11 09:59 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "ways that are project scope go with the git repo. ways that are user/dev/human scoped go with the human. user scoped ways are git managed. ways have governance traceability to..."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-10T23:31:15+00:00",
+          "timestamp_human": "2026-04-11 07:31 GMT+8",
+          "subreddit": "ClaudeCode",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1si2shk/this_is_my_framework_there_are_many_like_it_but/",
+          "profile_relevance_score": 4
+        }
+      ]
     },
     {
       "subreddit": "Codex",
@@ -311,11 +476,75 @@
   ],
   "all_posts": [
     {
+      "title": "Gist for getting Gemma 4 27b (FP8) working with TP=2 on vLLM (R9700)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1si988m/gist_for_getting_gemma_4_27b_fp8_working_with_tp2/",
+      "author": "/u/pubudeux",
+      "summary": "Summary: [Image: Gist for getting Gemma 4 27b (FP8) working with TP=2 on vLLM (R9700)] In case anyone is trying to use Gemma 4 with their multi-R9700 setup or just trying to get it running with vLLM with rocm in general. Most of the new model architectures dont work for the AMD cards out of the box in my experience so they...",
+      "comments_summary": "",
+      "comment_analysis": {},
+      "score": null,
+      "timestamp": "2026-04-11T04:31:07+00:00",
+      "timestamp_human": "2026-04-11 12:31 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1si988m/gist_for_getting_gemma_4_27b_fp8_working_with_tp2/",
+      "profile_relevance_score": 10
+    },
+    {
+      "title": "How I set up mcp rate limiting and permissions on my self-hosted setup",
+      "link": "https://www.reddit.com/r/selfhosted/comments/1si3j72/how_i_set_up_mcp_rate_limiting_and_permissions_on/",
+      "author": "/u/Ok-Cell-3480",
+      "summary": "Summary: Running local models with mcp tool access and spent last weekend locking down my setup because it was a mess. ollama with a couple models connecting to 4 mcp servers: filesystem, sqlite, web scraper, and a local api for home automation.",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between concerned and joking. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 08:03 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 10:40 GMT+8: post=mixed, author=mixed \u2014 how does the api key auth work? Does each family member enter a key every time they start a session or is it... | 2026-04-11 10:42 GMT+8: post=mixed, author=mixed \u2014 stored in each person's claude config file, they set it once and forget about it. I generate the keys in the...",
+      "comment_analysis": {
+        "summary": "The comment section is split between concerned and joking. Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/asimovs-auditor",
+            "timestamp": "2026-04-11 08:03 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+          },
+          {
+            "author": "/u/EldenBoredAF",
+            "timestamp": "2026-04-11 10:40 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "how does the api key auth work? Does each family member enter a key every time they start a session or is it stored in their client config?"
+          },
+          {
+            "author": "/u/Ok-Cell-3480",
+            "timestamp": "2026-04-11 10:42 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "stored in each person's claude config file, they set it once and forget about it. I generate the keys in the gravitee dashboard and assign policies there"
+          },
+          {
+            "author": "/u/ComprehensiveBus3613",
+            "timestamp": "2026-04-11 10:41 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "the thermostat thing made me laugh but it's a legit concern lol. My kid asked their local agent to \"make the room more comfortable\" and it tried to call every tool it had access..."
+          }
+        ],
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T00:02:55+00:00",
+      "timestamp_human": "2026-04-11 08:02 GMT+8",
+      "subreddit": "selfhosted",
+      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si3j72/how_i_set_up_mcp_rate_limiting_and_permissions_on/",
+      "profile_relevance_score": 9
+    },
+    {
       "title": "More Gemma4 fixes in the past 24 hours",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
       "author": "/u/andy2na",
       "summary": "Summary: Reasoning budget fix (merged): https://github.com/ggml-org/llama.cpp/pull/21697 (https://github.com/ggml-org/llama.cpp/pull/21697) New chat templates from Google to fix tool calling: 31B: https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja...",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 01:20 GMT+8: post=mixed, author=mixed \u2014 You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo.",
+      "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now..... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 01:07 GMT+8: post=mixed, author=mixed \u2014 This is why people who are having problems with clown car implementations like Ollama while running potato... | 2026-04-11 01:29 GMT+8: post=mixed, author=mixed \u2014 Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works... | 2026-04-11 11:07 GMT+8: post=mixed, author=mixed \u2014 Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing...",
       "comment_analysis": {
         "summary": "The comment section is mostly positive. Top reactions focus on This is why people who are having problems with clown car implementations like Ollama while running potato quants should hold off from... | Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now.....",
         "overall_sentiment_toward_post": "positive",
@@ -336,22 +565,23 @@
             "summary": "Even the gpu-rich should hold off on forming opinions until things stabilize. Still some fixes in the works in vLLM for gemma 4 right now. The nightly seems to *mostly* fix tool..."
           },
           {
+            "author": "/u/AnOnlineHandle",
+            "timestamp": "2026-04-11 11:07 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Ironically I was GPU rich enough to run a Gemma 4 26B q4 checkpoint and it's been the best story writing model I've ever found, and I'm really nervous that it was a crazy fluke of..."
+          },
+          {
             "author": "/u/Luke2642",
             "timestamp": "2026-04-11 01:20 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
             "summary": "You can\u2019t expect a symphony from a model you\u2019ve compressed into a kazoo."
-          },
-          {
-            "author": "/u/Luke2642",
-            "timestamp": "2026-04-11 01:29 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Rejected quips: Benchmarking on a toaster leads to burnt toast. Witnessing the Dunning-Kruger at 0.8 tokens per second. Model IQ capped by your refusal to buy more VRAM."
           }
         ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
+        "model": "heuristic-fallback-bad-json",
+        "minimax_error": "bad_json:Expecting value",
+        "minimax_raw_output": "```json { \"summary\": \"Commenters generally appreciate the Gemma4 fixes being shared but emphasize that both low-end and high-end users should hold off on forming strong opinions until fixes stabilize further. Some praise Gemma4 26B for creative writing while expressing concern that updates might..."
       },
       "score": null,
       "timestamp": "2026-04-10T16:52:36+00:00",
@@ -359,106 +589,6 @@
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
       "profile_relevance_score": 9
-    },
-    {
-      "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-      "author": "/u/Thireus",
-      "summary": "Project/tool: For anyone interested in building their own GGUF quants, I\u2019ve put together the GGUF-Tool-Suite (https://github.com/Thireus/GGUF-Tool-Suite) docs and a simple web UI to make the process easier. - Docs: https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs (https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs)...",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | 2026-04-11 05:58 GMT+8: post=mixed, author=mixed \u2014 I tried to do this but never found a way to select what's going to be on GPU and what's going to be on... | 2026-04-11 06:26 GMT+8: post=mixed, author=mixed \u2014 Why does the docs say to use your fork instead of the ik_llama.cpp fork? There's no reason given why.",
-      "comment_analysis": {
-        "summary": "The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing....",
-        "overall_sentiment_toward_post": "mixed",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Monad_Maya",
-            "timestamp": "2026-04-11 05:01 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!"
-          },
-          {
-            "author": "/u/a_beautiful_rhind",
-            "timestamp": "2026-04-11 05:58 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing something."
-          },
-          {
-            "author": "/u/fiery_prometheus",
-            "timestamp": "2026-04-11 06:26 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Why does the docs say to use your fork instead of the ik_llama.cpp fork? There's no reason given why."
-          },
-          {
-            "author": "/u/Jack_Kennedy_2009",
-            "timestamp": "2026-04-11 06:55 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for keeping those up to date and solid! I was using your Cuda 13.2 builds and..."
-          }
-        ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T20:49:43+00:00",
-      "timestamp_human": "2026-04-11 04:49 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
-      "profile_relevance_score": 9
-    },
-    {
-      "title": "TurboQuant + TriAttention (C/HIP): ~6.8\u00d7 total KV cache reduction in llama.cpp",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
-      "author": "/u/Acrobatic_Bee_6660",
-      "summary": "Summary: Edit (2026-04-11): Correction \u2014 my NIAH 28/28 results are TurboQuant-only, not the TriAttention combo. The ~6.8\u00d7 figure is an arithmetic stack estimate (5.12\u00d7 \u00d7 1.33\u00d7), not a validated end-to-end retrieval claim.",
-      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is mostly critical. Top reactions focus on Okay but is any of this ever going to be merged into actual llama.cpp | TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR.... Overall sentiment \u2014 post: critical; author: mixed. Reply threads: 2026-04-11 05:23 GMT+8: post=mixed, author=mixed \u2014 Okay but is any of this ever going to be merged into actual llama.cpp | 2026-04-11 06:14 GMT+8: post=mixed, author=mixed \u2014 TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only... | 2026-04-11 06:24 GMT+8: post=mixed, author=mixed \u2014 Are you sure it is? Because I can\u2019t see it on the master branch.",
-      "comment_analysis": {
-        "summary": "The comment section is mostly critical. Top reactions focus on Okay but is any of this ever going to be merged into actual llama.cpp | TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR....",
-        "overall_sentiment_toward_post": "critical",
-        "overall_sentiment_toward_author": "mixed",
-        "reply_threads": [
-          {
-            "author": "/u/Pwc9Z",
-            "timestamp": "2026-04-11 05:23 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Okay but is any of this ever going to be merged into actual llama.cpp"
-          },
-          {
-            "author": "/u/Acrobatic_Bee_6660",
-            "timestamp": "2026-04-11 06:14 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "TurboQuant is upstream in llama.cpp already (merged by TheTom). My fork adds the HIP/ROCm backend \u2014 the only one that exists. Upstream PR is planned but needs to be split into..."
-          },
-          {
-            "author": "/u/DygusFufs",
-            "timestamp": "2026-04-11 06:24 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "Are you sure it is? Because I can\u2019t see it on the master branch."
-          },
-          {
-            "author": "/u/Acrobatic_Bee_6660",
-            "timestamp": "2026-04-11 06:26 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "You're right, I misspoke \u2014 TurboQuant is in TheTom's fork (llama-cpp-turboquant), not in mainline llama.cpp master. My fork adds the HIP/ROCm backend on top of that. Neither is..."
-          }
-        ],
-        "model": "heuristic-fallback-empty-response",
-        "minimax_error": "empty_text_response"
-      },
-      "score": null,
-      "timestamp": "2026-04-10T21:18:28+00:00",
-      "timestamp_human": "2026-04-11 05:18 GMT+8",
-      "subreddit": "LocalLLaMA",
-      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
-      "profile_relevance_score": 8
     },
     {
       "title": "Tired of unpredictable API bills from agents? Here\u2019s a 0-dep MCP server to estimate costs in real-time.",
@@ -475,16 +605,79 @@
       "profile_relevance_score": 7
     },
     {
+      "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
+      "author": "/u/Thireus",
+      "summary": "Project/tool: For anyone interested in building their own GGUF quants, I\u2019ve put together the GGUF-Tool-Suite (https://github.com/Thireus/GGUF-Tool-Suite) docs and a simple web UI to make the process easier. - Docs: https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs (https://github.com/Thireus/GGUF-Tool-Suite/tree/main/docs)...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 05:01 GMT+8: post=mixed, author=mixed \u2014 I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | 2026-04-11 10:20 GMT+8: post=mixed, author=mixed \u2014 Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files! | 2026-04-11 06:55 GMT+8: post=mixed, author=mixed \u2014 Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for...",
+      "comment_analysis": {
+        "summary": "The comment section is split between critical and positive. Top reactions focus on I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing! | Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/Monad_Maya",
+            "timestamp": "2026-04-11 05:01 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I'm on mobile currently so can't view it properly. Will give it a shot later today. Thanks for sharing!"
+          },
+          {
+            "author": "/u/notdba",
+            "timestamp": "2026-04-11 10:20 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Heh I also shared GGUFs for GLM-4.5 and GLM-4.6. Thanks for the amazing tool suite, especially the CSV files!"
+          },
+          {
+            "author": "/u/Jack_Kennedy_2009",
+            "timestamp": "2026-04-11 06:55 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Thanks u/Thireus () for your work, I have been using your builds of lcpp for a while now and thanks for keeping those up to date and solid! I was using your Cuda 13.2 builds and..."
+          },
+          {
+            "author": "/u/a_beautiful_rhind",
+            "timestamp": "2026-04-11 05:58 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I tried to do this but never found a way to select what's going to be on GPU and what's going to be on sysram. Dunno if I'm missing something."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-10T20:49:43+00:00",
+      "timestamp_human": "2026-04-11 04:49 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
+      "profile_relevance_score": 7
+    },
+    {
       "title": "Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shzerk/gemma_4_vs_qwen35_benchmarking_quantized_local/",
       "author": "/u/m3thos",
       "summary": "Benchmark/result: I'm continuing to play around with local llms on my framework13 laptop. So, limited memory bandwith and processing power means exploring MoE quantized models below 40B params.",
-      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb... | Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models.... Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 05:18 GMT+8: post=mixed, author=mixed \u2014 Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants... | 2026-04-11 05:52 GMT+8: post=mixed, author=mixed \u2014 Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and... | 2026-04-11 05:58 GMT+8: post=mixed, author=mixed \u2014 27b q3 still beats 35b non quant on almost all coding benchmarks.. so... Q2 and q1 are not nearly as good but...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is mostly positive. Top reactions focus on These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is... | Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level.. Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-11 09:08 GMT+8: post=mixed, author=mixed \u2014 These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor... | 2026-04-11 12:42 GMT+8: post=mixed, author=mixed \u2014 Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level. | 2026-04-11 05:18 GMT+8: post=mixed, author=mixed \u2014 Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants...",
       "comment_analysis": {
-        "summary": "The comment section is mostly positive. Top reactions focus on Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb... | Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models....",
+        "summary": "The comment section is mostly positive. Top reactions focus on These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is... | Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level..",
         "overall_sentiment_toward_post": "positive",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
+          {
+            "author": "/u/m3thos",
+            "timestamp": "2026-04-11 09:08 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "These models are too small for anything but tiny.. they break too easily.. And my hw is not strix halo nor mac studio or big gpu.. it is also puny to run bigger models.. Even..."
+          },
+          {
+            "author": "/u/tavirabon",
+            "timestamp": "2026-04-11 12:42 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Have you even tried Gemma 4 31B? It feels like a large parameter model, totally different level."
+          },
           {
             "author": "/u/ShadyShroomz",
             "timestamp": "2026-04-11 05:18 GMT+8",
@@ -493,25 +686,11 @@
             "summary": "Why do people even bother testing moe models for coding when you can offload a few layers and get q4 quants of 27b and 31b running on 16gb at 15-25tps? Would love to see the..."
           },
           {
-            "author": "/u/Temporary-Roof2867",
-            "timestamp": "2026-04-11 05:52 GMT+8",
+            "author": "/u/PrefersAwkward",
+            "timestamp": "2026-04-11 05:43 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Why? Because almost all Q4 models are either very degraded or completely rubbish (with rare exceptions), and especially the MoE Q4 models are particularly crappy because the..."
-          },
-          {
-            "author": "/u/ShadyShroomz",
-            "timestamp": "2026-04-11 05:58 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "27b q3 still beats 35b non quant on almost all coding benchmarks.. so... Q2 and q1 are not nearly as good but q4 27b is nearly as good as the full thing."
-          },
-          {
-            "author": "/u/Temporary-Roof2867",
-            "timestamp": "2026-04-11 06:10 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "I was lucky enough to get a full RAM upgrade when it was cheap! 128 GB of RAM! The MoE models are amazing!"
+            "summary": "MOEs are great for bandwidth constrained scenarios, such as an IGPU. Often you have a lot of RAM / GTT but you have very low bandwidth. A dense model runs at like 2 to 6 TPS while..."
           }
         ],
         "model": "heuristic-fallback"
@@ -528,13 +707,167 @@
       "link": "https://www.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
       "author": "/u/Additional_Wish_3619",
       "summary": "Benchmark/result: ATLAS, a frozen Qwen3-14B-Q4_K_M running on a single RTX 5060 Ti scored 74.6% pass@1-v(k=3) on On LiveCodeBench v5, which in a way beats Claude 4.5 Sonnet (71.4%). Pass@1-v(k=3) meaning one solution submitted per task, generated via best-of-3 candidates plus Lens selection plus iterative repair on failures.",
-      "comments_summary": "",
-      "comment_analysis": {},
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under... | Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:52 GMT+8: post=mixed, author=mixed \u2014 That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs... | 2026-04-11 10:29 GMT+8: post=mixed, author=mixed \u2014 Sonnet is not frontier. Opus is. Big difference. | 2026-04-11 12:09 GMT+8: post=mixed, author=mixed \u2014 Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and...",
+      "comment_analysis": {
+        "summary": "The comment section is split between positive and concerned. Top reactions focus on That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under... | Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint..",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/Additional_Wish_3619",
+            "timestamp": "2026-04-11 07:52 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "That cool project I found works just as well as some frontier models. Except it\u2019s $0.004 per task, and runs on a personal computer under $650-$700."
+          },
+          {
+            "author": "/u/Loose_Object_8311",
+            "timestamp": "2026-04-11 10:29 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Sonnet is not frontier. Opus is. Big difference."
+          },
+          {
+            "author": "/u/Additional_Wish_3619",
+            "timestamp": "2026-04-11 12:09 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Okay, well close to frontier performance! Still think the performance is quite impressive for a 9B model and overall compute constraint."
+          },
+          {
+            "author": "/u/babige",
+            "timestamp": "2026-04-11 12:44 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Not really as a swe I can't even use sonnet it's garbage for anything outside small tasks, opus is far superior for mid large tasks that I need to be 95% complete."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
       "score": 4,
       "timestamp": "2026-04-10T21:46:55+00:00",
       "timestamp_human": "2026-04-11 05:46 GMT+8",
       "subreddit": "llmdevs",
       "old_reddit_link": "https://old.reddit.com/r/LLMDevs/comments/1si09nq/how_a_500_gpu_beat_claude_sonnet_on_a_coding/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "$3000: What GPU for my use case? Will my setup work? Dedicated machine instead?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1si7l6l/3000_what_gpu_for_my_use_case_will_my_setup_work/",
+      "author": "/u/CrayCJ",
+      "summary": "Summary: My PC has the following specs: GPU \u2013 to be replaced, see below* AMD Radeon RX 5700 XT, 8GB (Powercolor Red Devil) CPU AMD Ryzen 5 3600X, 3.8 GHz, 6-core RAM 2x 8GB, 3600 MHz, DDR4 (G.Skill Trident) Motherboard MSI B450 Gaming Pro Carbon AC Power supply Corsair HX 750 Platinum Storage 1TB \u2013 Adata SX8200 Operating...",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to... | Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 -.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 11:43 GMT+8: post=mixed, author=mixed \u2014 if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will... | 2026-04-11 12:15 GMT+8: post=mixed, author=mixed \u2014 Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I...",
+      "comment_analysis": {
+        "summary": "The comment section is split between positive and concerned. Top reactions focus on if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to... | Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 -....",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/Puzzleheaded_Base302",
+            "timestamp": "2026-04-11 11:43 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "if you plan to spend $3000 on GPU. I would recommend RTX PRO 4500 32GB Blackwell (not Ada Lovelace). It will run qwen3.5-27@q4 with up to 115K context length on LM Studio..."
+          },
+          {
+            "author": "/u/CrayCJ",
+            "timestamp": "2026-04-11 12:15 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Thank you for your real quick (!) and comprehensive answer! Greatly appreciated, also the buying warning! I will consider RTX PRO 4500 - what you say regarding the xx90s seem to..."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T03:08:57+00:00",
+      "timestamp_human": "2026-04-11 11:08 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1si7l6l/3000_what_gpu_for_my_use_case_will_my_setup_work/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "This is my framework. There are many like it but this one is mine: Ways and attention for Claude.",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1si2shk/this_is_my_framework_there_are_many_like_it_but/",
+      "author": "/u/aaronsb",
+      "summary": "Summary: There are many like it but this one is mine: Ways and attention for Claude.] https://github.com/aaronsb/agent-ways (https://github.com/aaronsb/agent-ways) Just been working on it - got a fun agent loop working with the monitor tool (https://code.claude.com/docs/en/tools-reference#monitor-tool) in Claude Code.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between positive and concerned. Top reactions focus on This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to... | I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 08:45 GMT+8: post=mixed, author=mixed \u2014 This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what... | 2026-04-11 09:09 GMT+8: post=mixed, author=mixed \u2014 I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English)... | 2026-04-11 09:15 GMT+8: post=mixed, author=mixed \u2014 That is ridiculously clean. `paraphrase-multilingual-MiniLM-L12-v2` quantized to Q8_0 running via `llama.cpp`...",
+      "comment_analysis": {
+        "summary": "The comment section is split between positive and concerned. Top reactions focus on This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to... | I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or....",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/ekkOStech",
+            "timestamp": "2026-04-11 08:45 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "This CLI architecture is beautiful. The `ways` cognitive steering and `attend` peer messaging is exactly what multi-agent systems need to break out of single-session amnesia. I\u2019ve..."
+          },
+          {
+            "author": "/u/aaronsb",
+            "timestamp": "2026-04-11 09:09 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I have a custom executor based on llama.cpp that runs either all-MiniLM-L6-v2 Q5_K_M for EN (English) matching or paraphrase-multilingual-MiniLM-L12-v2 Q8_0 for INTL support (many..."
+          },
+          {
+            "author": "/u/ekkOStech",
+            "timestamp": "2026-04-11 09:15 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "That is ridiculously clean. `paraphrase-multilingual-MiniLM-L12-v2` quantized to Q8_0 running via `llama.cpp` is the perfect balance of latency, cross-lingual capability, and..."
+          },
+          {
+            "author": "/u/aaronsb",
+            "timestamp": "2026-04-11 09:59 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "ways that are project scope go with the git repo. ways that are user/dev/human scoped go with the human. user scoped ways are git managed. ways have governance traceability to..."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-10T23:31:15+00:00",
+      "timestamp_human": "2026-04-11 07:31 GMT+8",
+      "subreddit": "ClaudeCode",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeCode/comments/1si2shk/this_is_my_framework_there_are_many_like_it_but/",
+      "profile_relevance_score": 4
+    },
+    {
+      "title": "TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...",
+      "link": "https://www.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
+      "author": "/u/trailbaseio",
+      "summary": "Summary: [Image: TrailBase 0.26: Fast, open, single-executable Firebase alternative now with multi-factor, ...] TrailBase (https://github.com/trailbaseio/trailbase) is an open, fast (https://trailbase.io/reference/benchmarks) Firebase-like server for building apps. It provides type-safe REST APIs + change subscriptions, auth,...",
+      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-11 07:05 GMT+8: post=mixed, author=mixed \u2014 Expand the replies to this comment to learn how AI was used in this post/project | 2026-04-11 12:04 GMT+8: post=mixed, author=mixed \u2014 Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?",
+      "comment_analysis": {
+        "summary": "Top reactions focus on Expand the replies to this comment to learn how AI was used in this post/project | Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/asimovs-auditor",
+            "timestamp": "2026-04-11 07:05 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Expand the replies to this comment to learn how AI was used in this post/project"
+          },
+          {
+            "author": "/u/Traditional_Wafer_20",
+            "timestamp": "2026-04-11 12:04 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Oh thank you ! Let me rephrase it for you: what it is the vision and how does it differs from other projects ?"
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-10T23:05:33+00:00",
+      "timestamp_human": "2026-04-11 07:05 GMT+8",
+      "subreddit": "selfhosted",
+      "old_reddit_link": "https://old.reddit.com/r/selfhosted/comments/1si26sx/trailbase_026_fast_open_singleexecutable_firebase/",
       "profile_relevance_score": 4
     }
   ]
