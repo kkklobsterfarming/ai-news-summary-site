@@ -1,16 +1,41 @@
 {
-  "generated_at_iso": "2026-04-12T00:55:37.580098+08:00",
-  "generated_at": "2026-04-12T00:55:37.580098+08:00",
-  "generated_at_human": "2026-04-12 00:55 GMT+8",
+  "generated_at_iso": "2026-04-12T06:55:45.702199+08:00",
+  "generated_at": "2026-04-12T06:55:45.702199+08:00",
+  "generated_at_human": "2026-04-12 06:55 GMT+8",
   "site_title": "AI News Summary",
   "site_url": "https://kkklobsterfarming.github.io/ai-news-summary-site/",
   "repo_url": "https://github.com/kkklobsterfarming/ai-news-summary-site",
-  "file": "summary_2026-04-12_00-55.md",
+  "file": "summary_2026-04-12_06-55.md",
   "changes": [
     {
-      "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+      "title": "how to allow Hermes to send images to the Open WebUI interface?",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1siqp1y/how_to_allow_hermes_to_send_images_to_the_open/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Speculative decoding in llama.cpp for Gemma 4 31B IT / Qwen 3.5 27B?",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1sitlcj/speculative_decoding_in_llamacpp_for_gemma_4_31b/",
       "subreddit": "LocalLLaMA"
+    },
+    {
+      "title": "I built an MCP server that lets Claude query 200GB CSV files in under a second",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1sivbs2/i_built_an_mcp_server_that_lets_claude_query/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Built a \"native\" desktop and mobile client app for OUI",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1siqo5w/built_a_native_desktop_and_mobile_client_app_for/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "Response streaming randomly stops on mobile (PWA)",
+      "link": "https://old.reddit.com/r/OpenWebUI/comments/1siqnt2/response_streaming_randomly_stops_on_mobile_pwa/",
+      "subreddit": "OpenWebUI"
+    },
+    {
+      "title": "what happened to the floating pop-out window?",
+      "link": "https://old.reddit.com/r/codex/comments/1siuztb/what_happened_to_the_floating_popout_window/",
+      "subreddit": "Codex"
     }
   ],
   "sections": [
@@ -24,23 +49,66 @@
       "display_name": "LocalLLaMA",
       "posts": [
         {
-          "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
-          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
-          "author": "/u/LocalLLaMa_reader",
-          "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
-          "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:42 GMT+8: post=mixed, author=mixed \u2014 My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But... | 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:38 GMT+8: post=mixed, author=mixed \u2014 Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in...",
+          "title": "Speculative decoding in llama.cpp for Gemma 4 31B IT / Qwen 3.5 27B?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sitlcj/speculative_decoding_in_llamacpp_for_gemma_4_31b/",
+          "author": "/u/No_Algae1753",
+          "summary": "Summary: Has anyone here tested speculative decoding in llama.cpp with Gemma 4 31B IT or Qwen 3.5 27B? For Gemma, I was thinking about using a smaller same-family draft model.",
+          "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on... | It's very impressive, what is the maximum context length you can manage with this setup?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 04:43 GMT+8: post=mixed, author=mixed \u2014 I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090... | 2026-04-12 04:54 GMT+8: post=mixed, author=mixed \u2014 It's very impressive, what is the maximum context length you can manage with this setup? | 2026-04-12 05:00 GMT+8: post=mixed, author=mixed \u2014 128k context when main model KV cache is unquantized and draft model cache is Q8. I assume if I set both to...",
           "comment_analysis": {
-            "summary": "The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that....",
+            "summary": "The comment section is split between critical and positive. Top reactions focus on I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on... | It's very impressive, what is the maximum context length you can manage with this setup?.",
             "overall_sentiment_toward_post": "mixed",
             "overall_sentiment_toward_author": "mixed",
             "reply_threads": [
               {
-                "author": "/u/Rim_smokey",
-                "timestamp": "2026-04-12 00:42 GMT+8",
+                "author": "/u/finevelyn",
+                "timestamp": "2026-04-12 04:43 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also faster and less resource intensive. It's..."
+                "summary": "I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on both (using llama.cpp with --fit-target..."
               },
+              {
+                "author": "/u/Adventurous-Paper566",
+                "timestamp": "2026-04-12 04:54 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "It's very impressive, what is the maximum context length you can manage with this setup?"
+              },
+              {
+                "author": "/u/finevelyn",
+                "timestamp": "2026-04-12 05:00 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "128k context when main model KV cache is unquantized and draft model cache is Q8. I assume if I set both to Q8, I could use the full context size, but haven't had any reason to..."
+              },
+              {
+                "author": "/u/oxygen_addiction",
+                "timestamp": "2026-04-12 06:36 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Have you played around with Qwen 27B on the same setup?"
+              }
+            ],
+            "model": "heuristic-fallback-empty-response",
+            "minimax_error": "empty_text_response"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T20:12:29+00:00",
+          "timestamp_human": "2026-04-12 04:12 GMT+8",
+          "subreddit": "LocalLLaMA",
+          "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sitlcj/speculative_decoding_in_llamacpp_for_gemma_4_31b/",
+          "profile_relevance_score": 8
+        },
+        {
+          "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
+          "author": "/u/LocalLLaMa_reader",
+          "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
+          "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is split between positive and skeptical. Top reactions focus on the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that... | It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:52 GMT+8: post=mixed, author=mixed \u2014 It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE... | 2026-04-12 00:55 GMT+8: post=mixed, author=mixed \u2014 fully agree, and of course, but why train an 80B MoE if you could have trained a 15B dense? Not a rhethorical...",
+          "comment_analysis": {
+            "summary": "The comment section is split between positive and skeptical. Top reactions focus on the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that... | It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the....",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
               {
                 "author": "/u/MaybeIWasTheBot",
                 "timestamp": "2026-04-12 00:43 GMT+8",
@@ -49,29 +117,37 @@
                 "summary": "the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that of dense models. the initial issue with..."
               },
               {
-                "author": "/u/jacek2023",
-                "timestamp": "2026-04-12 00:38 GMT+8",
+                "author": "/u/Mashic",
+                "timestamp": "2026-04-12 00:52 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in the final calculation. 26B A4B means that the model has 26B parameters..."
+                "summary": "It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the same result while being 8 times cheaper..."
               },
               {
-                "author": "/u/Minute_Attempt3063",
-                "timestamp": "2026-04-12 00:44 GMT+8",
+                "author": "/u/LocalLLaMa_reader",
+                "timestamp": "2026-04-12 00:55 GMT+8",
                 "sentiment_toward_post": "mixed",
                 "sentiment_toward_author": "mixed",
-                "summary": "I think they both have uses. Depending on the situation, dense is better, and vice versa"
+                "summary": "fully agree, and of course, but why train an 80B MoE if you could have trained a 15B dense? Not a rhethorical question, genuinely curious..."
+              },
+              {
+                "author": "/u/yensteel",
+                "timestamp": "2026-04-12 00:59 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Then it loses the knowledge for it to reference. The most knowledge, the more flexible it is in accomplishing your task. The model size gives it capability in more programming..."
               }
             ],
-            "model": "heuristic-fallback-timeout",
-            "minimax_error": "timeout"
+            "model": "heuristic-fallback-bad-json",
+            "minimax_error": "bad_json:Expecting value",
+            "minimax_raw_output": "```json { \"summary\": \"Commenters provide technical and economic context for the dense vs. MoE tradeoff in coding models. The consensus leans toward MoE being a practical choice despite dense models sometimes achieving higher accuracy, due to VRAM constraints and serving costs. One commenter raises..."
           },
           "score": null,
           "timestamp": "2026-04-11T16:32:42+00:00",
           "timestamp_human": "2026-04-12 00:32 GMT+8",
           "subreddit": "LocalLLaMA",
           "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
-          "profile_relevance_score": 9
+          "profile_relevance_score": 7
         }
       ]
     },
@@ -83,7 +159,114 @@
     {
       "subreddit": "OpenWebUI",
       "display_name": "Open WebUI",
-      "posts": []
+      "posts": [
+        {
+          "title": "how to allow Hermes to send images to the Open WebUI interface?",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqp1y/how_to_allow_hermes_to_send_images_to_the_open/",
+          "author": "/u/arm2armreddit",
+          "summary": "Summary: Is there any way to allow Hermes to send images to the Open WebUI interface? According to these docs, there is no info on an image generator: https://docs.openwebui.com/getting-started/quick-start/connect-an-agent/hermes-agent/ (https://docs.openwebui.com/getting-started/quick-start/connect-an-agent/hermes-agent/) I...",
+          "comments_summary": "Community reaction (heuristic-fallback-timeout): Top reactions focus on I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 04:26 GMT+8: post=mixed, author=mixed \u2014 I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?",
+          "comment_analysis": {
+            "summary": "Top reactions focus on I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?.",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/jinnyjuice",
+                "timestamp": "2026-04-12 04:26 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?"
+              }
+            ],
+            "model": "heuristic-fallback-timeout",
+            "minimax_error": "timeout"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T18:22:37+00:00",
+          "timestamp_human": "2026-04-12 02:22 GMT+8",
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqp1y/how_to_allow_hermes_to_send_images_to_the_open/",
+          "profile_relevance_score": 12
+        },
+        {
+          "title": "Built a \"native\" desktop and mobile client app for OUI",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqo5w/built_a_native_desktop_and_mobile_client_app_for/",
+          "author": "/u/homeschooldev",
+          "summary": "Project/tool: Curious to get your thoughts on it and the direction to take it.",
+          "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and skeptical. Top reactions focus on I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the... | Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 02:34 GMT+8: post=mixed, author=mixed \u2014 I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I... | 2026-04-12 02:52 GMT+8: post=mixed, author=mixed \u2014 Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was... | 2026-04-12 03:17 GMT+8: post=mixed, author=mixed \u2014 PWA UX was really bad especially on mobile. Completely agree. But I'm sure you probably already know what...",
+          "comment_analysis": {
+            "summary": "The comment section is split between critical and skeptical. Top reactions focus on I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the... | Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile.....",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/sasquatch3277",
+                "timestamp": "2026-04-12 02:34 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the native PWA / browser without any..."
+              },
+              {
+                "author": "/u/homeschooldev",
+                "timestamp": "2026-04-12 02:52 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile. Also I really like the global hot key chat..."
+              },
+              {
+                "author": "/u/sasquatch3277",
+                "timestamp": "2026-04-12 03:17 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "PWA UX was really bad especially on mobile. Completely agree. But I'm sure you probably already know what you're competing with (conduit) As far as global hotkey, that's something..."
+              },
+              {
+                "author": "/u/cogwheel0",
+                "timestamp": "2026-04-12 05:05 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Conduit has widgets for both Android and iOS! On Android you can even set it as your default voice assistant which can be triggered with long pressing your power button. :)"
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T18:21:43+00:00",
+          "timestamp_human": "2026-04-12 02:21 GMT+8",
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqo5w/built_a_native_desktop_and_mobile_client_app_for/",
+          "profile_relevance_score": 5
+        },
+        {
+          "title": "Response streaming randomly stops on mobile (PWA)",
+          "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqnt2/response_streaming_randomly_stops_on_mobile_pwa/",
+          "author": "/u/sasquatch3277",
+          "summary": "Summary: considering opening a github issue During CoT/reasoning, inference just stops. Then if I refreshing the page, the entire response is visible.",
+          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 05:54 GMT+8: post=mixed, author=mixed \u2014 Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying.",
+          "comment_analysis": {
+            "summary": "Top reactions focus on Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying..",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/Sukkii",
+                "timestamp": "2026-04-12 05:54 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying."
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T18:21:20+00:00",
+          "timestamp_human": "2026-04-12 02:21 GMT+8",
+          "subreddit": "OpenWebUI",
+          "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqnt2/response_streaming_randomly_stops_on_mobile_pwa/",
+          "profile_relevance_score": 5
+        }
+      ]
     },
     {
       "subreddit": "selfhosted",
@@ -93,7 +276,59 @@
     {
       "subreddit": "ClaudeAI",
       "display_name": "Claude",
-      "posts": []
+      "posts": [
+        {
+          "title": "I built an MCP server that lets Claude query 200GB CSV files in under a second",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1sivbs2/i_built_an_mcp_server_that_lets_claude_query/",
+          "author": "/u/melihbirim",
+          "summary": "Project/tool: I was trying to use Claude to analyze a large CSV file via MCP. The setup worked but the query speed was killing the experience \u2014 waiting 3-4 seconds between each Claude query made the whole workflow feel broken.",
+          "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is mostly positive. Top reactions focus on Does this require uploading the csv? Not following how the file gets to Claude or the db. | This is impressive. How does it compare to csvkit and other cli solutions that already exist?. Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-12 05:51 GMT+8: post=mixed, author=mixed \u2014 Does this require uploading the csv? Not following how the file gets to Claude or the db. | 2026-04-12 05:58 GMT+8: post=mixed, author=mixed \u2014 This is impressive. How does it compare to csvkit and other cli solutions that already exist? | 2026-04-12 06:05 GMT+8: post=mixed, author=mixed \u2014 My first reaction: impossible, even reading 200GB in a second is unrealistic on normal hardware. Then I areas...",
+          "comment_analysis": {
+            "summary": "The comment section is mostly positive. Top reactions focus on Does this require uploading the csv? Not following how the file gets to Claude or the db. | This is impressive. How does it compare to csvkit and other cli solutions that already exist?.",
+            "overall_sentiment_toward_post": "positive",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/this_for_loona",
+                "timestamp": "2026-04-12 05:51 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Does this require uploading the csv? Not following how the file gets to Claude or the db."
+              },
+              {
+                "author": "/u/leogodin217",
+                "timestamp": "2026-04-12 05:58 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "This is impressive. How does it compare to csvkit and other cli solutions that already exist?"
+              },
+              {
+                "author": "/u/yldf",
+                "timestamp": "2026-04-12 06:05 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "My first reaction: impossible, even reading 200GB in a second is unrealistic on normal hardware. Then I areas the post, and you essentially build something that indexes the csv..."
+              },
+              {
+                "author": "/u/InterstellarReddit",
+                "timestamp": "2026-04-12 06:53 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "It is impossible, you cannot query a 200 GB file in less than one second. OP is overselling the benefits of this MCP hoping that people install it and forget it or star it for..."
+              }
+            ],
+            "model": "heuristic-fallback-bad-json",
+            "minimax_error": "bad_json:Expecting value",
+            "minimax_raw_output": "```json { \"summary\": \"Commenters are impressed by the MCP server's concept but skeptical of the 'under a second' claim. Most readers understand the solution likely involves indexing the CSV into a database for SQL queries rather than truly reading 200GB in under a second. Reactions range from..."
+          },
+          "score": null,
+          "timestamp": "2026-04-11T21:21:37+00:00",
+          "timestamp_human": "2026-04-12 05:21 GMT+8",
+          "subreddit": "ClaudeAI",
+          "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sivbs2/i_built_an_mcp_server_that_lets_claude_query/",
+          "profile_relevance_score": 7
+        }
+      ]
     },
     {
       "subreddit": "ClaudeCode",
@@ -103,28 +338,180 @@
     {
       "subreddit": "Codex",
       "display_name": "Codex",
-      "posts": []
+      "posts": [
+        {
+          "title": "what happened to the floating pop-out window?",
+          "link": "https://www.reddit.com/r/codex/comments/1siuztb/what_happened_to_the_floating_popout_window/",
+          "author": "/u/BenM0",
+          "summary": "Project/tool: They first removed the ability to open multiple windows, and then I believe they completely removed it?",
+          "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Just click on the openai icon in the system tray or right click and select it. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 05:14 GMT+8: post=mixed, author=mixed \u2014 Just click on the openai icon in the system tray or right click and select it",
+          "comment_analysis": {
+            "summary": "Top reactions focus on Just click on the openai icon in the system tray or right click and select it.",
+            "overall_sentiment_toward_post": "mixed",
+            "overall_sentiment_toward_author": "mixed",
+            "reply_threads": [
+              {
+                "author": "/u/MK_L",
+                "timestamp": "2026-04-12 05:14 GMT+8",
+                "sentiment_toward_post": "mixed",
+                "sentiment_toward_author": "mixed",
+                "summary": "Just click on the openai icon in the system tray or right click and select it"
+              }
+            ],
+            "model": "heuristic-fallback"
+          },
+          "score": null,
+          "timestamp": "2026-04-11T21:07:43+00:00",
+          "timestamp_human": "2026-04-12 05:07 GMT+8",
+          "subreddit": "Codex",
+          "old_reddit_link": "https://old.reddit.com/r/codex/comments/1siuztb/what_happened_to_the_floating_popout_window/",
+          "profile_relevance_score": 5
+        }
+      ]
     }
   ],
   "all_posts": [
+    {
+      "title": "how to allow Hermes to send images to the Open WebUI interface?",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqp1y/how_to_allow_hermes_to_send_images_to_the_open/",
+      "author": "/u/arm2armreddit",
+      "summary": "Summary: Is there any way to allow Hermes to send images to the Open WebUI interface? According to these docs, there is no info on an image generator: https://docs.openwebui.com/getting-started/quick-start/connect-an-agent/hermes-agent/ (https://docs.openwebui.com/getting-started/quick-start/connect-an-agent/hermes-agent/) I...",
+      "comments_summary": "Community reaction (heuristic-fallback-timeout): Top reactions focus on I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 04:26 GMT+8: post=mixed, author=mixed \u2014 I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?",
+      "comment_analysis": {
+        "summary": "Top reactions focus on I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/jinnyjuice",
+            "timestamp": "2026-04-12 04:26 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I believe Hermes is text-only model. Also, are you trying to create/edit or read images using Open WebUI?"
+          }
+        ],
+        "model": "heuristic-fallback-timeout",
+        "minimax_error": "timeout"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T18:22:37+00:00",
+      "timestamp_human": "2026-04-12 02:22 GMT+8",
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqp1y/how_to_allow_hermes_to_send_images_to_the_open/",
+      "profile_relevance_score": 12
+    },
+    {
+      "title": "Speculative decoding in llama.cpp for Gemma 4 31B IT / Qwen 3.5 27B?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sitlcj/speculative_decoding_in_llamacpp_for_gemma_4_31b/",
+      "author": "/u/No_Algae1753",
+      "summary": "Summary: Has anyone here tested speculative decoding in llama.cpp with Gemma 4 31B IT or Qwen 3.5 27B? For Gemma, I was thinking about using a smaller same-family draft model.",
+      "comments_summary": "Community reaction (heuristic-fallback-empty-response): The comment section is split between critical and positive. Top reactions focus on I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on... | It's very impressive, what is the maximum context length you can manage with this setup?. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 04:43 GMT+8: post=mixed, author=mixed \u2014 I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090... | 2026-04-12 04:54 GMT+8: post=mixed, author=mixed \u2014 It's very impressive, what is the maximum context length you can manage with this setup? | 2026-04-12 05:00 GMT+8: post=mixed, author=mixed \u2014 128k context when main model KV cache is unquantized and draft model cache is Q8. I assume if I set both to...",
+      "comment_analysis": {
+        "summary": "The comment section is split between critical and positive. Top reactions focus on I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on... | It's very impressive, what is the maximum context length you can manage with this setup?.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/finevelyn",
+            "timestamp": "2026-04-12 04:43 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I have 5090+5070ti and am using Gemma 4 E2B Q6 as the draft model for 31B Q6. The draft model is on the 5090 and the main model is split on both (using llama.cpp with --fit-target..."
+          },
+          {
+            "author": "/u/Adventurous-Paper566",
+            "timestamp": "2026-04-12 04:54 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "It's very impressive, what is the maximum context length you can manage with this setup?"
+          },
+          {
+            "author": "/u/finevelyn",
+            "timestamp": "2026-04-12 05:00 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "128k context when main model KV cache is unquantized and draft model cache is Q8. I assume if I set both to Q8, I could use the full context size, but haven't had any reason to..."
+          },
+          {
+            "author": "/u/oxygen_addiction",
+            "timestamp": "2026-04-12 06:36 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Have you played around with Qwen 27B on the same setup?"
+          }
+        ],
+        "model": "heuristic-fallback-empty-response",
+        "minimax_error": "empty_text_response"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T20:12:29+00:00",
+      "timestamp_human": "2026-04-12 04:12 GMT+8",
+      "subreddit": "LocalLLaMA",
+      "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sitlcj/speculative_decoding_in_llamacpp_for_gemma_4_31b/",
+      "profile_relevance_score": 8
+    },
+    {
+      "title": "I built an MCP server that lets Claude query 200GB CSV files in under a second",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1sivbs2/i_built_an_mcp_server_that_lets_claude_query/",
+      "author": "/u/melihbirim",
+      "summary": "Project/tool: I was trying to use Claude to analyze a large CSV file via MCP. The setup worked but the query speed was killing the experience \u2014 waiting 3-4 seconds between each Claude query made the whole workflow feel broken.",
+      "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is mostly positive. Top reactions focus on Does this require uploading the csv? Not following how the file gets to Claude or the db. | This is impressive. How does it compare to csvkit and other cli solutions that already exist?. Overall sentiment \u2014 post: positive; author: mixed. Reply threads: 2026-04-12 05:51 GMT+8: post=mixed, author=mixed \u2014 Does this require uploading the csv? Not following how the file gets to Claude or the db. | 2026-04-12 05:58 GMT+8: post=mixed, author=mixed \u2014 This is impressive. How does it compare to csvkit and other cli solutions that already exist? | 2026-04-12 06:05 GMT+8: post=mixed, author=mixed \u2014 My first reaction: impossible, even reading 200GB in a second is unrealistic on normal hardware. Then I areas...",
+      "comment_analysis": {
+        "summary": "The comment section is mostly positive. Top reactions focus on Does this require uploading the csv? Not following how the file gets to Claude or the db. | This is impressive. How does it compare to csvkit and other cli solutions that already exist?.",
+        "overall_sentiment_toward_post": "positive",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/this_for_loona",
+            "timestamp": "2026-04-12 05:51 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Does this require uploading the csv? Not following how the file gets to Claude or the db."
+          },
+          {
+            "author": "/u/leogodin217",
+            "timestamp": "2026-04-12 05:58 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "This is impressive. How does it compare to csvkit and other cli solutions that already exist?"
+          },
+          {
+            "author": "/u/yldf",
+            "timestamp": "2026-04-12 06:05 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "My first reaction: impossible, even reading 200GB in a second is unrealistic on normal hardware. Then I areas the post, and you essentially build something that indexes the csv..."
+          },
+          {
+            "author": "/u/InterstellarReddit",
+            "timestamp": "2026-04-12 06:53 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "It is impossible, you cannot query a 200 GB file in less than one second. OP is overselling the benefits of this MCP hoping that people install it and forget it or star it for..."
+          }
+        ],
+        "model": "heuristic-fallback-bad-json",
+        "minimax_error": "bad_json:Expecting value",
+        "minimax_raw_output": "```json { \"summary\": \"Commenters are impressed by the MCP server's concept but skeptical of the 'under a second' claim. Most readers understand the solution likely involves indexing the CSV into a database for SQL queries rather than truly reading 200GB in under a second. Reactions range from..."
+      },
+      "score": null,
+      "timestamp": "2026-04-11T21:21:37+00:00",
+      "timestamp_human": "2026-04-12 05:21 GMT+8",
+      "subreddit": "ClaudeAI",
+      "old_reddit_link": "https://old.reddit.com/r/ClaudeAI/comments/1sivbs2/i_built_an_mcp_server_that_lets_claude_query/",
+      "profile_relevance_score": 7
+    },
     {
       "title": "If Dense Models are better for Coding, why are Qwen-Coders MoE?",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
       "author": "/u/LocalLLaMa_reader",
       "summary": "Discussion: Hi all, have been reading here for over two years and finally have a question I can't find an answer to. Qwen 3.5 27B and Gemma 4 31B have been the latest examples of dense models performing much more accurately and in general tasks requiring higher precision, where vast knowledge isn't of highest priority.",
-      "comments_summary": "Community reaction (heuristic-fallback-timeout): The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:42 GMT+8: post=mixed, author=mixed \u2014 My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But... | 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:38 GMT+8: post=mixed, author=mixed \u2014 Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in...",
+      "comments_summary": "Community reaction (heuristic-fallback-bad-json): The comment section is split between positive and skeptical. Top reactions focus on the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that... | It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the.... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 00:43 GMT+8: post=mixed, author=mixed \u2014 the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while... | 2026-04-12 00:52 GMT+8: post=mixed, author=mixed \u2014 It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE... | 2026-04-12 00:55 GMT+8: post=mixed, author=mixed \u2014 fully agree, and of course, but why train an 80B MoE if you could have trained a 15B dense? Not a rhethorical...",
       "comment_analysis": {
-        "summary": "The comment section is split between positive and skeptical. Top reactions focus on My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also... | the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that....",
+        "summary": "The comment section is split between positive and skeptical. Top reactions focus on the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that... | It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the....",
         "overall_sentiment_toward_post": "mixed",
         "overall_sentiment_toward_author": "mixed",
         "reply_threads": [
-          {
-            "author": "/u/Rim_smokey",
-            "timestamp": "2026-04-12 00:42 GMT+8",
-            "sentiment_toward_post": "mixed",
-            "sentiment_toward_author": "mixed",
-            "summary": "My Qwen3.5 35B-A3B solves bugs more reliably than the 27B dense. Don't ask why. I don't get it either. But it's consistent. It's also faster and less resource intensive. It's..."
-          },
           {
             "author": "/u/MaybeIWasTheBot",
             "timestamp": "2026-04-12 00:43 GMT+8",
@@ -133,29 +520,142 @@
             "summary": "the reason is almost purely economical. MoE models are cheaper and faster to both train and serve, while achieving results similar to that of dense models. the initial issue with..."
           },
           {
-            "author": "/u/jacek2023",
-            "timestamp": "2026-04-12 00:38 GMT+8",
+            "author": "/u/Mashic",
+            "timestamp": "2026-04-12 00:52 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "Dense and MoE are different architectures. 27B dense means that at each step, all 27B parameters are used in the final calculation. 26B A4B means that the model has 26B parameters..."
+            "summary": "It will take much more time and energy to run inference on an 80B dense parameter model than 80B-A10B MoE one. If you can get 95% of the same result while being 8 times cheaper..."
           },
           {
-            "author": "/u/Minute_Attempt3063",
-            "timestamp": "2026-04-12 00:44 GMT+8",
+            "author": "/u/LocalLLaMa_reader",
+            "timestamp": "2026-04-12 00:55 GMT+8",
             "sentiment_toward_post": "mixed",
             "sentiment_toward_author": "mixed",
-            "summary": "I think they both have uses. Depending on the situation, dense is better, and vice versa"
+            "summary": "fully agree, and of course, but why train an 80B MoE if you could have trained a 15B dense? Not a rhethorical question, genuinely curious..."
+          },
+          {
+            "author": "/u/yensteel",
+            "timestamp": "2026-04-12 00:59 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Then it loses the knowledge for it to reference. The most knowledge, the more flexible it is in accomplishing your task. The model size gives it capability in more programming..."
           }
         ],
-        "model": "heuristic-fallback-timeout",
-        "minimax_error": "timeout"
+        "model": "heuristic-fallback-bad-json",
+        "minimax_error": "bad_json:Expecting value",
+        "minimax_raw_output": "```json { \"summary\": \"Commenters provide technical and economic context for the dense vs. MoE tradeoff in coding models. The consensus leans toward MoE being a practical choice despite dense models sometimes achieving higher accuracy, due to VRAM constraints and serving costs. One commenter raises..."
       },
       "score": null,
       "timestamp": "2026-04-11T16:32:42+00:00",
       "timestamp_human": "2026-04-12 00:32 GMT+8",
       "subreddit": "LocalLLaMA",
       "old_reddit_link": "https://old.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/",
-      "profile_relevance_score": 9
+      "profile_relevance_score": 7
+    },
+    {
+      "title": "Built a \"native\" desktop and mobile client app for OUI",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqo5w/built_a_native_desktop_and_mobile_client_app_for/",
+      "author": "/u/homeschooldev",
+      "summary": "Project/tool: Curious to get your thoughts on it and the direction to take it.",
+      "comments_summary": "Community reaction (heuristic-fallback): The comment section is split between critical and skeptical. Top reactions focus on I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the... | Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile..... Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 02:34 GMT+8: post=mixed, author=mixed \u2014 I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I... | 2026-04-12 02:52 GMT+8: post=mixed, author=mixed \u2014 Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was... | 2026-04-12 03:17 GMT+8: post=mixed, author=mixed \u2014 PWA UX was really bad especially on mobile. Completely agree. But I'm sure you probably already know what...",
+      "comment_analysis": {
+        "summary": "The comment section is split between critical and skeptical. Top reactions focus on I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the... | Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile.....",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/sasquatch3277",
+            "timestamp": "2026-04-12 02:34 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "I'd rather not use this or conduit. It's got to do with trust. One vibe coded stack is enough for me... I legit would way rather use the native PWA / browser without any..."
+          },
+          {
+            "author": "/u/homeschooldev",
+            "timestamp": "2026-04-12 02:52 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Fair enough. The main reason for building the electron app over using the PWA for me was the PWA UX was really bad especially on mobile. Also I really like the global hot key chat..."
+          },
+          {
+            "author": "/u/sasquatch3277",
+            "timestamp": "2026-04-12 03:17 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "PWA UX was really bad especially on mobile. Completely agree. But I'm sure you probably already know what you're competing with (conduit) As far as global hotkey, that's something..."
+          },
+          {
+            "author": "/u/cogwheel0",
+            "timestamp": "2026-04-12 05:05 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Conduit has widgets for both Android and iOS! On Android you can even set it as your default voice assistant which can be triggered with long pressing your power button. :)"
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T18:21:43+00:00",
+      "timestamp_human": "2026-04-12 02:21 GMT+8",
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqo5w/built_a_native_desktop_and_mobile_client_app_for/",
+      "profile_relevance_score": 5
+    },
+    {
+      "title": "Response streaming randomly stops on mobile (PWA)",
+      "link": "https://www.reddit.com/r/OpenWebUI/comments/1siqnt2/response_streaming_randomly_stops_on_mobile_pwa/",
+      "author": "/u/sasquatch3277",
+      "summary": "Summary: considering opening a github issue During CoT/reasoning, inference just stops. Then if I refreshing the page, the entire response is visible.",
+      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying.. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 05:54 GMT+8: post=mixed, author=mixed \u2014 Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying.",
+      "comment_analysis": {
+        "summary": "Top reactions focus on Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying..",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/Sukkii",
+            "timestamp": "2026-04-12 05:54 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Yeah I get this, chrome PWA on android. I also cannot get notifications to work, rather annoying."
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T18:21:20+00:00",
+      "timestamp_human": "2026-04-12 02:21 GMT+8",
+      "subreddit": "OpenWebUI",
+      "old_reddit_link": "https://old.reddit.com/r/OpenWebUI/comments/1siqnt2/response_streaming_randomly_stops_on_mobile_pwa/",
+      "profile_relevance_score": 5
+    },
+    {
+      "title": "what happened to the floating pop-out window?",
+      "link": "https://www.reddit.com/r/codex/comments/1siuztb/what_happened_to_the_floating_popout_window/",
+      "author": "/u/BenM0",
+      "summary": "Project/tool: They first removed the ability to open multiple windows, and then I believe they completely removed it?",
+      "comments_summary": "Community reaction (heuristic-fallback): Top reactions focus on Just click on the openai icon in the system tray or right click and select it. Overall sentiment \u2014 post: mixed; author: mixed. Reply threads: 2026-04-12 05:14 GMT+8: post=mixed, author=mixed \u2014 Just click on the openai icon in the system tray or right click and select it",
+      "comment_analysis": {
+        "summary": "Top reactions focus on Just click on the openai icon in the system tray or right click and select it.",
+        "overall_sentiment_toward_post": "mixed",
+        "overall_sentiment_toward_author": "mixed",
+        "reply_threads": [
+          {
+            "author": "/u/MK_L",
+            "timestamp": "2026-04-12 05:14 GMT+8",
+            "sentiment_toward_post": "mixed",
+            "sentiment_toward_author": "mixed",
+            "summary": "Just click on the openai icon in the system tray or right click and select it"
+          }
+        ],
+        "model": "heuristic-fallback"
+      },
+      "score": null,
+      "timestamp": "2026-04-11T21:07:43+00:00",
+      "timestamp_human": "2026-04-12 05:07 GMT+8",
+      "subreddit": "Codex",
+      "old_reddit_link": "https://old.reddit.com/r/codex/comments/1siuztb/what_happened_to_the_floating_popout_window/",
+      "profile_relevance_score": 5
     }
   ]
 }
